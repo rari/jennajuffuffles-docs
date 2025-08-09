@@ -1,6 +1,6 @@
 # Installation Guide
 
-> 📂 **Docs** / [Start](/start) / **Installation Guide**
+> 📂 **Docs** / [Start](/start.md) / **Installation Guide**
 
 **Updated for Stardew Valley 1.6.15**  
 > ✔️ Always click **Install Optional Mods**  

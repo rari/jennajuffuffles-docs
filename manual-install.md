@@ -1,6 +1,6 @@
 # Manual Installation Guide
 
-> 📂 **Docs** / [Start](/start) / **Manual Install**
+> 📂 **Docs** / [Start](/start.md) / **Manual Install**
 
 *Last updated: 2025-08-03*  
 > We recommend **Vortex Mod Manager** for most players because it automatically applies the correct configuration files, manages mod order, and makes updates easy.  

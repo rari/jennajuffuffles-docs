@@ -1,6 +1,6 @@
 # Troubleshooting
 
-> 📂 **Docs** / [Start](/start) / **Troubleshooting**
+> 📂 **Docs** / [Start](/start.md) / **Troubleshooting**
 
 If you run into issues that aren’t solved here, you can:
 - Reach out to our community on **[Discord](https://discord.gg/de2NrHXuty)** for live assistance.

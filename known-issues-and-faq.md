@@ -1,6 +1,6 @@
 # Known Issues & FAQ
 
-> 📂 **Docs** / [Start](/start) / **Known Issues & FAQ**
+> 📂 **Docs** / [Start](/start.md) / **Known Issues & FAQ**
 
 *Last updated:* 2025-08-03  
 *Applies to Stardew Valley:* **1.6.15**  
@@ -111,10 +111,10 @@ If problems occur after an update:
 
 1. In **Collections** tab, click **Remove** (the poster).  
 2. Do **not** delete mods when asked.  
-3. Reinstall into a **New Profile**.  
+3. Reinstall from the website into a **New Profile**.  
 4. Click **Deploy**.
 
-See [Install → Clean](/install/clean) for a full wipe.
+See the manual installation guide for a full wipe.
 
 ---
 
