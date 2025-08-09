@@ -80,7 +80,7 @@ If you want to play in your language, I've created language packs to help! The m
 ## 📚 Quick Links
 
 - 🚀 [Installation Guide](/install)  
-- 🛠️ [Troubleshooting](/troubleshooting)  
-- 🎮 [Keybinds](/keybinds)  
+- 🧩 [Manual Installation Guide](/manual-install)  
 - 🔀 [Combining Collections](/combining)  
-- 🧩 [Manual Install](/manual-install)  
+- 🛠️ [Troubleshooting](/troubleshooting)  
+- ❓ [Known Issues & FAQ](/known-issues-and-faq)  

@@ -128,9 +128,8 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 
 - 🌾 [Start Page](/start)  
 - 🚀 [Installation Guide](/install)  
+- 🧩 [Manual Installation Guide](/manual-install)  
+- 🔀 [Combining Collections](/combining)  
 - 🛠️ [Troubleshooting](/troubleshooting)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq)  
-- 🎮 [Keybinds](/keybinds)  
-- 🔀 [Combining Collections](/combining)  
-- 🧩 [Manual Install](/manual-install)  
 

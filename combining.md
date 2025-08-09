@@ -57,8 +57,7 @@ Always install them **into the same Vortex profile** and follow the conflict res
 
 - 🌾 [Start Page](/start)  
 - 🚀 [Installation Guide](/install)  
+- 🧩 [Manual Installation Guide](/manual-install)  
+- 🔀 [Combining Collections](/combining)  
 - 🛠️ [Troubleshooting](/troubleshooting)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq)  
-- 🎮 [Keybinds](/keybinds)  
-- 🔀 [Combining Collections](/combining)  
-- 🧩 [Manual Install](/manual-install)  

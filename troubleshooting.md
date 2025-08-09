@@ -56,8 +56,7 @@ Upload the log to [smapi.io/log](https://smapi.io/log) and share the link.
 
 - 🌾 [Start Page](/start)  
 - 🚀 [Installation Guide](/install)  
-- 🛠️ [Troubleshooting](/troubleshooting)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq)  
-- 🎮 [Keybinds](/keybinds)  
+- 🧩 [Manual Installation Guide](/manual-install)  
 - 🔀 [Combining Collections](/combining)  
-- 🧩 [Manual Install](/manual-install)
+- 🛠️ [Troubleshooting](/troubleshooting)  
+- ❓ [Known Issues & FAQ](/known-issues-and-faq)

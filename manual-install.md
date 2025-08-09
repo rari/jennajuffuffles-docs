@@ -86,9 +86,8 @@ If you wish to suppress the notice, edit the mod’s `manifest.json` and set the
 
 - 🌾 [Start Page](/start)  
 - 🚀 [Installation Guide](/install)  
+- 🧩 [Manual Installation Guide](/manual-install)  
+- 🔀 [Combining Collections](/combining)  
 - 🛠️ [Troubleshooting](/troubleshooting)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq)  
-- 🎮 [Keybinds](/keybinds)  
-- 🔀 [Combining Collections](/combining)  
-- 🧩 [Manual Install](/manual-install)  
 
