@@ -130,6 +130,7 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 - 🚀 [Installation Guide](/install)  
 - 🧩 [Manual Installation Guide](/manual-install)  
 - 🔀 [Combining Collections](/combining)  
+- 🎮 [Keybinds & Controllers](/keybinds)  
 - 🛠️ [Troubleshooting](/troubleshooting)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq)  
 

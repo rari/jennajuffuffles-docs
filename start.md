@@ -82,5 +82,6 @@ If you want to play in your language, I've created language packs to help! The m
 - 🚀 [Installation Guide](/install)  
 - 🧩 [Manual Installation Guide](/manual-install)  
 - 🔀 [Combining Collections](/combining)  
+- 🎮 [Keybinds & Controllers](/keybinds)  
 - 🛠️ [Troubleshooting](/troubleshooting)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq)  
