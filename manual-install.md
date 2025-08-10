@@ -37,8 +37,8 @@ Download the official configuration package:
 
 This page includes configurations for:
 - Stardew Valley VERY Expanded  
-- Aesthetic Valley: Fairycore  
-- Aesthetic Valley: Witchcore  
+- Aesthetic Valley | Fairycore  
+- Aesthetic Valley | Witchcore  
 - Shared configurations used across collections
 
 Unzip and merge the configuration files into the **Mods/** folders they match.  

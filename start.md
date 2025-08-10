@@ -21,10 +21,10 @@ Explore the main collection:
 
 ## ✨ Who is this for?
 
-* **Experienced players who want more content without losing the vanilla feel**
-* **New players who want a challenging, curated starting point**
-* **Mod enthusiasts looking for a reliable base to build on**
-* **Co-op groups who need matching mod setups**
+* Experienced players who want more content without losing the vanilla feel
+* New players who want a challenging, curated starting point
+* Mod enthusiasts looking for a reliable base to build on
+* Co-op groups who need matching mod setups
 
 ---
 
@@ -49,12 +49,12 @@ You may use **Stardrop**, but you will need to manually download the configurati
 
 These visual collections can be installed alongside Stardew Valley VERY Expanded in the **same Vortex profile**.
 
-### 🧚 Aesthetic Valley: Fairycore
+### 🧚 Aesthetic Valley | Fairycore
 
 A magical, woodsy fairy aesthetic layered over Stardew Valley Expanded.  
 → [Fairycore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
 
-### 🕯️ Aesthetic Valley: Witchcore
+### 🕯️ Aesthetic Valley | Witchcore
 
 A cozy, witchy cottagecore experience with a medieval tone.  
 → [Witchcore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)

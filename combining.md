@@ -16,7 +16,7 @@ Always install them **into the same Vortex profile** and follow the conflict res
 
 ---
 
-## 🌸 Aesthetic Valley: Fairycore
+## 🌸 Aesthetic Valley | Fairycore
 
 **Disable** in Vortex:
 - Seasonal Vanilla UI  
@@ -29,7 +29,7 @@ Always install them **into the same Vortex profile** and follow the conflict res
 
 ---
 
-## 🔮 Aesthetic Valley: Witchcore
+## 🔮 Aesthetic Valley | Witchcore
 
 **Disable** in Vortex:
 - Seasonal Vanilla UI  
