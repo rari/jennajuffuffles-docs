@@ -42,7 +42,7 @@ Disable Debug Mode after fixing.
 
 ## ⚙️ Missing Configurations
 
-If the collection’s configuration files do **not** apply, you may see blocked paths, missing overlays, or color mismatches.
+If the collection's configuration files do **not** apply, you may see blocked paths, missing overlays, or color mismatches.
 
 1. In **Vortex → Rules Manager**, check that configurations load ***after*** the mods they impact.  
 2. Click **Deploy**.  
@@ -89,7 +89,7 @@ patch export "Data/NPCDispositions"
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+## ❓ FAQ Highlights
 
 ### Should I update individual mods myself?
 Please wait for collection updates. Updating individual mods is not recommended.
@@ -106,10 +106,10 @@ It is recommended that all players have matching mods and configurations for co-
 ### Where to download? Is there a faster way?
 Nexus is the only official source. Premium users get one-click download. Avoid unauthorized sources to ensure updates and support mod creators.
 
-### Rusty / Sewer Key Change
+### How do I get the Rusty / Sewer Key?
 In SVVE, **Gunther no longer gives the Rusty Key**. Instead, reach 4–5 hearts with **Marlon**, who will mail it to you in a cutscene.
 
-### Community Center Cutscene Won't Trigger
+### Why won't the Community Center cutscene trigger?
 - Enter **Pelican Town from the Bus Stop**  
 - On or after **Spring 5**, between **8:00 AM–1:00 PM**  
 - On a sunny day (not a festival)  
@@ -147,5 +147,5 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 - 🔀 [Combining Collections](/combining)  
 - 🎮 [Keybinds & Controllers](/keybinds)  
 - 🛠️ [Troubleshooting](/troubleshooting)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq)  
+- ❓ [Known Issues & FAQ](/known-issues-and-faq)
 
