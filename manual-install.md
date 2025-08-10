@@ -2,7 +2,8 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Manual Install**
 
-*Last updated: 2025-08-03*  
+*Last updated:* 2025-08-09  
+*Applies to Stardew Valley:* **1.6.15+**  
 > We recommend **Vortex Mod Manager** for most players because it automatically applies the correct configuration files, manages mod order, and makes updates easy.  
 > However, if you prefer to handle installation manually, or are playing on systems without Vortex support, follow this guide.
 

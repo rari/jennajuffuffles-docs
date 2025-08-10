@@ -1,7 +1,7 @@
 # Start Here
 
-*Last updated:* 1.6.15 • *Applies to Stardew Valley:* **1.6.15**  
-*Nexus Mods Collection • Created in Vortex*
+*Last updated:* 2025-08-09  
+*Applies to Stardew Valley:* **1.6.15+**
 
 ## 🌾 What is this?
 

@@ -2,6 +2,9 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Troubleshooting**
 
+*Last updated:* 2025-08-09  
+*Applies to Stardew Valley:* **1.6.15+**
+
 ---
 
 ## **Part 1 — Vortex Profile Check** *(Only collection mods selected)*

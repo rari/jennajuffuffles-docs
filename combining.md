@@ -2,6 +2,9 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Combining Collections**
 
+*Last updated:* 2025-08-09  
+*Applies to Stardew Valley:* **1.6.15+**
+
 You can combine **Stardew Valley VERY Expanded (SVVE)** with one or both **Aesthetic Valley** collections for a custom look and feel.  
 Always install them **into the same Vortex profile** and follow the conflict resolution steps below.
 
