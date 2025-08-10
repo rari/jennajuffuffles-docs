@@ -86,10 +86,21 @@ To find internal names:
 ```bash
 patch export "Data/NPCDispositions"
 ```
+---
+
+## 🧼 Trouble After Updating
+
+Ensure all mods are Enabled in the mod panel in Vortex. 
+If problems still occur after an update:
+
+1. In **Collections** tab, click **Remove** (the poster).  
+2. Do **not** delete mods when asked.  
+3. Reinstall from the website into a **New Profile**.  
+4. Click **Deploy**.
 
 ---
 
-## ❓ FAQ Highlights
+## ❓ Frequently Asked Questions (FAQ)
 
 ### Should I update individual mods myself?
 Please wait for collection updates. Updating individual mods is not recommended.
@@ -106,30 +117,14 @@ It is recommended that all players have matching mods and configurations for co-
 ### Where to download? Is there a faster way?
 Nexus is the only official source. Premium users get one-click download. Avoid unauthorized sources to ensure updates and support mod creators.
 
-### How do I get the Rusty / Sewer Key?
-In SVVE, **Gunther no longer gives the Rusty Key**. Instead, reach 4–5 hearts with **Marlon**, who will mail it to you in a cutscene.
-
 ### Why won't the Community Center cutscene trigger?
 - Enter **Pelican Town from the Bus Stop**  
 - On or after **Spring 5**, between **8:00 AM–1:00 PM**  
 - On a sunny day (not a festival)  
 - Host must trigger in multiplayer
 
-### Rain Cancels Events & Cutscenes
-Certain events (like the Community Center) won't trigger on rainy days. Try again on a sunny day.
-
----
-
-## 🧼 After Updating
-
-If problems occur after an update:
-
-1. In **Collections** tab, click **Remove** (the poster).  
-2. Do **not** delete mods when asked.  
-3. Reinstall from the website into a **New Profile**.  
-4. Click **Deploy**.
-
-See the manual installation guide for a full wipe.
+### How do I get the Rusty / Sewer Key?
+In SVVE, **Gunther no longer gives the Rusty Key**. Instead, reach 4–5 hearts with **Marlon**, who will mail it to you in a cutscene.
 
 ---
 
