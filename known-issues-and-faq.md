@@ -89,7 +89,7 @@ patch export "Data/NPCDispositions"
 
 ---
 
-## ❓ FAQ Highlights
+## ❓ Frequently Asked Questions (FAQ)
 
 ### Should I update individual mods myself?
 Please wait for collection updates. Updating individual mods is not recommended.
