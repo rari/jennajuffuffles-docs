@@ -91,17 +91,32 @@ patch export "Data/NPCDispositions"
 
 ## ❓ FAQ Highlights
 
+### Should I update individual mods myself?
+Please wait for collection updates. Updating individual mods is not recommended.
+
+### Can I combine your collections?
+Absolutely! My Aesthetic Valley collections were designed to add a fun theme on top of Stardew Valley VERY Expanded. You can even use all three together, though you'll have to make more choices when resolving which mods to use from each. If you add mods that are not in a collection created by JennaJuffuffles, this community may not be able to offer much support.
+
+### Can I use this expansion if it's my first time playing Stardew Valley?
+Yes, you can use the expansion, even if it's your first time playing Stardew Valley. However, be aware that the collections add a lot of content and features to the game, so it may be overwhelming for first-time players. Experiencing vanilla Stardew Valley is recommended but absolutely not required.
+
+### Do all players need the collection for co-op?
+It is recommended that all players have matching mods and configurations for co-op. This may not be strictly necessary, but should lead to the best results.
+
+### Where to download? Is there a faster way?
+Nexus is the only official source. Premium users get one-click download. Avoid unauthorized sources to ensure updates and support mod creators.
+
 ### Rusty / Sewer Key Change
 In SVVE, **Gunther no longer gives the Rusty Key**. Instead, reach 4–5 hearts with **Marlon**, who will mail it to you in a cutscene.
 
-### Community Center Cutscene Won’t Trigger
+### Community Center Cutscene Won't Trigger
 - Enter **Pelican Town from the Bus Stop**  
 - On or after **Spring 5**, between **8:00 AM–1:00 PM**  
 - On a sunny day (not a festival)  
 - Host must trigger in multiplayer
 
 ### Rain Cancels Events & Cutscenes
-Certain events (like the Community Center) won’t trigger on rainy days. Try again on a sunny day.
+Certain events (like the Community Center) won't trigger on rainy days. Try again on a sunny day.
 
 ---
 
