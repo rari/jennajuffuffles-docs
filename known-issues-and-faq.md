@@ -43,8 +43,10 @@ Disable Debug Mode after fixing.
 
 The collection includes preset load order rules that should apply automatically. If Vortex shows conflict warnings, it means the load order was not applied by the collection for some reason.
 
-1. In **Vortex → Manage Rules (button)** in the Mods panel, check that configuration, compatibility, or translation files load ***after*** the mods they impact.  
+1. In **Vortex → Mods panel → Manage Rules (button)**, check that configuration, compatibility, or translation files load ***after*** the mods they impact.  
 2. Click **Deploy**.  
+
+> Do not use **Use Suggested** as this may create loops or additional conflicts.
 
 #### Minecart Blocks the Mine Entrance
 
