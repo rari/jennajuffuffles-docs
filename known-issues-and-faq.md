@@ -37,6 +37,12 @@ debug wh
 
 Disable Debug Mode after fixing.
 
+### Minecart Blocks the Mine Entrance
+
+- Toggle in GMCM: `Stardew Valley Expanded → Original Mine Entrance`.
+
+> This may be a sign that configurations were not merged properly.
+
 ---
 
 ## ⚙️ Unresolved File Conflicts (Manage Rules)
@@ -47,10 +53,6 @@ The collection includes preset load order rules that should apply automatically.
 2. Click **Deploy**.  
 
 > Do not use **Use Suggested** as this may create loops or additional conflicts.
-
-#### Minecart Blocks the Mine Entrance
-
-- Toggle in GMCM: `Stardew Valley Expanded → Original Mine Entrance`.
 
 ---
 
