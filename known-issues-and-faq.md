@@ -41,7 +41,7 @@ Disable Debug Mode after fixing.
 
 ## ⚙️ Missing Configurations
 
-The collection includes preset load order rules that should apply automatically. If you see blocked paths, missing overlays, or color mismatches, it means the configuration files didn't load properly.
+The collection includes preset load order rules that should apply automatically. If Vortex shows conflict warnings, it means the configuration files didn't load properly.
 
 1. In **Vortex → Rules Manager**, check that configurations load ***after*** the mods they impact.  
 2. Click **Deploy**.  
