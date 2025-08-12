@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Keybinds & Controllers**
 
-*Last updated:* 2025-08-09  
+*Last updated:* 2025-08-12  
 *Applies to Stardew Valley:* **1.6.15+**
 
 Keybinds can be adjusted in the **Generic Mod Configuration Menu (GMCM)** from the title screen.

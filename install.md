@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Installation Guide**
 
-*Last updated:* 2025-08-09  
+*Last updated:* 2025-08-12  
 *Applies to Stardew Valley:* **1.6.15+**  
 > ✔️ Always click **Install Optional Mods**  
 > 🗑️ Always select **Remove All** when prompted during updates  

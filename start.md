@@ -1,6 +1,6 @@
 # Start Here
 
-*Last updated:* 2025-08-09  
+*Last updated:* 2025-08-12  
 *Applies to Stardew Valley:* **1.6.15+**
 
 ## 🌾 What is this?

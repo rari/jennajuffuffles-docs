@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Combining Collections**
 
-*Last updated:* 2025-08-09  
+*Last updated:* 2025-08-12  
 *Applies to Stardew Valley:* **1.6.15+**
 
 You can combine **Stardew Valley VERY Expanded (SVVE)** with one or both **Aesthetic Valley** collections for a custom look and feel.  
