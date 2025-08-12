@@ -47,6 +47,8 @@ If the collection's configuration files do **not** apply, you may see blocked pa
 2. Click **Deploy**.  
 3. If unresolved, download and apply configs manually from [Nexus](https://www.nexusmods.com/stardewvalley/mods/20870).  
 
+**Manage Conflicts:** If you receive this warning, make sure the configuration, compatibility, or translation file is set to load after the actual mod.
+
 #### Minecart Blocks the Mine Entrance
 
 - Toggle in GMCM: `Stardew Valley Expanded → Original Mine Entrance`.
