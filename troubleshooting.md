@@ -7,6 +7,12 @@
 
 ---
 
+## 🚀 Quick Fix: Try Restarting First!
+
+Before diving into complex troubleshooting steps, **restart your computer** and try again. Many issues with Vortex, SMAPI, or the game itself can be resolved with a simple restart. This is often the fastest solution and can save you a lot of time!
+
+---
+
 ## **Part 1 — Vortex Profile Check** *(Only collection mods selected)*
 
 1. On the [Nexus Mods collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.
