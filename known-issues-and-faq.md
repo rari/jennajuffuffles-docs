@@ -24,7 +24,7 @@ Multiplayer sessions may occasionally lag or lose sync. Relaunching the game or 
 ### SMAPI Not Launching
 
 - Re-add **SMAPI** as the primary tool in Vortex Dashboard.  
-- Follow the [Install Guide](/install) → PC → SMAPI section.
+- Follow the [Install Guide](/install.md) → PC → SMAPI section.
 
 ### Stuck on 74 / 75 Introductions
 
@@ -135,11 +135,11 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 
 ## 📚 Quick Links
 
-- 🌾 [Start Page](/start)  
-- 🚀 [Installation Guide](/install)  
-- 🧩 [Manual Installation Guide](/manual-install)  
-- 🔀 [Combining Collections](/combining)  
-- 🎮 [Keybinds & Controllers](/keybinds)  
-- 🛠️ [Troubleshooting](/troubleshooting)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq)
+- 🌾 [Start Page](/start.md)  
+- 🚀 [Installation Guide](/install.md)  
+- 🧩 [Manual Installation Guide](/manual-install.md)  
+- 🔀 [Combining Collections](/combining.md)  
+- 🎮 [Keybinds & Controllers](/keybinds.md)  
+- 🛠️ [Troubleshooting](/troubleshooting.md)  
+- ❓ [Known Issues & FAQ](/known-issues-and-faq.md)
 

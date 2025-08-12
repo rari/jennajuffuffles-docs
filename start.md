@@ -41,7 +41,9 @@ Vortex is the **recommended mod manager** for this collection:
 
 All mods are downloaded by Vortex through the **Nexus API**, so mod authors receive download points.
 
-You may use **Stardrop**, but you will need to manually download the configurations and apply patches manually. Stardrop does **not** support downloading collections.
+**The Nexus App** is also able to download collections, and additional support for that application is coming soon. 
+
+> To use a third-party manager like **Stardrop**, which cannot directly download Stardew Valley collections from Nexus, you will need to manually download each mod, merge the configurations, and apply patches manually. See: [Manual Installation Guide](/manual-install) 
 
 ---
 
@@ -59,7 +61,7 @@ A magical, woodsy fairy aesthetic layered over Stardew Valley Expanded.
 A cozy, witchy cottagecore experience with a medieval tone.  
 → [Witchcore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
 
-> You can use both together, but only one "Optional Mods" should be added. See: [Combining Collections](/combining)
+> You can use both together, but only one "Optional Mods" should be added. See: [Combining Collections](/combining.md)
 
 ---
 
@@ -79,9 +81,9 @@ If you want to play in your language, I've created language packs to help! The m
 
 ## 📚 Quick Links
 
-- 🚀 [Installation Guide](/install)  
-- 🧩 [Manual Installation Guide](/manual-install)  
-- 🔀 [Combining Collections](/combining)  
-- 🎮 [Keybinds & Controllers](/keybinds)  
-- 🛠️ [Troubleshooting](/troubleshooting)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq)  
+- 🚀 [Installation Guide](/install.md)  
+- 🧩 [Manual Installation Guide](/manual-install.md)  
+- 🔀 [Combining Collections](/combining.md)  
+- 🎮 [Keybinds & Controllers](/keybinds.md)  
+- 🛠️ [Troubleshooting](/troubleshooting.md)  
+- ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  

@@ -58,10 +58,10 @@ Always install them **into the same Vortex profile** and follow the conflict res
 
 ## 📚 Quick Links
 
-- 🌾 [Start Page](/start)  
-- 🚀 [Installation Guide](/install)  
-- 🧩 [Manual Installation Guide](/manual-install)  
-- 🔀 [Combining Collections](/combining)  
-- 🎮 [Keybinds & Controllers](/keybinds)  
-- 🛠️ [Troubleshooting](/troubleshooting)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq)  
+- 🌾 [Start Page](/start.md)  
+- 🚀 [Installation Guide](/install.md)  
+- 🧩 [Manual Installation Guide](/manual-install.md)  
+- 🔀 [Combining Collections](/combining.md)  
+- 🎮 [Keybinds & Controllers](/keybinds.md)  
+- 🛠️ [Troubleshooting](/troubleshooting.md)  
+- ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
