@@ -83,7 +83,7 @@ If you wish to suppress the notice, edit the mod’s `manifest.json` and set the
 
 ---
 
-## 📚 Quick Links
+<!-- ## 📚 Quick Links
 
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
@@ -92,4 +92,7 @@ If you wish to suppress the notice, edit the mod’s `manifest.json` and set the
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
+
+
+-->
 

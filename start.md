@@ -79,7 +79,7 @@ If you want to play in your language, I've created language packs to help! The m
 
 ---
 
-## 📚 Quick Links
+<!-- ## 📚 Quick Links
 
 - 🚀 [Installation Guide](/install.md)  
 - 🧩 [Manual Installation Guide](/manual-install.md)  
@@ -87,3 +87,5 @@ If you want to play in your language, I've created language packs to help! The m
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
+
+-->

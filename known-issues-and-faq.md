@@ -142,5 +142,8 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 - 🔀 [Combining Collections](/combining.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq.md) -->
+- ❓ [Known Issues & FAQ](/known-issues-and-faq.md)
+
+
+-->
 

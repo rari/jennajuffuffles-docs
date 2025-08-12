@@ -109,7 +109,7 @@ If using **Immersive Farm 2 Remastered**, disable its Greenhouse option in GMCM.
 
 ---
 
-## 📚 Quick Links
+<!-- ## 📚 Quick Links
 
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
@@ -118,4 +118,7 @@ If using **Immersive Farm 2 Remastered**, disable its Greenhouse option in GMCM.
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
+
+
+-->
 

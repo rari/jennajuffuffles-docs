@@ -56,7 +56,7 @@ Always install them **into the same Vortex profile** and follow the conflict res
 
 ---
 
-## 📚 Quick Links
+<!-- ## 📚 Quick Links
 
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
@@ -65,3 +65,5 @@ Always install them **into the same Vortex profile** and follow the conflict res
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
+
+-->
