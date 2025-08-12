@@ -39,7 +39,7 @@ Vortex is the recommended mod manager for SVVE.
 2. Click **Open → Game Mods Folder** and delete any leftover files.
 
 ### 2. Install the Collection
-1. On the [collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add to Vortex**.
+1. On the [collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.
 2. Install into a **New Profile**.  
    > Nexus Premium users get auto-downloads. Free users follow manual prompts.
 3. Select **Install Optional Mods** when asked.

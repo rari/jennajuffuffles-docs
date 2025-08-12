@@ -9,7 +9,7 @@
 
 ## **Part 1 — Vortex Profile Check** *(Only collection mods selected)*
 
-1. On the [Nexus Mods collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add to Vortex**.
+1. On the [Nexus Mods collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.
 2. When prompted, install into a **New Profile**.
 3. In Vortex, switch to that profile and confirm **only the collection's mods are enabled** (no leftovers or personal add-ons).
 4. Ensure **Optional Mods** are ticked for full functionality.
