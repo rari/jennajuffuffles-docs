@@ -39,15 +39,12 @@ Disable Debug Mode after fixing.
 
 ---
 
-## ⚙️ Missing Configurations
+## ⚙️ Unresolved File Conflicts (Manage Rules)
 
-The collection includes preset load order rules that should apply automatically. If Vortex shows conflict warnings, it means the configuration files didn't load properly.
+The collection includes preset load order rules that should apply automatically. If Vortex shows conflict warnings, it means the load order was not applied by the collection for some reason.
 
-1. In **Vortex → Rules Manager**, check that configurations load ***after*** the mods they impact.  
+1. In **Vortex → Manage Rules (button)** in the Mods panel, check that configuration, compatibility, or translation files load ***after*** the mods they impact.  
 2. Click **Deploy**.  
-3. If unresolved, download and apply configs manually from [Nexus](https://www.nexusmods.com/stardewvalley/mods/20870).  
-
-**Manage Conflicts:** If Vortex shows a conflict warning, make sure the configuration, compatibility, or translation file is set to load after the actual mod.
 
 #### Minecart Blocks the Mine Entrance
 
