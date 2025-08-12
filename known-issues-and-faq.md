@@ -41,13 +41,13 @@ Disable Debug Mode after fixing.
 
 ## ⚙️ Missing Configurations
 
-If the collection's configuration files do **not** apply, you may see blocked paths, missing overlays, or color mismatches.
+The collection includes preset load order rules that should apply automatically. If you see blocked paths, missing overlays, or color mismatches, it means the configuration files didn't load properly.
 
 1. In **Vortex → Rules Manager**, check that configurations load ***after*** the mods they impact.  
 2. Click **Deploy**.  
 3. If unresolved, download and apply configs manually from [Nexus](https://www.nexusmods.com/stardewvalley/mods/20870).  
 
-**Manage Conflicts:** If you receive this warning, make sure the configuration, compatibility, or translation file is set to load after the actual mod.
+**Manage Conflicts:** If Vortex shows a conflict warning, make sure the configuration, compatibility, or translation file is set to load after the actual mod.
 
 #### Minecart Blocks the Mine Entrance
 
