@@ -79,7 +79,7 @@ If you're experiencing issues with specific expansion mods, these resources may 
 - [Wiki](https://eastscarp.fandom.com/wiki/East_Scarp_Wiki)
 - [Discord](https://discord.com/invite/QFtDA3CJwJ)
 
-⚠️ **Important:** Please avoid troubleshooting in these Discords unless you can show (via log) a repeatable error from their mod without the rest of the collection active. 
+⚠️ **Important:** Please avoid troubleshooting in these Discords unless you can show (via log) a repeatable error from their mod without the rest of the collection active.
 
 ---
 

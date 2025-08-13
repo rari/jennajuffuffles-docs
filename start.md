@@ -7,7 +7,7 @@
 
 The story of Stardew Valley extends outside of Pelican Town.
 
-This mod collection adds **new locations, characters, events, festivals, and maps** while keeping the feel of the original game. It is designed for **online co-op** and **experienced solo players**, with a simple setup that includes custom configuration for a smooth experience.
+This mod collection adds **new locations, characters, events, festivals, and maps** while keeping the feel of the original game. It is designed for **online co-op** and **veteran solo players**, with a simple setup that includes custom configuration for a smooth experience.
 
 > ✔️ Easy install  
 > 🧩 Configuration included  
@@ -21,7 +21,7 @@ Explore the main collection:
 
 ## ✨ Who is this for?
 
-* Experienced players who want more content without losing the vanilla feel
+* Veteran players who want more content without losing the vanilla feel
 * New players who want a challenging, curated starting point
 * Mod enthusiasts looking for a reliable base to build on
 * Co-op groups who need matching mod setups
