@@ -14,7 +14,7 @@
 Before downloading any mods, check the **last update date** for the collection:  
 [SVVE Collection Changelog](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m/revisions/87/changelog)  
 
-> ⚠️ Do **not** download mods released **after** the collection’s last update date — they may not be compatible and could cause instability.
+> ⚠️ Do **not** download mods released **after** the collection's last update date — they may not be compatible and could cause instability.
 
 ---
 
@@ -22,7 +22,7 @@ Before downloading any mods, check the **last update date** for the collection:
 
 1. Visit the [Stardew Valley VERY Expanded collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m).  
 2. Open the **Mods** tab.  
-3. Download each mod manually from its individual Nexus page.  
+3. Download each mod manually from its individual Nexus page (mouse-over the mod, click "Read more").  
 4. Place all mod folders into your **Stardew Valley/Mods/** directory.
 
 > On Windows: `%appdata%/StardewValley/Mods`  
@@ -42,6 +42,10 @@ This page includes configurations for:
 - Aesthetic Valley | Witchcore  
 - Shared configurations used across collections
 
+Download the **configuration files** from the [Stardew VERY Configured page on Nexus](https://www.nexusmods.com/stardewvalley/mods/20870?tab=files).
+
+> Tip: use CTRL+F and search "AVF" or "AVW" if installing an Aesthetic Valley!
+
 **Extract the 7zip files** using [7-Zip](https://www.7-zip.org/) (Windows) or [The Unarchiver](https://theunarchiver.com/) (Mac), then merge the configuration files into the **Mods/** folders they match.  
 On Mac, use **Option + drag** to merge folders.
 
@@ -49,22 +53,24 @@ You can modify settings later in-game via **Generic Mod Configuration Menu (GMCM
 
 ---
 
-## 🎨 Step 3 — Aesthetic Valley Compatibility Files
+## 🩹 Step 3 — Apply Required Patches
 
-If installing **Fairycore** or **Witchcore**, make sure to also download and install the **appropriate compatibility files** for the UI mod included in that collection.
+**For Stardew Valley VERY Expanded and Aesthetic Valley | Witchcore installations:**
+- [Grandpa's Tools Patch (Google Drive)](https://drive.google.com/file/d/1F7OcaaxAqz8B8ifIGGSgqWYe9dOMI5wH/view) — Replace the relevant files in the Grandpa's Tools mod folder with the patched versions.
 
-**Witchcore users also need to apply:**
+**For Witchcore installations only:**
 - [Aurora Vineyard Refurbished Patch](https://drive.google.com/file/d/1ekcuFIlk5gEZry8_Gabh9204065LE22Y/view)  
 - [Way Back Pelican Town Fix](https://www.nexusmods.com/stardewvalley/mods/7332?tab=posts) — follow the instructions in the first post.
 
 ---
 
-## 🩹 Step 4 — Apply Grandpa's Tools Patch
+## 🎨 Step 4 — Aesthetic Valley Compatibility Files
 
-If you are using **Grandpa’s Tools**, apply this patch:  
-[Grandpa’s Tools Patch (Google Drive)](https://drive.google.com/file/d/1F7OcaaxAqz8B8ifIGGSgqWYe9dOMI5wH/view)  
+If installing **Fairycore** or **Witchcore**, make sure to also download and install the **appropriate compatibility files** for the UI mod included in that collection.
 
-Replace the relevant files in the Grandpa’s Tools mod folder with the patched versions.
+**Additional compatibility files needed:**
+- Grab the compatibility files from [DaisyNiko's Earthy Interface optional files](https://www.nexusmods.com/stardewvalley/mods/13658?tab=files) for both GenericModConfigMenu and EventLookup.
+- Grab this Content Patcher fix for [SpaceCore Earthy Recolor for Sword & Sorcery](https://github.com/rari/jennajuffuffles-docs/blob/main/spacecore-earthy-recolor-sword-sorcery.zip), you can just drop this in your mods folder as is.
 
 ---
 
@@ -72,14 +78,14 @@ Replace the relevant files in the Grandpa’s Tools mod folder with the patched 
 
 1. Install SMAPI: [Official SMAPI Guide](https://stardewvalleywiki.com/Modding:Installing_SMAPI)  
 2. Launch the game using the SMAPI executable.  
-3. Check the SMAPI console for errors — if you see missing mods, return to Step 1 and verify all were installed.
+3. Check the SMAPI console for errors — if you see missing mods, review the Mods tab on the website to verify all were installed.
 
 ---
 
 ## 🛠️ Step 6 — Update Notices in SMAPI
 
 Some mods may show an update notification in SMAPI even when no update is actually needed.  
-If you wish to suppress the notice, edit the mod’s `manifest.json` and set the `"Version"` to match the version shown on Nexus.
+If you wish to suppress the notice, edit the mod's `manifest.json` and set the `"Version"` to match the version shown on Nexus.
 
 ---
 
