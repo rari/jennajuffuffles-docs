@@ -44,6 +44,8 @@ Vortex is the recommended mod manager for SVVE.
    > Nexus Premium users get auto-downloads. Free users follow manual prompts.
 3. Select **Install Optional Mods** when asked.
 
+> ⚠️ **Important:** Always use Optional Mods unless you're using *Stardew Valley Very Expanded + Aesthetic Valley*. In that case, use optional mods from **only one** collection to avoid conflicts. See: [Combining Collections](/combining.md)
+
 ### 3. Pre-Launch Setup
 1. Install & configure [SMAPI](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows#Configure_your_game_client).
 2. In Vortex Dashboard, confirm SMAPI is set as the primary tool.
@@ -82,11 +84,10 @@ Vortex is the recommended mod manager for SVVE.
 
 ## 🔄 Updating the Collection (Vortex)
 
-1. In **Collections** tab, select the collection showing an update.
-2. Install into a **New Profile** when prompted.
-3. Always select **Remove All** when asked.
-
-Do **not** update individual mods.
+Check for updates regularly in the **Collections** tab of Vortex:
+💡 Collections will show an **Update** button when an update is available.
+🧩 Follow the prompts! If prompted, always select **Remove All**!
+🚫 Do **not** update individual mods.
 
 ---
 
