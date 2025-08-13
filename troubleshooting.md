@@ -43,8 +43,45 @@ Before diving into complex troubleshooting steps, **restart your computer** and 
 ## 💬 Need More Help?
 
 If you run into issues that aren't solved here, you can:
-- Reach out to our community on **[Discord](https://discord.gg/de2NrHXuty)** for live assistance.
+- Reach out to our community on **[Discord](https://discord.com/invite/de2NrHXuty)** for live assistance.
 - Create and share a SMAPI log so others can help diagnose your issue.
+
+## 💬 Further Support
+
+💬 For Vortex support:
+- **Official Vortex Discord**: [Join Here](https://discord.com/invite/nexusmods)
+- **Support Hours**: 9 AM – 5 PM GMT, Monday–Thursday
+
+📚 More help available:
+- **Vortex Wiki**: [Read Here](https://wiki.nexusmods.com/index.php/Category:Vortex)
+- **Stardew Setup Guide**: [Read Here](https://wiki.nexusmods.com/index.php/Modding_Stardew_Valley_with_Vortex)
+
+🚫 The **official Stardew Valley Discord** does *not* support Vortex. Please respect their policy.
+
+---
+
+## 📚 Resources for Individual Expansion Mods
+
+If you're experiencing issues with specific expansion mods, these resources may help:
+
+### Stardew Valley Expanded
+- [Installation Guide](https://github.com/FlashShifter/StardewValleyExpanded/wiki/Install-guide)
+- [Troubleshooting](https://github.com/FlashShifter/StardewValleyExpanded/wiki/Troubleshooting)
+- [Wiki](https://stardew-valley-expanded.fandom.com/wiki/Stardew_Valley_Expanded_Wiki)
+- [Discord](https://discord.com/invite/svexpanded)
+
+### Ridgeside Village & Lunna
+- [Installation Guide](https://github.com/Rafseazz/Ridgeside-Village-Mod/blob/main/Installation%20Guide.md)
+- [Wiki](https://ridgeside.fandom.com/wiki/Ridgeside_Village_Wiki)
+- [Discord](https://discord.gg/4SRbjEQG2D)
+
+### East Scarp & Lurking in the Dark, Sword & Sorcery, etc
+- [Wiki](https://eastscarp.fandom.com/wiki/East_Scarp_Wiki)
+- [Discord](https://discord.com/invite/QFtDA3CJwJ)
+
+⚠️ **Important:** Please avoid troubleshooting in these Discords unless you can show (via log) a repeatable error from their mod without the rest of the collection active. 
+
+---
 
 ## 📄 How to Create a SMAPI Log
 
