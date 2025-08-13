@@ -85,9 +85,10 @@ Vortex is the recommended mod manager for SVVE.
 ## 🔄 Updating the Collection (Vortex)
 
 Check for updates regularly in the **Collections** tab of Vortex:
-💡 Collections will show an **Update** button when an update is available.
-🧩 Follow the prompts! If prompted, always select **Remove All**!
-🚫 Do **not** update individual mods.
+
+- 💡 Collections will show an **Update** button when an update is available.
+- 🧩 Follow the prompts! If prompted, always select **Remove All**!
+- 🚫 Do **not** update individual mods.
 
 ---
 
