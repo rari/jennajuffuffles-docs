@@ -42,7 +42,7 @@ This page includes configurations for:
 - Aesthetic Valley | Witchcore  
 - Shared configurations used across collections
 
-Unzip and merge the configuration files into the **Mods/** folders they match.  
+**Extract the 7zip files** using [7-Zip](https://www.7-zip.org/) (Windows) or [The Unarchiver](https://theunarchiver.com/) (Mac), then merge the configuration files into the **Mods/** folders they match.  
 On Mac, use **Option + drag** to merge folders.
 
 You can modify settings later in-game via **Generic Mod Configuration Menu (GMCM)**.
