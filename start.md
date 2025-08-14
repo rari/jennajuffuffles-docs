@@ -27,7 +27,9 @@ All mods are downloaded by Vortex through the **Nexus API**, so mod authors rece
 
 **The Nexus App** is also able to download collections, and additional support for that application is coming soon. 
 
-> To use a third-party manager like **Stardrop**, which cannot directly download Stardew Valley collections from Nexus, you will need to manually download each mod, merge the configurations, and apply patches manually. See: [Manual Installation Guide](/manual-install.md) 
+> To use a third-party manager like **Stardrop**, which cannot directly download Stardew Valley collections from Nexus, you will need to manually download each mod, merge the configurations, and apply patches manually. See: [Manual Installation Guide](/manual-install.md)
+
+> 💡 **Worried about "Vortex eating files"?** This is a common myth! See our [Known Vortex Behavior & Workarounds](/known-issues-and-faq.md#known-vortex-behavior--workarounds) section for the real story and solutions. 
 
 ---
 
@@ -79,7 +81,7 @@ A cozy, witchy cottagecore experience with a medieval tone. Features warm autumn
 
 ---
 
-<!-- ## 📚 Quick Links
+## 📚 Quick Links
 
 - 🚀 [Installation Guide](/install.md)  
 - 🧩 [Manual Installation Guide](/manual-install.md)  
@@ -87,5 +89,3 @@ A cozy, witchy cottagecore experience with a medieval tone. Features warm autumn
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
-
--->
