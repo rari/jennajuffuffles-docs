@@ -108,7 +108,7 @@ If problems still occur after an update:
 
 Sometimes Vortex deploys a mod incorrectly from staging — it *appears* in Vortex's Mods tab, but isn't actually loaded in-game. This can happen without any error message, so users think the install worked until they spot missing content.
 
-**Solution:** After deployment, **check your SMAPI log**, not just the Vortex Mods tab, to confirm the mod is actually loading.
+**Solution:** After deployment, **check your SMAPI log**, not just the Vortex Mods tab, to confirm the mod is actually loading. ([How to create a SMAPI log](/troubleshooting.md#-how-to-create-a-smapi-log))
 
 * If it's missing from the SMAPI log, **redeploy** or **delete the mod and its archive**, then reinstall it from the **Collection tab** in Vortex.
 
@@ -161,7 +161,7 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 
 ---
 
-<!-- ## 📚 Quick Links
+## 📚 Quick Links
 
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
@@ -171,6 +171,4 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq.md)
 
-
--->
 

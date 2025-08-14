@@ -85,16 +85,26 @@ If you're experiencing issues with specific expansion mods, these resources may 
 
 ## 📄 How to Create a SMAPI Log
 
+**Don't worry, this is easier than it sounds!** A SMAPI log is just a text file that shows what mods loaded and any errors that occurred.
+
+### Windows Users:
 1. Press the **Windows** and **R** keys at the same time.
 2. In the 'Run' box that appears, enter:
-```
-%appdata%\StardewValley\ErrorLogs
-```
-3. The log file will be:
-   - `SMAPI-crash.txt` if it exists  
-   - Otherwise: `SMAPI-latest.txt`
+   ```
+   %appdata%\StardewValley\ErrorLogs
+   ```
+3. Look for one of these files:
+   - `SMAPI-crash.txt` (if the game crashed)
+   - `SMAPI-latest.txt` (normal log from your last game session)
 
-Upload the log to [smapi.io/log](https://smapi.io/log) and share the link.
+### Mac/Linux Users:
+Visit [smapi.io/log](https://smapi.io/log) for platform-specific instructions.
+
+### What to do with your log:
+1. Upload it to [smapi.io/log](https://smapi.io/log) 
+2. Share the link in our [Discord](https://discord.gg/de2NrHXuty) for help!
+
+**💡 Tip:** The log will show exactly which mods loaded successfully and highlight any problems in red.
 
 ---
 
