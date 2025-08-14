@@ -105,5 +105,5 @@ If you wish to suppress the notice, edit the mod's `manifest.json` and set the `
 - 🔀 [Combining Collections](/combining.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq.md)
+- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)
 

@@ -75,4 +75,4 @@ Favorited items are prevented from:
 - 🔀 [Combining Collections](/combining.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
+- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)  
