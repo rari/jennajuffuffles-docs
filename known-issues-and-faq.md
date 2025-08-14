@@ -129,6 +129,9 @@ This ensures your personal settings are reapplied automatically after updates.
 
 ## ❓ Frequently Asked Questions (FAQ)
 
+### Do I need the optional mods?
+**Yes!** Some mods are marked as "optional" to make 'collection stacking' simple, but if you are only using one collection you should absolutely install the optional mods. This will include the interface, the map, and more!
+
 ### Should I update individual mods myself?
 Please wait for collection updates. Updating individual mods is not recommended.
 
@@ -151,7 +154,22 @@ Nexus is the only official source. Premium users get one-click download. Avoid u
 - Host must trigger in multiplayer
 
 ### How do I get the Rusty / Sewer Key?
-In SVVE, **Gunther no longer gives the Rusty Key**. Instead, reach 4–5 hearts with **Marlon**, who will mail it to you in a cutscene.
+In SVVE, **Gunther no longer gives the Rusty Key**.
+
+<details><summary>💡 Click to reveal spoiler details</summary>
+
+Instead, reach 5 hearts with **Marlon**, who will mail it to you in a cutscene.
+
+**Details:**
+- **Time:** Any
+- **Map:** Adventurer Summit  
+- **Season:** Any
+- **Weather:** Any
+- **Extra:** In year 1, player must have 5 hearts with Marlon. In year 2 or later, there is no friendship requirement, but the player must have reached the bottom of the mines at least once
+
+**Description:** Marlon tells the player that they have proven their worth and that it's time they met Krobus, a shadow person living in the Pelican Town sewers. Krobus is under the protection of the Guild, kept hidden from both the town and the Order of the Knights of Pythagoras. Unlike other shadow people, Krobus can speak the human language but since humans are hostile towards shadow people, Krobus has to remain hidden from them. After the introduction, Marlon gives the key to the sewers to the player, which now allows them to visit Krobus whenever they want.
+
+</details>
 
 ---
 
