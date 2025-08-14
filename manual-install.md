@@ -68,9 +68,17 @@ You can modify settings later in-game via **Generic Mod Configuration Menu (GMCM
 
 If installing **Fairycore** or **Witchcore**, make sure to also download and install the **appropriate compatibility files** for the UI mod included in that collection.
 
-**Additional compatibility files needed:**
-- Grab the compatibility files from [DaisyNiko's Earthy Interface optional files](https://www.nexusmods.com/stardewvalley/mods/13658?tab=files) for both GenericModConfigMenu and EventLookup.
-- Grab this Content Patcher fix for [SpaceCore Earthy Recolor for Sword & Sorcery](https://github.com/rari/jennajuffuffles-docs/blob/main/spacecore-earthy-recolor-sword-sorcery.zip), you can just drop this in your mods folder as is.
+**Required compatibility files:**
+- **UI Compatibility**: Download from [DaisyNiko's Earthy Interface optional files](https://www.nexusmods.com/stardewvalley/mods/13658?tab=files) for both GenericModConfigMenu and EventLookup
+
+**Collection-specific fixes:**
+- **Fairycore**: [SpaceCore Starblue Recolor for Sword & Sorcery](https://github.com/rari/jennajuffuffles-docs/blob/main/spacecore-earthy-starblue-sword-sorcery.zip) - Drop this Content Patcher fix in your mods folder
+- **Witchcore**: [SpaceCore Earthy Recolor for Sword & Sorcery](https://github.com/rari/jennajuffuffles-docs/blob/main/spacecore-earthy-recolor-sword-sorcery.zip) - Drop this Content Patcher fix in your mods folder
+
+**Manual hair.json fix for Fairycore and Witchcore:**
+- Copy the contents of the `hair.json` file in folder `111` into `[FS] Yomi's Golden Princess Hairstyle\Hairs\112`
+- Open that file in Notepad++ and change the name at the top from `111` to `112`
+- There's a hidden character in the file preventing it from working, so this manual edit is necessary.
 
 ---
 
@@ -89,7 +97,7 @@ If you wish to suppress the notice, edit the mod's `manifest.json` and set the `
 
 ---
 
-<!-- ## 📚 Quick Links
+## 📚 Quick Links
 
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
@@ -97,8 +105,5 @@ If you wish to suppress the notice, edit the mod's `manifest.json` and set the `
 - 🔀 [Combining Collections](/combining.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
-
-
--->
+- ❓ [Known Issues & FAQ](/known-issues-and-faq.md)
 

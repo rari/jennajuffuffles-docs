@@ -102,6 +102,31 @@ If problems still occur after an update:
 
 ---
 
+## Known Vortex Behavior & Workarounds
+
+### Mod staging may fail silently 
+
+Sometimes Vortex deploys a mod incorrectly from staging — it *appears* in Vortex's Mods tab, but isn't actually loaded in-game. This can happen without any error message, so users think the install worked until they spot missing content.
+
+**Solution:** After deployment, **check your SMAPI log**, not just the Vortex Mods tab, to confirm the mod is actually loading.
+
+* If it's missing from the SMAPI log, **redeploy** or **delete the mod and its archive**, then reinstall it from the **Collection tab** in Vortex.
+
+### Updating can overwrite or delete custom configs
+
+Vortex may erase your `config.json` (or other settings files) during an update, even if the new mod version doesn't ship a config. This is a known behavior and the main source of the "Vortex eats files" myth.
+
+**Solution:** Use the [**Add Custom Mod Button**](https://www.nexusmods.com/site/mods/863) Vortex extension to create a persistent "My Configs" mod that always loads after your main mods:
+
+1. Configure mods as desired in-game (GMCM recommended).
+2. In Vortex, click **Create new mod** via the Add Custom Mod Button.
+3. Copy the target mod folders into "My Configs" and delete everything inside except your config files.
+4. In **Manage Rules**, set "My Configs" to load **after** those mods.
+
+This ensures your personal settings are reapplied automatically after updates.
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Should I update individual mods myself?

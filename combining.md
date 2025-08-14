@@ -2,6 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Combining Collections**
 
+
 *Last updated:* 2025-08-12  
 *Applies to Stardew Valley:* **1.6.15+**
 
@@ -48,13 +49,6 @@ Always install them **into the same Vortex profile** and follow the conflict res
 
 ---
 
-## ⚠️ Other Notes
-
-- Do **not** mix recolors unless you are comfortable manually editing configs.  
-- Avoid mixing UI mods from multiple visual collections unless you know they are compatible.  
-- Always **Deploy** after changing Rules Manager settings.
-
----
 
 <!-- ## 📚 Quick Links
 
