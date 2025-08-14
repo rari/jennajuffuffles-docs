@@ -153,6 +153,8 @@ Nexus is the only official source. Premium users get one-click download. Avoid u
 - On a sunny day (not a festival)  
 - Host must trigger in multiplayer
 
+*This isn't a change from the vanilla game, but this trips up a lot of players.*
+
 ### How do I get the Rusty / Sewer Key?
 In SVVE, **Gunther no longer gives the Rusty Key**.
 
