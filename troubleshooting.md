@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Troubleshooting**
 
-*Last updated:* 2025-08-12  
+*Last updated:* 2025-08-14  
 *Applies to Stardew Valley:* **1.6.15+**
 
 ---

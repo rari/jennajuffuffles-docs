@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **FAQ & Known Issues**
 
-*Last updated:* 2025-08-12  
+*Last updated:* 2025-08-14  
 *Applies to Stardew Valley:* **1.6.15+**
 
 This page covers **frequently asked questions**, **common issues**, and **gameplay notes** for *Stardew Valley VERY Expanded* (svVe) and its companion collections.
