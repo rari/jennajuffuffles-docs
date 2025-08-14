@@ -67,7 +67,7 @@ Favorited items are prevented from:
 
 ---
 
-<!-- ## 📚 Quick Links
+## 📚 Quick Links
 
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
@@ -76,7 +76,3 @@ Favorited items are prevented from:
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq.md)  
-
-
--->
-

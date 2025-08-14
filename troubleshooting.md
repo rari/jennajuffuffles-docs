@@ -60,7 +60,7 @@ If you run into issues that aren't solved here, you can:
 
 ---
 
-## 📚 Resources for Individual Expansion Mods
+## 📚 Additional Resources for Expansion Mods
 
 If you're experiencing issues with specific expansion mods, these resources may help:
 
@@ -98,7 +98,7 @@ Upload the log to [smapi.io/log](https://smapi.io/log) and share the link.
 
 ---
 
-<!-- ## 📚 Quick Links
+## 📚 Quick Links
 
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
@@ -107,5 +107,3 @@ Upload the log to [smapi.io/log](https://smapi.io/log) and share the link.
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [Known Issues & FAQ](/known-issues-and-faq.md)
-
--->
