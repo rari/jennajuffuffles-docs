@@ -5,7 +5,7 @@
 *Last updated:* 2025-08-12  
 *Applies to Stardew Valley:* **1.6.15+**
 
-This page covers **common issues**, **frequently asked questions**, and **gameplay notes** for Stardew Valley VERY Expanded (SVVE) and its companion collections.
+This page covers **common issues**, **frequently asked questions**, and **gameplay notes** for *Stardew Valley VERY Expanded* (svVe) and its companion collections.
 
 ---
 
@@ -39,7 +39,7 @@ Disable Debug Mode after fixing.
 
 ### Minecart Blocks the Mine Entrance
 
-- Toggle in GMCM: `Stardew Valley Expanded → Original Mine Entrance`.
+- Toggle in GMCM: `*Stardew Valley Expanded* → Original Mine Entrance`.
 
 > This may be a sign that configurations were not merged properly.
 
@@ -136,10 +136,10 @@ This ensures your personal settings are reapplied automatically after updates.
 Please wait for collection updates. Updating individual mods is not recommended.
 
 ### Can I combine your collections?
-Absolutely! My Aesthetic Valley collections were designed to add a fun theme on top of Stardew Valley VERY Expanded. You can even use all three together, though you'll have to make more choices when resolving which mods to use from each. If you add mods that are not in a collection created by JennaJuffuffles, this community may not be able to offer much support.
+Absolutely! My *Aesthetic Valley* collections were designed to add a fun theme on top of *Stardew Valley VERY Expanded*. You can even use all three together, though you'll have to make more choices when resolving which mods to use from each. 
 
 ### Can I use this expansion if it's my first time playing Stardew Valley?
-Yes, you can use the expansion, even if it's your first time playing Stardew Valley. However, be aware that the collections add a lot of content and features to the game, so it may be overwhelming for first-time players. Experiencing vanilla Stardew Valley is recommended but absolutely not required.
+Yes, you can use the expansion, even if it's your first time playing *Stardew Valley*. However, be aware that the collections add a lot of content and features to the game, so it may be overwhelming for first-time players. Experiencing vanilla *Stardew Valley* is recommended but absolutely not required.
 
 ### Do all players need the collection for co-op?
 It is recommended that all players have matching mods and configurations for co-op. This may not be strictly necessary, but should lead to the best results.
@@ -147,16 +147,23 @@ It is recommended that all players have matching mods and configurations for co-
 ### Where to download? Is there a faster way?
 Nexus is the only official source. Premium users get one-click download. Avoid unauthorized sources to ensure updates and support mod creators.
 
+### Can I add more mods?
+Absolutely! These collections make excellent jumping-off points for your modding journey! Feel free to experiment and add your favorite mods - just remember to test as you go and thoroughly read mod pages for compatibility notes. 
+
+*Note: If you add mods that aren't in a collection created by JennaJuffuffles, this community may not be able to offer as much support, but we'll always try our best to help!*
+
 ### Why won't the Community Center cutscene trigger?
+The Community Center cutscene has very specific requirements that are easy to miss! Here's what you need:
+
 - Enter **Pelican Town from the Bus Stop**  
 - On or after **Spring 5**, between **8:00 AM–1:00 PM**  
 - On a sunny day (not a festival)  
 - Host must trigger in multiplayer
 
-*This isn't a change from the vanilla game, but this trips up a lot of players.*
+*This isn't a change from the vanilla game, but these specific requirements trip up a lot of players!*
 
 ### How do I get the Rusty / Sewer Key?
-In SVVE, **Gunther no longer gives the Rusty Key**.
+Thanks to changes made by the mod *Stardew Valley Expanded*, **Gunther no longer gives the Rusty Key**.
 
 <details><summary>💡 Click to reveal spoiler details</summary>
 
@@ -169,7 +176,9 @@ Instead, reach 5 hearts with **Marlon**, who will mail it to you in a cutscene.
 - **Weather:** Any
 - **Extra:** In year 1, player must have 5 hearts with Marlon. In year 2 or later, there is no friendship requirement, but the player must have reached the bottom of the mines at least once
 
-**Description:** Marlon tells the player that they have proven their worth and that it's time they met Krobus, a shadow person living in the Pelican Town sewers. Krobus is under the protection of the Guild, kept hidden from both the town and the Order of the Knights of Pythagoras. Unlike other shadow people, Krobus can speak the human language but since humans are hostile towards shadow people, Krobus has to remain hidden from them. After the introduction, Marlon gives the key to the sewers to the player, which now allows them to visit Krobus whenever they want.
+**Description:** Marlon tells you that you've proven your worth and it's time to meet Krobus! Krobus is a friendly shadow person who lives in the Pelican Town sewers, protected by the Guild and hidden from the town. While Krobus can speak human language, they have to stay hidden since humans are generally hostile toward shadow people. After this heartwarming introduction, Marlon gives you the key to the sewers so you can visit your new friend Krobus whenever you want!
+
+*Read more about Marlon on the [official Stardew Valley Expanded wiki](https://stardew-valley-expanded.fandom.com/wiki/Marlon).*
 
 </details>
 
