@@ -34,6 +34,11 @@ Absolutely! These collections make excellent jumping-off points for your modding
 
 *Note: If you add mods that aren't in a collection created by JennaJuffuffles, this community may not be able to offer as much support, but we'll always try our best to help!*
 
+### Can I disable a mod that the collection requires?
+No worries! You have full control over your mod setup. You can disable the collection in the **Mods view** without disabling any recommended mods. This will stop Vortex from trying to manage the collection and allow you to make any modifications you wish!
+
+*💡 Tip: Add the "Collections" column in Vortex Mods tab (⚙️ → Collections) to easily find and manage your collection files.*
+
 ### Why won't the Community Center cutscene trigger?
 The Community Center cutscene has very specific requirements that are easy to miss! Here's what you need:
 
