@@ -187,6 +187,14 @@ Vortex may erase your `config.json` (or other settings files) during an update, 
 
 This ensures your personal settings are reapplied automatically after updates.
 
+### Mods with incorrect folder structure may not deploy properly
+
+Sometimes mods that don't follow the expected folder structure may not be deployed from staging correctly. This is usually only an issue with manually added mods or content packs.
+
+**Solution:** Ensure your mod folders follow the proper structure. See the [official Stardew Valley Wiki guide](https://stardewvalleywiki.com/Modding%3AContent_packs) for details on proper folder structure.
+
+*💡 Note: All mods already included in the collection are properly structured for deployment!*
+
 ---
 
 ## 💬 Need More Help?
