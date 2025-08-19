@@ -172,7 +172,7 @@ If problems still occur after an update:
 
 ### Updating can overwrite or delete custom configs
 
-Vortex may erase your custom `config.json` (or other settings files) during an update, even if the new mod version doesn't ship a config. This is a known behavior and seems to be a main source of the "Vortex eats files" myth. The configurations that come packaged with the collection are not prone to this.
+Vortex may delete your custom `config.json` (or other settings files) during an update. This is a known behavior and seems to be a main source of the "Vortex eats files" myth. The configurations that come packaged with the collection are not prone to this.
 
 **Solution:** Use the [**Add Custom Mod Button**](https://www.nexusmods.com/site/mods/863) Vortex extension to create a persistent "My Configs" mod that always loads after your main mods:
 
@@ -181,17 +181,17 @@ Vortex may erase your custom `config.json` (or other settings files) during an u
 3. Copy the target mod folders into "My Configs" and delete everything inside except your config files.
 4. In **Manage Rules**, set "My Configs" to load **after** those mods.
 
-This ensures your personal settings are reapplied automatically after updates.
+This ensures your personal settings are reapplied automatically. even after updates.
 
 ### Mod staging may fail silently 
 
-Sometimes Vortex deploys a mod incorrectly from staging — it *appears* in Vortex's Mods tab, but isn't actually loaded in-game. This can happen without any error message, so users think the install worked until they spot missing content. This is another situation where people will say that Vortex "eats" files.
+Vortex keeps each of your mods in a compressed library, extracts those mods to staging, and then uses the rules to deploy the mods to your Mods folder in the correct order. Sometimes Vortex deploys a mod incorrectly from staging — it *appears* in Vortex's Mods tab, but isn't actually loaded in-game. This can happen without any error message, so users think the install worked until they spot missing content. This is another situation where people may say that Vortex "eats" files.
 
 **Solution:** After deployment, **check your SMAPI log**, not just the Vortex Mods tab, to confirm the mod is actually loading. ([How to create a SMAPI log](/troubleshooting.md#-how-to-create-a-smapi-log))
 
 * If the mod is missing missing from the SMAPI log, **redeploy** or **delete the mod and its archive**, then reinstall it from the **Collection tab** in Vortex.
 
-> If this happens to you, please contact us on Discord. We are trying to supply the Vortex team with log examples from `AppData/Roaming/Vortex` which may help solve this issue in future releases!
+> This seems to be very rare and if this happens to you, please contact us on Discord. We are trying to supply the Vortex team with log examples from `AppData/Roaming/Vortex` which may help solve this issue in future releases!
 
 ### Mods with incorrect folder structure may not deploy properly
 
