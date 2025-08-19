@@ -29,10 +29,6 @@ Favorited items are prevented from:
 - Being considered when using the "Organize" button  
 - Being considered when using the "Add to Existing Stacks" button in a chest  
 
-## Dynamic Lighting
-**Action:** Adjust lighting  
-- Default Key: `Subtract` (Rebound from Subtract)
-
 ## Event Lookup
 **Action:** View all available events for today  
 - Default Key: `N`
