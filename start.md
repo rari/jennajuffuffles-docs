@@ -9,7 +9,7 @@
 
 ## 🌾 What is Stardew Valley VERY Expanded?
 
-Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends this familiar world far beyond Pelican Town—while preserving the cozy, vanilla charm of the original game.
+Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends this familiar world far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
 
 svVe is built for **multiplayer co-op groups** who need matching setups, as well as **solo players** looking for a rich, polished experience. Installation is easy with Vortex, with settings that work out-of-the-box.
 
