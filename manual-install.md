@@ -71,9 +71,8 @@ If installing **Fairycore** or **Witchcore**, make sure to also download and ins
 **Required compatibility files:**
 - **UI Compatibility**: Download from [DaisyNiko's Earthy Interface optional files](https://www.nexusmods.com/stardewvalley/mods/13658?tab=files) for both GenericModConfigMenu and EventLookup
 
-**Collection-specific fixes:**
-- **Fairycore**: [SpaceCore Starblue Recolor for Sword & Sorcery](https://github.com/rari/jennajuffuffles-docs/blob/main/files/spacecore-fixes/spacecore-starblue-recolor-sword-sorcery.zip) - Drop this Content Patcher fix in your mods folder
-- **Witchcore**: [SpaceCore Earthy Recolor for Sword & Sorcery](https://github.com/rari/jennajuffuffles-docs/blob/main/files/spacecore-fixes/spacecore-earthy-recolor-sword-sorcery.zip) - Drop this Content Patcher fix in your mods folder
+**Required for Stardew Valley VERY Expanded + Aesthetic Valley combinations:**
+- [SpaceCore Recolor for Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/36682?tab=files) - Download and install this patch if you're using Stardew Valley VERY Expanded with either Fairycore or Witchcore.
 
 **Manual hair.json fix for Fairycore and Witchcore:**
 - Copy the contents of the `hair.json` file in folder `111` into `[FS] Yomi's Golden Princess Hairstyle\Hairs\112`
