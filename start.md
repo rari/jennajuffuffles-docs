@@ -57,7 +57,7 @@ All mods are downloaded by Vortex through the **Nexus API**, so mod authors rece
 
 ## 🌐 Language Support
 
-If you want to play Stardew Valley VERY Expanded in your language, I've created language packs to help! The mods in these packs are created by various translators, please support them and their work by endorsing them on Nexus!
+If you want to play Stardew Valley VERY Expanded in your language, language packs are available to help! The mods in these packs are created by various translators, so please support them and their work by endorsing them on Nexus!
 
 * 🇧🇷 [svVe Tradução em Português](https://next.nexusmods.com/stardewvalley/collections/z4w11e)  
 * 🇨🇳 [svVe 简体中文翻译](https://next.nexusmods.com/stardewvalley/collections/c8qj0l)  
