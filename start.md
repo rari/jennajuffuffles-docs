@@ -61,7 +61,7 @@ This is **not a modpack**. Nexus Collections work by downloading each mod indivi
 * **All endorsements go to the individual mods**, not just the collection.
 * The collection simply ensures compatibility and makes setup easy — it doesn't redistribute anyone's work.
 
-If you enjoy your experience, please take a moment to also endorse the individual mods on Nexus. It directly supports the creators whose creativity make all this possible. 💕
+If you enjoy your experience, please take a moment to also endorse the individual mods on Nexus. It directly supports the creators whose creativity makes all this possible. 💕
 
 ---
 
