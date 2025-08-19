@@ -9,13 +9,13 @@
 
 ## 🌾 What is Stardew Valley VERY Expanded?
 
-Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that takes the familiar world of Stardew Valley and extends it far beyond Pelican Town. With new towns, friends, events, quests, festivals, and custom farm maps, it adds depth and variety—while preserving the cozy, vanilla charm of the original game.
+Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends the familiar world of Stardew Valley far beyond Pelican Towny—while preserving the cozy, vanilla charm of the original game.
 
-SVVE is built for **multiplayer co-op groups** who need matching setups, as well as **solo players** looking for a rich, polished experience. Installation is streamlined through Vortex, with pre-configured settings that ensure stability and compatibility out of the box.
+svVe is built for **multiplayer co-op groups** who need matching setups, as well as **solo players** looking for a rich, polished experience. Installation is streamlined through Vortex, with pre-configured settings that ensure stability and compatibility out of the box.
 
 ✔️ Major expansions like Stardew Valley Expanded, East Scarp, and Ridgeside Village  
 ✔️ New friends, quests, festivals, and immersive storylines  
-✔️ A custom farm map perfect for co-op play  
+✔️ A massive farm map optimized for co-op play  
 ✔️ Optional aesthetic collections (Fairycore & Witchcore) to personalize your game's look  
 
 It's the **easiest way to experience a fully expanded Stardew Valley**—without losing what makes the game special.
@@ -43,7 +43,7 @@ Vortex is the **recommended mod manager** for this collection:
 * Makes it easy to **update the collection** (do not update individual mods)
 
 > **One-click install requires Nexus Premium.**  
-> Free users can still use the collection, but will follow manual install steps in Vortex.
+> Free users can still use the collection, but will follow guided install steps in Vortex.
 
 All mods are downloaded by Vortex through the **Nexus API**, so mod authors receive download points.
 
@@ -59,11 +59,11 @@ All mods are downloaded by Vortex through the **Nexus API**, so mod authors rece
 
 If you want to play Stardew Valley VERY Expanded in your language, I've created language packs to help! The mods in these packs are created by various translators, please support them and their work by endorsing them on Nexus!
 
-* 🇧🇷 [SVVE Tradução em Português](https://next.nexusmods.com/stardewvalley/collections/z4w11e)  
-* 🇨🇳 [SVVE 简体中文翻译](https://next.nexusmods.com/stardewvalley/collections/c8qj0l)  
-* 🇩🇪 [SVVE Deutsche Übersetzung](https://next.nexusmods.com/stardewvalley/collections/ibljbd)  
-* 🇷🇺 [SVVE Русский Перевод](https://next.nexusmods.com/stardewvalley/collections/igivdc)  
-* 🇹🇷 [SVVE Türkçe Çeviri](https://next.nexusmods.com/stardewvalley/collections/xzebcw)  
+* 🇧🇷 [svVe Tradução em Português](https://next.nexusmods.com/stardewvalley/collections/z4w11e)  
+* 🇨🇳 [svVe 简体中文翻译](https://next.nexusmods.com/stardewvalley/collections/c8qj0l)  
+* 🇩🇪 [svVe Deutsche Übersetzung](https://next.nexusmods.com/stardewvalley/collections/ibljbd)  
+* 🇷🇺 [svVe Русский Перевод](https://next.nexusmods.com/stardewvalley/collections/igivdc)  
+* 🇹🇷 [svVe Türkçe Çeviri](https://next.nexusmods.com/stardewvalley/collections/xzebcw)  
 
 > More languages coming soon!
 

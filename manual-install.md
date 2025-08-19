@@ -15,7 +15,7 @@
 ## 📅 Check Collection Update Date
 
 Before downloading any mods, check the **last update date** for the collection:  
-[SVVE Collection Changelog](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m/revisions/87/changelog)  
+[svVe Collection Changelog](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m/revisions/87/changelog)  
 
 > ⚠️ Do **not** download mods released **after** the collection's last update date — they may not be compatible and could cause instability.
 
@@ -37,7 +37,7 @@ Before downloading any mods, check the **last update date** for the collection:
 ## ⚙️ Step 2 — Apply Configuration Files
 
 Download the official configuration package:  
-[SVVE Configuration Files on Nexus](https://www.nexusmods.com/stardewvalley/mods/20870)  
+[svVe Configuration Files on Nexus](https://www.nexusmods.com/stardewvalley/mods/20870)  
 
 This page includes configurations for:
 - Stardew Valley VERY Expanded  

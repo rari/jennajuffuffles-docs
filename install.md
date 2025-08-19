@@ -27,7 +27,7 @@
 
 ## 💻 Setup Vortex for PC Users
 
-Vortex is the recommended mod manager for SVVE.  
+Vortex is the recommended mod manager for svVe.  
 **Important:** Enable **Symbolic Links** in Vortex settings if Stardew Valley is not installed on drive C:.
 
 1. [Download and install Vortex Mod Manager](https://www.nexusmods.com/about/vortex/).
@@ -70,7 +70,7 @@ Vortex is the recommended mod manager for SVVE.
 ## 🍏 Mac Installation
 
 1. Download mods manually from the Collection’s *Mods* tab.  
-2. Download the official [SVVE Configuration Files](https://www.nexusmods.com/stardewvalley/mods/20870).  
+2. Download the official [svVe Configuration Files](https://www.nexusmods.com/stardewvalley/mods/20870).  
 3. Merge downloaded configuration files into your mods folder (Option + drag to merge).  
 4. Verify mod placement and launch the game.
 

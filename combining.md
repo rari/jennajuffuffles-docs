@@ -8,7 +8,7 @@
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
 
-You can combine **Stardew Valley VERY Expanded (SVVE)** with one or both **Aesthetic Valley** collections for a custom look and feel.  
+You can combine **Stardew Valley VERY Expanded (svVe)** with one or both **Aesthetic Valley** collections for a custom look and feel.  
 Always install them **into the same Vortex profile** and follow the conflict resolution steps below.
 
 ---
