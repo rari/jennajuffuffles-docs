@@ -16,7 +16,7 @@ svVe is built for **multiplayer co-op groups** who need matching setups, as well
 ✔️ Major expansions like Stardew Valley Expanded, East Scarp, and Ridgeside Village  
 ✔️ New friends, quests, festivals, and immersive storylines  
 ✔️ A massive farm map, great for co-op play  
-✔️ Optional aesthetic collections ([Fairycore & Witchcore](#-aesthetic-valley-collections)) to personalize your game's look  
+✔️ Optional aesthetic collections ([Fairycore & Witchcore](#aesthetic-valley-collections)) to personalize your game's look  
 
 It's the **easiest way to experience an expanded Stardew Valley** without losing what makes the game special.
 
