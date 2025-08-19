@@ -79,7 +79,7 @@ These visual collections can be installed stand-alone, together, or even alongsi
 A magical, woodsy fairy aesthetic layered over Stardew Valley Expanded. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere perfect for players who love fantasy and enchantment.  
 → [Fairycore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
 
-### 🕯️ Aesthetic Valley | Witchcore
+### 🔮 Aesthetic Valley | Witchcore
 
 A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors, mystical UI elements, and a rustic atmosphere perfect for players who love magic, nature, and cozy vibes.  
 → [Witchcore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
