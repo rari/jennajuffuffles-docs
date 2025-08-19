@@ -36,11 +36,12 @@ Explore the main collection:
 
 ## 🎮 Why use Vortex?
 
-Vortex is the **recommended mod manager** for this collection:
+Vortex is the recommended mod manager **for this collection**:
 
 * Applies **patches and configurations** provided by the collection creator
 * Helps with **version control** to prevent compatibility issues
 * Makes it easy to **update the collection** (do not update individual mods)
+* Non-destructive modding means no files are ever overwritten.
 
 > **One-click install requires Nexus Premium.**  
 > Free users can still use the collection, but will follow guided install steps in Vortex.
