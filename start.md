@@ -18,7 +18,7 @@ svVe is built for **multiplayer co-op groups** who need matching setups, as well
 ✔️ A massive farm map optimized for co-op play  
 ✔️ Optional aesthetic collections (Fairycore & Witchcore) to personalize your game's look  
 
-It's the **easiest way to experience a fully expanded Stardew Valley**—without losing what makes the game special.
+It's the **easiest way to experience an expanded Stardew Valley**—without losing what makes the game special.
 
 Explore the main collection:  
 👉 [Stardew Valley VERY Expanded on Nexus](https://next.nexusmods.com/stardewvalley/collections/tckf0m)
