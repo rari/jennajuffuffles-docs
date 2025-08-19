@@ -7,8 +7,6 @@
 
 Keybinds can be adjusted in the **Generic Mod Configuration Menu (GMCM)** from the title screen.
 
-<details><summary>🔠 View all Keybinds</summary>
-
 ## Automate
 **Action:** Show automation overlay  
 - Default Key: `U`
@@ -62,8 +60,6 @@ Favorited items are prevented from:
 
 **Action:** Open quest board  
 - Default Key: `H`
-
-</details>
 
 ---
 

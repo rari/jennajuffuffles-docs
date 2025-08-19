@@ -101,6 +101,8 @@ Disable Debug Mode after fixing.
 
 ### Minecart Blocks the Mine Entrance
 
+If you go to the bottom of settings in game (or the ⚙️ menu from the main menu) you can open the config menu, Generic Mod Config Menu (GMCM).
+
 - Toggle in GMCM: `*Stardew Valley Expanded* → Original Mine Entrance`.
 
 > This may be a sign that configurations were not merged properly.
