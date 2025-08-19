@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **FAQ & Known Issues**
 
-*Last updated:* 2025-08-14  
+*Last updated:* 2025-08-19  
 *Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -191,7 +191,7 @@ Vortex keeps each of your mods in a compressed library, extracts those mods to s
 
 * If the mod is missing missing from the SMAPI log, **redeploy** or **delete the mod and its archive**, then reinstall it from the **Collection tab** in Vortex.
 
-> This seems to be very rare and if this happens to you, please contact us on Discord. We are trying to supply the Vortex team with log examples from `AppData/Roaming/Vortex` which may help solve this issue in future releases!
+> This seems to be fairly rare and if this happens to you, please contact us on Discord. We are trying to supply the Vortex team with log examples from `AppData/Roaming/Vortex` which may help solve this issue in future releases!
 
 ### Mods with incorrect folder structure may not deploy properly
 

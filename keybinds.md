@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Keybinds & Controllers**
 
-*Last updated:* 2025-08-14  
+*Last updated:* 2025-08-19  
 *Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
