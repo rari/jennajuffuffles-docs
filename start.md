@@ -45,8 +45,6 @@ Vortex is the recommended mod manager **for this collection**:
 > **One-click install requires Nexus Premium.**  
 > Free users can still use the collection, but will follow guided install steps in Vortex.
 
-All mods are downloaded by Vortex through the **Nexus API**, so mod authors receive download points.
-
 **The Nexus App** is also able to download collections, and additional support for that application is coming soon. 
 
 To use a third-party manager like **Stardrop**, which cannot directly download Stardew Valley collections from Nexus, you will need to manually download each mod, merge the configurations, and apply patches manually. See: [Manual Installation Guide](/manual-install.md)
