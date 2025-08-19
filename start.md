@@ -9,7 +9,7 @@
 
 ## 🌾 What is Stardew Valley VERY Expanded?
 
-Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends the familiar world of Stardew Valley far beyond Pelican Towny—while preserving the cozy, vanilla charm of the original game.
+Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends this familiar world far beyond Pelican Town—while preserving the cozy, vanilla charm of the original game.
 
 svVe is built for **multiplayer co-op groups** who need matching setups, as well as **solo players** looking for a rich, polished experience. Installation is streamlined through Vortex, with pre-configured settings that ensure stability and compatibility out of the box.
 
@@ -40,7 +40,6 @@ Vortex is the recommended mod manager **for this collection**:
 
 * Applies **patches and configurations** provided by the collection creator
 * Helps with **version control** to prevent compatibility issues
-* Makes it easy to **update the collection** (do not update individual mods)
 * Non-destructive modding means no files are ever overwritten.
 
 > **One-click install requires Nexus Premium.**  
@@ -52,7 +51,7 @@ All mods are downloaded by Vortex through the **Nexus API**, so mod authors rece
 
 > To use a third-party manager like **Stardrop**, which cannot directly download Stardew Valley collections from Nexus, you will need to manually download each mod, merge the configurations, and apply patches manually. See: [Manual Installation Guide](/manual-install.md)
 
-> 💡 **Worried about Vortex "eating files"?** See our [Known Vortex Behavior & Workarounds](/faq-and-known-issues.md#known-vortex-behavior-and-workarounds) section where we break down some common solutions. 
+> 💡 **Worried about Vortex "eating files"?** See our [Known Vortex Behavior & Workarounds](/faq-and-known-issues.md#known-vortex-behavior-and-workarounds) section where we break down some common solutions and explore what people might mean when they say this. 
 
 ---
 
@@ -76,12 +75,12 @@ These visual collections can be installed stand-alone, together, or even alongsi
 
 ### 🧚 Aesthetic Valley | Fairycore
 
-A magical, woodsy fairy aesthetic layered over Stardew Valley Expanded. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere perfect for players who love fantasy and enchantment.  
+A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere.  
 → [Fairycore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
 
 ### 🔮 Aesthetic Valley | Witchcore
 
-A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors, mystical UI elements, and a rustic atmosphere perfect for players who love magic, nature, and cozy vibes.  
+A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors and a rustic atmosphere with cozy vibes.  
 → [Witchcore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
 
 > You can use both together, but only one "Optional Mods" should be added. See: [Combining Collections](/combining.md)
