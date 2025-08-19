@@ -11,11 +11,11 @@
 
 Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends this familiar world far beyond Pelican Town—while preserving the cozy, vanilla charm of the original game.
 
-svVe is built for **multiplayer co-op groups** who need matching setups, as well as **solo players** looking for a rich, polished experience. Installation is streamlined through Vortex, with pre-configured settings that ensure stability and compatibility out of the box.
+svVe is built for **multiplayer co-op groups** who need matching setups, as well as **solo players** looking for a rich, polished experience. Installation is easy with Vortex, with settings that work out-of-the-box.
 
 ✔️ Major expansions like Stardew Valley Expanded, East Scarp, and Ridgeside Village  
 ✔️ New friends, quests, festivals, and immersive storylines  
-✔️ A massive farm map optimized for co-op play  
+✔️ A massive farm map, great for co-op play  
 ✔️ Optional aesthetic collections (Fairycore & Witchcore) to personalize your game's look  
 
 It's the **easiest way to experience an expanded Stardew Valley**—without losing what makes the game special.
