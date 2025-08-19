@@ -5,6 +5,8 @@
 *Last updated:* 2025-08-14  
 *Applies to Stardew Valley:* **1.6.15+**
 
+> 📖 This guide will be available right on the Nexus Collection page soon!
+
 Keybinds can be adjusted in the **Generic Mod Configuration Menu (GMCM)** from the title screen.
 
 ## Automate

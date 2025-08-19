@@ -3,6 +3,28 @@
 *Last updated:* 2025-08-14  
 *Applies to Stardew Valley:* **1.6.15+**
 
+> 📖 This guide will be available right on the Nexus Collection page soon!
+
+---
+
+## 🌾 What is Stardew Valley VERY Expanded?
+
+Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that takes the familiar world of Stardew Valley and extends it far beyond Pelican Town. With new towns, friends, events, quests, festivals, and custom farm maps, it adds depth and variety—while preserving the cozy, vanilla charm of the original game.
+
+SVVE is built for **multiplayer co-op groups** who need matching setups, as well as **solo players** looking for a rich, polished experience. Installation is streamlined through Vortex, with pre-configured settings that ensure stability and compatibility out of the box.
+
+✔️ Major expansions like Stardew Valley Expanded, East Scarp, and Ridgeside Village  
+✔️ New friends, quests, festivals, and immersive storylines  
+✔️ A custom farm map perfect for co-op play  
+✔️ Optional aesthetic collections (Fairycore & Witchcore) to personalize your game's look  
+
+It's the **easiest way to experience a fully expanded Stardew Valley**—without losing what makes the game special.
+
+Explore the main collection:  
+👉 [Stardew Valley VERY Expanded on Nexus](https://next.nexusmods.com/stardewvalley/collections/tckf0m)
+
+---
+
 ## ✨ Who is this for?
 
 * Experienced players who want more content without losing the vanilla feel
@@ -29,23 +51,7 @@ All mods are downloaded by Vortex through the **Nexus API**, so mod authors rece
 
 > To use a third-party manager like **Stardrop**, which cannot directly download Stardew Valley collections from Nexus, you will need to manually download each mod, merge the configurations, and apply patches manually. See: [Manual Installation Guide](/manual-install.md)
 
-> 💡 **Worried about "Vortex eating files"?** This is a common myth! See our [Known Vortex Behavior & Workarounds](/faq-and-known-issues.md#known-vortex-behavior-and-workarounds) section for the real story and solutions. 
-
----
-
-## 🌾 What is Stardew Valley VERY Expanded?
-
-The story of Stardew Valley extends outside of Pelican Town.
-
-This mod collection adds **new locations, characters, events, festivals, and maps** while keeping the feel of the original game. It is designed for **online co-op** and **experienced solo players**, with a simple setup that includes custom configuration for a smooth experience.
-
-> ✔️ Easy install  
-> 🧩 Configuration included  
-> 🤝 Online Co-op friendly  
-> 🎣 Adds depth without changing the heart of the game
-
-Explore the main collection:  
-👉 [Stardew Valley VERY Expanded on Nexus](https://next.nexusmods.com/stardewvalley/collections/tckf0m)
+> 💡 **Worried about "Vortex eating files"?** This is a common myth! See our [Known Vortex Behavior & Workarounds](/faq-and-known-issues.md#known-vortex-behavior-and-workarounds) section where we break down some common solutions. 
 
 ---
 
@@ -88,4 +94,4 @@ A cozy, witchy cottagecore experience with a medieval tone. Features warm autumn
 - 🔀 [Combining Collections](/combining.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)  
+- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)

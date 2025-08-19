@@ -5,6 +5,8 @@
 *Last updated:* 2025-08-14  
 *Applies to Stardew Valley:* **1.6.15+**
 
+> 📖 This guide will be available right on the Nexus Collection page soon!
+
 This page covers **frequently asked questions**, **common issues**, and **gameplay notes** for *Stardew Valley VERY Expanded* (svVe) and its companion collections.
 
 ---
@@ -168,17 +170,9 @@ If problems still occur after an update:
 
 ## Known Vortex Behavior & Workarounds
 
-### Mod staging may fail silently 
-
-Sometimes Vortex deploys a mod incorrectly from staging — it *appears* in Vortex's Mods tab, but isn't actually loaded in-game. This can happen without any error message, so users think the install worked until they spot missing content.
-
-**Solution:** After deployment, **check your SMAPI log**, not just the Vortex Mods tab, to confirm the mod is actually loading. ([How to create a SMAPI log](/troubleshooting.md#-how-to-create-a-smapi-log))
-
-* If it's missing from the SMAPI log, **redeploy** or **delete the mod and its archive**, then reinstall it from the **Collection tab** in Vortex.
-
 ### Updating can overwrite or delete custom configs
 
-Vortex may erase your `config.json` (or other settings files) during an update, even if the new mod version doesn't ship a config. This is a known behavior and the main source of the "Vortex eats files" myth.
+Vortex may erase your custom `config.json` (or other settings files) during an update, even if the new mod version doesn't ship a config. This is a known behavior and seems to be a main source of the "Vortex eats files" myth. The configurations that come packaged with the collection are not prone to this.
 
 **Solution:** Use the [**Add Custom Mod Button**](https://www.nexusmods.com/site/mods/863) Vortex extension to create a persistent "My Configs" mod that always loads after your main mods:
 
@@ -189,13 +183,23 @@ Vortex may erase your `config.json` (or other settings files) during an update, 
 
 This ensures your personal settings are reapplied automatically after updates.
 
+### Mod staging may fail silently 
+
+Sometimes Vortex deploys a mod incorrectly from staging — it *appears* in Vortex's Mods tab, but isn't actually loaded in-game. This can happen without any error message, so users think the install worked until they spot missing content. This is another situation where people will say that Vortex "eats" files.
+
+**Solution:** After deployment, **check your SMAPI log**, not just the Vortex Mods tab, to confirm the mod is actually loading. ([How to create a SMAPI log](/troubleshooting.md#-how-to-create-a-smapi-log))
+
+* If the mod is missing missing from the SMAPI log, **redeploy** or **delete the mod and its archive**, then reinstall it from the **Collection tab** in Vortex.
+
+> If this happens to you, please contact us on Discord. We are trying to supply the Vortex team with log examples from `AppData/Roaming/Vortex` which may help solve this issue in future releases!
+
 ### Mods with incorrect folder structure may not deploy properly
 
-Sometimes mods that don't follow the expected folder structure may not be deployed from staging correctly. This is usually only an issue with manually added mods or content packs.
+Sometimes mods that don't follow the expected folder structure may not be deployed from staging correctly. This is usually only an issue with manually added mods or content packs. These files are not "eaten" they simply aren't structured properly.
 
 **Solution:** Ensure your mod folders follow the proper structure. See the [official Stardew Valley Wiki guide](https://stardewvalleywiki.com/Modding%3AContent_packs) for details on proper folder structure.
 
-*💡 Note: All mods already included in the collection are properly structured for deployment!*
+*💡 Note: All mods already included in these collections are properly structured for deployment!*
 
 ---
 

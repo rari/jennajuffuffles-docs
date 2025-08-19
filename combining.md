@@ -6,6 +6,8 @@
 *Last updated:* 2025-08-14  
 *Applies to Stardew Valley:* **1.6.15+**
 
+> 📖 This guide will be available right on the Nexus Collection page soon!
+
 You can combine **Stardew Valley VERY Expanded (SVVE)** with one or both **Aesthetic Valley** collections for a custom look and feel.  
 Always install them **into the same Vortex profile** and follow the conflict resolution steps below.
 

@@ -4,6 +4,9 @@
 
 *Last updated:* 2025-08-14  
 *Applies to Stardew Valley:* **1.6.15+**  
+
+> 📖 This guide will be available right on the Nexus Collection page soon!
+
 > We recommend **Vortex Mod Manager** for most players because it automatically applies the correct configuration files, manages mod order, and makes updates easy.  
 > However, if you prefer to handle installation manually, or are playing on systems without Vortex support, follow this guide.
 
