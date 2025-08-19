@@ -49,9 +49,21 @@ All mods are downloaded by Vortex through the **Nexus API**, so mod authors rece
 
 **The Nexus App** is also able to download collections, and additional support for that application is coming soon. 
 
-> To use a third-party manager like **Stardrop**, which cannot directly download Stardew Valley collections from Nexus, you will need to manually download each mod, merge the configurations, and apply patches manually. See: [Manual Installation Guide](/manual-install.md)
+To use a third-party manager like **Stardrop**, which cannot directly download Stardew Valley collections from Nexus, you will need to manually download each mod, merge the configurations, and apply patches manually. See: [Manual Installation Guide](/manual-install.md)
 
 > 💡 **Worried about Vortex "eating files"?** See our [Known Vortex Behavior & Workarounds](/faq-and-known-issues.md#known-vortex-behavior-and-workarounds) section where we break down some common solutions and explore what people might mean when they say this. 
+
+---
+
+## 📦 About Nexus Collections
+
+This is **not a modpack**. Nexus Collections work by downloading each mod individually, which means:
+
+* **Every download counts as a unique download** for the original creator.
+* **All endorsements go to the individual mods**, not just the collection.
+* The collection simply ensures compatibility and makes setup easy — it doesn't redistribute anyone's work.
+
+If you enjoy your experience, please take a moment to also endorse the individual mods on Nexus. It directly supports the creators whose creativity make all this possible. 💕
 
 ---
 
@@ -76,12 +88,12 @@ These visual collections can be installed stand-alone, together, or even alongsi
 ### 🧚 Aesthetic Valley | Fairycore
 
 A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere.  
-→ [Fairycore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
+👉 [Fairycore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
 
 ### 🔮 Aesthetic Valley | Witchcore
 
 A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors and a rustic atmosphere with cozy vibes.  
-→ [Witchcore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
+👉 [Witchcore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
 
 > You can use both together, but only one "Optional Mods" should be added. See: [Combining Collections](/combining.md)
 
