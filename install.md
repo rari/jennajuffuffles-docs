@@ -38,7 +38,7 @@ Vortex is the recommended mod manager for svVe.
 ## 🖥️ PC Installation via Vortex
 
 ### 1. Clear Existing Mods
-1. In Vortex **Mods** tab, click **Purge Mods**.  
+1. In Vortex **Mods** tab, click **Purge Mods**.
 2. Click **Open → Game Mods Folder** and delete any leftover files.
 
 ### 2. Install the Collection
@@ -62,7 +62,7 @@ Vortex is the recommended mod manager for svVe.
 1. Install Stardew Valley via Steam in **Desktop Mode**. Verify integrity.
 2. Transfer your modded game files from PC to Deck via USB or network.
 3. Install SMAPI for your game version: [Guide](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Steam_Deck).
-4. Add SMAPI as a Non-Steam Game in Steam.
+4. Add SMAPI as a Non-Steam Game in Steam and configure it for the correct compatibility mode.
 5. Launch via SMAPI and confirm mods load.
 
 ---

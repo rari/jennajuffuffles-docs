@@ -72,7 +72,7 @@ If you're experiencing issues with specific expansion mods, these resources may 
 - [Wiki](https://stardew-valley-expanded.fandom.com/wiki/Stardew_Valley_Expanded_Wiki)
 - [Discord](https://discord.com/invite/svexpanded)
 
-### Ridgeside Village & Lunna
+### Ridgeside Village
 - [Installation Guide](https://github.com/Rafseazz/Ridgeside-Village-Mod/blob/main/Installation%20Guide.md)
 - [Wiki](https://ridgeside.fandom.com/wiki/Ridgeside_Village_Wiki)
 - [Discord](https://discord.gg/4SRbjEQG2D)
