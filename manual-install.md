@@ -45,8 +45,6 @@ This page includes configurations for:
 - Aesthetic Valley | Witchcore  
 - Shared configurations used across collections
 
-Download the **configuration files** from the [Stardew VERY Configured page on Nexus](https://www.nexusmods.com/stardewvalley/mods/20870?tab=files).
-
 > Tip: use CTRL+F and search "AVF" or "AVW" if installing an Aesthetic Valley!
 
 **Extract the 7zip files** using [7-Zip](https://www.7-zip.org/) (Windows) or [The Unarchiver](https://theunarchiver.com/) (Mac), then merge the configuration files into the **Mods/** folders they match.  
