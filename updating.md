@@ -24,10 +24,10 @@ The most stable way to update your collections is to start fresh with a new prof
 
 ### Step 1: Remove Current Collection
 1. In Vortex **Collections** tab, click **Remove** on the collection poster
-2. When prompted, select **Do not delete mods** to keep your mod files
+2. When prompted, do **not** select "Delete Mods" or "Remove Archives" to keep your mod files
 
 ### Step 2: Create New Profile
-1. Go to the collection page on Nexus Mods
+1. Visit the collection page on Nexus Mods
 2. Click **Add Collection**
 3. Create a **New Profile** when prompted
 4. Follow the installation prompts
