@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Installation Guide**
 
-*Last updated:* 2025-08-19  
+*Last updated:* 2025-09-09  
 *Applies to Stardew Valley:* **1.6.15+**  
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -85,13 +85,14 @@ Vortex is the recommended mod manager for svVe.
 
 ---
 
-## 🔄 Updating the Collection (Vortex)
+## 🔄 Updating the Collection
 
-Check for updates regularly in the **Collections** tab of Vortex:
+For detailed updating instructions, see our [**Updating Collections**](/updating.md) guide.
 
-- 💡 Collections will show an **Update** button when an update is available.
-- 🧩 Follow the prompts! If prompted, always select **Remove All**!
-- 🚫 Do **not** update individual mods.
+**Quick Summary:**
+- 💡 Collections will show an **Update** button when an update is available
+- 🧩 If using the update button, always select **Remove All** when prompted
+- 🚫 Do **not** update individual mods
 
 ---
 
@@ -119,6 +120,7 @@ If using **Immersive Farm 2 Remastered**, disable its Greenhouse option in GMCM.
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
 - 🧩 [Manual Installation Guide](/manual-install.md)  
+- 🔄 [Updating Collections](/updating.md)  
 - 🔀 [Combining Collections](/combining.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  

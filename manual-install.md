@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Manual Install**
 
-*Last updated:* 2025-08-19  
+*Last updated:* 2025-09-09  
 *Applies to Stardew Valley:* **1.6.15+**  
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -108,6 +108,7 @@ If you wish to suppress the notice, edit the mod's `manifest.json` and set the `
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
 - 🧩 [Manual Installation Guide](/manual-install.md)  
+- 🔄 [Updating Collections](/updating.md)  
 - 🔀 [Combining Collections](/combining.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  

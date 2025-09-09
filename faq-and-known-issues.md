@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **FAQ & Known Issues**
 
-*Last updated:* 2025-08-19  
+*Last updated:* 2025-09-09  
 *Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -33,6 +33,8 @@ Nexus is the only official source. Premium users get one-click download. Avoid u
 
 ### Can I add more mods?
 Absolutely! These collections make excellent jumping-off points for your modding journey! Feel free to experiment and add your favorite mods - just remember to test as you go and thoroughly read mod pages for compatibility notes. 
+
+It's recommended to create a private collection for your additions to make updates even easier! 
 
 *Note: If you add mods that aren't in a collection created by JennaJuffuffles, this community may not be able to offer as much support, but we'll always try our best to help!*
 
@@ -214,6 +216,7 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 - 🌾 [Start Page](/start.md)  
 - 🚀 [Installation Guide](/install.md)  
 - 🧩 [Manual Installation Guide](/manual-install.md)  
+- 🔄 [Updating Collections](/updating.md)  
 - 🔀 [Combining Collections](/combining.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
