@@ -13,8 +13,11 @@ This guide covers the best practices for updating your Stardew Valley collection
 
 Before updating, prepare your setup:
 
-1. **Create or update your private mod collection** containing any mods you've added from outside the collection
-2. **Back up any [custom configurations](/faq-and-known-issues.md#updating-can-overwrite-or-delete-custom-configs)** into a private mod
+1. **Back up your save files** - It's recommended to create a backup of your Stardew Valley saves before updating. See the [Stardew Valley Wiki Saves page](https://www.stardewvalleywiki.com/Saves) for detailed instructions on locating and backing up your save files
+2. **Create or update your private mod collection** containing any mods you've added from outside the collection
+3. **Back up any [custom configurations](/faq-and-known-issues.md#updating-can-overwrite-or-delete-custom-configs)** into a private mod
+
+> 💡 **Save Backup Tip:** You can compress your entire save folder (or individual farm folders) as a ZIP file for easy storage and extraction later. This makes it simple to restore your saves if needed.
 
 ---
 
