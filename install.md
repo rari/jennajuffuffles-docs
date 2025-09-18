@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Installation Guide**
 
-*Last updated:* 2025-09-09  
+*Last updated:* 2025-18-09  
 *Applies to Stardew Valley:* **1.6.15+**  
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -82,6 +82,7 @@ Vortex is the recommended mod manager for svVe.
 - If installing manually, merge configuration files yourself.
 - Adjust in-game via **GMCM** (gear icon on the title screen).
 - For co-op: all players should match configurations.
+- Want to customize further? See our [Personalization & Custom Configurations](/personalization.md) guide.
 
 ---
 
@@ -122,6 +123,7 @@ If using **Immersive Farm 2 Remastered**, disable its Greenhouse option in GMCM.
 - 🧩 [Manual Installation Guide](/manual-install.md)  
 - 🔄 [Updating Collections](/updating.md)  
 - 🔀 [Combining Collections](/combining.md)  
+- 🎨 [Personalization & Custom Configurations](/personalization.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [FAQ & Known Issues](/faq-and-known-issues.md)  

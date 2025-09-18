@@ -3,10 +3,12 @@
 > 📂 **Docs** / [Start](/start.md) / **Combining Collections**
 
 
-*Last updated:* 2025-09-09  
+*Last updated:* 2025-18-09  
 *Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
+
+💡 **Warning:** If your mine entrance is missing, enable **Original Mine Entrance** in GMCM under *Stardew Valley Expanded*.
 
 You can combine **Stardew Valley VERY Expanded (svVe)** with one or both **Aesthetic Valley** collections for a custom look and feel.  
 Always install them **into the same Vortex profile** and follow the conflict resolution steps below.
@@ -18,8 +20,6 @@ Always install them **into the same Vortex profile** and follow the conflict res
 1. In **Vortex → Rules Manager**, all **configuration and content patch mods** should load **after** other mods they modify.  
 2. If two configuration files conflict, **the one for your chosen recolor/theme should load last**.
 
-💡 **Tip:** If your mine entrance is missing, enable **Original Mine Entrance** in GMCM under *Stardew Valley Expanded*.
-
 ### 📦 Optional Mods Strategy
 
 For easiest combining, **only download one set of 'optional mods'**. This method is **recommended when combining 2 or 3 collections created by JennaJuffuffles**.
@@ -29,6 +29,10 @@ For easiest combining, **only download one set of 'optional mods'**. This method
 **Custom Selections:** While you can pick and choose optional mods individually, review your configuration files afterwards as this may introduce unexpected behavior.
 
 **Conflict Warnings:** If optional mods that the collection creator has flagged as conflicting are enabled, Vortex will show a warning notification. Due to a Vortex display error, this warning may appear up to 6 times per conflict, which is confusing to see! This is different from a rules conflict and simply indicates that one mod of the pair should be disabled.
+
+**Greenhouses:** When using Aesthetic Valley collections, remember that only one greenhouse can be used. This includes if using Immersive Farm 2 Remastered, which has a greenhouse built in. This can be disabled in the configuration if desired. So keep this in mind if you decide to mix-and-match your collection options!
+
+> 💡 **Need help with custom configurations?** See our [Personalization & Custom Configurations](/personalization.md) guide for detailed instructions on protecting your settings.
 
 ---
 
@@ -68,6 +72,7 @@ For easiest combining, **only download one set of 'optional mods'**. This method
 - 🧩 [Manual Installation Guide](/manual-install.md)  
 - 🔄 [Updating Collections](/updating.md)  
 - 🔀 [Combining Collections](/combining.md)  
+- 🎨 [Personalization & Custom Configurations](/personalization.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [FAQ & Known Issues](/faq-and-known-issues.md)  

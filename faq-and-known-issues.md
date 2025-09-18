@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **FAQ & Known Issues**
 
-*Last updated:* 2025-09-09  
+*Last updated:* 2025-18-09  
 *Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -176,16 +176,9 @@ Vortex has improved a lot, but certain quirks still confuse users. When people s
 
 ### Updating can overwrite or delete custom configs
 
-Vortex may delete your custom `config.json` (or other settings files) during an update. This is a known behavior and seems to be a main source of the "Vortex eats files" myth. Configs bundled with collections aren’t affected.
+Vortex may delete your custom `config.json` (or other settings files) during an update. This is a known behavior and seems to be a main source of the "Vortex eats files" myth. Configs bundled with collections aren't affected.
 
-**Workaround:** Use the [**Add Custom Mod Button**](https://www.nexusmods.com/site/mods/863) Vortex extension to create a persistent "My Configs" mod that always loads after your main mods:
-
-1. Configure mods as desired in-game (GMCM recommended).
-2. In Vortex, click **Create new mod** via the Add Custom Mod Button.
-3. Copy the target mod folders into "My Configs" and delete everything inside except your config files.
-4. In **Manage Rules**, set "My Configs" to load **after** those mods.
-
-This ensures your personal settings are reapplied automatically. even after updates.
+**Solution:** See our [Personalization & Custom Configurations](/personalization.md) guide for detailed instructions on protecting your custom settings.
 
 ### Mod staging may fail silently 
 
@@ -218,6 +211,7 @@ Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our *
 - 🧩 [Manual Installation Guide](/manual-install.md)  
 - 🔄 [Updating Collections](/updating.md)  
 - 🔀 [Combining Collections](/combining.md)  
+- 🎨 [Personalization & Custom Configurations](/personalization.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [FAQ & Known Issues](/faq-and-known-issues.md)

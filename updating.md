@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Updating Collections**
 
-*Last updated:* 2025-09-09  
+*Last updated:* 2025-18-09  
 *Applies to Stardew Valley:* **1.6.15+**
 
 This guide covers the best practices for updating your Stardew Valley collections to ensure a smooth experience.
@@ -68,7 +68,7 @@ You can also use the **Update** button on the Collections page, though this meth
 If you encounter issues after updating:
 
 1. Ensure all mods are **Enabled** in the Vortex Mods tab
-2. Check that your [custom configurations](/faq-and-known-issues.md#updating-can-overwrite-or-delete-custom-configs) are still active
+2. Check that your [custom configurations](/personalization.md) are still active
 3. If problems persist, try our [Troubleshooting guide](/troubleshooting.md).
 
 ---
@@ -80,6 +80,7 @@ If you encounter issues after updating:
 - 🧩 [Manual Installation Guide](/manual-install.md)  
 - 🔄 [Updating Collections](/updating.md)  
 - 🔀 [Combining Collections](/combining.md)  
+- 🎨 [Personalization & Custom Configurations](/personalization.md)  
 - 🎮 [Keybinds & Controllers](/keybinds.md)  
 - 🛠️ [Troubleshooting](/troubleshooting.md)  
 - ❓ [FAQ & Known Issues](/faq-and-known-issues.md)  
