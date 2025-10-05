@@ -7,67 +7,65 @@
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
 
-This page covers **frequently asked questions**, **common issues**, and **gameplay notes** for *Stardew Valley VERY Expanded* (svVe) and its companion collections.
+This page addresses the most common questions and issues players encounter with *Stardew Valley VERY Expanded* (svVe) and its companion collections.
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+## Frequently Asked Questions
 
 ### Do I need the optional mods?
-**Yes!** Some mods are marked as "optional" to make 'collection stacking' simple, but if you are only using one collection you should absolutely install the optional mods. This will include the interface, the map, and more!
+Yes. While some mods are marked as "optional" to simplify collection stacking, you should install them when using a single collection. These include essential interface improvements, map enhancements, and additional content.
 
 ### Should I update individual mods myself?
-Please wait for collection updates. Updating individual mods is not recommended.
+No. Always wait for collection updates rather than updating individual mods. This ensures compatibility and prevents conflicts.
 
 ### Can I combine your collections?
-Absolutely! My *Aesthetic Valley* collections were designed to add a fun theme on top of *Stardew Valley VERY Expanded*. You can even use all three together, though you'll have to make more choices when resolving which mods to use from each. 
+Yes. The *Aesthetic Valley* collections are designed to work alongside *Stardew Valley VERY Expanded*. You can use all three together, though this requires more careful mod selection and conflict resolution. 
 
 ### Can I use this expansion if it's my first time playing Stardew Valley?
-Yes, you can use the expansion, even if it's your first time playing *Stardew Valley*. However, be aware that the collections add a lot of content and features to the game, so it may be overwhelming for first-time players. Experiencing vanilla *Stardew Valley* is recommended but absolutely not required.
+Yes, though first-time players should be aware that these collections add substantial content and features that may feel overwhelming. While experiencing vanilla *Stardew Valley* first is recommended, it's not required.
 
 ### Do all players need the collection for co-op?
-It is recommended that all players have matching mods and configurations for co-op. This may not be strictly necessary, but should lead to the best results.
+Yes. All players should have matching mods and configurations for the best co-op experience. Mismatched setups can cause sync issues and gameplay problems.
 
-### Where to download? Is there a faster way?
-Nexus is the only official source. Premium users get one-click download. Avoid unauthorized sources to ensure updates and support mod creators.
+### Where can I download the collections?
+Nexus Mods is the only official source. Premium users benefit from one-click downloads. Avoid unauthorized sources to ensure you receive updates and support the mod creators.
 
 ### Can I add more mods?
-Absolutely! These collections make excellent jumping-off points for your modding journey! Feel free to experiment and add your favorite mods - just remember to test as you go and thoroughly read mod pages for compatibility notes. 
+Yes. These collections serve as excellent foundations for further customization. When adding mods, test them individually and carefully review compatibility notes. Creating a private collection for your additions simplifies future updates.
 
-It's recommended to create a private collection for your additions to make updates even easier! 
-
-*Note: If you add mods that aren't in a collection created by JennaJuffuffles, this community may not be able to offer as much support, but we'll always try our best to help!*
+*Note: While we provide support for the core collections, we may have limited ability to help with mods not included in JennaJuffuffles collections.*
 
 ### Can I disable a mod that the collection requires?
-No worries! You have full control over your mod setup. You can disable the collection in the **Mods view** without disabling any recommended mods. This will stop Vortex from trying to manage the collection and allow you to make any modifications you wish!
+Yes. You have full control over your mod setup. Disable the collection in the **Mods view** without affecting recommended mods. This prevents Vortex from managing the collection and allows you to make custom modifications.
 
-*💡 Tip: Add the "Collections" column in Vortex Mods tab (⚙️ → Collections) to easily find and manage your collection files.*
+*Tip: Add the "Collections" column in Vortex Mods tab (⚙️ → Collections) to easily find and manage your collection files.*
 
 ### Why won't the Community Center cutscene trigger?
-The Community Center cutscene has very specific requirements that are easy to miss! Here's what you need:
+The Community Center cutscene has specific requirements that are easy to miss. Here's what you need:
 
 - Enter **Pelican Town from the Bus Stop**  
 - On or after **Spring 5**, between **8:00 AM–1:00 PM**  
 - On a sunny day (not a festival)  
 - Host must trigger in multiplayer
 
-*This isn't a change from the vanilla game, but these specific requirements trip up a lot of players!*
+*These are the same requirements as vanilla Stardew Valley, but they frequently confuse players.*
 
 ### How do I get the Rusty / Sewer Key?
-Thanks to changes made by the mod *Stardew Valley Expanded*, **Gunther no longer gives the Rusty Key**.
+Due to changes in *Stardew Valley Expanded*, **Gunther no longer provides the Rusty Key**.
 
-<details><summary>💡 Click to reveal spoiler details</summary>
+<details><summary>Click to reveal spoiler details</summary>
 
-Instead, reach 5 hearts with **Marlon**, who will mail it to you in a cutscene.
+Instead, you need to reach 5 hearts with **Marlon**, who will mail the key to you in a cutscene.
 
-**Details:**
+**Requirements:**
 - **Time:** Any
 - **Map:** Adventurer Summit  
 - **Season:** Any
 - **Weather:** Any
-- **Extra:** In year 1, player must have 5 hearts with Marlon. In year 2 or later, there is no friendship requirement, but the player must have reached the bottom of the mines at least once
+- **Additional:** In year 1, you must have 5 hearts with Marlon. In year 2 or later, there is no friendship requirement, but you must have reached the bottom of the mines at least once
 
-**Description:** Marlon tells you that you've proven your worth and it's time to meet Krobus! Krobus is a friendly shadow person who lives in the Pelican Town sewers, protected by the Guild and hidden from the town. While Krobus can speak human language, they have to stay hidden since humans are generally hostile toward shadow people. After this heartwarming introduction, Marlon gives you the key to the sewers so you can visit your new friend Krobus whenever you want!
+**Description:** Marlon explains that you've proven your worth and introduces you to Krobus, a friendly shadow person who lives in the Pelican Town sewers. Krobus is protected by the Guild and hidden from the town, as humans are generally hostile toward shadow people. After this introduction, Marlon gives you the key to visit Krobus whenever you want.
 
 *Read more about Marlon on the [official Stardew Valley Expanded wiki](https://stardew-valley-expanded.fandom.com/wiki/Marlon).*
 
@@ -75,13 +73,13 @@ Instead, reach 5 hearts with **Marlon**, who will mail it to you in a cutscene.
 
 ---
 
-## 🔁 General Issues
+## General Issues
 
 ### Very Slow Load Time
 
-Large collections can take **3–5 minutes** (or longer on low-spec PCs) to start a new save or load from the title screen.
+Large collections can take **3–5 minutes** (or longer on lower-specification PCs) to start a new save or load from the title screen.
 
-> 🖐️ **Hands-up method:** Keep your hands off the mouse/keyboard until the screen fades in and music starts. Input during loading can crash the game.
+> **Important:** Avoid using mouse or keyboard input during loading. Wait until the screen fades in and music starts, as input during loading can cause the game to crash.
 
 ### Multiplayer / Split-Screen Desync
 
@@ -105,17 +103,17 @@ Disable Debug Mode after fixing.
 
 ### Minecart Blocks the Mine Entrance
 
-If you go to the bottom of settings in game (or the ⚙️ menu from the main menu) you can open the config menu, Generic Mod Config Menu (GMCM).
+Access the Generic Mod Config Menu (GMCM) through the game's settings menu or the ⚙️ menu from the main menu.
 
 - Toggle in GMCM: `*Stardew Valley Expanded* → Original Mine Entrance`.
 
-> This may be a sign that configurations were not merged properly.
+> This issue may indicate that configurations were not merged properly.
 
 ---
 
-## ⚙️ Unresolved File Conflicts (Manage Rules)
+## Unresolved File Conflicts (Manage Rules)
 
-The collection includes preset load order rules that should apply automatically. If Vortex shows conflict warnings, it means the load order was not applied by the collection for some reason.
+The collection includes preset load order rules that should apply automatically. If Vortex shows conflict warnings, the load order was not applied by the collection.
 
 1. In **Vortex → Mods panel → Manage Rules (button)**, check that configuration, compatibility, or translation files load ***after*** the mods they impact.  
 2. Click **Deploy**.  
@@ -124,28 +122,28 @@ The collection includes preset load order rules that should apply automatically.
 
 ---
 
-## 🛠️ Visual & UI Conflicts
+## Visual & UI Conflicts
 
 ### Can't Exit House / Corrupted Farm Map
 
-Occurs when your **farm map mod becomes disabled or fails to load**.  
+This occurs when your **farm map mod becomes disabled or fails to load**.  
 Maps cannot be switched mid-save unless using a mod like [Easy Farm Switcher](https://www.nexusmods.com/stardewvalley/mods/16873).
 
-**Fix:**  
-- Exit game.  
-- Re-enable farm map mod in Vortex.  
+**Solution:**  
+- Exit the game.  
+- Re-enable the farm map mod in Vortex.  
 - Click **Deploy**.
 
 ---
 
-## 🧪 NPC Bugs
+## NPC Bugs
 
 ### Duplicated NPCs
 
-A rare bug causing some NPCs to appear twice.
+A rare bug that causes some NPCs to appear twice.
 
-**Fix:**  
-1. Load save.  
+**Solution:**  
+1. Load your save.  
 2. Run in SMAPI console:
 ```bash
 debug removenpc [InternalNPCName]
@@ -158,10 +156,10 @@ patch export "Data/NPCDispositions"
 ```
 ---
 
-## 🧼 Trouble After Updating
+## Trouble After Updating
 
-Ensure all mods are Enabled in the mod panel in Vortex. 
-If problems still occur after an update:
+Ensure all mods are enabled in the mod panel in Vortex. 
+If problems persist after an update:
 
 1. In **Collections** tab, click **Remove** (the poster).  
 2. Do **not** delete mods when asked.  
@@ -172,11 +170,11 @@ If problems still occur after an update:
 
 ## Known Vortex Behavior & Workarounds
 
-Vortex has improved a lot, but certain quirks still confuse users. When people say “Vortex eats files,” they’re usually running into one of these issues:
+Vortex has improved significantly, but certain behaviors still confuse users. Common issues include:
 
 ### Updating can overwrite or delete custom configs
 
-Vortex may delete your custom `config.json` (or other settings files) during an update. This is a known behavior and seems to be a main source of the "Vortex eats files" myth. Configs bundled with collections aren't affected.
+Vortex may delete your custom `config.json` (or other settings files) during an update. This is a known behavior that affects personal configurations. Configs bundled with collections aren't affected.
 
 **Solution:** See our [Personalization & Custom Configurations](/personalization.md) guide for detailed instructions on protecting your custom settings.
 
@@ -186,32 +184,32 @@ Vortex stores mods in a compressed library, extracts them to staging, then deplo
 
 **Workaround:** After deployment, **check your SMAPI log**, not just the Vortex Mods tab, to confirm the mod is actually loading. ([How to create a SMAPI log](/troubleshooting.md#-how-to-create-a-smapi-log))
 
-* If the mod is missing missing from the SMAPI log, **redeploy** or **delete the mod and its archive**, then reinstall it from the **Collection tab** in Vortex.
+* If the mod is missing from the SMAPI log, **redeploy** or **delete the mod and its archive**, then reinstall it from the **Collection tab** in Vortex.
 
-> 📌 This bug seems rare. If it happens, please share logs from `AppData/Roaming/Vortex` on Discord so we can pass them to the Vortex team.
+> This bug appears to be rare. If it occurs, please share logs from `AppData/Roaming/Vortex` on Discord so we can pass them to the Vortex team.
 
 ### Mods with incorrect folder structure may not deploy properly
 
-Mods with bad folder layouts may not deploy correctly. This mostly affects manually added mods or content packs, not curated collections. The files aren’t lost — they’re just misplaced.
+Mods with improper folder layouts may not deploy correctly. This mostly affects manually added mods or content packs, not curated collections. The files aren't lost — they're just misplaced.
 
 **Workaround:** Ensure the mods you use follow the proper folder structure from the [official Stardew Valley Wiki guide](https://stardewvalleywiki.com/Modding%3AContent_packs).
 
 ---
 
-## 💬 Need More Help?
+## Need More Help?
 
 Upload your SMAPI log to [smapi.io/log](https://smapi.io/log) and share in our **[Discord](https://discord.gg/de2NrHXuty)** support channel.
 
 ---
 
-## 📚 Quick Links
+## Quick Links
 
-- 🌾 [Start Page](/start.md)  
-- 🚀 [Installation Guide](/install.md)  
-- 🧩 [Manual Installation Guide](/manual-install.md)  
-- 🔄 [Updating Collections](/updating.md)  
-- 🔀 [Combining Collections](/combining.md)  
-- 🎨 [Personalization & Custom Configurations](/personalization.md)  
-- 🎮 [Keybinds & Controllers](/keybinds.md)  
-- 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)
+- [Start Page](/start.md)  
+- [Installation Guide](/install.md)  
+- [Manual Installation Guide](/manual-install.md)  
+- [Updating Collections](/updating.md)  
+- [Combining Collections](/combining.md)  
+- [Personalization & Custom Configurations](/personalization.md)  
+- [Keybinds & Controllers](/keybinds.md)  
+- [Troubleshooting](/troubleshooting.md)  
+- [FAQ & Known Issues](/faq-and-known-issues.md)

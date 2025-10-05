@@ -9,7 +9,7 @@ This guide covers how to personalize your Stardew Valley experience with custom 
 
 ---
 
-## 🎨 Overview
+## Overview
 
 Personalization allows you to customize your game experience while maintaining compatibility with collection updates. This includes:
 
@@ -20,52 +20,45 @@ Personalization allows you to customize your game experience while maintaining c
 
 ---
 
-## ⚙️ Custom Configurations
-
-### The Problem with Updates
-
-Vortex may delete your custom `config.json` (or other settings files) during an update. This is a known behavior that can affect your personal settings. Configs bundled with collections aren't affected.
-
-### The Solution: Custom Config Mod
+## Custom Configurations
 
 Use the [**Add Custom Mod Button**](https://www.nexusmods.com/site/mods/863) Vortex extension to create a persistent "My Configs" mod that always loads after your main mods:
 
-#### Step 1: Configure Your Settings
+### Step 1: Configure Your Settings
 1. Configure mods as desired in-game (GMCM recommended)
 2. Test your settings to ensure they work as expected
 
-#### Step 2: Create Custom Config Mod
+### Step 2: Create Custom Config Mod
 1. In Vortex, click **Create new mod** via the Add Custom Mod Button
 2. Name it something like "My Configs" or "Personal Settings"
 
-#### Step 3: Copy Configuration Files
+### Step 3: Copy Configuration Files
 1. Navigate to your Stardew Valley Mods folder
 2. Find the mods you've customized
 3. Copy the entire mod folders into your "My Configs" mod folder
 4. **Delete everything inside except your config files** (usually `config.json`)
 
-#### Step 4: Set Load Order
+### Step 4: Set Load Order
 1. In **Vortex → Mods → Manage Rules**
 2. Set "My Configs" to load **after** the mods it's overriding
 3. Click **Deploy**
 
-This ensures your personal settings are reapplied automatically, even after updates.
-This tactic can also be used to create persistant patches and minor local modifications as well!
+This ensures your personal settings are reapplied automatically, even after updates. This method can also be used to create persistent patches and minor local modifications.
 
 ---
 
-## 🧩 Adding Personal Mods
+## Adding Personal Mods
 
 ### Installing Mods from Nexus
 
 There are two ways to add mods from Nexus Mods:
 
-#### Method 1: Mod Manager Button (Recommended)
+### Method 1: Mod Manager Button (Recommended)
 1. **Go to the mod's files page** on Nexus Mods
 2. **Click the "Mod Manager" button** to download directly to Vortex
 3. **Follow the installation prompts** in Vortex
 
-#### Method 2: Manual Download
+### Method 2: Manual Download
 1. **Click the "Manual" button** on the mod's files page
 2. **Download the ZIP file** to your computer
 3. **Go to Vortex Mods page** and **drag the ZIP file** onto the drop zone
@@ -84,16 +77,16 @@ This way you can easily reinstall or redeploy them to a new profile after updati
 
 Some mods you add may require restructuring to work within Vortex:
 
-#### Making Structural Changes
+### Making Structural Changes
 1. **Right-click on the mod** in Vortex
 2. **Select "Open in File Manager"** to access the Staging folder
 3. **Adjust the mod's folder structure** as needed
 4. **Do not modify the top-level folder** (with the numeric string)
 5. **Click "Deploy"** in Vortex to apply your changes
 
-#### Collection Settings for Modified Mods
+### Collection Settings for Modified Mods
 - **Set to "Exact" and "Replicate"** in your private collection if you modify a mod's folder structure
-- **Use "Binary Patch"** for minor content modifications (but you cannot use both methods simultaneously!)
+- **Use "Binary Patch"** for minor content modifications (but you cannot use both methods simultaneously)
 
 ### Best Practices
 - **Read mod pages carefully** for compatibility notes 
@@ -104,7 +97,7 @@ Some mods you add may require restructuring to work within Vortex:
 
 ---
 
-## 🎮 In-Game Configuration
+## In-Game Configuration
 
 ### Generic Mod Config Menu (GMCM)
 
@@ -123,11 +116,11 @@ Some mods require manual file editing:
 2. **Edit with a text editor** (Notepad++ recommended)
 3. **Follow the mod's documentation** for proper syntax
 4. **Backup using the method above**
-5. **Delete** and reload Stardew to create a fresh config if you ever need to start over!
+5. **Delete and reload Stardew** to create a fresh config if you need to start over
 
 ---
 
-## 🔄 Maintaining Personalizations
+## Maintaining Personalizations
 
 ### Before Updates
 
@@ -141,7 +134,7 @@ Some mods require manual file editing:
 
 ---
 
-## 🛠️ Troubleshooting Personalizations
+## Troubleshooting Personalizations
 
 ### Settings Not Applying
 - **Check load order** - custom configs must load after the mods they're overriding. This is done with "Manage Rules".
@@ -160,7 +153,8 @@ Some mods require manual file editing:
 
 ---
 
-## 💡 Tips & Best Practices
+## Tips & Best Practices
+
 ### Organization
 - **Use descriptive names** for your custom mods (Config for X Mod, My Configs, Patches, etc)
 - **Group related settings** together
@@ -178,10 +172,10 @@ Some mods require manual file editing:
 
 ---
 
-## 📚 Quick Links
+## Quick Links
 
-- 🌾 [Start Page](/start.md)  
-- 🚀 [Installation Guide](/install.md)  
-- 🔄 [Updating Collections](/updating.md)  
-- 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)
+- [Start Page](/start.md)  
+- [Installation Guide](/install.md)  
+- [Updating Collections](/updating.md)  
+- [Troubleshooting](/troubleshooting.md)  
+- [FAQ & Known Issues](/faq-and-known-issues.md)
