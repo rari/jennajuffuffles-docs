@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Check Collection Update Date
+## Check Collection Update Date
 
 Before downloading any mods, check the **last update date** for the collection:  
 [svVe Collection Changelog](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m/revisions/87/changelog)  
 
-> ⚠️ Do **not** download mods released **after** the collection's last update date — they may not be compatible and could cause instability.
+> **Important:** Do **not** download mods released **after** the collection's last update date — they may not be compatible and could cause instability.
 
 ---
 
-## 📥 Step 1 — Download the Mods
+## Step 1 — Download the Mods
 
 1. Visit the [Stardew Valley VERY Expanded collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m).  
 2. Open the **Mods** tab.  
@@ -34,7 +34,7 @@ Before downloading any mods, check the **last update date** for the collection:
 
 ---
 
-## ⚙️ Step 2 — Apply Configuration Files
+## Step 2 — Apply Configuration Files
 
 Download the official configuration package:  
 [svVe Configuration Files on Nexus](https://www.nexusmods.com/stardewvalley/mods/20870)  
@@ -45,7 +45,7 @@ This page includes configurations for:
 - Aesthetic Valley | Witchcore  
 - Shared configurations used across collections
 
-> Tip: use CTRL+F and search "AVF" or "AVW" if installing an Aesthetic Valley!
+> **Tip:** Use CTRL+F and search "AVF" or "AVW" if installing an Aesthetic Valley!
 
 **Extract the 7zip files** using [7-Zip](https://www.7-zip.org/) (Windows) or [The Unarchiver](https://theunarchiver.com/) (Mac), then merge the configuration files into the **Mods/** folders they match.  
 On Mac, use **Option + drag** to merge folders.
@@ -54,7 +54,7 @@ You can modify settings later in-game via **Generic Mod Configuration Menu (GMCM
 
 ---
 
-## 🩹 Step 3 — Apply Required Patches
+## Step 3 — Apply Required Patches
 
 **For Stardew Valley VERY Expanded and Aesthetic Valley | Witchcore installations:**
 - [Grandpa's Tools Patch (Google Drive)](https://drive.google.com/file/d/1F7OcaaxAqz8B8ifIGGSgqWYe9dOMI5wH/view) — Replace the relevant files in the Grandpa's Tools mod folder with the patched versions.
@@ -65,7 +65,7 @@ You can modify settings later in-game via **Generic Mod Configuration Menu (GMCM
 
 ---
 
-## 🎨 Step 4 — Aesthetic Valley Compatibility Files
+## Step 4 — Aesthetic Valley Compatibility Files
 
 If installing **Fairycore** or **Witchcore**, make sure to also download and install the **appropriate compatibility files** for the UI mod included in that collection.
 
@@ -88,7 +88,7 @@ If installing **Fairycore** or **Witchcore**, make sure to also download and ins
 
 ---
 
-## 🧪 Step 5 — Launch with SMAPI
+## Step 5 — Launch with SMAPI
 
 1. Install SMAPI: [Official SMAPI Guide](https://stardewvalleywiki.com/Modding:Installing_SMAPI)  
 2. Launch the game using the SMAPI executable.  
@@ -96,22 +96,22 @@ If installing **Fairycore** or **Witchcore**, make sure to also download and ins
 
 ---
 
-## 🛠️ Step 6 — Update Notices in SMAPI
+## Step 6 — Update Notices in SMAPI
 
 Some mods may show an update notification in SMAPI even when no update is actually needed.  
 If you wish to suppress the notice, edit the mod's `manifest.json` and set the `"Version"` to match the version shown on Nexus.
 
 ---
 
-## 📚 Quick Links
+## Quick Links
 
-- 🌾 [Start Page](/start.md)  
-- 🚀 [Installation Guide](/install.md)  
-- 🧩 [Manual Installation Guide](/manual-install.md)  
-- 🔄 [Updating Collections](/updating.md)  
-- 🔀 [Combining Collections](/combining.md)  
-- 🎨 [Personalization & Custom Configurations](/personalization.md)  
-- 🎮 [Keybinds & Controllers](/keybinds.md)  
-- 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)
+- [Start Page](/start.md)  
+- [Installation Guide](/install.md)  
+- [Manual Installation Guide](/manual-install.md)  
+- [Updating Collections](/updating.md)  
+- [Combining Collections](/combining.md)  
+- [Personalization & Custom Configurations](/personalization.md)  
+- [Keybinds & Controllers](/keybinds.md)  
+- [Troubleshooting](/troubleshooting.md)  
+- [FAQ & Known Issues](/faq-and-known-issues.md)
 

@@ -9,19 +9,19 @@ This guide covers the best practices for updating your Stardew Valley collection
 
 ---
 
-## 📋 Pre-Update Steps
+## Pre-Update Steps
 
 Before updating, prepare your setup:
 
 1. **Back up your save files** - It's recommended to create a backup of your Stardew Valley saves before updating. See the [Stardew Valley Wiki Saves page](https://www.stardewvalleywiki.com/Saves) for detailed instructions on locating and backing up your save files
 2. **Create or update your private mod collection** containing any mods you've added from outside the collection
-3. **Back up any [custom configurations](/faq-and-known-issues.md#updating-can-overwrite-or-delete-custom-configs)** into a private mod
+3. **Back up any [custom configurations](/personalization.md)** into a private mod
 
-> 💡 **Save Backup Tip:** You can compress your entire save folder (or individual farm folders) as a ZIP file for easy storage and extraction later. This makes it simple to restore your saves if needed.
+> **Save Backup Tip:** You can compress your entire save folder (or individual farm folders) as a ZIP file for easy storage and extraction later. This makes it simple to restore your saves if needed.
 
 ---
 
-## 🔄 Recommended Update Method
+## Recommended Update Method
 
 The most stable way to update your collections is to start fresh with a new profile:
 
@@ -39,11 +39,11 @@ The most stable way to update your collections is to start fresh with a new prof
 1. **Add any custom configuration or private collection** to the new profile
 2. **Remove the old profile** from the profiles page if desired
 
-> 💡 **Note:** Vortex profiles are not tied to save files, so your game saves will remain intact.
+> **Note:** Vortex profiles are not tied to save files, so your game saves will remain intact.
 
 ---
 
-## ⚡ Alternative: Update Button Method
+## Alternative: Update Button Method
 
 You can also use the **Update** button on the Collections page, though this method is less stable:
 
@@ -55,15 +55,14 @@ You can also use the **Update** button on the Collections page, though this meth
 
 ---
 
-## 🚫 What NOT to Do
+## What NOT to Do
 
 - **Don't update individual mods** - always wait for collection updates to keep the collection intact and stable
-- **Don't mix update methods** - stick to one approach per update
 - **Don't skip the "Remove All" prompt** if using the update button method
 
 ---
 
-## 🛠️ Troubleshooting After Updates
+## Troubleshooting After Updates
 
 If you encounter issues after updating:
 
@@ -73,14 +72,14 @@ If you encounter issues after updating:
 
 ---
 
-## 📚 Quick Links
+## Quick Links
 
-- 🌾 [Start Page](/start.md)  
-- 🚀 [Installation Guide](/install.md)  
-- 🧩 [Manual Installation Guide](/manual-install.md)  
-- 🔄 [Updating Collections](/updating.md)  
-- 🔀 [Combining Collections](/combining.md)  
-- 🎨 [Personalization & Custom Configurations](/personalization.md)  
-- 🎮 [Keybinds & Controllers](/keybinds.md)  
-- 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)  
+- [Start Page](/start.md)  
+- [Installation Guide](/install.md)  
+- [Manual Installation Guide](/manual-install.md)  
+- [Updating Collections](/updating.md)  
+- [Combining Collections](/combining.md)  
+- [Personalization & Custom Configurations](/personalization.md)  
+- [Keybinds & Controllers](/keybinds.md)  
+- [Troubleshooting](/troubleshooting.md)  
+- [FAQ & Known Issues](/faq-and-known-issues.md)  

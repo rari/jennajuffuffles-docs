@@ -13,7 +13,7 @@
 
 ---
 
-## 🌱 Prerequisites
+## Prerequisites
 
 1. Install **Stardew Valley** (Steam, GOG, or Game Pass).
 2. Update your game to the [latest version](https://stardewvalleywiki.com/Version_History).
@@ -25,7 +25,7 @@
 
 ---
 
-## 💻 Setup Vortex for PC Users
+## Setup Vortex for PC Users
 
 Vortex is the recommended mod manager for svVe.  
 **Important:** Enable **Symbolic Links** in Vortex settings if Stardew Valley is not installed on drive C:.
@@ -35,7 +35,7 @@ Vortex is the recommended mod manager for svVe.
 
 ---
 
-## 🖥️ PC Installation via Vortex
+## PC Installation via Vortex
 
 ### 1. Clear Existing Mods
 1. In Vortex **Mods** tab, click **Purge Mods**.
@@ -47,7 +47,7 @@ Vortex is the recommended mod manager for svVe.
    > Nexus Premium users get auto-downloads. Free users follow manual prompts.
 3. Select **Install Optional Mods** when asked.
 
-> ⚠️ **Important:** Always use Optional Mods unless you're using *Stardew Valley Very Expanded + Aesthetic Valley*. In that case, use optional mods from **only one** collection to avoid conflicts. See: [Combining Collections](/combining.md)
+> **Important:** Always use Optional Mods unless you're using *Stardew Valley Very Expanded + Aesthetic Valley*. In that case, use optional mods from **only one** collection to avoid conflicts. See: [Combining Collections](/combining.md)
 
 ### 3. Pre-Launch Setup
 1. Install & configure [SMAPI](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows#Configure_your_game_client).
@@ -57,7 +57,7 @@ Vortex is the recommended mod manager for svVe.
 
 ---
 
-## 🎮 Steam Deck Installation
+## Steam Deck Installation
 
 1. Install Stardew Valley via Steam in **Desktop Mode**. Verify integrity.
 2. Transfer your modded game files from PC to Deck via USB or network.
@@ -67,16 +67,43 @@ Vortex is the recommended mod manager for svVe.
 
 ---
 
-## 🍏 Mac Installation
+## Mac Installation
 
-1. Download mods manually from the Collection’s *Mods* tab.  
+1. Download mods manually from the Collection's *Mods* tab.  
 2. Download the official [svVe Configuration Files](https://www.nexusmods.com/stardewvalley/mods/20870).  
 3. Merge downloaded configuration files into your mods folder (Option + drag to merge).  
 4. Verify mod placement and launch the game.
 
+### MacOS SMAPI Security Issues
+
+**Important:** Certain MacOS versions flag SMAPI as malware and forcibly move it to the trash, preventing installation.
+
+#### Problem 1: Unable to Run SMAPI Installer
+**Solution:** When you receive a security message, go to Settings → Security (or Privacy & Security) and hit "Open Anyways" where it lists the blocked file.
+
+#### Problem 2: MacOS reports "Malware Blocked and Moved to Trash"
+**Solution:** Enable MacOS security permissions:
+
+1. Go to System Settings > Privacy and Security
+2. Make sure Developer Tools is visible. If you don't see it, open Terminal through Spotlight and enter:
+   ```
+   spctl developer-mode enable-terminal
+   ```
+3. Click Developer Tools
+4. Add Terminal to the list and enable it
+5. If you have other terminal programs (iTerm2, Hyper, Kitty, Alacritty), add them to Developer Tools as well
+6. Restart your computer
+7. Force close Steam if using it
+8. Download and reinstall SMAPI
+
+**Note:** This solution may change over time as Apple updates MacOS security behaviors. If this doesn't work:
+- Restart your computer again
+- Force close Steam, then try installing SMAPI
+- Check the [SMAPI Mac installation wiki](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Mac) for updated solutions
+
 ---
 
-## ⚙️ Mod Configuration
+## Mod Configuration
 
 - Vortex auto-deploys the recommended settings.
 - If installing manually, merge configuration files yourself.
@@ -86,18 +113,18 @@ Vortex is the recommended mod manager for svVe.
 
 ---
 
-## 🔄 Updating the Collection
+## Updating the Collection
 
 For detailed updating instructions, see our [**Updating Collections**](/updating.md) guide.
 
 **Quick Summary:**
-- 💡 Collections will show an **Update** button when an update is available
-- 🧩 If using the update button, always select **Remove All** when prompted
-- 🚫 Do **not** update individual mods
+- Collections will show an **Update** button when an update is available
+- If using the update button, always select **Remove All** when prompted
+- Do **not** update individual mods
 
 ---
 
-## 🎨 Combining with Aesthetic Valley Collections
+## Combining with Aesthetic Valley Collections
 
 When combining, always let the **matching recolor or style config load last** in Vortex Rules Manager.
 
@@ -116,15 +143,15 @@ If using **Immersive Farm 2 Remastered**, disable its Greenhouse option in GMCM.
 
 ---
 
-## 📚 Quick Links
+## Quick Links
 
-- 🌾 [Start Page](/start.md)  
-- 🚀 [Installation Guide](/install.md)  
-- 🧩 [Manual Installation Guide](/manual-install.md)  
-- 🔄 [Updating Collections](/updating.md)  
-- 🔀 [Combining Collections](/combining.md)  
-- 🎨 [Personalization & Custom Configurations](/personalization.md)  
-- 🎮 [Keybinds & Controllers](/keybinds.md)  
-- 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)  
+- [Start Page](/start.md)  
+- [Installation Guide](/install.md)  
+- [Manual Installation Guide](/manual-install.md)  
+- [Updating Collections](/updating.md)  
+- [Combining Collections](/combining.md)  
+- [Personalization & Custom Configurations](/personalization.md)  
+- [Keybinds & Controllers](/keybinds.md)  
+- [Troubleshooting](/troubleshooting.md)  
+- [FAQ & Known Issues](/faq-and-known-issues.md)  
 

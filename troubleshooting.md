@@ -9,13 +9,13 @@
 
 ---
 
-## 🚀 Quick Fix: Try Restarting First!
+## Quick Fix: Try Restarting First!
 
 Before diving into complex troubleshooting steps, **restart your computer** and try again. Many issues with Vortex, SMAPI, or the game itself can be resolved with a simple restart. This is often the fastest solution and can save you a lot of time!
 
 ---
 
-## **Part 1 — Vortex Profile Check** *(Only collection mods selected)*
+## Part 1 — Vortex Profile Check *(Only collection mods selected)*
 
 1. On the [Nexus Mods collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.
 2. When prompted, install into a **New Profile**.
@@ -24,7 +24,7 @@ Before diving into complex troubleshooting steps, **restart your computer** and 
 
 ---
 
-## **Part 2 — Game Mods Folder Check** *(Only mods Vortex knows about)*
+## Part 2 — Game Mods Folder Check *(Only mods Vortex knows about)*
 
 5. In Vortex → **Mods** tab, click **Purge** to remove all active mods from the game folder.
 6. Click **Open → Game Mods Folder** and manually delete any files/folders left behind.
@@ -32,37 +32,37 @@ Before diving into complex troubleshooting steps, **restart your computer** and 
 
 ---
 
-## **Part 3 — Game Installation Check** *(Game itself is healthy)*
+## Part 3 — Game Installation Check *(Game itself is healthy)*
 
 8. Use your store launcher to **verify integrity** of game files (fast reinstall):
 
-   * **Steam:** Library → Stardew Valley → Properties → Installed Files → Verify  
-   * **GOG:** More → Manage Installation → Verify / Repair  
-   * **Xbox / Game Pass:** Right-click game → Manage → Files → Verify and Repair
+   - **Steam:** Library → Stardew Valley → Properties → Installed Files → Verify  
+   - **GOG:** More → Manage Installation → Verify / Repair  
+   - **Xbox / Game Pass:** Right-click game → Manage → Files → Verify and Repair
 
 ---
 
-## 💬 Need More Help?
+## Need More Help?
 
 If you run into issues that aren't solved here, you can:
-- Reach out to our community on **[Discord](https://discord.com/invite/de2NrHXuty)** for live assistance.
-- Create and share a SMAPI log so others can help diagnose your issue.
+- Reach out to our community on **[Discord](https://discord.com/invite/de2NrHXuty)** for live assistance
+- Create and share a SMAPI log so others can help diagnose your issue
 
-## 💬 Further Support
+## Further Support
 
-💬 For Vortex support:
+For Vortex support:
 - **Official Vortex Discord**: [Join Here](https://discord.com/invite/nexusmods)
 - **Support Hours**: 9 AM – 5 PM GMT, Monday–Thursday
 
-📚 More help available:
+More help available:
 - **Vortex Wiki**: [Read Here](https://wiki.nexusmods.com/index.php/Category:Vortex)
 - **Stardew Setup Guide**: [Read Here](https://wiki.nexusmods.com/index.php/Modding_Stardew_Valley_with_Vortex)
 
-🚫 The **official Stardew Valley Discord** does *not* support Vortex. Please respect their policy.
+The **official Stardew Valley Discord** does *not* support Vortex. Please respect their policy.
 
 ---
 
-## 📚 Additional Resources for Expansion Mods
+## Additional Resources for Expansion Mods
 
 If you're experiencing issues with specific expansion mods, these resources may help:
 
@@ -81,13 +81,13 @@ If you're experiencing issues with specific expansion mods, these resources may 
 - [Wiki](https://eastscarp.fandom.com/wiki/East_Scarp_Wiki)
 - [Discord](https://discord.com/invite/QFtDA3CJwJ)
 
-⚠️ **Important:** Please avoid troubleshooting in these Discords unless you can show (via log) a repeatable error from their mod without the rest of the collection active.
+**Important:** Please avoid troubleshooting in these Discords unless you can show (via log) a repeatable error from their mod without the rest of the collection active.
 
 ---
 
-## 📄 How to Create a SMAPI Log
+## How to Create a SMAPI Log
 
-**Don't worry, this is easier than it sounds!** A SMAPI log is just a text file that shows what mods loaded and any errors that occurred.
+A SMAPI log is a text file that shows what mods loaded and any errors that occurred.
 
 ### Windows Users:
 1. Press the **Windows** and **R** keys at the same time.
@@ -106,18 +106,18 @@ Visit [smapi.io/log](https://smapi.io/log) for platform-specific instructions.
 1. Upload it to [smapi.io/log](https://smapi.io/log) 
 2. Share the link in our [Discord](https://discord.gg/de2NrHXuty) for help!
 
-**💡 Tip:** The log will show exactly which mods loaded successfully and highlight any problems in red.
+**Tip:** The log will show exactly which mods loaded successfully and highlight any problems in red.
 
 ---
 
-## 📚 Quick Links
+## Quick Links
 
-- 🌾 [Start Page](/start.md)  
-- 🚀 [Installation Guide](/install.md)  
-- 🧩 [Manual Installation Guide](/manual-install.md)  
-- 🔄 [Updating Collections](/updating.md)  
-- 🔀 [Combining Collections](/combining.md)  
-- 🎨 [Personalization & Custom Configurations](/personalization.md)  
-- 🎮 [Keybinds & Controllers](/keybinds.md)  
-- 🛠️ [Troubleshooting](/troubleshooting.md)  
-- ❓ [FAQ & Known Issues](/faq-and-known-issues.md)
+- [Start Page](/start.md)  
+- [Installation Guide](/install.md)  
+- [Manual Installation Guide](/manual-install.md)  
+- [Updating Collections](/updating.md)  
+- [Combining Collections](/combining.md)  
+- [Personalization & Custom Configurations](/personalization.md)  
+- [Keybinds & Controllers](/keybinds.md)  
+- [Troubleshooting](/troubleshooting.md)  
+- [FAQ & Known Issues](/faq-and-known-issues.md)
