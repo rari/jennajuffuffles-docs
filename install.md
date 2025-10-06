@@ -78,6 +78,8 @@ Vortex is the recommended mod manager for svVe.
 
 **Important:** Certain MacOS versions flag SMAPI as malware and forcibly move it to the trash, preventing installation.
 
+*The following solutions are based on community findings and may change as Apple updates MacOS security behaviors.*
+
 #### Problem 1: Unable to Run SMAPI Installer
 **Solution:** When you receive a security message, go to Settings → Security (or Privacy & Security) and hit "Open Anyways" where it lists the blocked file.
 
@@ -100,6 +102,8 @@ Vortex is the recommended mod manager for svVe.
 - Restart your computer again
 - Force close Steam, then try installing SMAPI
 - Check the [SMAPI Mac installation wiki](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Mac) for updated solutions
+
+*For the most current solutions and community discussions, visit the the [SMAPI GitHub repository](https://github.com/Pathoschild/SMAPI).*
 
 ---
 
