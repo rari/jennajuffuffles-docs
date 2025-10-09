@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Keybinds & Controllers**
 
-*Last updated:* 2025-18-09  
+*Last updated:* 2025-08-10  
 *Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -29,9 +29,24 @@ Favorited items are prevented from:
 - Being considered when using the "Organize" button  
 - Being considered when using the "Add to Existing Stacks" button in a chest  
 
+## Dynamic Reflections
+**Action:** Open Dynamic Reflections Configuration
+- Default Key: `R`  
+- Action Key: Not assigned
+
 ## Event Lookup
 **Action:** View all available events for today  
 - Default Key: `N`
+
+## Fashion Sense
+**Action:** Open Fashion Sense without mirror  
+- Default Key: Not assigned  
+- Action Key: `G`
+
+## Generic Mod Manager
+**Action:** Open Generic Mod Manager
+- Default Key: Not assigned  
+- Action Key: Numpad `-`
 
 ## Lookup Anything
 **Action:** Toggle Lookup Anything  
@@ -46,6 +61,10 @@ Favorited items are prevented from:
 
 **Action:** Toggle mini-map  
 - Default Key: `|` (Pipe)
+
+## Scheduler
+**Action:** Display schedules  
+- Default Key: `V`
 
 ## To-Dew
 **Action:** Open To-Dew List  

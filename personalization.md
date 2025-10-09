@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Personalization & Custom Configurations**
 
-*Last updated:* 2025-18-09  
+*Last updated:* 2025-08-10  
 *Applies to Stardew Valley:* **1.6.15+**
 
 This guide covers how to personalize your Stardew Valley experience with custom configurations and settings that persist through updates.
@@ -20,34 +20,45 @@ Personalization allows you to customize your game experience while maintaining c
 
 ---
 
-## Custom Configurations
+## Personal Customizations and Patches
 
-Use the [**Add Custom Mod Button**](https://www.nexusmods.com/site/mods/863) Vortex extension to create a persistent "My Configs" mod that always loads after your main mods:
+Use the [**Add Custom Mod Button**](https://www.nexusmods.com/site/mods/863) Vortex extension to create persistent customizations and patches that always load after your main mods:
 
-### Step 1: Configure Your Settings
+### Creating Personal Customizations
+
+**Step 1: Configure Your Settings**
 1. Configure mods as desired in-game (GMCM recommended)
 2. Test your settings to ensure they work as expected
 
-### Step 2: Create Custom Config Mod
+**Step 2: Create Custom Config Mod**
 1. In Vortex, click **Create new mod** via the Add Custom Mod Button
 2. Name it something like "My Configs" or "Personal Settings"
 
-### Step 3: Copy Configuration Files
+**Step 3: Copy Configuration Files**
 1. Navigate to your Stardew Valley Mods folder
 2. Find the mods you've customized
 3. Copy the entire mod folders into your "My Configs" mod folder
 4. **Delete everything inside except your config files** (usually `config.json`)
 
-### Step 4: Set Load Order
+**Step 4: Set Load Order**
 1. In **Vortex → Mods → Manage Rules**
 2. Set "My Configs" to load **after** the mods it's overriding
 3. Click **Deploy**
 
-This ensures your personal settings are reapplied automatically, even after updates. This method can also be used to create persistent patches and minor local modifications.
+### Creating Patches and Local Mods
+
+The same process can be used to create persistent patches and minor local mods:
+
+1. Create a custom mod using the Add Custom Mod Button
+2. Add your custom files, patches, or other mods
+3. Set the load order to ensure your changes take priority
+4. Your customizations will persist through updates
+
+This method ensures your personal settings and mods are reapplied automatically, even after collection updates.
 
 ---
 
-## Adding Personal Mods
+## Adding Additional Mods
 
 ### Installing Mods from Nexus
 
@@ -72,6 +83,7 @@ This way you can easily reinstall or redeploy them to a new profile after updati
 2. **Right-click "Add to Collection"** on each mod in the Mods page
 3. **Upload to Nexus' server** from the Workshop section of the Collection tab and keep it updated for future downloads
 4. **Share the private link** with friends 
+*Note: You can share your collection with friends using the private link without making it public. Keeping personal collections private is recommended.*
 
 ### Modifying Mods
 
@@ -132,24 +144,21 @@ Some mods require manual file editing:
 2. **Verify your custom settings** are still active
 3. **Test** before continuing your save
 
+### Lost Settings
+- **Restore from backup** if you have one
+- **Reconfigure manually** using GMCM or text editors
+- **Check if official folder names changed** and updated your customizations to match
+
+
 ---
 
 ## Troubleshooting Personalizations
 
 ### Settings Not Applying
 - **Check load order** - custom configs must load after the mods they're overriding. This is done with "Manage Rules".
-- **Verify file paths** - ensure config files are placed in a folder structure that matches the mod they alter
-- **Check file permissions** - ensure files aren't read-only
+- **Verify file paths** - ensure config files are placed in a folder structure that matches the mod they alter.
 
-### Conflicts with Updates
-- **Disable conflicting mods** temporarily
-- **Update your custom configs** to match new mod versions
-- **Check mod changelogs** for breaking changes
 
-### Lost Settings
-- **Restore from backup** if you have one
-- **Reconfigure manually** using GMCM or text editors
-- **Check if settings moved** to different config files
 
 ---
 
@@ -176,6 +185,10 @@ Some mods require manual file editing:
 
 - [Start Page](/start.md)  
 - [Installation Guide](/install.md)  
+- [Manual Installation Guide](/manual-install.md)  
 - [Updating Collections](/updating.md)  
+- [Combining Collections](/combining.md)  
+- [Personalization & Custom Configurations](/personalization.md)  
+- [Keybinds & Controllers](/keybinds.md)  
 - [Troubleshooting](/troubleshooting.md)  
 - [FAQ & Known Issues](/faq-and-known-issues.md)

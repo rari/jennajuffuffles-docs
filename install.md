@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Installation Guide**
 
-*Last updated:* 2025-18-09  
+*Last updated:* 2025-08-10  
 *Applies to Stardew Valley:* **1.6.15+**  
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -45,7 +45,8 @@ Vortex is the recommended mod manager for svVe.
 1. On the [collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.
 2. Install into a **New Profile**.  
    > Nexus Premium users get auto-downloads. Free users follow manual prompts.
-3. Select **Install Optional Mods** when asked.
+3. Configuration files will be automatically installed via FOMOD during collection installation.
+4. Select **Install Optional Mods** when asked.
 
 > **Important:** Always use Optional Mods unless you're using *Stardew Valley Very Expanded + Aesthetic Valley*. In that case, use optional mods from **only one** collection to avoid conflicts. See: [Combining Collections](/combining.md)
 
@@ -70,9 +71,8 @@ Vortex is the recommended mod manager for svVe.
 ## Mac Installation
 
 1. Download mods manually from the Collection's *Mods* tab.  
-2. Download the official [svVe Configuration Files](https://www.nexusmods.com/stardewvalley/mods/20870).  
-3. Merge downloaded configuration files into your mods folder (Option + drag to merge).  
-4. Verify mod placement and launch the game.
+2. Configuration files are now distributed as FOMOD installers for each collection. All configuration folders can be found in the "files" folder of each collection's FOMOD. Merge the configuration folders into your mods folder (Option + drag to merge).  
+5. Verify mod placement and launch the game.
 
 ### MacOS SMAPI Security Issues
 
@@ -109,11 +109,19 @@ Vortex is the recommended mod manager for svVe.
 
 ## Mod Configuration
 
+- Configuration files are automatically installed via FOMOD during collection installation.
 - Vortex auto-deploys the recommended settings.
-- If installing manually, merge configuration files yourself.
+- If installing manually, merge configuration files from the "files" folder of the collection's configuration fomod.
 - Adjust in-game via **GMCM** (gear icon on the title screen).
 - For co-op: all players should match configurations.
 - Want to customize further? See our [Personalization & Custom Configurations](/personalization.md) guide.
+
+### Reinstalling Configurations
+
+If you need to reinstall configuration files at any time:
+1. In Vortex, right-click on the collection's FOMOD file
+2. Select **"Reinstall"** from the context menu
+3. This will provide a fresh installation of all configuration files
 
 ---
 

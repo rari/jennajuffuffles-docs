@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **Updating Collections**
 
-*Last updated:* 2025-18-09  
+*Last updated:* 2025-08-10  
 *Applies to Stardew Valley:* **1.6.15+**
 
 This guide covers the best practices for updating your Stardew Valley collections to ensure a smooth experience.
@@ -39,6 +39,12 @@ The most stable way to update your collections is to start fresh with a new prof
 1. **Add any custom configuration or private collection** to the new profile
 2. **Remove the old profile** from the profiles page if desired
 
+### Step 4: All Modss Enabled
+1. After the update completes, go to the **Mods** tab in the left sidebar
+2. Find the collection entry and **Disable** it
+3. **Re-enable** the collection
+4. Click **Apply to Recommended** when prompted to ensure all mods are enabled
+
 > **Note:** Vortex profiles are not tied to save files, so your game saves will remain intact.
 
 ---
@@ -50,8 +56,12 @@ You can also use the **Update** button on the Collections page, though this meth
 1. In Vortex **Collections** tab, click **Update** when available
 2. When prompted, **always select "Remove All"**
 3. Follow the update prompts
+4. After the update completes, go to the **Mods** tab in the left sidebar
+5. Find the collection entry and **Disable** it
+6. **Re-enable** the collection
+7. Click **Apply to Recommended** when prompted to ensure all mods are enabled
 
-> ⚠️ **Warning:** This method is less recommended as it can sometimes cause issues with mod conflicts.
+> ⚠️ **Warning:** This method is less recommended, but may be used if you are not prepared to create a new profile.
 
 ---
 
