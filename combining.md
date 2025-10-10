@@ -3,7 +3,7 @@
 > 📂 **Docs** / [Start](/start.md) / **Combining Collections**
 
 
-*Last updated:* 2025-08-10  
+*Last updated:* 2025-09-10  
 *Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -29,7 +29,7 @@ For easiest combining, **only download one set of 'optional mods'**. This method
 
 **Custom Selections:** While you can pick and choose optional mods individually, review your configuration files afterwards as this may introduce unexpected behavior.
 
-**Configuration Management:** For easier configuration management when combining collections, there is a special [Configuration Manager FOMOD](https://www.nexusmods.com/stardewvalley/mods/20870?tab=files) available on Nexus that provides a wizard interface for Vortex and Nexus Mod App users to select specific configurations. 
+**Configuration Management:** For easier configuration management when combining collections, there is a special [Configuration Manager FOMOD](https://www.nexusmods.com/stardewvalley/mods/20870?tab=files) available on Nexus that provides a wizard interface for Vortex users to select specific configurations. 
 
 - Turn off the included configuration mods before using this tool
 - This tool is experimental, feedback is appreciated
