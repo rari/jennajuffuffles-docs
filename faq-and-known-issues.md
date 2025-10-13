@@ -35,6 +35,8 @@ Yes. All players should have matching mods and configurations for the best co-op
 ### Where can I download the collections?
 Nexus Mods is the only official source. Premium users benefit from one-click downloads. Avoid unauthorized sources to ensure you receive updates and support the mod creators.
 
+**Note:** The Nexus Mods App is currently having minor difficulties handling specific files, such as Solarium Spa from Stardew Valley VERY Expanded. We're seeking a fix for this issue.
+
 ---
 
 ## Gameplay FAQs
@@ -183,6 +185,10 @@ To find internal names for other NPCs:
 patch export "Data/NPCDispositions"
 ```
 
+### East Scarp NPCs Not Attending Festivals
+
+Certain NPCs from East Scarp do not attend festivals unless you have 4 hearts with them. This is expected behavior and not a bug.
+
 ---
 
 
@@ -215,6 +221,14 @@ Vortex stores mods in a compressed library, extracts them to staging, then deplo
 Mods with improper folder layouts may not deploy correctly. This mostly affects manually added mods or content packs, not curated collections. The files aren't lost — they're just misplaced.
 
 **Workaround:** Ensure the mods you use follow the proper folder structure from the [official Stardew Valley Wiki guide](https://stardewvalleywiki.com/Modding%3AContent_packs).
+
+### Red errors from "an empty Vortex folder"
+
+Red errors from "an empty Vortex folder" may be caused by old folders left over from disabled mods, or the configuration of mods being installed without the associated mods. This happens most often if recommended mods are not installed and is non-harmful. It is recommend you enable the recommended files or customize your configurations.
+
+### Generic Mod Manager version compatibility
+
+Generic Mod Manager is intentionally not updated to the newest version. The newest version will cause a soft lock if you access the configuration menus of certain mods such as Dynamic Reflections.
 
 ---
 

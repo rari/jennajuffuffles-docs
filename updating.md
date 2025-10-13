@@ -39,7 +39,7 @@ The most stable way to update your collections is to start fresh with a new prof
 1. **Add any custom configuration or private collection** to the new profile
 2. **Remove the old profile** from the profiles page if desired
 
-### Step 4: All Modss Enabled
+### Step 4: All Mods Enabled
 1. After the update completes, go to the **Mods** tab in the left sidebar
 2. Find the collection entry and **Disable** it
 3. **Re-enable** the collection
