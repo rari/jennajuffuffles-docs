@@ -2,7 +2,7 @@
 
 > 📂 **Docs** / [Start](/start.md) / **FAQ & Known Issues**
 
-*Last updated:* 2025-08-10  
+*Last updated:* 2025-14-10  
 *Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
@@ -165,7 +165,7 @@ Maps cannot be switched mid-save unless using a mod like [Easy Farm Switcher](ht
 
 ### Duplicated NPCs
 
-A rare bug that causes some NPCs to appear twice. This is a known issue in the game (not specifically related to the collection) with an unknown cause that sometimes happens when talking to NPCs.
+This is caused by a bug that causes some NPCs to split. This is a known issue in the game (not specifically related to the collection) with an unknown cause that sometimes happens when talking to NPCs while they are in movement.
 
 **Solution:**  
 1. Load your save.  
