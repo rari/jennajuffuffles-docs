@@ -106,6 +106,29 @@ Multiplayer sessions may occasionally lag or lose sync. Relaunching the game or 
 - Re-add **SMAPI** as the primary tool in Vortex Dashboard.  
 - Follow the SMAPI section of the [Install Guide](/install.md) to connect SMAPI to your launch shortcut.
 
+#### Failed to Store Cache Entry (SinZational Speedy Solutions)
+
+You may see red error messages in your SMAPI log like:
+
+```
+ERROR  SinZational Speedy Solutions  Failed to store cache entry for [file path].tmx
+```
+
+**Example:**
+```
+00:40:19  ERROR  SinZational Speedy Solutions  Failed to store cache entry for
+c:\program files (x86)\steam\steamapps\common\Stardew Valley\Mods\[CP] Ridgeside Village\Assets\Maps\EventMaps\RSVOpenPlot.tmx
+```
+
+This message comes from the *SinZational Speedy Solutions* performance optimization mod. It indicates that the mod couldn't cache a specific map file for faster loading.
+
+> **Important:** This is not a crash or gameplay-affecting error. The game and affected mods will still load and function normally.
+
+**Solution:**  
+None needed. This error is purely informational and safe to ignore.
+
+*This issue does not indicate missing files, corruption, or mod conflicts. You might see it more often with custom maps or large mods that have unique file structures.*
+
 ### Mod Conflicts & File Rules
 
 #### Unresolved File Conflicts (Manage Rules)
