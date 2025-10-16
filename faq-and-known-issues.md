@@ -35,8 +35,6 @@ Yes. All players should have matching mods and configurations for the best co-op
 ### Where can I download the collections?
 Nexus Mods is the only official source. Premium users benefit from one-click downloads. Avoid unauthorized sources to ensure you receive updates and support the mod creators.
 
-**Note:** The Nexus Mods App is currently having minor difficulties handling specific files, such as Solarium Spa from Stardew Valley VERY Expanded. We're seeking a fix for this issue.
-
 ---
 
 ## Gameplay FAQs
@@ -251,7 +249,7 @@ Red errors from "an empty Vortex folder" may be caused by old folders left over 
 
 ### Generic Mod Manager version compatibility
 
-Generic Mod Manager is intentionally not updated to the newest version. The newest version will cause a soft lock if you access the configuration menus of certain mods such as Dynamic Reflections.
+Generic Mod Manager is intentionally not updated to the newest version. The newest version will cause a soft lock if you access the configuration menus of certain mods such as Dynamic Reflections. You may use `debug tailor` to escape the menu if this softlock occurs.
 
 ---
 
