@@ -65,6 +65,14 @@ If you enjoy your experience, please take a moment to also endorse the individua
 
 ---
 
+## Join Our Community
+
+💬 The best place to find help is the [Discord Server](https://discord.gg/MPcgJUXeeY).  
+Select Stardew Valley as your interest.  
+Our community is eager to help!
+
+---
+
 ## Language Support
 
 If you want to play Stardew Valley VERY Expanded in your language, language packs are available. The mods in these packs are created by various translators, so please support them and their work by endorsing them on Nexus.
