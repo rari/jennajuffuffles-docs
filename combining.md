@@ -29,10 +29,14 @@ For easiest combining, **only download one set of 'optional mods'**. This method
 
 **Custom Selections:** While you can pick and choose optional mods individually, review your configuration files afterwards as this may introduce unexpected behavior.
 
-**Configuration Management:** For easier configuration management when combining collections, there is a special [Configuration Manager FOMOD](https://www.nexusmods.com/stardewvalley/mods/20870?tab=files) available on Nexus that provides a wizard interface for Vortex users to select specific configurations. 
+**Configuration Management:** For easier configuration management when combining collections, use the [Collection Configuration Manager FOMOD](https://www.nexusmods.com/stardewvalley/mods/20870?tab=files) available on Nexus. This tool provides a wizard interface that allows you to:
 
-- Turn off the included configuration mods before using this tool
-- This tool is experimental, feedback is appreciated
+- Completely customize which configuration files are deployed
+- Remove premade configurations you'd prefer to manage yourself
+
+**To use the Configuration Manager:**
+- Disable the included configuration mods from your collection before using this tool
+- Run the FOMOD installer to select your desired configurations (Works in Vortex, NMA, and MO2)
 
 > **Need help with custom configurations?** See our [Personalization & Custom Configurations](/personalization.md) guide for detailed instructions on protecting your settings.
 
