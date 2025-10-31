@@ -7,7 +7,7 @@
 * [FAQ & Known Issues](Getting%20Started/faq-known-issues.md)
 
 ## Mod Managers
-* [Mod Managers](Installation/index.md)
+* [Mod Managers Overview](Installation/index.md)
 * Vortex
   * [Vortex Installation Guide](Installation/Vortex/installation.md)
   * [FAQ & Common Issues](Installation/Vortex/faq.md)
