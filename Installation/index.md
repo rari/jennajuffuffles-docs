@@ -39,7 +39,7 @@ Manual, step-by-step installation without a manager. Requires applying configura
 
 ### Getting Help
 - 💬 [Discord Community](https://discord.gg/MPcgJUXeeY) - Real-time support
-- 📖 [FAQ & Known Issues](../faq-known-issues.md) - Common solutions
+- 📖 [FAQ & Known Issues](../Getting Started/faq-known-issues.md) - Common solutions
 - 🔍 [Troubleshooting](../Guides/troubleshooting.md) - Detailed help
 
 ### Mod Manager Resources

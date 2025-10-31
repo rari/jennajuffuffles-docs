@@ -1,8 +1,9 @@
 root: ./
 
 redirects:
+  start.md: home.md
   combining.md: Collections/combining-collections.md
-  faq-and-known-issues.md: faq-known-issues.md
+  faq-and-known-issues.md: "Getting Started/faq-known-issues.md"
   install.md: Installation/Vortex/installation.md
   keybinds.md: Collections/Stardew Valley VERY Expanded/keybinds-controllers.md
   manual-install.md: Installation/Manual/installation.md

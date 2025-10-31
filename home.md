@@ -1,6 +1,6 @@
-# Start Here
+# Home
 
-> 📂 Docs / Start
+> 📂 Docs / Home
 
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**

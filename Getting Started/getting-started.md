@@ -53,6 +53,6 @@ Before you begin, ensure you have:
 ## Need Help?
 
 - 💬 **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
-- 📖 **FAQ:** Check our [FAQ & Known Issues](../faq-known-issues.md) for common solutions
+- 📖 **FAQ:** Check our [FAQ & Known Issues](faq-known-issues.md) for common solutions
 - 🔍 **Troubleshooting:** See our [Troubleshooting Guide](../Guides/troubleshooting.md) for detailed help
 
