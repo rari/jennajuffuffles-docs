@@ -8,29 +8,29 @@
 
 ## Mod Managers
 * [Mod Managers Overview](Installation/index.md)
-* Vortex
+* [Vortex](Installation/Vortex/README.md)
   * [Vortex Installation Guide](Installation/Vortex/installation.md)
   * [FAQ & Common Issues](Installation/Vortex/faq.md)
   * [Troubleshooting](Installation/Vortex/troubleshooting.md)
-* Nexus Mods App
+* [Nexus Mods App](Installation/NMA/README.md)
   * [Nexus Mods App Installation Guide](Installation/NMA/installation.md)
   * [FAQ & Common Issues](Installation/NMA/faq.md)
-* Stardrop
+* [Stardrop](Installation/Stardrop/README.md)
   * [Stardrop Installation Guide](Installation/Stardrop/installation.md)
   * [FAQ & Common Issues](Installation/Stardrop/faq.md)
   * [Transferring to Stardrop](Installation/Stardrop/transfer-to-stardrop.md)
-* No Mod Manager
+* [No Mod Manager](Installation/Manual/README.md)
   * [Manual Installation](Installation/Manual/installation.md)
   * [FAQ & Limitations](Installation/Manual/faq.md)
 
 ## Collections
 * [Combining Collections](Collections/combining-collections.md)
-* [Stardew Valley VERY Expanded](Collections/Stardew%20Valley%20VERY%20Expanded/)
+* [Stardew Valley VERY Expanded](Collections/Stardew%20Valley%20VERY%20Expanded/README.md)
   * [Overview](Collections/Stardew%20Valley%20VERY%20Expanded/overview.md)
   * [Translations](Collections/Stardew%20Valley%20VERY%20Expanded/translations.md)
   * [Keybinds & Controllers](Collections/Stardew%20Valley%20VERY%20Expanded/keybinds-controllers.md)
   * [FAQ & Troubleshooting](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md)
-* [Aesthetic Valley Collections](Collections/Aesthetic%20Valley/)
+* [Aesthetic Valley Collections](Collections/Aesthetic%20Valley/README.md)
   * [Keybinds & Controllers](Collections/Aesthetic%20Valley/keybinds-controllers.md)
   * [FAQ & Troubleshooting](Collections/Aesthetic%20Valley/faq.md)
 
