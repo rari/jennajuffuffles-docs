@@ -2,9 +2,9 @@
 * [Home](home.md)
 
 ## Getting Started
-* [Getting Started Guide](Getting Started/getting-started.md)
-* [Updating Collections](Getting Started/updating-collections.md)
-* [FAQ & Known Issues](Getting Started/faq-known-issues.md)
+* [Getting Started Guide](Getting%20Started/getting-started.md)
+* [Updating Collections](Getting%20Started/updating-collections.md)
+* [FAQ & Known Issues](Getting%20Started/faq-known-issues.md)
 
 ## Mod Managers
 * [Mod Managers](Installation/index.md)
