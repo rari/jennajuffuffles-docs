@@ -1,9 +1,9 @@
-# Installation Guide
+# Vortex Installation
 
-> 📂 **Docs** / [Start](/start.md) / **Installation Guide**
+> 📂 Docs / Installation / Vortex / Installation
 
-*Last updated:* 2025-08-10  
-*Applies to Stardew Valley:* **1.6.15+**  
+*Last updated:* 2025-10-31  
+*Applies to Stardew Valley:* **1.6.15+**
 
 > 📖 This guide will be available right on the Nexus Collection page soon!
 
@@ -48,7 +48,7 @@ Vortex is the recommended mod manager for svVe.
 3. Configuration files will be automatically installed via FOMOD during collection installation.
 4. Select **Install Optional Mods** when asked.
 
-> **Important:** Always use Optional Mods unless you're using *Stardew Valley Very Expanded + Aesthetic Valley*. In that case, use optional mods from **only one** collection to avoid conflicts. See: [Combining Collections](/combining.md)
+> **Important:** Always use Optional Mods unless you're using *Stardew Valley Very Expanded + Aesthetic Valley*. In that case, use optional mods from **only one** collection to avoid conflicts. See: [Combining Collections](../../Collections/combining-collections.md)
 
 ### 3. Pre-Launch Setup
 1. Install & configure [SMAPI](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows#Configure_your_game_client).
@@ -74,38 +74,6 @@ Vortex is the recommended mod manager for svVe.
 2. Configuration files are now distributed as FOMOD installers for each collection. All configuration folders can be found in the "files" folder of each collection's FOMOD. Merge the configuration folders into your mods folder (Option + drag to merge).  
 5. Verify mod placement and launch the game.
 
-### MacOS SMAPI Security Issues
-
-**Important:** Certain MacOS versions flag SMAPI as malware and forcibly move it to the trash, preventing installation.
-
-*The following solutions are based on community findings and may change as Apple updates MacOS security behaviors.*
-
-#### Problem 1: Unable to Run SMAPI Installer
-**Solution:** When you receive a security message, go to Settings → Security (or Privacy & Security) and hit "Open Anyways" where it lists the blocked file.
-
-#### Problem 2: MacOS reports "Malware Blocked and Moved to Trash"
-**Solution:** Enable MacOS security permissions:
-
-1. Go to System Settings > Privacy and Security
-2. Make sure Developer Tools is visible. If you don't see it, open Terminal through Spotlight and enter:
-   ```
-   spctl developer-mode enable-terminal
-   ```
-3. Click Developer Tools
-4. Add Terminal to the list and enable it
-5. If you have other terminal programs (iTerm2, Hyper, Kitty, Alacritty), add them to Developer Tools as well
-6. Restart your computer
-7. Force close Steam if using it
-8. Download and reinstall SMAPI
-
-**Note:** This solution may change over time as Apple updates MacOS security behaviors. If this doesn't work:
-- Restart your computer again
-- Force close Steam, then try installing SMAPI
-- Check the [SMAPI Mac installation wiki](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Mac) for updated solutions
-
-*For the most current solutions and community discussions, visit the the [SMAPI GitHub repository](https://github.com/Pathoschild/SMAPI).*
-
----
 
 ## Mod Configuration
 
@@ -114,7 +82,7 @@ Vortex is the recommended mod manager for svVe.
 - If installing manually, merge configuration files from the "files" folder of the collection's configuration fomod.
 - Adjust in-game via **GMCM** (gear icon on the title screen).
 - For co-op: all players should match configurations.
-- Want to customize further? See our [Personalization & Custom Configurations](/personalization.md) guide.
+- Want to customize further? See our [Personalization & Custom Configurations](../../Guides/personalization.md) guide.
 
 ### Reinstalling Configurations
 
@@ -127,7 +95,7 @@ If you need to reinstall configuration files at any time:
 
 ## Updating the Collection
 
-For detailed updating instructions, see our [**Updating Collections**](/updating.md) guide.
+For detailed updating instructions, see our [**Updating Collections**](../../Getting Started/updating-collections.md) guide.
 
 **Quick Summary:**
 - Collections will show an **Update** button when an update is available
@@ -152,18 +120,4 @@ When combining, always let the **matching recolor or style config load last** in
 - Lumisteria Short Flowery Grass  
 
 If using **Immersive Farm 2 Remastered**, disable its Greenhouse option in GMCM.
-
----
-
-## Quick Links
-
-- [Start Page](/start.md)  
-- [Installation Guide](/install.md)  
-- [Manual Installation Guide](/manual-install.md)  
-- [Updating Collections](/updating.md)  
-- [Combining Collections](/combining.md)  
-- [Personalization & Custom Configurations](/personalization.md)  
-- [Keybinds & Controllers](/keybinds.md)  
-- [Troubleshooting](/troubleshooting.md)  
-- [FAQ & Known Issues](/faq-and-known-issues.md)  
 

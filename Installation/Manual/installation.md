@@ -1,11 +1,9 @@
 # Manual Installation Guide
 
-> 📂 **Docs** / [Start](/start.md) / **Manual Install**
+> 📂 Docs / Installation / Manual / Installation
 
-*Last updated:* 2025-08-10  
-*Applies to Stardew Valley:* **1.6.15+**  
-
-> 📖 This guide will be available right on the Nexus Collection page soon!
+*Last updated:* 2025-10-31  
+*Applies to Stardew Valley:* **1.6.15+**
 
 > We recommend **Vortex Mod Manager** for most players because it automatically applies the correct configuration files, manages mod order, and makes updates easy.  
 > However, if you prefer to handle installation manually, or are playing on systems without Vortex support, follow this guide.
@@ -81,6 +79,8 @@ If installing **Fairycore** or **Witchcore**, make sure to also download and ins
   - Generic Mod Config Menu
   - Event Lookup
 
+> **Note:** If installing AVF or AVW, disable in configuration any "Larger Greenhouse" option your chosen farm may have if using the greenhouse included with that collection.
+
 **Manual hair.json fix for Fairycore and Witchcore:**
 - Copy the contents of the `hair.json` file in folder `111` into `[FS] Yomi's Golden Princess Hairstyle\Hairs\112`
 - Open that file in Notepad++ and change the name at the top from `111` to `112`
@@ -100,20 +100,3 @@ If installing **Fairycore** or **Witchcore**, make sure to also download and ins
 
 Some mods may show an update notification in SMAPI even when no update is actually needed.  
 If you wish to suppress the notice, edit the mod's `manifest.json` and set the `"Version"` to match the version shown on Nexus.
-
----
-
-## Quick Links
-
-- [Start Page](/start.md)  
-- [Installation Guide](/install.md)  
-- [Start Page](/start.md)  
-- [Installation Guide](/install.md)  
-- [Manual Installation Guide](/manual-install.md)  
-- [Updating Collections](/updating.md)  
-- [Combining Collections](/combining.md)  
-- [Personalization & Custom Configurations](/personalization.md)  
-- [Keybinds & Controllers](/keybinds.md)  
-- [Troubleshooting](/troubleshooting.md)  
-- [FAQ & Known Issues](/faq-and-known-issues.md)
-
