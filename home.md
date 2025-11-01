@@ -47,44 +47,12 @@ All mods are pre-configured to work together, and settings are optimized for the
 
 ---
 
-## Who is this for?
+## Who is Stardew Valley VERY Expanded for?
 
 - Experienced players who want more content without losing the vanilla feel
 - New players who want a challenging, curated starting point
 - Mod enthusiasts looking for a reliable base to build on
 - Co-op groups who need matching mod setups
-
----
-
-## Aesthetic Valley Collections
-
-These visual collections can be installed stand-alone, together, or even alongside Stardew Valley VERY Expanded in the **same Vortex profile**.
-
-### 🧚 Aesthetic Valley | Fairycore
-A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere.  
-[Fairycore on Nexus](https://next.nexusmods.com/stardewvalley/collections/tjvl0j/)
-
-### 🔮 Aesthetic Valley | Witchcore
-A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors and a rustic atmosphere with cozy vibes.  
-[Witchcore on Nexus](https://next.nexusmods.com/stardewvalley/collections/g14kxi/)
-
-> You can use both together. When installing, you can always install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](Collections/combining-collections.md)
-
-### The Tools to Customize Your World
-
-These powerful customization tools are included in the Aesthetic Valley collections:
-
-> #### **Fashion Sense**
->
-> Fashion Sense adds a full outfit customization system that lets you equip hats, accessories, hairstyles, and outfits dynamically! This collection includes a whole wardrobe's worth of hair, outfit, and accessory options. Get a mirror in the mail, purchase one from Pierre, or open the interface anywhere with the `G` key.
-
-> #### **Alternative Textures**
->
-> This framework allows in-game texture swapping for almost any object, including furniture, animals, buildings, and more. With a simple paint tool, you can instantly change designs to match your aesthetic or theme. Visit Robin to purchase a Paint Bucket and other AT tools.
-
-> #### **Happy Home Designer**
->
-> Walk around and place furniture directly from the catalog without reopening menus. The mod supports **Alternative Textures**, showing which items have skins and allowing you to place pre-skinned versions. You can stack or combine both catalogs, search for furniture and wallpapers, and configure everything through GMCM. It includes one-click wall and floor placement and the ability to favorite items for easy access.
 
 ---
 
@@ -125,6 +93,38 @@ If you want to play Stardew Valley VERY Expanded in your language, language pack
 If you are interested in playing the collection in another language not already supported, let JennaJuffuffles know via Discord they can consider it.
 
 The mods in these packs are created by various translators, so please support them and their work by endorsing them on Nexus.
+
+---
+
+## Aesthetic Valley Collections
+
+These visual collections can be installed stand-alone, together, or even alongside Stardew Valley VERY Expanded in the **same Vortex profile**.
+
+### 🧚 Aesthetic Valley | Fairycore
+A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere.  
+[Fairycore on Nexus](https://next.nexusmods.com/stardewvalley/collections/tjvl0j/)
+
+### 🔮 Aesthetic Valley | Witchcore
+A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors and a rustic atmosphere with cozy vibes.  
+[Witchcore on Nexus](https://next.nexusmods.com/stardewvalley/collections/g14kxi/)
+
+> You can use both together. When installing, you can always install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](Collections/combining-collections.md)
+
+### The Tools to Customize Your World
+
+These powerful customization tools are included in the Aesthetic Valley collections:
+
+> #### **Fashion Sense**
+>
+> Fashion Sense adds a full outfit customization system that lets you equip hats, accessories, hairstyles, and outfits dynamically! This collection includes a whole wardrobe's worth of hair, outfit, and accessory options. Get a mirror in the mail, purchase one from Pierre, or open the interface anywhere with the `G` key.
+
+> #### **Alternative Textures**
+>
+> This framework allows in-game texture swapping for almost any object, including furniture, animals, buildings, and more. With a simple paint tool, you can instantly change designs to match your aesthetic or theme. Visit Robin to purchase a Paint Bucket and other AT tools.
+
+> #### **Happy Home Designer**
+>
+> Walk around and place furniture directly from the catalog without reopening menus. The mod supports **Alternative Textures**, showing which items have skins and allowing you to place pre-skinned versions. You can stack or combine both catalogs, search for furniture and wallpapers, and configure everything through GMCM. It includes one-click wall and floor placement and the ability to favorite items for easy access.
 
 ---
 
