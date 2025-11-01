@@ -138,27 +138,27 @@ All mods are pre-configured to work together, and settings are optimized for the
 
 ## Frequently Asked Questions
 
-### Do I need the optional mods?
-Yes. They are marked optional mainly for easier collection stacking. Install them when using a single collection.
+**Do I need the optional mods?**
+> Yes. They are marked optional mainly for easier collection stacking. Install them when using a single collection.
 
-### Should I update individual mods myself?
-No. Wait for collection updates to ensure compatibility.
+**Should I update individual mods myself?**
+> No. Wait for collection updates to ensure compatibility.
 
-### Can I combine your collections?
-Yes. See [Combining Collections](Collections/combining-collections.md)
+**Can I combine your collections?**
+> Yes. See [Combining Collections](Collections/combining-collections.md)
 
-### Is this okay for first-time players?
-Yes, but it's large. Vanilla first is recommended, not required.
+**Is this okay for first-time players?**
+> Yes, but it's large. Vanilla first is recommended, not required.
 
-### Co-op: do all players need the collection?
-Yes. All players should match mods and configurations.
+**Co-op: do all players need the collection?**
+> Yes. All players should match mods and configurations.
 
-### Can I add more mods?
-Yes. Create a private collection for additions and test carefully.
+**Can I add more mods?**
+> Yes. Create a private collection for additions and test carefully.
 
-### "Failed to store cache entry" (SinZational Speedy Solutions)
-Error in SMAPI. Informational only; safe to ignore.
+**"Failed to store cache entry" (SinZational Speedy Solutions)**
+> Error in SMAPI. Informational only; safe to ignore.
 
-### Can't exit house / corrupted farm map
-Re-enable your farm map mod and Deploy. Maps cannot be switched mid-save.
+**Can't exit house / corrupted farm map**
+> Re-enable your farm map mod and Deploy. Maps cannot be switched mid-save.
 
