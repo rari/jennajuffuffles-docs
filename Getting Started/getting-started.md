@@ -9,23 +9,26 @@ Welcome to Stardew Valley VERY Expanded! This section contains everything you ne
 
 ---
 
+## Prerequisites
+
+Before you begin, ensure you have:
+
+1. **Stardew Valley** installed (Steam, GOG, or Game Pass)
+2. **Latest game version** - Check [Version History](https://stardewvalleywiki.com/Version_History)
+3. **Verified game files** - Run integrity check for your platform
+4. **Run the game once** - Complete initial setup
+
+---
+
 ## Installation Methods
 
-Choose the installation method that works best for you:
+To use the **Add Collection** button, a supported [mod manager](../Installation/index.md) (like Vortex or Nexus Mods App) is required.
 
-### 🎯 [Vortex Installation](../Installation/Vortex/installation.md)
-**Recommended for most users**
-- One-click collection installation (Nexus Premium)
-- Automatic configuration file management
-- Built-in conflict resolution
-- Easy updates and mod management
+- **One-click installation** requires Vortex and Nexus Premium membership (recommended)
+- **Guided installation** is available for free users through Vortex or Nexus Mods App
+- **Manual installation** is available for free users (not recommended)
 
-### 🔧 [Manual Installation](../Installation/Manual/installation.md)
-**For advanced users or non-Vortex systems**
-- Step-by-step manual mod installation
-- Manual configuration file management
-- Full control over your setup
-- Compatible with any mod manager
+All mods are pre-configured to work together, and settings are optimized for the best experience out-of-the-box.
 
 ---
 
@@ -36,17 +39,6 @@ Learn how to keep your collection up to date safely and efficiently.
 
 ### 🔗 [Combining Collections](../Collections/combining-collections.md)
 Want to use multiple collections together? Learn how to combine them properly.
-
----
-
-## Prerequisites
-
-Before you begin, ensure you have:
-
-1. **Stardew Valley** installed (Steam, GOG, or Game Pass)
-2. **Latest game version** - Check [Version History](https://stardewvalleywiki.com/Version_History)
-3. **Verified game files** - Run integrity check for your platform
-4. **Run the game once** - Complete initial setup
 
 ---
 
