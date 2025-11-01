@@ -58,7 +58,7 @@ This page addresses the most common questions and issues players encounter with 
 **Can I disable a required mod?**
 > You can, but you'll need to manage it manually (disable the collection entry). Add the Collections column in Vortex to help manage load order and visibility.
 
-**MacOS Installation**
+### MacOS Installation
 
 **Mod Managers**
 > Nexus Mods App has planned support for MacOS, but currently no mod manager with collection support exists. Mac users may use our [Manual Installation](Installation/Manual/installation.md) guide or our [Stardrop](Installation/Stardrop/installation.md) guides and transfer from a Windows machine.
