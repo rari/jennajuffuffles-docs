@@ -41,7 +41,7 @@ All mods are pre-configured to work together, and settings are optimized for the
 
 ## Need Help?
 
-- 💬 **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
-- 📖 **FAQ:** Check our [FAQ & Known Issues](faq-known-issues.md) for common solutions
-- 🔍 **Troubleshooting:** See our [Troubleshooting Guide](../Guides/troubleshooting.md) for detailed help
+- **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
+- **FAQ:** Check our [FAQ & Known Issues](faq-known-issues.md) for common solutions
+- **Troubleshooting:** See our [Troubleshooting Guide](../Guides/troubleshooting.md) for detailed help
 

@@ -5,11 +5,9 @@
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
-> 📖 This guide will be available right on the Nexus Collection page soon!
-
 ---
 
-## A Heartfelt Thank You 💕
+## A Heartfelt Thank You
 
 First and foremost, a huge thanks to all the incredible mod creators who make collections possible. Their creativity, dedication, and passion for Stardew Valley have brought us this amazing expanded world. Collections are not "modpacks"! Every download counts as a unique download directly attributed to the mod creator.
 
@@ -78,11 +76,11 @@ The mods in these packs are created by various translators, so please support th
 
 These visual collections can be installed stand-alone, together, or even alongside Stardew Valley VERY Expanded in the **same Vortex profile**.
 
-### 🧚 Aesthetic Valley | Fairycore
+### Aesthetic Valley | Fairycore
 A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere.  
 [Fairycore on Nexus](https://next.nexusmods.com/stardewvalley/collections/tjvl0j/)
 
-### 🔮 Aesthetic Valley | Witchcore
+### Aesthetic Valley | Witchcore
 A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors and a rustic atmosphere with cozy vibes.  
 [Witchcore on Nexus](https://next.nexusmods.com/stardewvalley/collections/g14kxi/)
 
@@ -121,8 +119,8 @@ All mods are pre-configured to work together, and settings are optimized for the
 
 ### Need Help?
 
-- 📖 **Installation Guides**: See [Mod Managers](Installation/index.md) to choose your installation method
-- 💬 **Join our Community**: [Discord Server](https://discord.gg/MPcgJUXeeY)
+- **Installation Guides**: See [Mod Managers](Installation/index.md) to choose your installation method
+- **Join our Community**: [Discord Server](https://discord.gg/MPcgJUXeeY)
 
 **Get Started:** [Stardew Valley VERY Expanded on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
 

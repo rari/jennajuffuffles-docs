@@ -151,6 +151,8 @@ This page addresses the most common questions and issues players encounter with 
 ---
 
 ## Getting Help
-- Community Discord: https://discord.com/invite/de2NrHXuty  
-- Vortex support: https://discord.com/invite/nexusmods, https://wiki.nexusmods.com/index.php/Category:Vortex
+
+- [Community Discord](https://discord.com/invite/de2NrHXuty)
+- [Vortex Support Discord](https://discord.com/invite/nexusmods)
+- [Vortex Wiki](https://wiki.nexusmods.com/index.php/Category:Vortex)
 

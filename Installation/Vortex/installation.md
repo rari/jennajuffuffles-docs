@@ -5,11 +5,9 @@
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
-> 📖 This guide will be available right on the Nexus Collection page soon!
-
-> ✔️ Always click **Install Optional Mods**  
-> 🗑️ Always select **Remove All** when prompted during updates  
-> ⬆️ Update the **collection**, never individual mods
+> Always click **Install Optional Mods**  
+> Always select **Remove All** when prompted during updates  
+> Update the **collection**, never individual mods
 
 ---
 
