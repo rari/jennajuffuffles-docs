@@ -11,7 +11,7 @@
 
 ## A Heartfelt Thank You 💕
 
-First and foremost, a huge thanks to all the incredible mod creators who make this collection possible. Their creativity, dedication, and passion for Stardew Valley have brought us this amazing expanded world. Collections are not "modpacks"! Every download counts as a unique download directly attributed to the mod creator.
+First and foremost, a huge thanks to all the incredible mod creators who make collections possible. Their creativity, dedication, and passion for Stardew Valley have brought us this amazing expanded world. Collections are not "modpacks"! Every download counts as a unique download directly attributed to the mod creator.
 
 **Please support creators and endorse their individual mods if you enjoy them!** Your support means the world to them and helps ensure more amazing content for our community.
 
