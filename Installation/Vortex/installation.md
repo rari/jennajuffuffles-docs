@@ -39,7 +39,7 @@ Vortex is the recommended mod manager for svVe.
 
 ### 1. Clear Existing Mods
 1. In Vortex **Mods** tab, click **Purge Mods**.
-2. Click **Open → Game Mods Folder** and delete any leftover files.
+2. Click **Open → Game Mods Folder** and delete any leftover files or subfolders.
 
 ### 2. Install the Collection
 1. On the [collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.

@@ -7,7 +7,7 @@
 
 ---
 
-Stardrop is not recommended for most users. It cannot install Nexus Collections directly and requires migration from Vortex/NMA.
+Stardrop is not recommended for users who want to install or update Nexus Collections. It cannot install Nexus Collections directly and requires migration from Vortex/NMA.
 
 ## Resources
 

@@ -9,7 +9,7 @@
 
 ## Important Note
 
-> **⚠️ Not Recommended:** Stardrop is not recommended for most users. It cannot install Nexus Collections directly and requires migration from Vortex/NMA. If you proceed, ensure SMAPI is installed and configure mods via GMCM.
+> **⚠️ Not Recommended for Collection Users:** Stardrop is not recommended for users who want to install or update Nexus Collections. It cannot install Nexus Collections directly and requires migration from Vortex/NMA. If you proceed, ensure SMAPI is installed and configure mods via GMCM.
 
 ---
 

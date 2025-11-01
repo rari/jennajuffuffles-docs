@@ -18,7 +18,7 @@ Choose the mod manager that works best for your system and preferences.
 **Beta - Official Nexus Mods application** — Modern, multi-platform app with Collections support. Beta software, less stable.
 
 ### ⭐ [Stardrop](Stardrop/installation.md)
-**Not recommended for most users** — SMAPI-centric management. No direct Collections install; migrate after installing via Vortex/App.
+**Not recommended for collection users** — SMAPI-centric management. No direct Collections install; migrate after installing via Vortex/App.
 
 ### 📦 [Manual Installation](Manual/installation.md)
 Manual, step-by-step installation without a manager. Requires applying configuration files and patches yourself.
