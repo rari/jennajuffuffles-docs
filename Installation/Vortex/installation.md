@@ -5,8 +5,6 @@
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
-> Always click **Install Optional Mods**  
-> Always select **Remove All** when prompted during updates  
 > Update the **collection**, never individual mods
 
 ---
