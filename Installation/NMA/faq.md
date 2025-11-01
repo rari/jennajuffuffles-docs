@@ -9,8 +9,8 @@
 
 ## FAQ
 
-### Can I use NMA with another mod manager?
-Do not run two mod managers on the same game simultaneously — you may corrupt installs.
+**Can I use NMA with another mod manager?**
+> Do not run two mod managers on the same game simultaneously — you may corrupt installs.
 
 ---
 
@@ -22,15 +22,12 @@ Do not run two mod managers on the same game simultaneously — you may corrupt 
 
 ## Known Issues
 
-### Mod Installation Bug
+**Mod Installation Bug**
+> There is a current bug where some mods are not installed into the Mod folder. This has been reported to the NMA team. If you notice missing mods, you may need to manually verify or reinstall them.
 
-There is a current bug where some mods are not installed into the Mod folder. This has been reported to the NMA team. If you notice missing mods, you may need to manually verify or reinstall them.
+**Mod Folder Clearing**
+> Installing and uninstalling NMA may clear your mods folder to ensure consistent behavior, so **back up any mods that may be difficult to re-obtain** before making changes to your NMA installation.
 
-### Mod Folder Clearing
-
-Installing and uninstalling NMA may clear your mods folder to ensure consistent behavior, so **back up any mods that may be difficult to re-obtain** before making changes to your NMA installation.
-
-### Game Executable Replacement
-
-NMA will replace the game exe with SMAPI, so if switching to a different mod manager in the future, be sure to verify the game files.
+**Game Executable Replacement**
+> NMA will replace the game exe with SMAPI, so if switching to a different mod manager in the future, be sure to verify the game files.
 
