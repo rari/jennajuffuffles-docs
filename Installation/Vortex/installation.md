@@ -48,7 +48,7 @@ Vortex is the recommended mod manager for svVe.
 3. Configuration files will be automatically installed via FOMOD during collection installation.
 4. Select **Install Optional Mods** when asked.
 
-> **Important:** Always use Optional Mods unless you're using *Stardew Valley Very Expanded + Aesthetic Valley*. In that case, use optional mods from **only one** collection to avoid conflicts. See: [Combining Collections](../../Collections/combining-collections.md)
+> **Important:** Always use Optional Mods unless you're combining collections. When combining SVVE with Aesthetic Valley, install optional mods from SVVE (always safe), but only install optional mods from **one** Aesthetic Valley collection and **one** farm to avoid conflicts. See: [Combining Collections](../../Collections/combining-collections.md)
 
 ### 3. Pre-Launch Setup
 1. Install & configure [SMAPI](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows#Configure_your_game_client).

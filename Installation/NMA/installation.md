@@ -33,12 +33,17 @@ Before installing the app, make sure:
    * The app will scan for supported games installed on your system.
    
 4. **Configure basics**
-   * Choose your "Library" or folder where mods will be stored/installed.
-   * Optionally configure backup or restore settings (if offered by the app).
    * Familiarise yourself with the UI panels – the app supports multiple panels side-by-side. 
 
-5. **Add the game to the app**
-6. **Health Check & maintenance**
+5. **Install the collection**
+   * Navigate to the collection page on Nexus Mods
+   * Click **Add Collection** or use the collection URL in the app
+
+6. **Download and install mods**
+   * Open the **Optional Mods** panel in the Nexus Mods App
+   * Download and install optional mods from this panel
+   * Open the **Mods** panel to download and install the main mods.
+   * > **Important:** When combining SVVE with Aesthetic Valley, you can always install SVVE optional mods (always safe), but only install optional mods from **one** Aesthetic Valley collection and **one** farm to avoid conflicts. See: [Combining Collections](../../Collections/combining-collections.md)
 
 ---
 

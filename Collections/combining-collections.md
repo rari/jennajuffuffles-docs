@@ -18,8 +18,10 @@ You can combine Stardew Valley VERY Expanded (svVe) with one or both Aesthetic V
 3. Installation order: When combining, install the dominant Aesthetic Valley collection last, or reinstall its configuration at the end so it takes priority.
 
 ### Optional Mods Strategy
-- For easiest combining, only download one set of optional mods when using 2–3 JennaJuffuffles collections together.
-- Optional mods can be added later from any collection’s Mods tab by setting the filter to "Recommended".
+- **SVVE optional mods:** Can always be installed — they are compatible with all combinations.
+- **Aesthetic Valley optional mods:** Only install optional mods from **one** Aesthetic Valley collection (Fairycore or Witchcore) to avoid conflicts.
+- **Farm optional mods:** Only install optional mods from **one** farm to avoid conflicts.
+- Optional mods can be added later from any collection's Mods tab by setting the filter to "Recommended".
 - If you customize optional mods individually, review configurations afterwards to avoid unexpected behavior.
 
 ### Configuration Management
