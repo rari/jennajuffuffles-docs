@@ -48,6 +48,18 @@ This page addresses the most common questions and issues players encounter with 
 **Can't exit house / corrupted farm map**
 > Occurs if your farm map mod is disabled or fails to load. Re-enable it and Deploy. Maps can't be switched mid-save without special tools like [Easy Farm Switcher](https://www.nexusmods.com/stardewvalley/mods/16873).
 
+### NPC & World Bugs
+
+**Duplicated NPCs**
+> Rare base-game issue. To remove:
+> 1) Load your save  
+> 2) In SMAPI console: `debug removenpc [InternalNPCName]`  
+> 3) Save and exit  
+> Use `patch export "Data/NPCDispositions"` to find internal names. Example: `debug removenpc SenS`
+
+**East Scarp NPCs not attending festivals**
+> Expected behavior unless you have 4 hearts with them.
+
 ---
 
 ## Setup & Customization FAQs
@@ -116,20 +128,6 @@ This page addresses the most common questions and issues players encounter with 
 **Can't craft items despite having ingredients**
 > Better Crafting may filter qualities. Enable "Show All Qualities" (Stars button).  
 > Example: Bait Maker blocked by quality filters.
-
----
-
-## NPC & World Bugs
-
-**Duplicated NPCs**
-> Rare base-game issue. To remove:
-> 1) Load your save  
-> 2) In SMAPI console: `debug removenpc [InternalNPCName]`  
-> 3) Save and exit  
-> Use `patch export "Data/NPCDispositions"` to find internal names. Example: `debug removenpc SenS`
-
-**East Scarp NPCs not attending festivals**
-> Expected behavior unless you have 4 hearts with them.
 
 ---
 
