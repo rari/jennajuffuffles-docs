@@ -74,6 +74,8 @@ See Installation guides for your preferred mod manager:
 - Nexus Mods App: /Installation/NMA/installation.md
 - Manual Installation: /Installation/Manual/installation.md
 
+> Note: Some mods are marked as "Optional" to allow the user to disable them, but it is recommended you install and enable all. Only enable one farm mod.
+
 ---
 
 ## Combining with Other Collections
