@@ -43,7 +43,7 @@ Follow these steps to move your existing Vortex-managed setup to Stardrop.
 ---
 
 ## See also
-- Manual Installation: /Installation/Manual/installation.md
-- FAQ & Common Issues (Stardrop): /Installation/Stardrop/faq.md
-- Troubleshooting: /Guides/troubleshooting.md
+- [Manual Installation](../Manual/installation.md)
+- [FAQ & Common Issues (Stardrop)](faq.md)
+- [Troubleshooting](../../Guides/troubleshooting.md)
 

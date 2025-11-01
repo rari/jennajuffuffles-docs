@@ -11,13 +11,13 @@ Choose the mod manager that works best for your system and preferences.
 
 ## Supported Mod Managers
 
-### 🎯 [Vortex Mod Manager](Vortex/installation.md)
+### 🌀 [Vortex Mod Manager](Vortex/installation.md)
 **Recommended for most users** — Official Nexus Collections manager with robust profiles and documentation. Best for Windows.
 
 ### 🆕 [Nexus Mods App](NMA/installation.md)
 **Beta - Official Nexus Mods application** — Modern, multi-platform app with Collections support. Beta software, less stable.
 
-### 🔧 [Stardrop](Stardrop/installation.md)
+### ⭐ [Stardrop](Stardrop/installation.md)
 **Not recommended for most users** — SMAPI-centric management. No direct Collections install; migrate after installing via Vortex/App.
 
 ### 📦 [Manual Installation](Manual/installation.md)
@@ -39,7 +39,7 @@ Manual, step-by-step installation without a manager. Requires applying configura
 
 ### Getting Help
 - 💬 [Discord Community](https://discord.gg/MPcgJUXeeY) - Real-time support
-- 📖 [FAQ & Known Issues](../Getting Started/faq-known-issues.md) - Common solutions
+- 📖 [FAQ & Known Issues](../Getting%20Started/faq-known-issues.md) - Common solutions
 - 🔍 [Troubleshooting](../Guides/troubleshooting.md) - Detailed help
 
 ### Mod Manager Resources

@@ -95,7 +95,7 @@ If you need to reinstall configuration files at any time:
 
 ## Updating the Collection
 
-For detailed updating instructions, see our [**Updating Collections**](../../Getting Started/updating-collections.md) guide.
+For detailed updating instructions, see our [**Updating Collections**](../../Getting%20Started/updating-collections.md) guide.
 
 **Quick Summary:**
 - Collections will show an **Update** button when an update is available
