@@ -58,7 +58,7 @@ This page addresses the most common questions and issues players encounter with 
 
 **Important:** Certain MacOS versions flag SMAPI as malware and forcibly move it to the trash, preventing installation.
 
-*The following solutions are based on community findings and may change as Apple updates MacOS security behaviors.*
+*The following solutions are based on community findings, derivded from the Stardew community Discord, and may change as Apple updates MacOS security behaviors.*
 
 **Problem 1: Unable to Run SMAPI Installer**
 > When you receive a security message, go to Settings → Security (or Privacy & Security) and hit "Open Anyways" where it lists the blocked file.
