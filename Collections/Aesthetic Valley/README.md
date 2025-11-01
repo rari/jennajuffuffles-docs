@@ -11,8 +11,8 @@ Aesthetic Valley collections provide visual themes for Stardew Valley. These col
 
 ## Collections
 
-- **🧚 Aesthetic Valley | Fairycore** - A magical, woodsy fairy aesthetic with pastel colors
-- **🔮 Aesthetic Valley | Witchcore** - A cozy, witchy cottagecore experience with warm autumnal colors
+- **Aesthetic Valley | Fairycore** - A magical, woodsy fairy aesthetic with pastel colors
+- **Aesthetic Valley | Witchcore** - A cozy, witchy cottagecore experience with warm autumnal colors
 
 ## Resources
 
