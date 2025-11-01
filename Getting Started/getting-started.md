@@ -34,11 +34,8 @@ All mods are pre-configured to work together, and settings are optimized for the
 
 ## After Installation
 
-### 📈 [Updating Collections](updating-collections.md)
-Learn how to keep your collection up to date safely and efficiently.
-
-### 🔗 [Combining Collections](../Collections/combining-collections.md)
-Want to use multiple collections together? Learn how to combine them properly.
+- [Updating Collections](updating-collections.md) - Learn how to keep your collection up to date safely and efficiently
+- [Combining Collections](../Collections/combining-collections.md) - Want to use multiple collections together? Learn how to combine them properly
 
 ---
 
