@@ -108,6 +108,25 @@ This page addresses the most common questions and issues players encounter with 
 
 ---
 
+## Vortex Behaviors & Workarounds
+
+**Updates can overwrite/delete custom configs**
+> Use the Sync Mod Configurations button or create a custom config mod. See Personalization: [Personalization & Custom Configurations](Guides/personalization.md)
+
+**Mod staging may fail silently**
+> Verify loaded mods in your SMAPI log, not just the Vortex Mods tab. If a mod is missing, redeploy, or delete and reinstall from the Collection tab.
+
+**Incorrect mod folder structures**
+> Fix structure per the official wiki guide, then redeploy.
+
+**Red errors from an "empty Vortex folder"**
+> Typically leftovers or config-only installs. Enable recommended files or customize configs as needed.
+
+**Generic Mod Manager version compatibility**
+> Use the version recommended in the collection; newer versions may soft-lock certain menus.
+
+---
+
 ## Known Technical Issues
 
 **Performance & launching**
@@ -128,25 +147,6 @@ This page addresses the most common questions and issues players encounter with 
 **Can't craft items despite having ingredients**
 > Better Crafting may filter qualities. Enable "Show All Qualities" (Stars button).  
 > Example: Bait Maker blocked by quality filters.
-
----
-
-## Vortex Behaviors & Workarounds
-
-**Updates can overwrite/delete custom configs**
-> Use the Sync Mod Configurations button or create a custom config mod. See Personalization: [Personalization & Custom Configurations](Guides/personalization.md)
-
-**Mod staging may fail silently**
-> Verify loaded mods in your SMAPI log, not just the Vortex Mods tab. If a mod is missing, redeploy, or delete and reinstall from the Collection tab.
-
-**Incorrect mod folder structures**
-> Fix structure per the official wiki guide, then redeploy.
-
-**Red errors from an "empty Vortex folder"**
-> Typically leftovers or config-only installs. Enable recommended files or customize configs as needed.
-
-**Generic Mod Manager version compatibility**
-> Use the version recommended in the collection; newer versions may soft-lock certain menus.
 
 ---
 
