@@ -39,6 +39,15 @@ This page addresses the most common questions and issues players encounter with 
 **Rusty/Sewer Key changes in SVE**
 > Due to SVE changes, Gunther no longer provides the Rusty Key. Reach 5 hearts with Marlon; he will mail the key in a cutscene (see SVE wiki for details).
 
+**Minecart blocks the mine entrance**
+> GMCM: SVE → Original Mine Entrance. Often indicates configuration merge issues.
+
+**Missing recipes in crafting menu**
+> Better Crafting groups recipes. Check other categories or "Show All/Uncategorized".
+
+**Can't exit house / corrupted farm map**
+> Occurs if your farm map mod is disabled or fails to load. Re-enable it and Deploy. Maps can't be switched mid-save without special tools like [Easy Farm Switcher](https://www.nexusmods.com/stardewvalley/mods/16873).
+
 ---
 
 ## Setup & Customization FAQs
@@ -104,18 +113,9 @@ This page addresses the most common questions and issues players encounter with 
 **Unresolved file conflicts (Manage Rules)**
 > Ensure configuration/compat/translation files load after the mods they affect. Deploy. Avoid "Use Suggested" if it creates loops.
 
-**Minecart blocks the mine entrance**
-> GMCM: SVE → Original Mine Entrance. Often indicates configuration merge issues.
-
 **Can't craft items despite having ingredients**
 > Better Crafting may filter qualities. Enable "Show All Qualities" (Stars button).  
 > Example: Bait Maker blocked by quality filters.
-
-**Missing recipes in crafting menu**
-> Better Crafting groups recipes. Check other categories or "Show All/Uncategorized".
-
-**Can't exit house / corrupted farm map**
-> Occurs if your farm map mod is disabled or fails to load. Re-enable it and Deploy. Maps can't be switched mid-save without special tools.
 
 ---
 

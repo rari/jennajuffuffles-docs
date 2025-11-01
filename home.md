@@ -159,6 +159,6 @@ All mods are pre-configured to work together, and settings are optimized for the
 **"Failed to store cache entry" (SinZational Speedy Solutions)**
 > Error in SMAPI. Informational only; safe to ignore.
 
-**Can't exit house / corrupted farm map**
-> Re-enable your farm map mod and Deploy. Maps cannot be switched mid-save.
+**More FAQs and known issues**
+> See our [FAQ & Known Issues](Getting%20Started/faq-known-issues.md) page for additional troubleshooting help.
 
