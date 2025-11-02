@@ -5,7 +5,7 @@
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
-This page addresses the most common questions and issues players encounter with Stardew Valley VERY Expanded (svVe) and companion collections.
+This page addresses general questions and issues that apply across all collections. For Stardew Valley VERY Expanded (SVVE) specific gameplay questions and troubleshooting, see the [SVVE FAQ](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
 
 ---
 
@@ -33,32 +33,10 @@ This page addresses the most common questions and issues players encounter with 
 
 ## Gameplay FAQs
 
-**Community Center cutscene won't trigger**
-> Requirements (vanilla): Enter Pelican Town from the Bus Stop; Spring 5+; 8:00–13:00; sunny (not festival); host must trigger in multiplayer.
-
-**Rusty/Sewer Key changes in SVE**
-> Due to SVE changes, Gunther no longer provides the Rusty Key. Reach 5 hearts with Marlon; he will mail the key in a cutscene (see SVE wiki for details).
-
-**Minecart blocks the mine entrance**
-> GMCM: SVE → Original Mine Entrance. Often indicates configuration merge issues.
-
-**Missing recipes in crafting menu**
-> Better Crafting groups recipes. Check other categories or "Show All/Uncategorized".
+For SVVE-specific gameplay questions including Community Center cutscenes, Rusty/Sewer Key changes, minecart blocking the mine entrance, duplicated NPCs, East Scarp festival attendance, crafting issues, and performance problems, see the [SVVE FAQ](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
 
 **Can't exit house / corrupted farm map**
 > Occurs if your farm map mod is disabled or fails to load. Re-enable it and Deploy. Maps can't be switched mid-save without special tools like [Easy Farm Switcher](https://www.nexusmods.com/stardewvalley/mods/16873).
-
-### NPC & World Bugs
-
-**Duplicated NPCs**
-> Rare base-game issue. To remove:
-> 1) Load your save  
-> 2) In SMAPI console: `debug removenpc [InternalNPCName]`  
-> 3) Save and exit  
-> Use `patch export "Data/NPCDispositions"` to find internal names. Example: `debug removenpc SenS`
-
-**East Scarp NPCs not attending festivals**
-> Expected behavior unless you have 4 hearts with them.
 
 ---
 
@@ -129,14 +107,8 @@ This page addresses the most common questions and issues players encounter with 
 
 ## Known Technical Issues
 
-**Performance & launching**
-> Large collections can take 3–5 minutes (or longer) to start a new save or load. Avoid input during loading to prevent crashes.
-
 **Multiplayer / split-screen desync**
 > Relaunch the game or restart the session.
-
-**SMAPI not launching**
-> Re-add SMAPI as the primary tool in Vortex Dashboard. See Installation.
 
 **Failed to Store Cache Entry (SinZational Speedy Solutions)**
 > Informational only; safe to ignore. Not a crash or conflict.
@@ -144,9 +116,7 @@ This page addresses the most common questions and issues players encounter with 
 **Unresolved file conflicts (Manage Rules)**
 > Ensure configuration/compat/translation files load after the mods they affect. Deploy. Avoid "Use Suggested" if it creates loops.
 
-**Can't craft items despite having ingredients**
-> Better Crafting may filter qualities. Enable "Show All Qualities" (Stars button).  
-> Example: Bait Maker blocked by quality filters.
+For SVVE-specific technical issues like performance/launching problems and SMAPI not launching, see the [SVVE FAQ](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
 
 ---
 
