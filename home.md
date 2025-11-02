@@ -7,14 +7,6 @@
 
 ---
 
-## A Heartfelt Thank You
-
-First and foremost, a huge thanks to all the incredible mod creators who make collections possible. Their creativity, dedication, and passion for Stardew Valley have brought us this amazing expanded world. Collections are not "modpacks"! Every download counts as a unique download directly attributed to the mod creator.
-
-**Please support creators and endorse their individual mods if you enjoy them!** Your support means the world to them and helps ensure more amazing content for our community.
-
----
-
 ## What is Stardew Valley VERY Expanded?
 
 Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends this familiar world far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
@@ -133,7 +125,6 @@ All mods are pre-configured to work together, and settings are optimized for the
 ---
 
 ## Important Notes
-
 - JennaJuffuffles' collections are only updated and available through Nexus
 - Using Vortex with Nexus Premium helps support this site and the creators on it
 - For the best experience, please only update your mods when the collection updates
@@ -141,6 +132,9 @@ All mods are pre-configured to work together, and settings are optimized for the
 
 
 ## Frequently Asked Questions
+
+**Can I get all the mods in a zip file?**
+> No. Collections are not modpacks. Providing a downloadable zip file with all mods would be redistributing mods without creators' permission, which is mod piracy. Collections must be installed through Nexus so each mod download is properly attributed to its creator. This respects creators' rights and ensures they receive proper credit and support for their work.
 
 **Do I need the optional mods?**
 > Yes. They are marked optional mainly for easier collection stacking. Install them when using a single collection.
