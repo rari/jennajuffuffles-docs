@@ -16,6 +16,7 @@ Aesthetic Valley collections provide visual themes for Stardew Valley. These col
 
 ## Resources
 
+- [Overview](overview.md) - Learn about the collections and their features
 - [Keybinds & Controllers](keybinds-controllers.md) - Common keybinds and controller mappings
 - [FAQ & Troubleshooting](faq.md) - Frequently asked questions and troubleshooting
 
