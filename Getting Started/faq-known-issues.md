@@ -5,7 +5,7 @@
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
-This page addresses general questions and issues that apply across all collections. For Stardew Valley VERY Expanded (SVVE) specific gameplay questions and troubleshooting, see the [SVVE FAQ](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
+This page addresses general questions and issues that apply across all collections. For Stardew Valley VERY Expanded (SVVE) specific gameplay questions and troubleshooting, see the [SVVE FAQ](../Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
 
 ---
 
@@ -27,7 +27,7 @@ This page addresses general questions and issues that apply across all collectio
 ### Can I combine your collections?
 > Yes! Any Aesthetic Valley collection (Fairycore, Witchcore, or future Aesthetic Valley collections) is designed to work alongside Stardew Valley VERY Expanded (SVVE). You can install them into the same Vortex profile.
 > 
-> For detailed instructions on how to combine collections, including which optional mods to install and how to manage conflicts, see our [Combining Collections](Collections/combining-collections.md) guide.
+> For detailed instructions on how to combine collections, including which optional mods to install and how to manage conflicts, see our [Combining Collections](../Collections/combining-collections.md) guide.
 
 ### First-time players
 > It's absolutely fine to start with SVVE even if you're new to Stardew Valley! The collection is designed to enhance the game while preserving the vanilla feel. However, keep in mind that SVVE is quite large with many new areas, NPCs, and content.
@@ -53,7 +53,7 @@ This page addresses general questions and issues that apply across all collectio
 
 ## Gameplay FAQs
 
-For SVVE-specific gameplay questions including Community Center cutscenes, Rusty/Sewer Key changes, minecart blocking the mine entrance, duplicated NPCs, East Scarp festival attendance, crafting issues, and performance problems, see the [SVVE FAQ](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
+For SVVE-specific gameplay questions including Community Center cutscenes, Rusty/Sewer Key changes, minecart blocking the mine entrance, duplicated NPCs, East Scarp festival attendance, crafting issues, and performance problems, see the [SVVE FAQ](../Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
 
 ### Can't exit house / corrupted farm map
 > If you find yourself unable to exit your house or see a corrupted farm map (missing textures, black areas, or errors), this usually means your farm map mod is disabled or failed to load properly.
@@ -77,7 +77,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > 
 > - **Test additions individually** - Add one mod at a time and test thoroughly before adding another. This helps you identify any conflicts quickly.
 > - **Review compatibility notes** - Check mod pages for compatibility warnings, especially with major expansions like SVE, Ridgeside Village, or East Scarp.
-> - **Create a private collection** - Once you've found mods that work well, create a private collection containing just your additions. This makes it easy to reinstall them after collection updates. See our [Personalization guide](Guides/personalization.md) for details.
+> - **Create a private collection** - Once you've found mods that work well, create a private collection containing just your additions. This makes it easy to reinstall them after collection updates. See our [Personalization guide](../Guides/personalization.md) for details.
 > - **Check load order** - Some mods may need specific load orders. Use Vortex's "Manage Rules" to adjust if needed.
 > 
 > Remember that adding mods can introduce conflicts or bugs, and collection updates may not account for your additions. Keep backups of working configurations!
@@ -101,7 +101,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 ### MacOS Installation
 
 #### Mod Managers
-> Nexus Mods App has planned support for MacOS, but currently no mod manager with collection support exists. Mac users may use our [Manual Installation](Installation/Manual/installation.md) guide or our [Stardrop](Installation/Stardrop/installation.md) guides and transfer from a Windows machine.
+> Nexus Mods App has planned support for MacOS, but currently no mod manager with collection support exists. Mac users may use our [Manual Installation](../Installation/Manual/installation.md) guide or our [Stardrop](../Installation/Stardrop/installation.md) guides and transfer from a Windows machine.
 
 #### MacOS SMAPI Security Issues
 
@@ -148,7 +148,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > **Option 2: Create a Custom Config Mod (Recommended)**
 > - This is the most reliable method. Create a custom mod that contains only your configuration files
 > - Your custom configs will load after the collection mods, so they won't be overwritten
-> - See our [Personalization & Custom Configurations](Guides/personalization.md) guide for step-by-step instructions
+> - See our [Personalization & Custom Configurations](../Guides/personalization.md) guide for step-by-step instructions
 > 
 > Using the custom config mod method ensures your settings persist through all updates automatically!
 

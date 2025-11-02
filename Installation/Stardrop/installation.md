@@ -37,4 +37,4 @@ Official Stardrop Documentation: [Installing Stardrop](https://floogen.gitbook.i
 
 ## After Installation
 
-Once Stardrop is installed, if you need to migrate from Vortex or Nexus Mods App, see: [Transferring to Stardrop](Installation/Stardrop/transfer-to-stardrop.md)
+Once Stardrop is installed, if you need to migrate from Vortex or Nexus Mods App, see: [Transferring to Stardrop](transfer-to-stardrop.md)
