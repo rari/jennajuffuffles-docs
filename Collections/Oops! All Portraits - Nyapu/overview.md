@@ -103,6 +103,7 @@ Requires: [Wedding Reception Portraits for RSV](https://www.nexusmods.com/starde
 Some mods included in [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m) come with their own Nyapu portrait options!
 
 - Leilani
+- Lurking in the Dark - NPC Sen
 - Sword & Sorcery (CP)
 
 Access Generic Mod Config Menu (GMCM) from the Title Menu ⚙️ or the bottom of the Settings menu in-game.

@@ -5,30 +5,32 @@
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
-This guide covers how to personalize your Stardew Valley experience with custom configurations and settings that persist through updates.
+Want to make your Stardew Valley experience truly your own? This guide will show you how to customize your game with your own settings, additional mods, and personal tweaks - all while keeping your customizations safe through collection updates!
 
 ---
 
 ## Overview
 
-Personalization allows you to customize your game experience while maintaining compatibility with collection updates. This includes:
+Personalization allows you to customize your game experience while maintaining compatibility with collection updates. You can:
 
-- Custom mod configurations (settings, keybinds, etc.)
-- Personal mod additions 
-- UI and visual preferences
-- Gameplay tweaks and adjustments
+* Customize mod configurations (settings, keybinds, etc.)
+* Add your own favorite mods 
+* Adjust UI and visual preferences
+* Make gameplay tweaks and adjustments
+
+The best part? When done correctly, your personalizations will persist even when the collection updates!
 
 ---
 
 ## Personal Customizations and Patches
 
-Use the [Add Custom Mod Button](https://www.nexusmods.com/site/mods/863) Vortex extension to create persistent customizations and patches that always load after your main mods:
+The easiest way to keep your custom settings safe through updates is using the [Add Custom Mod Button](https://www.nexusmods.com/site/mods/863) Vortex extension. This creates persistent customizations and patches that always load after your main mods, ensuring your personal settings never get overwritten!
 
 ### Creating Personal Customizations
 
 **Step 1: Configure Your Settings**
-1. Configure mods as desired in-game (GMCM recommended)
-2. Test your settings to ensure they work as expected
+1. Configure mods as desired in-game (GMCM is recommended - see the [In-Game Configuration](#in-game-configuration) section below)
+2. Test your settings to make sure everything works as expected
 
 **Step 2: Create Custom Config Mod**
 1. In Vortex, click Create new mod via the Add Custom Mod Button
@@ -76,14 +78,17 @@ There are two ways to add mods from Nexus Mods:
 4. Follow the installation prompts
 
 ### Creating a Private Collection
-If you add mods, it's recommended to create a private collection that contains only the mods you've added. This way you can easily reinstall or redeploy them to a new profile after updating:
+
+If you add mods, it's recommended to create a private collection that contains only the mods you've added. This way you can easily reinstall or redeploy them to a new profile after updating, and you'll never lose track of your additions!
 
 1. Create an empty collection in Vortex
 2. Right-click "Add to Collection" on each mod in the Mods page
 3. Upload to Nexus' server from the Workshop section of the Collection tab and keep it updated for future downloads
-4. Share the private link with friends
+4. Share the private link with friends (optional)
 
-Note: You can share your collection with friends using the private link without making it public. Keeping personal collections private is recommended.
+> **Note:** You can share your collection with friends using the private link without making it public. Keeping personal and friends-only collections private is recommended.
+
+For detailed instructions on creating collections, see our [How to Create A Collection](collection-creation.md) guide.
 
 ### Modifying Mods
 
@@ -134,28 +139,35 @@ Some mods require manual file editing:
 
 ## Maintaining Personalizations
 
+Don't worry - if you've followed the steps above, your customizations should survive updates! Here's what to do:
+
 ### Before Updates
 
-1. Back up your save files - It's recommended to create a backup of your Stardew Valley saves before updating. See the [Stardew Valley Wiki Saves page](https://www.stardewvalleywiki.com/Saves) for detailed instructions on locating and backing up your save files
-2. Back up your custom configs (they're already protected if using the Custom Config Mod method)
+1. **Back up your save files** - Your saves are precious! It's recommended to create a backup before updating. See the [Stardew Valley Wiki Saves page](https://www.stardewvalleywiki.com/Saves) for detailed instructions on locating and backing up your save files.
+2. **Your custom configs are already protected** - If you're using the Custom Config Mod method described above, your settings are already safe and will persist through updates!
 
 ### After Updates
+
 1. Check that all mods are enabled in Vortex
 2. Verify your custom settings are still active
-3. Test before continuing your save
+3. Test your game before continuing your save
 
-### Lost Settings
-- Restore from backup if you have one
-- Reconfigure manually using GMCM or text editors
-- Check if official folder names changed and updated your customizations to match
-
----
+If you encounter any issues, see our [Troubleshooting Guide](troubleshooting.md) for help.
 
 ## Troubleshooting Personalizations
 
 ### Settings Not Applying
-- Check load order - custom configs must load after the mods they're overriding. This is done with "Manage Rules".
-- Verify file paths - ensure config files are placed in a folder structure that matches the mod they alter.
+
+If your custom settings aren't working:
+- **Check load order** - Custom configs must load after the mods they're overriding. This is done with "Manage Rules" in Vortex. Make sure your custom config mod loads after the original mod.
+- **Verify file paths** - Ensure config files are placed in a folder structure that matches the mod they alter. The folder names should match exactly.
+
+### Lost Settings?
+
+If something goes wrong after an update:
+- Restore from backup if you have one
+- Reconfigure manually using GMCM or text editors
+- Check if official folder names changed and update your customizations to match
 
 ---
 
