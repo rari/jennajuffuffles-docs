@@ -87,13 +87,3 @@
 > If the game consistently crashes during loading (not just slow loading), check your SMAPI log for errors and see our troubleshooting guide.
 >
 > Disabling Dynamic Reflections may be a solution for users with limited memory.
-
-**SMAPI not launching**
-> If SMAPI isn't launching when you try to start the game:
-> 1. Open Vortex
-> 2. Go to the **Dashboard** tab
-> 3. Find the Stardew Valley entry
-> 4. Make sure SMAPI is set as the **Primary Tool** (there should be a "Set as Primary" button if it's not)
-> 5. Try launching the game again from Vortex
-> 
-> If this doesn't work, you may need to reinstall SMAPI. See our [Installation guides](../../Installation/index.md) for detailed instructions.
