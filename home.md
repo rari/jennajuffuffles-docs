@@ -75,7 +75,7 @@ The mods in these packs are created by various translators, so please support th
 
 ## Aesthetic Valley Collections
 
-These visual collections can be installed stand-alone, together, or even alongside Stardew Valley VERY Expanded in the **same Vortex profile**.
+These visual collections can be installed stand-alone, together, or even alongside **Stardew Valley VERY Expanded** in the **same profile or loadout**.
 
 ### Aesthetic Valley | Fairycore
 A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere.  
