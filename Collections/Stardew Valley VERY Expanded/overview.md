@@ -35,7 +35,9 @@ It's the easiest way to experience an expanded Stardew Valley without losing wha
 
 ---
 
-## Major Expansions including over 50 new NPCs!
+## What's Included?
+
+### Major Expansions including over 50 new NPCs!
 
 - [**Stardew Valley Expanded**](https://www.nexusmods.com/stardewvalley/mods/3753) - The largest expansion mod with new NPCs, locations, events, and content
 - [**Ridgeside Village**](https://www.nexusmods.com/stardewvalley/mods/7286) - An entirely new village with 45+ NPCs, 15+ locations, cable car system, and spirit realm
@@ -44,9 +46,7 @@ It's the easiest way to experience an expanded Stardew Valley without losing wha
 
 **Other Major NPCs include** [Eli & Dylan](https://www.nexusmods.com/stardewvalley/mods/13883) (ES), [Leilani](https://www.nexusmods.com/stardewvalley/mods/9375) (RSV), [Nora the Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176) (ES), [Rodney O'Brien](https://www.nexusmods.com/stardewvalley/mods/13437) (ES), and [Sen from Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770) (ES)
 
----
-
-## Enhanced Gameplay
+### Enhanced Gameplay
 
 - **Over 90 total mods** including major expansions, utilities, visual enhancements, and quality-of-life improvements
 - **Massive included farm map** perfect for co-op play and ambitious soloists alike - has its own secrets
@@ -79,18 +79,6 @@ See Installation guides for your preferred mod manager:
 ## Combining with Other Collections
 
 Any Aesthetic Valley collection (Fairycore, Witchcore, or any future Aesthetic Valley collection) can be installed alongside SVVE in the same Vortex profile. See [Combining Collections](../combining-collections.md) for detailed instructions.
-
----
-
-## About Nexus Collections
-
-This is not a modpack. Nexus Collections work by downloading each mod individually, which means:
-
-- Every download counts as a unique download for the original creator
-- All endorsements go to the individual mods, not just the collection
-- The collection simply ensures compatibility and makes setup easy — it doesn't redistribute anyone's work
-
-If you enjoy your experience, please take a moment to also endorse the individual mods on Nexus. It directly supports the creators whose creativity makes all this possible.
 
 ---
 

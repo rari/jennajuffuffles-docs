@@ -9,99 +9,35 @@
 
 ## Collections Curated by JennaJuffuffles
 
-- [**Stardew Valley VERY Expanded**](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
-- [**Aesthetic Valley | Fairycore**](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
-- [**Aesthetic Valley | Witchcore**](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
-- [**Oops! All Portraits: Nyapu**](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)
+### Stardew Valley VERY Expanded
+
+Stardew Valley VERY Expanded (svVe) is a curated mod collection that extends this familiar world far beyond Pelican Town while preserving the cozy, vanilla charm of the original game. Includes over 90 mods with major expansions, quality-of-life improvements, and over 50 new NPCs.
+
+**Download on Nexus:** [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)  
+**Learn more:** [Overview](Collections/Stardew%20Valley%20VERY%20Expanded/overview.md)
 
 ---
 
-## What is Stardew Valley VERY Expanded?
+### Aesthetic Valley Collections
 
-Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends this familiar world far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
+Aesthetic Valley collections provide visual themes for Stardew Valley. These collections can be installed stand-alone, together, or alongside Stardew Valley VERY Expanded. Includes powerful customization tools like Fashion Sense, Happy Home Designer, and Precise Furniture.
 
-svVe is built for **multiplayer co-op groups** who need matching setups, as well as **solo players** looking for a rich, polished experience. Installation is straightforward with Vortex, with settings that work out-of-the-box.
+**Collections:**
+- **Download on Nexus:** [Aesthetic Valley | Fairycore](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j) - A magical, woodsy fairy aesthetic with pastel colors
+- **Download on Nexus:** [Aesthetic Valley | Witchcore](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi) - A cozy, witchy cottagecore experience with warm autumnal colors
 
----
-
-## Who is Stardew Valley VERY Expanded for?
-
-- Experienced players who want more content without losing the vanilla feel
-- New players who want a challenging, curated starting point
-- Mod enthusiasts looking for a reliable base to build on
-- Co-op groups who need matching mod setups
-
----
-
-## Major Expansions including over 50 new NPCs!
-
-- [**Stardew Valley Expanded**](https://www.nexusmods.com/stardewvalley/mods/3753) - The largest expansion mod with new NPCs, locations, events, and content
-- [**Ridgeside Village**](https://www.nexusmods.com/stardewvalley/mods/7286) - An entirely new village with 45+ NPCs, 15+ locations, cable car system, and spirit realm
-- [**East Scarp**](https://www.nexusmods.com/stardewvalley/mods/5787) - Major area expansion east of Pelican Town with new locations and NPCs
-- [**Sword & Sorcery**](https://www.nexusmods.com/stardewvalley/mods/12369) - Fantasy expansion with 5+ custom skill trees (Paladin, Rogue, Bardic, Witchcraft, Druidic), unique maps, and deep storytelling
-
-**Other Major NPCs include** [Eli & Dylan](https://www.nexusmods.com/stardewvalley/mods/13883) (ES), [Leilani](https://www.nexusmods.com/stardewvalley/mods/9375) (RSV), [Nora the Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176) (ES), [Rodney O'Brien](https://www.nexusmods.com/stardewvalley/mods/13437) (ES), and [Sen from Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770) (ES)
-
----
-
-## Enhanced Gameplay
-
-- **Over 90 total mods** including major expansions, utilities, visual enhancements, and quality-of-life improvements
-- **Massive included farm map** perfect for co-op play and ambitious soloists alike - has its own secrets
-- **Focus on the game not the wiki** with [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505), [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541) and [UI Info Suite 2](https://www.nexusmods.com/stardewvalley/mods/7098)
-- **Quality-of-life mods** like [Automate](https://www.nexusmods.com/stardewvalley/mods/1063), [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518), and [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
-- **Visual improvements** with 20+ animation and enhancement mods
-- **Subtle Character enhancements** for vanilla NPCs like Clint, Shane, Pam, and Marnie
-
----
-
-## Language Support
-
-If you want to play Stardew Valley VERY Expanded in your language, language packs are available. The mods in these packs are created by various translators, so please support them and their work by endorsing them on Nexus.
-
-- 🇧🇷 [SVVE Tradução em Português](https://next.nexusmods.com/stardewvalley/collections/z4w11e)  
-- 🇨🇳 [SVVE 简体中文翻译](https://next.nexusmods.com/stardewvalley/collections/c8qj0l)  
-- 🇩🇪 [SVVE Deutsche Übersetzung](https://next.nexusmods.com/stardewvalley/collections/ibljbd)  
-- 🇷🇺 [SVVE Русский Перевод](https://next.nexusmods.com/stardewvalley/collections/igivdc)  
-- 🇹🇷 [SVVE Türkçe Çeviri](https://next.nexusmods.com/stardewvalley/collections/xzebcw)  
-- 🇫🇷 [SVVE Traduction Française](https://www.nexusmods.com/games/stardewvalley/collections/ihzrxq/) (NEW)
-- 🇪🇸 [SVVE Traducción Española](https://www.nexusmods.com/games/stardewvalley/collections/z7vzyt/) (NEW)
-
-If you are interested in playing the collection in another language not already supported, let JennaJuffuffles know via Discord they can consider it.
-
-The mods in these packs are created by various translators, so please support them and their work by endorsing them on Nexus.
-
----
-
-## Aesthetic Valley Collections
-
-These visual collections can be installed stand-alone, together, or even alongside **Stardew Valley VERY Expanded** in the **same profile or loadout**.
-
-### Aesthetic Valley | Fairycore
-A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere.  
-[Fairycore on Nexus](https://next.nexusmods.com/stardewvalley/collections/tjvl0j/)
-
-### Aesthetic Valley | Witchcore
-A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors and a rustic atmosphere with cozy vibes.  
-[Witchcore on Nexus](https://next.nexusmods.com/stardewvalley/collections/g14kxi/)
+**Learn more:** [Overview](Collections/Aesthetic%20Valley/overview.md)
 
 > You can use both together. When combining any Aesthetic Valley collection with SVVE, you can always install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](Collections/combining-collections.md)
 
-### The Tools to Customize Your World
+---
 
-These powerful customization tools are included in the Aesthetic Valley collections:
+### Oops! All Portraits: Nyapu
 
-> #### **[Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/9969)**
->
-> Fashion Sense adds a full outfit customization system that lets you equip hats, accessories, hairstyles, and outfits dynamically! This collection includes a whole wardrobe's worth of hair, outfit, and accessory options. Get a mirror in the mail, purchase one from Pierre, or open the interface anywhere with the `G` key.
+This collection adds Nyapu-style portraits for a variety of popular NPC expansions. It does not include expansions; it's intended to be added to an existing loadout that already has them installed.
 
-> #### **[Happy Home Designer](https://www.nexusmods.com/stardewvalley/mods/19675)**
->
-> Walk around and place furniture directly from the catalog without reopening menus. The mod supports **Alternative Textures**, showing which items have skins and allowing you to place pre-skinned versions. You can stack or combine both catalogs, search for furniture and wallpapers, and configure everything through GMCM. It includes one-click wall and floor placement and the ability to favorite items for easy access.
-
-> #### **[Precise Furniture](https://www.nexusmods.com/stardewvalley/mods/23488)**
->
-> This tool allows in-game texture swapping for almost any object, including furniture, animals, buildings, and more. With a simple paint tool, you can instantly change designs to match your aesthetic or theme. Visit Robin to purchase a Paint Bucket and other AT tools.
+**Download on Nexus:** [Oops! All Portraits: Nyapu](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)  
+**Learn more:** [Overview](Collections/Oops!%20All%20Portraits%20-%20Nyapu/overview.md)
 
 ---
 
