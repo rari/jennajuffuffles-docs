@@ -106,7 +106,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 #### MacOS SMAPI Security Issues
 
 > **Important:** Certain MacOS versions flag SMAPI as malware and forcibly move it to the trash, preventing installation.
->
+> 
 > *The following solutions are based on community findings, derivded from the Stardew community Discord, and may change as Apple updates MacOS security behaviors.*
 
 #### Problem 1: Unable to Run SMAPI Installer
@@ -114,24 +114,24 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 
 #### Problem 2: MacOS reports "Malware Blocked and Moved to Trash"
 > Enable MacOS security permissions:
-
-1. Go to System Settings > Privacy and Security
-2. Make sure Developer Tools is visible. If you don't see it, open Terminal through Spotlight and enter:
-   ```
-   spctl developer-mode enable-terminal
-   ```
-3. Click Developer Tools
-4. Add Terminal to the list and enable it
-5. If you have other terminal programs (iTerm2, Hyper, Kitty, Alacritty), add them to Developer Tools as well
-6. Restart your computer
-7. Force close Steam if using it
-8. Download and reinstall SMAPI
->
+> 
+> 1. Go to System Settings > Privacy and Security
+> 2. Make sure Developer Tools is visible. If you don't see it, open Terminal through Spotlight and enter:
+>    ```
+>    spctl developer-mode enable-terminal
+>    ```
+> 3. Click Developer Tools
+> 4. Add Terminal to the list and enable it
+> 5. If you have other terminal programs (iTerm2, Hyper, Kitty, Alacritty), add them to Developer Tools as well
+> 6. Restart your computer
+> 7. Force close Steam if using it
+> 8. Download and reinstall SMAPI
+> 
 > **Note:** This solution may change over time as Apple updates MacOS security behaviors. If this doesn't work:
 > - Restart your computer again
 > - Force close Steam, then try installing SMAPI
 > - Check the [SMAPI Mac installation wiki](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Mac) for updated solutions
->
+> 
 > *For the most current solutions and community discussions, visit the the [SMAPI GitHub repository](https://github.com/Pathoschild/SMAPI).*
 
 ---
