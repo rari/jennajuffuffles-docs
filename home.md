@@ -7,6 +7,15 @@
 
 ---
 
+## Collections Curated by JennaJuffuffles
+
+- [**Stardew Valley VERY Expanded**](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
+- [**Aesthetic Valley | Fairycore**](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
+- [**Aesthetic Valley | Witchcore**](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
+- [**Oops! All Portraits: Nyapu**](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)
+
+---
+
 ## What is Stardew Valley VERY Expanded?
 
 Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends this familiar world far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
@@ -31,7 +40,7 @@ svVe is built for **multiplayer co-op groups** who need matching setups, as well
 - [**East Scarp**](https://www.nexusmods.com/stardewvalley/mods/5787) - Major area expansion east of Pelican Town with new locations and NPCs
 - [**Sword & Sorcery**](https://www.nexusmods.com/stardewvalley/mods/12369) - Fantasy expansion with 5+ custom skill trees (Paladin, Rogue, Bardic, Witchcraft, Druidic), unique maps, and deep storytelling
 
-**Other Major NPCs include** [Sen from Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770) (ES), [Eli & Dylan](https://www.nexusmods.com/stardewvalley/mods/13883) (ES), [Leilani](https://www.nexusmods.com/stardewvalley/mods/9375) (RSV), [Nora the Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176) (ES), and [Rodney O'Brien](https://www.nexusmods.com/stardewvalley/mods/13437) (ES)
+**Other Major NPCs include** [Eli & Dylan](https://www.nexusmods.com/stardewvalley/mods/13883) (ES), [Leilani](https://www.nexusmods.com/stardewvalley/mods/9375) (RSV), [Nora the Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176) (ES), [Rodney O'Brien](https://www.nexusmods.com/stardewvalley/mods/13437) (ES), and [Sen from Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770) (ES)
 
 ---
 
@@ -82,17 +91,17 @@ A cozy, witchy cottagecore experience with a medieval tone. Features warm autumn
 
 These powerful customization tools are included in the Aesthetic Valley collections:
 
-> #### **Fashion Sense**
+> #### **[Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/9969)**
 >
 > Fashion Sense adds a full outfit customization system that lets you equip hats, accessories, hairstyles, and outfits dynamically! This collection includes a whole wardrobe's worth of hair, outfit, and accessory options. Get a mirror in the mail, purchase one from Pierre, or open the interface anywhere with the `G` key.
 
-> #### **Alternative Textures**
->
-> This framework allows in-game texture swapping for almost any object, including furniture, animals, buildings, and more. With a simple paint tool, you can instantly change designs to match your aesthetic or theme. Visit Robin to purchase a Paint Bucket and other AT tools.
-
-> #### **Happy Home Designer**
+> #### **[Happy Home Designer](https://www.nexusmods.com/stardewvalley/mods/19675)**
 >
 > Walk around and place furniture directly from the catalog without reopening menus. The mod supports **Alternative Textures**, showing which items have skins and allowing you to place pre-skinned versions. You can stack or combine both catalogs, search for furniture and wallpapers, and configure everything through GMCM. It includes one-click wall and floor placement and the ability to favorite items for easy access.
+
+> #### **[Precise Furniture](https://www.nexusmods.com/stardewvalley/mods/23488)**
+>
+> This tool allows in-game texture swapping for almost any object, including furniture, animals, buildings, and more. With a simple paint tool, you can instantly change designs to match your aesthetic or theme. Visit Robin to purchase a Paint Bucket and other AT tools.
 
 ---
 
@@ -119,8 +128,6 @@ All mods are pre-configured to work together, and settings are optimized for the
 
 - **Installation Guides**: See [Mod Managers](Installation/index.md) to choose your installation method
 - **Join our Community**: [Discord Server](https://discord.gg/MPcgJUXeeY)
-
-**Get Started:** [Stardew Valley VERY Expanded on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
 
 ---
 
