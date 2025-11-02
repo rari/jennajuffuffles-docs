@@ -23,47 +23,64 @@ All included packs are configured to **work right out of the box**, with no manu
 
 **Download on Nexus:** [Oops! All Portraits: Nyapu](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)
 
-> **Note:** Groupings as displayed below should stay **enabled together** in your mod manager. Please note that files are not currently renamed in the Nexus Mods App, so the file names may not exactly match the list shown here.
+---
+
+## Enabling Portrait Groupings
+Groupings as displayed below should stay **enabled together** in your mod manager. Please note that files are not currently renamed in the Nexus Mods App, so the file names may not exactly match the list shown here.
+
+### 1. Stardew Valley
+1. SDV Seasonal Portrait Framework
+1. SDV Nyapu Portraits
+1. SDV Nyapu Seasonal Portraits
+
+### 2. [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
+2. SVE Seasonal Portrait Framework
+2. SVE Nyapu Portrait
+2. SVE Nyapu Seasonal Portrait
+
+### 3. East Scarp
+3. ES Seasonal Portrait Framework
+3. ES Nyapu Portraits
+3. ES Nyapu Seasonal Portraits
+
+### 4. Ridgeside Village + RSV Wedding Receiption
+4. RSV Seasonal Portrait Framework
+4. RSV Nyapu Portraits
+4. RSV Nyapu Seasonal Portraits
+4. RSV Nyapu SDV Wedding Receiption Portraits
+
+### 5. Adventurer's Guild Expanded 1.6
+5. Adventurer's Guild Expanded 1.6 Seasonal Portrait Framework
+5. Adventurer's Guild Expanded 1.6 Nyapu Portraits
+5. Adventurer's Guild Expanded 1.6 Nyapu Seasonal Portraits
 
 ---
 
-## Portrait Groupings
-### 1. Stardew Valley
-- 1. SDV Seasonal Portrait Framework
-- 1. SDV Nyapu Portraits
-- 1. SDV Nyapu Seasonal Portraits
+## For Stardew Valley VERY Expanded Users
 
-### 2. [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
-- 2. SVE Seasonal Portrait Framework
-- 2. SVE Nyapu Portrait
-- 2. SVE Nyapu Seasonal Portrait
+Some mods included in [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m) come with their own Nyapu portrait options!
 
-### 3. [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Leilani
+- Lurking in the Dark - NPC Sen
+- Sword & Sorcery (CP)
 
+Access Generic Mod Config Menu (GMCM) from the Title Menu ⚙️ or the bottom of the Settings menu in-game.
 
+---
 
-- 3. ES Seasonal Portrait Framework
-- 3. ES Nyapu Portraits
-- 3. ES Nyapu Seasonal Portraits
+## Installation
 
-### 4. [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+See Installation guides for your preferred mod manager:
+- [Vortex (Recommended)](../../Installation/Vortex/installation.md)
+- [Nexus Mods App](../../Installation/NMA/installation.md)
+- [Manual Installation](../../Installation/Manual/installation.md)
 
-Also Supports: [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848)
-
-- 4. RSV Seasonal Portrait Framework
-- 4. RSV Nyapu Portraits
-- 4. RSV Nyapu Seasonal Portraits
-- 4. RSV Nyapu SDV Wedding Receiption Portraits
-
-### 5. [Adventurer's Guild Expanded 1.6](https://www.nexusmods.com/stardewvalley/mods/22591)
-
-- Adventurer's Guild Expanded 1.6 Seasonal Portrait Framework
-- Adventurer's Guild Expanded 1.6 Nyapu Portraits
-- Adventurer's Guild Expanded 1.6 Nyapu Seasonal Portraits
+> Note: Links to all supported expansions are provided above. Enable only the ones that match your current setup!
 
 ---
 
 ## Supported Mods
+This is a list of supported expansions. They are not included as part of the collection, and may have their own requirements. 
 
 ### Main Expansions
 - [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
@@ -95,29 +112,6 @@ Also Supports: [Wedding Reception Portraits for RSV](https://www.nexusmods.com/s
 - [Yoba](https://www.nexusmods.com/stardewvalley/mods/14871)
 - [Clint Reforged](https://www.nexusmods.com/stardewvalley/mods/27587) — *Disable Clint in Seasonal Cute Aesthetics settings.*
 - [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
-
----
-
-## For Stardew Valley VERY Expanded Users
-
-Some mods included in [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m) come with their own Nyapu portrait options!
-
-- Leilani
-- Lurking in the Dark - NPC Sen
-- Sword & Sorcery (CP)
-
-Access Generic Mod Config Menu (GMCM) from the Title Menu ⚙️ or the bottom of the Settings menu in-game.
-
----
-
-## Installation
-
-See Installation guides for your preferred mod manager:
-- [Vortex (Recommended)](../../Installation/Vortex/installation.md)
-- [Nexus Mods App](../../Installation/NMA/installation.md)
-- [Manual Installation](../../Installation/Manual/installation.md)
-
-> Note: Links to all supported expansions are provided above. Enable only the ones that match your current setup!
 
 ---
 
