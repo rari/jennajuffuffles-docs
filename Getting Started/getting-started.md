@@ -20,6 +20,15 @@ Before you begin, ensure you have:
 
 ---
 
+## Mod Managers
+
+- **Vortex** (Recommended) - One-click installation with Nexus Premium, guided installation for free users. See: [Mod Managers](../Installation/index.md) and [Vortex Installation Guide](../Installation/Vortex/installation.md)
+- **Nexus Mods App** (Beta) - Multi-platform Collections support. See: [Nexus Mods App Installation Guide](../Installation/NMA/installation.md)
+- **Stardrop** (Not recommended for collection users) - SMAPI-centric management. Great for Stardew but cannot install Collections directly; requires migration from Vortex/App. See: [Stardrop Installation Guide](../Installation/Stardrop/installation.md) and [Transferring to Stardrop](../Installation/Stardrop/transfer-to-stardrop.md).
+- **Manual Installation** - Step-by-step without a manager (not recommended). See: [Manual Installation Guide](../Installation/Manual/installation.md)
+
+---
+
 ## Installation Methods
 
 To use the **Add Collection** button, a supported [mod manager](../Installation/index.md) (like Vortex or Nexus Mods App) is required.

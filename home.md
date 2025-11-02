@@ -105,27 +105,9 @@ These powerful customization tools are included in the Aesthetic Valley collecti
 
 ---
 
-## Download and Install
-
-### Quick Setup
-
-To use the **Add Collection** button, a supported mod manager (like Vortex or Nexus Mods App) is required.
-
-- One-click installation requires Vortex and Nexus Premium membership (recommended)
-- Guided installation is available for free users through Vortex or Nexus Mods App
-- Manual installation is available for free users (not recommended)
-
-All mods are pre-configured to work together, and settings are optimized for the best experience out-of-the-box.
-
-### Mod Managers
-
-- **Vortex** (Recommended) - One-click installation with Nexus Premium, guided installation for free users. See: [Mod Managers](Installation/index.md) and [Vortex Installation Guide](Installation/Vortex/installation.md)
-- **Nexus Mods App** (Beta) - Multi-platform Collections support. See: [Nexus Mods App Installation Guide](Installation/NMA/installation.md)
-- **Stardrop** (Not recommended for collection users) - SMAPI-centric management. Great for Stardew but cannot install Collections directly; requires migration from Vortex/App. See: [Stardrop Installation Guide](Installation/Stardrop/installation.md) and [Transferring to Stardrop](Installation/Stardrop/transfer-to-stardrop.md).
-- **Manual Installation** - Step-by-step without a manager (not recommended). See: [Manual Installation Guide](Installation/Manual/installation.md)
-
 ### Need Help?
 
+- **Getting Started**: See [Getting Started](Getting%20Started/getting-started.md) for detailed installation information and supported mod managers
 - **Installation Guides**: See [Mod Managers](Installation/index.md) to choose your installation method
 - **Join our Community**: [Discord Server](https://discord.gg/MPcgJUXeeY)
 
