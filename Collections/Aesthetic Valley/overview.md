@@ -68,7 +68,7 @@ See Installation guides for your preferred mod manager:
 
 ## Combining with Other Collections
 
-Aesthetic Valley collections are designed to work seamlessly with Stardew Valley VERY Expanded. See [Combining Collections](../combining-collections.md) for detailed instructions on how to combine collections properly.
+Any Aesthetic Valley collection (Fairycore, Witchcore, or any future Aesthetic Valley collection) is designed to work with Stardew Valley VERY Expanded. See [Combining Collections](../combining-collections.md) for detailed instructions on how to combine any Aesthetic Valley collection with SVVE.
 
 ---
 

@@ -31,8 +31,11 @@
   * [Keybinds & Controllers](Collections/Stardew%20Valley%20VERY%20Expanded/keybinds-controllers.md)
   * [FAQ & Troubleshooting](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md)
 * [Aesthetic Valley Collections](Collections/Aesthetic%20Valley/README.md)
+  * [Overview](Collections/Aesthetic%20Valley/overview.md)
   * [Keybinds & Controllers](Collections/Aesthetic%20Valley/keybinds-controllers.md)
   * [FAQ & Troubleshooting](Collections/Aesthetic%20Valley/faq.md)
+* [Oops! All Portraits: Nyapu](Collections/Oops!%20All%20Portraits%20-%20Nyapu/README.md)
+  * [Overview](Collections/Oops!%20All%20Portraits%20-%20Nyapu/overview.md)
 
 ## Guides & Customization
 * [Personalization & Custom Configurations](Guides/personalization.md)

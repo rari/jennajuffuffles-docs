@@ -7,7 +7,7 @@
 
 > Warning: If your mine entrance is missing, enable "Original Mine Entrance" in GMCM under Stardew Valley Expanded.
 
-You can combine Stardew Valley VERY Expanded (svVe) with one or both Aesthetic Valley collections for a custom look and feel. Always install them into the same Vortex profile and follow the conflict resolution steps below.
+You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley collection (Fairycore, Witchcore, or any future Aesthetic Valley collection) for a custom look and feel. Always install them into the same Vortex profile and follow the conflict resolution steps below.
 
 ---
 
@@ -18,9 +18,12 @@ You can combine Stardew Valley VERY Expanded (svVe) with one or both Aesthetic V
 3. Installation order: When combining, install the dominant Aesthetic Valley collection last, or reinstall its configuration at the end so it takes priority.
 
 ### Optional Mods Strategy
+
+When combining SVVE with any Aesthetic Valley collection:
 - **SVVE optional mods:** Can always be installed — they are compatible with all combinations.
-- **Aesthetic Valley optional mods:** Only install optional mods from **one** Aesthetic Valley collection (Fairycore or Witchcore) to avoid conflicts.
+- **Aesthetic Valley optional mods:** Only install optional mods from **one** Aesthetic Valley collection to avoid conflicts.
 - **Farm optional mods:** Only install optional mods from **one** farm to avoid conflicts.
+
 - Optional mods can be added later from any collection's Mods tab by setting the filter to "Recommended".
 - If you customize optional mods individually, review configurations afterwards to avoid unexpected behavior.
 

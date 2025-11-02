@@ -9,6 +9,8 @@
 
 Stardew Valley VERY Expanded (SVVE) is a curated mod collection that extends Stardew Valley far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
 
+**Download on Nexus:** [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
+
 ## Resources
 
 - [Overview](overview.md) - Learn about the collection and its features

@@ -85,7 +85,7 @@ A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI el
 A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors and a rustic atmosphere with cozy vibes.  
 [Witchcore on Nexus](https://next.nexusmods.com/stardewvalley/collections/g14kxi/)
 
-> You can use both together. When installing, you can always install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](Collections/combining-collections.md)
+> You can use both together. When combining any Aesthetic Valley collection with SVVE, you can always install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](Collections/combining-collections.md)
 
 ### The Tools to Customize Your World
 

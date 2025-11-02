@@ -18,7 +18,7 @@ This page addresses the most common questions and issues players encounter with 
 > No. Always wait for collection updates to ensure compatibility and prevent conflicts.
 
 **Can I combine your collections?**
-> Yes. The Aesthetic Valley collections are designed to work alongside svVe. See Combining Collections: [Combining Collections](Collections/combining-collections.md)
+> Yes. Any Aesthetic Valley collection is designed to work alongside svVe. See Combining Collections: [Combining Collections](Collections/combining-collections.md)
 
 **First-time players**
 > It's fine to start with svVe, though it's large. Vanilla first is recommended but not required.

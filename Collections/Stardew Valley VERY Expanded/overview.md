@@ -78,7 +78,7 @@ See Installation guides for your preferred mod manager:
 
 ## Combining with Other Collections
 
-The Aesthetic Valley collections (Fairycore and Witchcore) can be installed alongside SVVE in the same Vortex profile. See [Combining Collections](../combining-collections.md)
+Any Aesthetic Valley collection (Fairycore, Witchcore, or any future Aesthetic Valley collection) can be installed alongside SVVE in the same Vortex profile. See [Combining Collections](../combining-collections.md) for detailed instructions.
 
 ---
 
