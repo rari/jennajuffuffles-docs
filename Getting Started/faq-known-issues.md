@@ -11,7 +11,7 @@ This page addresses general questions and issues that apply across all collectio
 
 ## Getting Started FAQs
 
-**Do I need the optional mods?**
+### Do I need the optional mods?
 > Yes! While some mods are marked as "optional" to make it easier when combining collections, you should install them when using a single collection. These optional mods include:
 > - Essential interface improvements 
 > - Map enhancements that improve the visual experience
@@ -21,20 +21,20 @@ This page addresses general questions and issues that apply across all collectio
 > 
 > The optional designation exists mainly to help with collection stacking (combining multiple collections). When using just one collection, these mods are designed to be part of the intended experience.
 
-**Should I update individual mods myself?**
+### Should I update individual mods myself?
 > No. Always wait for the collection to be updated instead of updating individual mods yourself. The collection curator tests all mod versions together to ensure compatibility. Updating mods individually can cause version conflicts, breaking changes, missing compatibility patches, and unstable gameplay. When a collection update is released, it includes tested versions of all mods that work together.
 
-**Can I combine your collections?**
+### Can I combine your collections?
 > Yes! Any Aesthetic Valley collection (Fairycore, Witchcore, or future Aesthetic Valley collections) is designed to work alongside Stardew Valley VERY Expanded (SVVE). You can install them into the same Vortex profile.
 > 
 > For detailed instructions on how to combine collections, including which optional mods to install and how to manage conflicts, see our [Combining Collections](Collections/combining-collections.md) guide.
 
-**First-time players**
+### First-time players
 > It's absolutely fine to start with SVVE even if you're new to Stardew Valley! The collection is designed to enhance the game while preserving the vanilla feel. However, keep in mind that SVVE is quite large with many new areas, NPCs, and content.
 > 
 > **Recommendation:** Playing vanilla Stardew Valley first will help you appreciate the additions SVVE brings, but it's not required. If you're eager to dive in with the collection, go for it - just be prepared for a lot more content to explore!
 
-**Co-op**
+### Co-op
 > All players in a multiplayer game must have matching mods and configurations for everything to work correctly. This means:
 > - All players need the same collection(s) installed
 > - All players need the same mod versions
@@ -42,7 +42,7 @@ This page addresses general questions and issues that apply across all collectio
 > 
 > Consider using a multiplayer manager or keeping careful documentation of your mod setup so everyone can stay in sync. Version mismatches can cause desyncs, crashes, or missing content.
 
-**Where to download**
+### Where to download
 > Always download from **Nexus Mods** - this is the official source for these collections. The collections are only updated and maintained through Nexus.
 > 
 > **Nexus Premium** enables one-click installation through Vortex, making setup much easier. If you're installing manually, you can still use Nexus for free, though it takes more time.
@@ -55,7 +55,7 @@ This page addresses general questions and issues that apply across all collectio
 
 For SVVE-specific gameplay questions including Community Center cutscenes, Rusty/Sewer Key changes, minecart blocking the mine entrance, duplicated NPCs, East Scarp festival attendance, crafting issues, and performance problems, see the [SVVE FAQ](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
 
-**Can't exit house / corrupted farm map**
+### Can't exit house / corrupted farm map
 > If you find yourself unable to exit your house or see a corrupted farm map (missing textures, black areas, or errors), this usually means your farm map mod is disabled or failed to load properly.
 > 
 > To fix this:
@@ -72,7 +72,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 
 ## Setup & Customization FAQs
 
-**Can I add more mods?**
+### Can I add more mods?
 > Yes! These collections are designed as solid bases that you can build upon. However, there are some important things to keep in mind:
 > 
 > - **Test additions individually** - Add one mod at a time and test thoroughly before adding another. This helps you identify any conflicts quickly.
@@ -82,7 +82,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > 
 > Remember that adding mods can introduce conflicts or bugs, and collection updates may not account for your additions. Keep backups of working configurations!
 
-**Can I disable a required mod?**
+### Can I disable a required mod?
 > You can disable a required mod, but it requires manual management since the collection expects it to be enabled.
 > 
 > **For Vortex users:**
@@ -100,19 +100,19 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 
 ### MacOS Installation
 
-**Mod Managers**
+#### Mod Managers
 > Nexus Mods App has planned support for MacOS, but currently no mod manager with collection support exists. Mac users may use our [Manual Installation](Installation/Manual/installation.md) guide or our [Stardrop](Installation/Stardrop/installation.md) guides and transfer from a Windows machine.
 
-**MacOS SMAPI Security Issues**
+#### MacOS SMAPI Security Issues
 
 **Important:** Certain MacOS versions flag SMAPI as malware and forcibly move it to the trash, preventing installation.
 
 *The following solutions are based on community findings, derivded from the Stardew community Discord, and may change as Apple updates MacOS security behaviors.*
 
-**Problem 1: Unable to Run SMAPI Installer**
+#### Problem 1: Unable to Run SMAPI Installer
 > When you receive a security message, go to Settings → Security (or Privacy & Security) and hit "Open Anyways" where it lists the blocked file.
 
-**Problem 2: MacOS reports "Malware Blocked and Moved to Trash"**
+#### Problem 2: MacOS reports "Malware Blocked and Moved to Trash"
 > Enable MacOS security permissions:
 
 1. Go to System Settings > Privacy and Security
@@ -138,7 +138,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 
 ## Vortex Behaviors & Workarounds
 
-**Updates can overwrite/delete custom configs**
+### Updates can overwrite/delete custom configs
 > When a collection updates, Vortex may overwrite or delete your custom mod configurations. This is frustrating, but there are ways to protect your settings:
 > 
 > **Option 1: Sync Mod Configurations**
@@ -152,7 +152,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > 
 > Using the custom config mod method ensures your settings persist through all updates automatically!
 
-**Mod staging may fail silently**
+### Mod staging may fail silently
 > Sometimes Vortex may show a mod as installed and enabled, but it might not actually be loaded in the game. This is called "silent staging failure."
 > 
 > To verify mods are actually loaded:
@@ -165,7 +165,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > - If that doesn't work, delete the mod and reinstall it from the Collection tab
 > - Check the SMAPI log for any errors related to that specific mod
 
-**Incorrect mod folder structures**
+### Incorrect mod folder structures
 > Some mods may have incorrect folder structures that prevent them from loading properly. This usually happens with manually downloaded mods or older mod versions.
 > 
 > To fix this:
@@ -177,7 +177,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > 
 > The correct structure is usually: `Mods/[ModName]/[ModName].dll` or `Mods/[ModName]/manifest.json`
 
-**Red errors from an "empty Vortex folder"**
+### Red errors from an "empty Vortex folder"
 > If you see red error messages in Vortex about an "empty Vortex folder," this typically means:
 > - There are leftover files from a previous installation
 > - A mod was installed but only contains configuration or translation files (no actual mod content)
@@ -189,7 +189,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > 3. If it's leftovers, delete the mod and reinstall it cleanly
 > 4. Sometimes you can safely ignore these errors if the mod is working correctly - check your SMAPI log to confirm
 
-**Generic Mod Config Menu (GMCM) version compatibility**
+### Generic Mod Config Menu (GMCM) version compatibility
 > Use the version of Generic Mod Config Menu (GMCM) that's recommended in the collection. Newer versions may introduce compatibility issues or cause certain menus to soft-lock (freeze when opened).
 > 
 > If you've updated GMCM manually and are experiencing menu freezes:
@@ -203,7 +203,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 
 ## Known Technical Issues
 
-**Multiplayer / split-screen desync**
+### Multiplayer / split-screen desync
 > If you experience desynchronization in multiplayer (players seeing different things, actions not registering, or players getting stuck), this is usually a temporary network or mod state issue.
 > 
 > Quick fixes to try:
@@ -214,7 +214,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > 
 > Persistent desync issues may indicate mod conflicts or version mismatches. Check the SMAPI logs from all players for errors.
 
-**Failed to Store Cache Entry (SinZational Speedy Solutions)**
+### Failed to Store Cache Entry (SinZational Speedy Solutions)
 > This error message appears in your SMAPI log related to SinZational Speedy Solutions, but **it's completely safe to ignore**. It's an informational message, not an actual error.
 > 
 > - It does **not** indicate a crash or conflict
@@ -224,7 +224,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > 
 > This is a known quirk of the mod and doesn't impact functionality. You can safely continue playing!
 
-**Unresolved file conflicts (Manage Rules)**
+### Unresolved file conflicts (Manage Rules)
 > Vortex may show file conflicts in the "Manage Rules" section. These typically occur when multiple mods modify the same files. Here's how to resolve them properly:
 > 
 > **For configuration/compatibility/translation files:**
@@ -242,7 +242,7 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > - Check the SMAPI log for any errors related to the conflicting mods
 > - If issues persist, you may need to choose which mod's version of the conflicting file takes priority
 
-**SMAPI not launching**
+### SMAPI not launching
 > If SMAPI isn't launching when you try to start the game:
 > 1. Open Vortex
 > 2. Go to the **Dashboard** tab
