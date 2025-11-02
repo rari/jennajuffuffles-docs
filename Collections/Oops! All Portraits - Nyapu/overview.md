@@ -27,42 +27,33 @@ All included packs are configured to **work right out of the box**, with no manu
 
 ---
 
-## Supported Mods
-
+## Portrait Groupings
 ### 1. Stardew Valley
-
-- SDV Seasonal Portrait Framework
-- SDV Nyapu Portraits
-- SDV Nyapu Seasonal Portraits
-- SDV Nyapu Seasonal Character Sprites
+- 1. SDV Seasonal Portrait Framework
+- 1. SDV Nyapu Portraits
+- 1. SDV Nyapu Seasonal Portraits
 
 ### 2. [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
-
-- SVE Seasonal Portrait Framework
-- SVE Nyapu Portrait
-- SVE Nyapu Seasonal Portrait
-- SVE Nyapu Seasonal Character Sprites
+- 2. SVE Seasonal Portrait Framework
+- 2. SVE Nyapu Portrait
+- 2. SVE Nyapu Seasonal Portrait
 
 ### 3. [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
 
-Includes support for:
-- [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
-- [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
-- [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
-- [Metalcore Goes Cottagecore - East Scarp Addon](https://www.nexusmods.com/stardewvalley/mods/29995)
 
-- ES Seasonal Portrait Framework
-- ES Nyapu Portraits
-- ES Nyapu Seasonal Portraits
+
+- 3. ES Seasonal Portrait Framework
+- 3. ES Nyapu Portraits
+- 3. ES Nyapu Seasonal Portraits
 
 ### 4. [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
 
-Requires: [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848)
+Also Supports: [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848)
 
-- RSV Seasonal Portrait Framework
-- RSV Nyapu Portraits
-- RSV Nyapu Seasonal Portraits
-- RSV Nyapu Wedding Reception Portraits
+- 4. RSV Seasonal Portrait Framework
+- 4. RSV Nyapu Portraits
+- 4. RSV Nyapu Seasonal Portraits
+- 4. RSV Nyapu SDV Wedding Receiption Portraits
 
 ### 5. [Adventurer's Guild Expanded 1.6](https://www.nexusmods.com/stardewvalley/mods/22591)
 
@@ -72,8 +63,25 @@ Requires: [Wedding Reception Portraits for RSV](https://www.nexusmods.com/starde
 
 ---
 
-## Additional Supported Mods
+## Supported Mods
 
+### Main Expansions
+- [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
+- [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+  - [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
+  - [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
+  - [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
+  - [Metalcore Goes Cottagecore - East Scarp Addon](https://www.nexusmods.com/stardewvalley/mods/29995)
+- [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+  - [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) (required)
+- [Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/11111)
+  - [Ripley the Farmer - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32660)
+  - [Rose and the Alchemist - Custom NPCs for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32385)
+  - [Wren the Plumber - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/14286)
+  - [Jonghyuk & Spanner - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/12000)
+
+### Additional Supported Mods
+- [Adventurer's Guild Expanded 1.6](https://www.nexusmods.com/stardewvalley/mods/22591)
 - [LittleNPCs & The Farmer's Children & Art - Deluxe](https://www.nexusmods.com/stardewvalley/mods/5436)
 - [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
 - [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
@@ -87,14 +95,6 @@ Requires: [Wedding Reception Portraits for RSV](https://www.nexusmods.com/starde
 - [Yoba](https://www.nexusmods.com/stardewvalley/mods/14871)
 - [Clint Reforged](https://www.nexusmods.com/stardewvalley/mods/27587) — *Disable Clint in Seasonal Cute Aesthetics settings.*
 - [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
-
-### Support for Sunberry Village
-
-- [Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/11111)
-- [Ripley the Farmer - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32660)
-- [Rose and the Alchemist - Custom NPCs for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32385)
-- [Wren the Plumber - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/14286)
-- [Jonghyuk & Spanner - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/12000)
 
 ---
 
