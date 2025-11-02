@@ -118,29 +118,9 @@ See Installation guides for your preferred mod manager:
 
 ---
 
-## Combining with Other Collections
-
-This collection is designed to work seamlessly with other collections like Stardew Valley VERY Expanded. See [Combining Collections](../combining-collections.md) for detailed instructions on how to combine collections properly.
-
----
-
-## About Nexus Collections
-
-This is not a modpack. Nexus Collections work by downloading each mod individually, which means:
-
-- Every download counts as a unique download for the original creator
-- All endorsements go to the individual mods, not just the collection
-- The collection simply ensures compatibility and makes setup easy — it doesn't redistribute anyone's work
-
-If you enjoy your experience, please take a moment to also endorse the individual mods on Nexus. It directly supports the creators whose creativity makes all this possible.
-
-**Thank you for helping improve this collection!** If this works well, please **endorse** to help increase visibility.
-
----
-
 ## Getting Help
 
 If you encounter any issues or feel anything has been missed here, please report on [JennaJuffuffles' Discord](https://discord.gg/MPcgJUXeeY).
 
-The best place to find help is the [Discord Server](https://discord.gg/MPcgJUXeeY). Select Stardew Valley as your interest. Our community is eager to help!
+The best place to find help is the Discord Server! Select Stardew Valley as your interest. Our community is eager to help!
 
