@@ -21,6 +21,8 @@ If you don't use expansions, you can safely disable everything **not labeled "SD
 
 All included packs are configured to **work right out of the box**, with no manual replacements or edits required.
 
+**Download on Nexus:** [Oops! All Portraits: Nyapu](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)
+
 > **Note:** Groupings as displayed below should stay **enabled together** in your mod manager. Please note that files are not currently renamed in the Nexus Mods App, so the file names may not exactly match the list shown here.
 
 ---
@@ -98,7 +100,7 @@ Requires: [Wedding Reception Portraits for RSV](https://www.nexusmods.com/starde
 
 ## For Stardew Valley VERY Expanded Users
 
-Some mods included in [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m) ship with their own Nyapu portrait options!
+Some mods included in [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m) come with their own Nyapu portrait options!
 
 - Leilani
 - Sword & Sorcery (CP)
@@ -114,13 +116,11 @@ See Installation guides for your preferred mod manager:
 - [Nexus Mods App](../../Installation/NMA/installation.md)
 - [Manual Installation](../../Installation/Manual/installation.md)
 
-> **Important:** Links to all supported expansions are provided above. Enable only the ones that match your current setup!
+> Note: Links to all supported expansions are provided above. Enable only the ones that match your current setup!
 
 ---
 
 ## Getting Help
 
-If you encounter any issues or feel anything has been missed here, please report on [JennaJuffuffles' Discord](https://discord.gg/MPcgJUXeeY).
-
-The best place to find help is the Discord Server! Select Stardew Valley as your interest. Our community is eager to help!
+The best place to find help is the [Discord Server](https://discord.gg/MPcgJUXeeY). Select Stardew Valley as your interest. Our community is eager to help!
 
