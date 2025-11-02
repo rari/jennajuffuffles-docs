@@ -25,13 +25,13 @@ Aesthetic Valley collections provide visual themes for Stardew Valley. These vis
 
 A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI elements, and a whimsical atmosphere.
 
-[Fairycore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
+**Download on Nexus:** [Aesthetic Valley | Fairycore](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j)
 
 ### Aesthetic Valley | Witchcore
 
 A cozy, witchy cottagecore experience with a medieval tone. Features warm autumnal colors and a rustic atmosphere with cozy vibes.
 
-[Witchcore on Nexus](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
+**Download on Nexus:** [Aesthetic Valley | Witchcore](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
 
 > You can use both together. When installing, you can always install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](../combining-collections.md)
 
