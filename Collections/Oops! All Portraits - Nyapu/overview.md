@@ -29,30 +29,30 @@ All included packs are configured to **work right out of the box**, with no manu
 Groupings as displayed below should stay **enabled together** in your mod manager. Please note that files are not currently renamed in the Nexus Mods App, so the file names may not exactly match the list shown here.
 
 ### 1. Stardew Valley
-1. SDV Seasonal Portrait Framework
-1. SDV Nyapu Portraits
-1. SDV Nyapu Seasonal Portraits
+\1. SDV Seasonal Portrait Framework
+\1. SDV Nyapu Portraits
+\1. SDV Nyapu Seasonal Portraits
 
 ### 2. [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
-2. SVE Seasonal Portrait Framework
-2. SVE Nyapu Portrait
-2. SVE Nyapu Seasonal Portrait
+\2. SVE Seasonal Portrait Framework
+\2. SVE Nyapu Portrait
+\2. SVE Nyapu Seasonal Portrait
 
 ### 3. East Scarp
-3. ES Seasonal Portrait Framework
-3. ES Nyapu Portraits
-3. ES Nyapu Seasonal Portraits
+\3. ES Seasonal Portrait Framework
+\3. ES Nyapu Portraits
+\3. ES Nyapu Seasonal Portraits
 
 ### 4. Ridgeside Village + RSV Wedding Receiption
-4. RSV Seasonal Portrait Framework
-4. RSV Nyapu Portraits
-4. RSV Nyapu Seasonal Portraits
-4. RSV Nyapu SDV Wedding Receiption Portraits
+\4. RSV Seasonal Portrait Framework
+\4. RSV Nyapu Portraits
+\4. RSV Nyapu Seasonal Portraits
+\4. RSV Nyapu SDV Wedding Receiption Portraits
 
 ### 5. Adventurer's Guild Expanded 1.6
-5. Adventurer's Guild Expanded 1.6 Seasonal Portrait Framework
-5. Adventurer's Guild Expanded 1.6 Nyapu Portraits
-5. Adventurer's Guild Expanded 1.6 Nyapu Seasonal Portraits
+\5. Adventurer's Guild Expanded 1.6 Seasonal Portrait Framework
+\5. Adventurer's Guild Expanded 1.6 Nyapu Portraits
+\5. Adventurer's Guild Expanded 1.6 Nyapu Seasonal Portraits
 
 ---
 
