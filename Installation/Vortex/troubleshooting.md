@@ -15,25 +15,25 @@ Before diving into complex troubleshooting steps, restart your computer and try 
 
 ---
 
-## Part 1 - Game Installation Check (Game itself is healthy)
+## Quick Fix Process
+
+Follow these steps in order to resolve common Vortex installation issues.
+
+### Part 1 - Game Installation Check (Game itself is healthy)
 
 1. Use your store launcher to verify integrity of game files:
    - Steam: Library → Stardew Valley → Properties → Installed Files → Verify  
    - GOG: More → Manage Installation → Verify / Repair  
    - Xbox / Game Pass: Right-click game → Manage → Files → Verify and Repair
 
----
+### Part 2 - Vortex Profile Check (Only collection mods selected)
 
-## Part 2 - Vortex Profile Check (Only collection mods selected)
-
-1. On the Nexus Mods collection page, click Add Collection.
+1. On the appropriate Nexus Mods collection page, click Add Collection.
 2. When prompted, install into a New Profile.
 3. In Vortex, switch to that profile and confirm only the collection's mods are enabled.
 4. Ensure Optional Mods are ticked for full functionality.
 
----
-
-## Part 3 - Game Mods Folder Check (Only mods Vortex knows about)
+### Part 3 - Game Mods Folder Check (Only mods Vortex knows about)
 
 1. In Vortex → Mods tab, click Purge to remove all active mods from the game folder.
 2. Click Open → Game Mods Folder and manually delete any files/folders left behind.
@@ -44,6 +44,7 @@ Before diving into complex troubleshooting steps, restart your computer and try 
 ## Vortex-Specific Tips
 
 - Set SMAPI as the Primary Tool in Dashboard; re-add if missing.  
+- SMAPI can be added as a mod from Nexus and Vortex will automatically install it
 - Manage Rules: ensure configuration/compat/translation mods load after the mods they affect; avoid Use Suggested if it creates loops.  
 - After Deploy, confirm mods actually loaded in the SMAPI log (not just the Mods tab).  
 - If a mod is missing: Redeploy, or delete the mod and its archive, then reinstall from the Collection tab.
@@ -70,7 +71,7 @@ Before diving into complex troubleshooting steps, restart your computer and try 
 > 
 > **Situation 1: Vortex didn't properly clean up when a mod was disabled**
 > - This is common if mods are disabled while the game is active
-> - **Solution:** Running through the troubleshooting steps above (Game Installation Check, Vortex Profile Check, Game Mods Folder Check) will solve this issue
+> - **Solution:** Running through the [Quick Fix Process](#quick-fix-process) above will solve this issue
 > 
 > **Situation 2: Collection-distributed additional files are still present**
 > - Collections may distribute additional files (configurations, portraits, etc.) so that the folder will persist without a manifest when the mod is disabled
