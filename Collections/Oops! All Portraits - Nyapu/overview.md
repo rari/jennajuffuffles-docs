@@ -99,19 +99,21 @@ This is a list of supported expansions. They are not included as part of the col
 
 ### Additional Supported Mods
 - [Adventurer's Guild Expanded 1.6](https://www.nexusmods.com/stardewvalley/mods/22591)
-- [LittleNPCs & The Farmer's Children & Art - Deluxe](https://www.nexusmods.com/stardewvalley/mods/5436)
-- [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
-- [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
-- [Tristan](https://www.nexusmods.com/stardewvalley/mods/6675)
-- [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
 - [Alecto the Witch](https://www.nexusmods.com/stardewvalley/mods/10671)
+- [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
+- [Cape Stardew](https://www.nexusmods.com/stardewvalley/mods/14635)
+- [Clint Reforged](https://www.nexusmods.com/stardewvalley/mods/27587) — *Disable Clint in Seasonal Cute Aesthetics settings.*
+- [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
+- [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
+- [Law and Order SV](https://www.nexusmods.com/stardewvalley/mods/23979)
+- [LittleNPCs & The Farmer's Children & Art - Deluxe](https://www.nexusmods.com/stardewvalley/mods/5436)
+- [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
+- [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
 - [Miihau's CatBoy NPC](https://www.nexusmods.com/stardewvalley/mods/33670)
 - [Tea - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/33851)
-- [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
-- [Law and Order SV](https://www.nexusmods.com/stardewvalley/mods/23979)
+- [Tristan](https://www.nexusmods.com/stardewvalley/mods/6675)
 - [Yoba](https://www.nexusmods.com/stardewvalley/mods/14871)
-- [Clint Reforged](https://www.nexusmods.com/stardewvalley/mods/27587) — *Disable Clint in Seasonal Cute Aesthetics settings.*
-- [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
 
 ---
 
