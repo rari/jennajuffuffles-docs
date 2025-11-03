@@ -47,10 +47,10 @@ Follow these steps in order to resolve common Vortex installation issues.
 > **Reinstall or Redownload**
 > - Right-click the mod and select **Reinstall** to correct issues with improper unpacking
 > - If there's an issue with the archive itself, remove the mod and its archive, then redownload. Both steps can easily be done from the Collections panel
-> - If the file cannot be installed as-is do to structural issues, it may attempt to reinstall and then display as uninstalled.
+> - If the file cannot be installed as-is due to structural issues, it may attempt to reinstall and then display as uninstalled.
 
 > **Resolving Structural Issues**
-> If a mod doesn't unpack with all its files, it's folder structure may not be constructed per SMAPI guidelines. Vortex may filter out extra folders, missing top-level folders, or struggle with mods that contain multiple manifests.
+> If a mod doesn't unpack with all its files, its folder structure may not be constructed per SMAPI guidelines. Vortex may filter out extra folders, missing top-level folders, or struggle with mods that contain multiple manifests.
 > 
 > **Step 1: Use "Unpack As-Is"**
 > - Go to Downloads → View All Downloads, find the mod file, right-click it and select **"Unpack As-Is"**
@@ -128,7 +128,7 @@ Follow these steps in order to resolve common Vortex installation issues.
 
 ## Common Error Messages
 
-### "Vortex needs access to [file] but it's write protected"
+### "Vortex needs access to [file] but it's write-protected"
 > This error message is misleading. Vortex locks files it's already accessing as a safety feature to prevent file corruption. The error doesn't clearly indicate this and can lead you down a rabbit hole of file permissions troubleshooting.
 > 
 > **Solution:** Simply restart Vortex. This will release the file locks and allow Vortex to access the files normally. No file permission changes or administrator rights are needed.
