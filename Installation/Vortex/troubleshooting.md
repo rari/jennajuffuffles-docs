@@ -9,12 +9,6 @@ This page focuses on troubleshooting Vortex-related setup issues for the collect
 
 ---
 
-## Quick Fix: Try Restarting First!
-
-Before diving into complex troubleshooting steps, restart your computer and try again. Many issues with Vortex, SMAPI, or the game itself can be resolved with a simple restart.
-
----
-
 ## Quick Fix Process
 
 Follow these steps in order to resolve common Vortex installation issues.

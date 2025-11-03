@@ -9,33 +9,13 @@
 
 ## Quick Fix: Try Restarting First!
 
-Before diving into complex troubleshooting steps, **restart your computer** and try again. Many issues with Vortex, SMAPI, or the game itself can be resolved with a simple restart. This is often the fastest solution and can save you a lot of time!
+Before diving into complex troubleshooting steps, restart your computer and try again. Many issues with Vortex, SMAPI, or the game itself can be resolved with a simple restart.
 
 ---
 
-## Part 1 — Game Installation Check *(Game itself is healthy)*
+## Vortex-Specific Troubleshooting
 
-1. Use your store launcher to **verify integrity** of game files (fast reinstall):
-
-   - **Steam:** Library → Stardew Valley → Properties → Installed Files → Verify  
-   - **GOG:** More → Manage Installation → Verify / Repair  
-   - **Xbox / Game Pass:** Right-click game → Manage → Files → Verify and Repair
----
-
-## Part 2 — Vortex Profile Check *(Only collection mods selected)*
-
-1. On the [Nexus Mods collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.
-2. When prompted, install into a **New Profile**.
-3. In Vortex, switch to that profile and confirm **only the collection's mods are enabled** (no leftovers or personal add-ons).
-4. Ensure **Optional Mods** are ticked for full functionality.
-
----
-
-## Part 3 — Game Mods Folder Check *(Only mods Vortex knows about)*
-
-1. In Vortex → **Mods** tab, click **Purge** to remove all active mods from the game folder.
-2. Click **Open → Game Mods Folder** and manually delete any files/folders left behind.
-3. Back in Vortex, click **Deploy** to put the clean set of mods back.
+For Vortex-specific troubleshooting steps including game installation checks, profile verification, and mod folder management, see the [Vortex Troubleshooting](../Installation/Vortex/troubleshooting.md) guide.
 
 ---
 
@@ -61,6 +41,8 @@ The **official Stardew Valley Discord** does *not* support Vortex. Please respec
 
 ## Additional Resources for Expansion Mods
 
+**Important:** Please avoid troubleshooting in these Discords unless you can show (via log) a repeatable error from their mod without the rest of the collection active. Please be respectful of other's time, and understand that many helpers are not comfortable with mod managers other than Stardrop.
+
 If you're experiencing issues with specific expansion mods, these resources may help:
 
 ### Stardew Valley Expanded
@@ -77,8 +59,6 @@ If you're experiencing issues with specific expansion mods, these resources may 
 ### East Scarp and Sword & Sorcery, Lurking in the Dark, Nora, etc
 - [Wiki](https://eastscarp.fandom.com/wiki/East_Scarp_Wiki)
 - [Discord](https://discord.com/invite/QFtDA3CJwJ)
-
-**Important:** Please avoid troubleshooting in these Discords unless you can show (via log) a repeatable error from their mod without the rest of the collection active. Please be respectful of other's time, and understand that many helpers are not comfortable with mod managers other than Stardrop.
 
 ---
 
