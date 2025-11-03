@@ -5,7 +5,6 @@
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
-This page addresses general questions and issues that apply across all collections. For Stardew Valley VERY Expanded (SVVE) specific gameplay questions and troubleshooting, see the [SVVE FAQ](../Collections/Stardew%20Valley%20VERY%20Expanded/faq.md).
 
 ---
 
@@ -71,6 +70,15 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 ---
 
 ## Setup & Customization FAQs
+
+
+## Installation-Specific FAQs
+For mod-manager-specific questions and troubleshooting:
+
+- [Vortex FAQ & Common Issues](../Installation/Vortex/faq.md)
+- [Nexus Mods App FAQ & Common Issues](../Installation/NMA/faq.md)
+- [Stardrop FAQ & Common Issues](../Installation/Stardrop/faq.md)
+- [Manual Installation FAQ & Limitations](../Installation/Manual/faq.md)
 
 ### Can I add more mods?
 > Yes! These collections are designed as solid bases that you can build upon. However, there are some important things to keep in mind:
@@ -252,16 +260,6 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 > 
 > If this doesn't work, you may need to reinstall SMAPI. See our [Installation guides](../../Installation/index.md) for detailed instructions.
 
----
-
-## Installation-Specific FAQs
-
-For installation method-specific questions and troubleshooting:
-
-- [Vortex FAQ & Common Issues](../Installation/Vortex/faq.md)
-- [Nexus Mods App FAQ & Common Issues](../Installation/NMA/faq.md)
-- [Stardrop FAQ & Common Issues](../Installation/Stardrop/faq.md)
-- [Manual Installation FAQ & Limitations](../Installation/Manual/faq.md)
 
 ---
 
