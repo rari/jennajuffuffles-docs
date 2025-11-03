@@ -166,18 +166,6 @@ Follow these steps in order to resolve common Vortex installation issues.
 
 ---
 
-## Need More Help?
-- **Community Discord:** [Join Here](https://discord.com/invite/de2NrHXuty)  
-- **Official Vortex Discord:** [Join Here](https://discord.com/invite/nexusmods) (Support hours: 9 AM – 5 PM GMT, Mon–Thu)
-
-More help:  
-- **Vortex Wiki:** [Read Here](https://wiki.nexusmods.com/index.php/Category:Vortex)  
-- **Stardew Setup Guide:** [Read Here](https://wiki.nexusmods.com/index.php/Modding_Stardew_Valley_with_Vortex)
-
-The official Stardew Valley Discord does not support Vortex.
-
----
-
 ## How to Create a SMAPI Log
 ### Create a SMAPI Log in Vortex
 1. Press the `SMAPI Log` button in the toolbar on the Mods Page
@@ -198,3 +186,14 @@ The official Stardew Valley Discord does not support Vortex.
 2. Open SMAPI-latest.txt (or SMAPI-crash.txt if it crashed)
 3. Upload the file to [smapi.io/log](https://smapi.io/log) and share the generated link in Discord
 
+---
+
+## Need More Help?
+- **Community Discord:** [Join Here](https://discord.com/invite/de2NrHXuty)  
+- **Official Vortex Discord:** [Join Here](https://discord.com/invite/nexusmods) (Support hours: 9 AM – 5 PM GMT, Mon–Thu)
+
+More help:  
+- **Vortex Wiki:** [Read Here](https://wiki.nexusmods.com/index.php/Category:Vortex)  
+- **Stardew Setup Guide:** [Read Here](https://wiki.nexusmods.com/index.php/Modding_Stardew_Valley_with_Vortex)
+
+The official Stardew Valley Discord does not support Vortex.
