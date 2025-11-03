@@ -62,9 +62,6 @@ Follow these steps in order to resolve common Vortex installation issues.
 > - Compare with the [official modding guide](https://stardewvalleywiki.com/Modding:Modder_Guide/Get_Started#Mod_structure) structure requirements
 > - Fix the folder structure manually (ensure the mod's files are directly in the mod folder, not nested too deep)
 > - Click **Deploy** in Vortex to apply the changes
-> 
-> The correct structure is usually: `Mods/[ModName]/[ModName].dll` or `Mods/[ModName]/manifest.json`
-
 
 ---
 
@@ -85,8 +82,8 @@ Follow these steps in order to resolve common Vortex installation issues.
 > 
 > Using the custom config mod method ensures your settings persist through all updates automatically!
 
-### Unresolved file conflicts (Manage Rules)
-> Vortex may show file conflicts in the "Manage Rules" section. These typically occur when multiple mods modify the same files. Here's how to resolve them properly:
+### Unresolved file conflicts (aka Manage Rules)
+> Vortex may show file conflicts in the "Manage Rules" section. Manage Rules is how load order is handled. These typically occur when multiple mods modify the same files. Here's how to resolve them properly:
 > 
 > **For configuration/compatibility/translation files:**
 > - These files should **load after** the mods they affect
@@ -102,6 +99,20 @@ Follow these steps in order to resolve common Vortex installation issues.
 > - After resolving conflicts, test your game thoroughly
 > - Check the SMAPI log for any errors related to the conflicting mods
 > - If issues persist, you may need to choose which mod's version of the conflicting file takes priority
+
+### Loop Errors
+> A loop error indicates that a Rule is either self-referential or part of a larger group that is.
+> 
+> **To solve for the group version:**
+> - Open the Manage Rules panel and replan the rules so they no longer form a loop
+> 
+> **To fix a single rule loop:**
+> 1. Enable the **Dependencies** column from the ⚙️ **Toggle Columns** menu on the Mods panel
+> 2. This should show a red lightning bolt ⚡ next to the offending rule
+> 3. Remove the bad rule by clicking on the **Network** icon and clicking the ⛔ icon next to the red rule(s)
+
+### Redundant Files Error
+> This error indicates that the files in two mods are identical. This may indicate you have created a variation and can disable one. This may also (temporarily) activate Manage Rules until it is resolved.
 
 ### SMAPI not launching
 > If SMAPI isn't launching when you try to start the game:

@@ -13,6 +13,22 @@ Before diving into complex troubleshooting steps, restart your computer and try 
 
 ---
 
+## Common Issues
+
+### Duplicate Mods
+
+One common issue we see is **duplicate mods**. When two copies of a mod exist, neither will load. This includes if a mod is inside of a subfolder inside of the `Mods/` folder. When this happens, it will produce a red SMAPI error.
+
+**Important:** It is recommended that the mod folder be clear when installing a new collection (unless deliberately stacking collections). 
+
+**To fix duplicate mods:**
+- Check your `Mods/` folder for any duplicate mod directories
+- Look for mods nested inside subfolders - mods should be directly in `Mods/` (e.g., `Mods/ModName/manifest.json`, not `Mods/Folder/ModName/manifest.json`)
+- Remove any duplicate or incorrectly placed mod folders
+- Restart the game and check the SMAPI log to confirm the mod loads correctly
+
+---
+
 ## Vortex-Specific Troubleshooting
 
 For Vortex-specific troubleshooting steps including game installation checks, profile verification, and mod folder management, see the [Vortex Troubleshooting](../Installation/Vortex/troubleshooting.md) guide.
