@@ -254,6 +254,17 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 
 ---
 
+## Installation-Specific FAQs
+
+For installation method-specific questions and troubleshooting:
+
+- [Vortex FAQ & Common Issues](../Installation/Vortex/faq.md)
+- [Nexus Mods App FAQ & Common Issues](../Installation/NMA/faq.md)
+- [Stardrop FAQ & Common Issues](../Installation/Stardrop/faq.md)
+- [Manual Installation FAQ & Limitations](../Installation/Manual/faq.md)
+
+---
+
 ## Getting Help
 
 - [Community Discord](https://discord.com/invite/de2NrHXuty)
