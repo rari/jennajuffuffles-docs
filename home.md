@@ -49,17 +49,21 @@ Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular N
 
 ---
 
-## Important Notes
-- JennaJuffuffles' collections are only updated and available through Nexus
-- Using Vortex with Nexus Premium helps support this site and the creators on it
-- For the best experience, please only update your mods when the collection updates
-- 🚨 If you experience slow loading times, including on new game start, please don't alt-tab or click away as this can cause a crash
-
 
 ## Frequently Asked Questions
 
+### Where can I download these collections?
+> These collections are only available and updated through **Nexus Mods**. This is the official source and ensures you always get the latest tested versions. All collections must be installed through Nexus so each mod download is properly attributed to its creator.
+> 
+> Using **Vortex with Nexus Premium** helps support Nexus Mods and the mod creators on the platform. Nexus Premium also enables one-click installation, making setup much easier and faster. However, you can use Vortex or Nexus Mods App for free - it just requires a bit more manual clicking during installation.
+
 ### Can I get all the mods in a zip file?
 > No. Collections are not modpacks. Providing a downloadable zip file with all mods would be redistributing mods without creators' permission, which is mod piracy. Collections must be installed through Nexus so each mod download is properly attributed to its creator. This respects creators' rights and ensures they receive proper credit and support for their work.
+
+### Why is my game loading slowly?
+> Large collections can take several minutes to load, especially on the first launch or when starting a new save. This is normal due to the amount of content being loaded.
+> 
+> **⚠️ Important:** During loading, please don't alt-tab, click away, or interact with the game window. Doing so can cause crashes or freezes. Just let it load - you'll see progress in the SMAPI console window. The game will be ready when the console stops showing loading messages.
 
 ### Do I need the optional mods?
 > Yes! While some mods are marked as "optional" to make it easier when combining collections, you should install them when using a single collection. These optional mods include:
