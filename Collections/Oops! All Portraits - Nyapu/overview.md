@@ -92,17 +92,19 @@ This is a list of supported expansions. They are not included as part of the col
 - [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
   - [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) (required)
 - [Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/11111)
+  - [Jonghyuk & Spanner - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/12000)
+  - [Lani - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32689)
   - [Ripley the Farmer - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32660)
   - [Rose and the Alchemist - Custom NPCs for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32385)
   - [Wren the Plumber - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/14286)
-  - [Jonghyuk & Spanner - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/12000)
+
 
 ### Additional Supported Mods
 - [Adventurer's Guild Expanded 1.6](https://www.nexusmods.com/stardewvalley/mods/22591)
 - [Alecto the Witch](https://www.nexusmods.com/stardewvalley/mods/10671)
 - [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
 - [Cape Stardew](https://www.nexusmods.com/stardewvalley/mods/14635)
-- [Clint Reforged](https://www.nexusmods.com/stardewvalley/mods/27587) — *Disable Clint in Seasonal Cute Aesthetics settings.*
+- [Clint Reforged](https://www.nexusmods.com/stardewvalley/mods/18345) — *Disable Clint in Seasonal Cute Aesthetics settings.*
 - [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
 - [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
 - [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
