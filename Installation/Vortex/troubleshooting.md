@@ -1,4 +1,4 @@
-# Troubleshooting — Vortex
+# Troubleshooting - Vortex
 
 > 📂 Docs / Installation / Vortex / Troubleshooting
 
@@ -15,7 +15,7 @@ Before diving into complex troubleshooting steps, restart your computer and try 
 
 ---
 
-## Part 1 — Game Installation Check (Game itself is healthy)
+## Part 1 - Game Installation Check (Game itself is healthy)
 
 1. Use your store launcher to verify integrity of game files:
    - Steam: Library → Stardew Valley → Properties → Installed Files → Verify  
@@ -24,7 +24,7 @@ Before diving into complex troubleshooting steps, restart your computer and try 
 
 ---
 
-## Part 2 — Vortex Profile Check (Only collection mods selected)
+## Part 2 - Vortex Profile Check (Only collection mods selected)
 
 1. On the Nexus Mods collection page, click Add Collection.
 2. When prompted, install into a New Profile.
@@ -33,7 +33,7 @@ Before diving into complex troubleshooting steps, restart your computer and try 
 
 ---
 
-## Part 3 — Game Mods Folder Check (Only mods Vortex knows about)
+## Part 3 - Game Mods Folder Check (Only mods Vortex knows about)
 
 1. In Vortex → Mods tab, click Purge to remove all active mods from the game folder.
 2. Click Open → Game Mods Folder and manually delete any files/folders left behind.
