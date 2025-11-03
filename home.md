@@ -116,6 +116,16 @@ Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular N
 > 
 > This is communicating that the mod failed to cache the map, but functionally this means the map still will load normally. You can safely continue playing!
 
+### Is JennaJuffuffles affiliated with Nexus Mods?
+> No. JennaJuffuffles is an independent collection curator and is not affiliated with or employed by Nexus Mods. As such, JennaJuffuffles is not responsible for:
+> - Changes to the Nexus Mods website or platform
+> - How Nexus Premium works, its pricing, or its features
+> - Issues with Nexus Mods services, servers, or account access
+> - Mod manager updates or changes (Vortex, Nexus Mods App, etc.)
+> - Decisions made by Nexus Mods or its staff
+> 
+> For questions or issues related to Nexus Mods services, account access, Premium subscriptions, or platform features, please contact [Nexus Mods Support](https://help.nexusmods.com/).
+
 ### More FAQs and known issues
 > See our [FAQ & Known Issues](Getting%20Started/faq-known-issues.md) page for additional troubleshooting help.
 
