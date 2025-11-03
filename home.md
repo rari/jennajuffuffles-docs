@@ -55,7 +55,7 @@ Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular N
 ### Where can I download these collections?
 > These collections are only available and updated through **Nexus Mods**. This is the official source and ensures you always get the latest tested versions. All collections must be installed through Nexus so each mod download is properly attributed to its creator.
 > 
-> Using **Vortex with Nexus Premium** helps support Nexus Mods and the mod creators on the platform. Nexus Premium also enables one-click installation, making setup much easier and faster. However, you can use Vortex or Nexus Mods App for free - it just requires a bit more manual clicking during installation.
+> Using **Nexus Premium** helps support Nexus Mods and the mod creators on the platform. Nexus Premium also enables one-click installation through the support mod managers, making collection setup much easier and faster. However, you can still use Vortex or Nexus Mods App for free to download and install - it just requires a bit more clicking.
 
 ### Can I get all the mods in a zip file?
 > No. Collections are not modpacks. Providing a downloadable zip file with all mods would be redistributing mods without creators' permission, which is mod piracy. Collections must be installed through Nexus so each mod download is properly attributed to its creator. This respects creators' rights and ensures they receive proper credit and support for their work.
