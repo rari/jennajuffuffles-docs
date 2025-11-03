@@ -30,45 +30,45 @@ Groupings as displayed below should stay **enabled together** in your mod manage
 
 ### 1. Stardew Valley
 - `1.` SDV Seasonal Portrait Framework  
-  <small>`Seasonal Cute Characters [CP]`</small>
+  <small>*Seasonal Cute Characters [CP]*</small>
 - `1.` SDV Nyapu Portraits  
-  <small>`Nyapu's Portraits inspired by Dong(CP) 1.6.9`</small>
+  <small>*Nyapu's Portraits inspired by Dong(CP) 1.6.9*</small>
 - `1.` SDV Nyapu Seasonal Portraits  
-  <small>`CP Seasonal Outfits Nyapu Style`</small>
+  <small>*CP Seasonal Outfits Nyapu Style*</small>
 
 ### 2. Stardew Valley Expanded
 - `2.` SVE Seasonal Portrait Framework  
-  <small>`Seasonal Cute Characters SVE [CP]`</small>
+  <small>*Seasonal Cute Characters SVE [CP]*</small>
 - `2.` SVE Nyapu Portrait  
-  <small>`CP) Nyapu'sP(SVE1.15.6)`</small>
+  <small>*CP) Nyapu'sP(SVE1.15.6)*</small>
 - `2.` SVE Nyapu Seasonal Portrait  
-  <small>`CP Nyapu Style SVE Seasonal Slightly Cute Outfits`</small>
+  <small>*CP Nyapu Style SVE Seasonal Slightly Cute Outfits*</small>
 
 ### 3. East Scarp
 - `3.` ES Seasonal Portrait Framework  
-  <small>`Seasonal Cute Characters ES [CP]`</small>
+  <small>*Seasonal Cute Characters ES [CP]*</small>
 - `3.` ES Nyapu Portraits  
-  <small>`Nyapu'sP(ES2.4.15)`</small>
+  <small>*Nyapu'sP(ES2.4.15)*</small>
 - `3.` ES Nyapu Seasonal Portraits  
-  <small>`Nyapu's Portraits for Seasonal Outfits`</small>
+  <small>*Nyapu's Portraits for Seasonal Outfits*</small>
 
 ### 4. Ridgeside Village + RSV Wedding Receiption
 - `4.` RSV Seasonal Portrait Framework  
-  <small>`Ridgeside Village Seasonal Outfits [CP]`</small>
+  <small>*Ridgeside Village Seasonal Outfits [CP]*</small>
 - `4.` RSV Nyapu Portraits  
-  <small>`Nyapu'sP(RSV1.6)`</small>
+  <small>*Nyapu'sP(RSV1.6)*</small>
 - `4.` RSV Nyapu Seasonal Portraits  
-  <small>`CP Ridgeside Village Seasonal Outfits Nyapu Style`</small>
+  <small>*CP Ridgeside Village Seasonal Outfits Nyapu Style*</small>
 - `4.` RSV Nyapu SDV Wedding Receiption Portraits  
-  <small>`Nyapu's P(Wedding Reception Portraits for RSV)`</small>
+  <small>*Nyapu's P(Wedding Reception Portraits for RSV)*</small>
 
 ### 5. Adventurer's Guild Expanded 1.6
 - `5.` Adventurer's Guild Expanded 1.6 Seasonal Portrait Framework  
-  <small>`Seasonal Outfits for Adventurer's Guild Expanded`</small>
+  <small>*Seasonal Outfits for Adventurer's Guild Expanded*</small>
 - `5.` Adventurer's Guild Expanded 1.6 Nyapu Portraits  
-  <small>`Nyapu'sP(Adventurer's Guild)`</small>
+  <small>*Nyapu'sP(Adventurer's Guild)*</small>
 - `5.` Adventurer's Guild Expanded 1.6 Nyapu Seasonal Portraits  
-  <small>`Nyapu's Portraits for Seasonal Outfits - Adventurer's Guild Expanded - Color Edit`</small>
+  <small>*Nyapu's Portraits for Seasonal Outfits - Adventurer's Guild Expanded - Color Edit*</small>
 
 ---
 
