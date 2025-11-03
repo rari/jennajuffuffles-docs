@@ -33,9 +33,9 @@ Aesthetic Valley collections provide visual themes for Stardew Valley. These col
 ---
 
 ### Oops! All Portraits: Nyapu
-
 Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular NPC expansions. This collection does not include expansions; it's intended to be added to an existing loadout that already has them installed. Works right out of the box with no manual replacements required, and you can enable or disable portrait packs depending on which expansions you use.
 
+> **⚠️ Note:** This collection is currently in testing.
 **Download on Nexus:** [Oops! All Portraits: Nyapu](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)  
 **Learn more:** [Overview](Collections/Oops!%20All%20Portraits%20-%20Nyapu/overview.md)
 
