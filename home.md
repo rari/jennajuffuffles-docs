@@ -41,7 +41,7 @@ Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular N
 
 ---
 
-### Need Help?
+## Need Help?
 
 - **Getting Started**: See [Getting Started](Getting%20Started/getting-started.md) for detailed installation information and supported mod managers
 - **Installation Guides**: See [Mod Managers](Installation/index.md) to choose your installation method
