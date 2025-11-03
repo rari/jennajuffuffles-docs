@@ -49,15 +49,77 @@ Follow these steps in order to resolve common Vortex installation issues.
 - After Deploy, confirm mods actually loaded in the SMAPI log (not just the Mods tab).  
 - If a mod is missing: Redeploy, or delete the mod and its archive, then reinstall from the Collection tab.
 
-### Mod Not Unpacking with All Files
-> If a mod does not unpack with all its files, it may not be constructed per SMAPI guidelines. Vortex may filter out extra folders or struggle with mods that contain multiple manifests.
-> 
-> **Solution:** Go to Downloads → View All Downloads, find the mod file, right-click it and select **"Unpack As-Is"**. This will deposit the entire file contents regardless of the mod's folder structure, ensuring all files are included.
+### Mod Not Installing as Expected / Incorrect Folder Structure
+> **Reinstall or Redownload**
+> - Right-click the mod and select **Reinstall** to correct issues with improper unpacking
+> - If there's an issue with the archive itself, remove the mod and its archive, then redownload. Both steps can easily be done from the Collections panel
+> - If the file cannot be installed as-is do to structural issues, it may attempt to reinstall and then display as uninstalled.
 
-### Mod Not Installing as Expected
-> If a mod does not install as expected, you may wish to right-click the mod and select **Reinstall**. This will correct issues with improper unpacking.
+> **Resolving Structural Issues**
+> If a mod doesn't unpack with all its files, it's folder structure may not be constructed per SMAPI guidelines. Vortex may filter out extra folders, missing top-level folders, or struggle with mods that contain multiple manifests.
 > 
-> However, if there is an issue with the archive itself, it may be best to remove the mod and its archive, then redownload. Both steps can easily be done from the Collections panel.
+> **Step 1: Use "Unpack As-Is"**
+> - Go to Downloads → View All Downloads, find the mod file, right-click it and select **"Unpack As-Is"**
+> - This will deposit the entire file contents regardless of the mod's folder structure, ensuring all files are included
+> 
+> **Step 2: Fix Folder Structure Manually**
+> - Right-click the mod in Vortex → **Open in File Manager** to inspect its structure
+> - Check the mod's Nexus page or documentation for the correct folder structure
+> - Compare with the [official modding guide](https://stardewvalleywiki.com/Modding:Modder_Guide/Get_Started#Mod_structure) structure requirements
+> - Fix the folder structure manually (ensure the mod's files are directly in the mod folder, not nested too deep)
+> - Click **Deploy** in Vortex to apply the changes
+> 
+> The correct structure is usually: `Mods/[ModName]/[ModName].dll` or `Mods/[ModName]/manifest.json`
+
+
+---
+
+## Vortex Behaviors & Workarounds
+
+### Updates can overwrite/delete custom configs
+> When a collection updates, Vortex may overwrite or delete your custom mod configurations. This is frustrating, but there are ways to protect your settings:
+> 
+> **Option 1: Sync Mod Configurations**
+> - Use the "Sync Mod Configurations" button in Vortex to backup and restore your settings
+> - This saves your configurations and can restore them after updates
+> - This may try to "back-up" smapi-internal in error. If this happens, right-click on the created configuration mod, extract the created folder and return those files to their proper place. **Please report to Vortex staff if this happens, this issue needs more visibility.**
+> 
+> **Option 2: Create a Custom Config Mod (Recommended)**
+> - This is a reliable method, but more hands-on. Create a custom mod that contains only your configuration files
+> - Your custom configs will load after the collection mods, so they won't be overwritten
+> - See our [Personalization & Custom Configurations](../../Guides/personalization.md) guide for step-by-step instructions
+> 
+> Using the custom config mod method ensures your settings persist through all updates automatically!
+
+### Unresolved file conflicts (Manage Rules)
+> Vortex may show file conflicts in the "Manage Rules" section. These typically occur when multiple mods modify the same files. Here's how to resolve them properly:
+> 
+> **For configuration/compatibility/translation files:**
+> - These files should **load after** the mods they affect
+> - Set them to load after their parent mod in Manage Rules
+> - Click **Deploy** to apply the changes
+> 
+> **Avoid using "Use Suggested":**
+> - Sometimes Vortex's suggested resolutions can create dependency loops
+> - Manually set load orders instead
+> - If you see a loop warning, you'll need to resolve it manually or remove one of the conflicting mods
+> 
+> **Testing:**
+> - After resolving conflicts, test your game thoroughly
+> - Check the SMAPI log for any errors related to the conflicting mods
+> - If issues persist, you may need to choose which mod's version of the conflicting file takes priority
+
+### SMAPI not launching
+> If SMAPI isn't launching when you try to start the game:
+> 1. Open Vortex
+> 2. Go to the **Dashboard** tab
+> 3. Find the Stardew Valley entry
+> 4. Make sure SMAPI is set as the **Primary Tool** (there should be a "Set as Primary" button if it's not)
+> 5. Try launching the game again from Vortex
+> 
+> If this doesn't work, you may need to reinstall SMAPI through Vortex. SMAPI can be added as a mod from Nexus and Vortex will automatically install it. See our [Installation guides](../index.md) for detailed instructions.
+
+---
 
 ## Common Error Messages
 
@@ -80,6 +142,22 @@ Follow these steps in order to resolve common Vortex installation issues.
 > **If you encounter this with collection configurations:**
 > - You may wish to disable the collection's configuration mods and opt to use the [Collection Configuration Manager FOMOD](https://www.nexusmods.com/stardewvalley/mods/20870), which is particularly useful for [combining collections](../Collections/combining-collections.md)
 > - See the [Personalization & Custom Configurations](../../Guides/personalization.md) guide for alternative solutions
+
+### Version mismatch. Your version shows as 4.X.X
+> This error occurs when your `Stardew Valley.exe` has been replaced by the SMAPI executable. This happens with how some mod managers handle SMAPI installation and is easily solved.
+> 
+> **⚠️ Important Warning:** Take special caution with this error, because editing a collection in this state may prevent you from editing it. Fix this issue before  publishing any collection changes.
+> 
+> **Solution:**
+> 1. Verify game files through your store launcher:
+>    - Steam: Library → Stardew Valley → Properties → Installed Files → Verify
+>    - GOG: More → Manage Installation → Verify / Repair
+>    - Xbox / Game Pass: Right-click game → Manage → Files → Verify and Repair
+> 2. Ensure SMAPI is properly installed and deployed through Vortex:
+>    - In Vortex → Dashboard, make sure SMAPI is set as the Primary Tool
+>    - Go to Mods tab and ensure SMAPI is enabled and deployed
+>    - Click **Deploy** to ensure SMAPI is properly linked
+> 3. If the issue persists, reinstall SMAPI through Vortex. SMAPI can be added as a mod from Nexus and Vortex will automatically install it. See our [Installation guides](../index.md) for detailed instructions.
 
 ---
 

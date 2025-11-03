@@ -71,15 +71,6 @@ For SVVE-specific gameplay questions including Community Center cutscenes, Rusty
 
 ## Setup & Customization FAQs
 
-
-## Installation-Specific FAQs
-For mod-manager-specific questions and troubleshooting:
-
-- [Vortex FAQ & Common Issues](../Installation/Vortex/faq.md)
-- [Nexus Mods App FAQ & Common Issues](../Installation/NMA/faq.md)
-- [Stardrop FAQ & Common Issues](../Installation/Stardrop/faq.md)
-- [Manual Installation FAQ & Limitations](../Installation/Manual/faq.md)
-
 ### Can I add more mods?
 > Yes! These collections are designed as solid bases that you can build upon. However, there are some important things to keep in mind:
 > 
@@ -105,6 +96,18 @@ For mod-manager-specific questions and troubleshooting:
 > You'll need to create a collection clone to disable required mods, as NMA doesn't allow disabling required mods directly in a collection. Create a clone of the collection and modify it to remove or disable the required mods you don't want.
 > 
 > **Warning:** Disabling required mods can break functionality, cause crashes, or create gameplay issues. Only disable mods if you understand what they do and are prepared to troubleshoot problems. Some mods are required because others depend on them.
+
+---
+
+## Installation-Specific FAQs
+For mod-manager-specific questions and troubleshooting:
+
+- [Vortex FAQ & Common Issues](../Installation/Vortex/faq.md)
+- [Nexus Mods App FAQ & Common Issues](../Installation/NMA/faq.md)
+- [Stardrop FAQ & Common Issues](../Installation/Stardrop/faq.md)
+- [Manual Installation FAQ & Limitations](../Installation/Manual/faq.md)
+
+---
 
 ### MacOS Installation
 
@@ -144,68 +147,7 @@ For mod-manager-specific questions and troubleshooting:
 
 ---
 
-## Vortex Behaviors & Workarounds
-
-### Updates can overwrite/delete custom configs
-> When a collection updates, Vortex may overwrite or delete your custom mod configurations. This is frustrating, but there are ways to protect your settings:
-> 
-> **Option 1: Sync Mod Configurations**
-> - Use the "Sync Mod Configurations" button in Vortex to backup and restore your settings
-> - This saves your configurations and can restore them after updates
-> 
-> **Option 2: Create a Custom Config Mod (Recommended)**
-> - This is the most reliable method. Create a custom mod that contains only your configuration files
-> - Your custom configs will load after the collection mods, so they won't be overwritten
-> - See our [Personalization & Custom Configurations](../Guides/personalization.md) guide for step-by-step instructions
-> 
-> Using the custom config mod method ensures your settings persist through all updates automatically!
-
-### Mod staging may fail silently
-> Sometimes Vortex may show a mod as installed and enabled, but it might not actually be loaded in the game. This is called "silent staging failure."
-> 
-> To verify mods are actually loaded:
-> 1. Launch the game and check the **SMAPI log** (the console window that appears)
-> 2. Look for the mod in the "Loaded X mods" list at the start of the log
-> 3. Compare this with what's shown in the Vortex Mods tab
-> 
-> If a mod is missing from the SMAPI log:
-> - Try clicking **Deploy** in Vortex to force redeployment
-> - If that doesn't work, delete the mod and reinstall it from the Collection tab
-> - Check the SMAPI log for any errors related to that specific mod
-
-### Incorrect mod folder structures
-> Some mods may have incorrect folder structures that prevent them from loading properly. This usually happens with manually downloaded mods or older mod versions.
-> 
-> To fix this:
-> 1. Check the mod's Nexus page or documentation for the correct folder structure
-> 2. Compare with the [official modding guide](https://stardewvalleywiki.com/Modding:Modder_Guide/Get_Started#Mod_structure) structure requirements
-> 3. Right-click the mod in Vortex → **Open in File Manager** to inspect its structure
-> 4. Fix the folder structure manually (ensure the mod's files are directly in the mod folder, not nested too deep)
-> 5. Click **Deploy** in Vortex to apply the changes
-> 
-> The correct structure is usually: `Mods/[ModName]/[ModName].dll` or `Mods/[ModName]/manifest.json`
-
-### Red errors from an "empty Vortex folder"
-> If you see red error messages in Vortex about an "empty Vortex folder," this typically means:
-> - There are leftover files from a previous installation
-> - A mod was installed but only contains configuration or translation files (no actual mod content)
-> - A mod archive was extracted incorrectly
-> 
-> To resolve:
-> 1. Check what's actually in the problematic mod folder (right-click → **Open in File Manager**)
-> 2. If it's a config-only install, you may need to enable additional files from the mod's archive
-> 3. If it's leftovers, delete the mod and reinstall it cleanly
-> 4. Sometimes you can safely ignore these errors if the mod is working correctly - check your SMAPI log to confirm
-
-### Generic Mod Config Menu (GMCM) version compatibility
-> Use the version of Generic Mod Config Menu (GMCM) that's recommended in the collection. Newer versions may introduce compatibility issues or cause certain menus to soft-lock (freeze when opened).
-> 
-> If you've updated GMCM manually and are experiencing menu freezes:
-> 1. Check which version the collection recommends
-> 2. Reinstall that specific version from the collection
-> 3. Test if the issue is resolved
-> 
-> Collection curators test specific mod versions together, so sticking to the recommended versions ensures stability.
+For Vortex-specific troubleshooting, see the [Vortex Troubleshooting](../Installation/Vortex/troubleshooting.md) guide.
 
 ---
 
@@ -232,33 +174,6 @@ For mod-manager-specific questions and troubleshooting:
 > 
 > This is a known quirk of the mod and doesn't impact functionality. You can safely continue playing!
 
-### Unresolved file conflicts (Manage Rules)
-> Vortex may show file conflicts in the "Manage Rules" section. These typically occur when multiple mods modify the same files. Here's how to resolve them properly:
-> 
-> **For configuration/compatibility/translation files:**
-> - These files should **load after** the mods they affect
-> - Set them to load after their parent mod in Manage Rules
-> - Click **Deploy** to apply the changes
-> 
-> **Avoid using "Use Suggested":**
-> - Sometimes Vortex's suggested resolutions can create dependency loops
-> - Manually set load orders instead
-> - If you see a loop warning, you'll need to resolve it manually or remove one of the conflicting mods
-> 
-> **Testing:**
-> - After resolving conflicts, test your game thoroughly
-> - Check the SMAPI log for any errors related to the conflicting mods
-> - If issues persist, you may need to choose which mod's version of the conflicting file takes priority
-
-### SMAPI not launching
-> If SMAPI isn't launching when you try to start the game:
-> 1. Open Vortex
-> 2. Go to the **Dashboard** tab
-> 3. Find the Stardew Valley entry
-> 4. Make sure SMAPI is set as the **Primary Tool** (there should be a "Set as Primary" button if it's not)
-> 5. Try launching the game again from Vortex
-> 
-> If this doesn't work, you may need to reinstall SMAPI. See our [Installation guides](../../Installation/index.md) for detailed instructions.
 
 
 ---
