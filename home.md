@@ -58,30 +58,60 @@ Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular N
 
 ## Frequently Asked Questions
 
-**Can I get all the mods in a zip file?**
+### Can I get all the mods in a zip file?
 > No. Collections are not modpacks. Providing a downloadable zip file with all mods would be redistributing mods without creators' permission, which is mod piracy. Collections must be installed through Nexus so each mod download is properly attributed to its creator. This respects creators' rights and ensures they receive proper credit and support for their work.
 
-**Do I need the optional mods?**
-> Yes. They are marked optional mainly for easier collection stacking. Install them when using a single collection.
+### Do I need the optional mods?
+> Yes! While some mods are marked as "optional" to make it easier when combining collections, you should install them when using a single collection. These optional mods include:
+> - Essential interface improvements 
+> - Map enhancements that improve the visual experience
+> - Additional content that enhances gameplay
+> - Expansions that have been carefully curated for quality
+> - Compatibility files for combining collections (only needed when stacking multiple collections)
+> 
+> The optional designation exists mainly to help with collection stacking (combining multiple collections). When using just one collection, these mods are designed to be part of the intended experience.
 
-**Should I update individual mods myself?**
-> No. Wait for collection updates to ensure compatibility.
+### Should I update individual mods myself?
+> No. Always wait for the collection to be updated instead of updating individual mods yourself. The collection curator tests all mod versions together to ensure compatibility. Updating mods individually can cause version conflicts, breaking changes, missing compatibility patches, and unstable gameplay. When a collection update is released, it includes tested versions of all mods that work together.
 
-**Can I combine your collections?**
-> Yes. See [Combining Collections](Collections/combining-collections.md)
+### Can I combine your collections?
+> Yes! Any Aesthetic Valley collection (Fairycore, Witchcore, or future Aesthetic Valley collections) is designed to work alongside Stardew Valley VERY Expanded (SVVE). You can install them into the same Vortex profile.
+> 
+> For detailed instructions on how to combine collections, including which optional mods to install and how to manage conflicts, see our [Combining Collections](Collections/combining-collections.md) guide.
 
-**Is this okay for first-time players?**
-> Yes, but it's large. Vanilla first is recommended, not required.
+### Is this okay for first-time players?
+> It's absolutely fine to start with SVVE even if you're new to Stardew Valley! The collection is designed to enhance the game while preserving the vanilla feel. However, keep in mind that SVVE is quite large with many new areas, NPCs, and content.
+> 
+> **Recommendation:** Playing vanilla Stardew Valley first will help you appreciate the additions SVVE brings, but it's not required. If you're eager to dive in with the collection, go for it - just be prepared for a lot more content to explore!
 
-**Co-op: do all players need the collection?**
-> Yes. All players should match mods and configurations.
+### Co-op: do all players need the collection?
+> Yes. All players in a multiplayer game must have matching mods and configurations for everything to work correctly. This means:
+> - All players need the same collection(s) installed
+> - All players need the same mod versions
+> - All players need matching configurations (especially for mods that affect gameplay)
+> 
+> Consider using a multiplayer manager or keeping careful documentation of your mod setup so everyone can stay in sync. Version mismatches can cause desyncs, crashes, or missing content.
 
-**Can I add more mods?**
-> Yes. Create a private collection for additions and test carefully.
+### Can I add more mods?
+> Yes! These collections are designed as solid bases that you can build upon. However, there are some important things to keep in mind:
+> 
+> - **Test additions individually** - Add one mod at a time and test thoroughly before adding another. This helps you identify any conflicts quickly.
+> - **Review compatibility notes** - Check mod pages for compatibility warnings, especially with major expansions like SVE, Ridgeside Village, or East Scarp.
+> - **Create a private collection** - Once you've found mods that work well, create a private collection containing just your additions. This makes it easy to reinstall them after collection updates. See our [Personalization guide](Guides/personalization.md) for details.
+> - **Check load order** - Some mods may need specific load orders. Use Vortex's "Manage Rules" to adjust if needed.
+> 
+> Remember that adding mods can introduce conflicts or bugs, and collection updates may not account for your additions. Keep backups of working configurations!
 
-**"Failed to store cache entry" (SinZational Speedy Solutions)**
-> Error in SMAPI. Informational only; safe to ignore.
+### "Failed to store cache entry" (SinZational Speedy Solutions)
+> This error message appears in your SMAPI log related to SinZational Speedy Solutions, but **it's completely safe to ignore**. It's an informational message, not an actual error.
+> 
+> - It does **not** indicate a crash or conflict
+> - It does **not** affect gameplay
+> - Your game will run normally despite this message
+> - No action is needed
+> 
+> This is communicating that the mod failed to cache the map, but functionally this means the map still will load normally. You can safely continue playing!
 
-**More FAQs and known issues**
+### More FAQs and known issues
 > See our [FAQ & Known Issues](Getting%20Started/faq-known-issues.md) page for additional troubleshooting help.
 
