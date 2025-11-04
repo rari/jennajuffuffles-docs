@@ -63,6 +63,7 @@ Some mods included in [Stardew Valley VERY Expanded](https://www.nexusmods.com/g
 - Leilani
 - Lurking in the Dark - NPC Sen
 - Sword & Sorcery (CP)
+- TDIT - Portraits for Vendors
 
 Access Generic Mod Config Menu (GMCM) from the Title Menu ⚙️ or the bottom of the Settings menu in-game.
 
