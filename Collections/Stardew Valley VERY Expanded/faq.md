@@ -35,17 +35,17 @@
 > 2. Navigate to **SVE** settings
 > 3. Look for the option **"Original Mine Entrance"** and enable it
 > 
-> If this entry was missing from the GMCM menu, it indicates that your SVE configurations may not have merged properly during installation. Try removing and reinstalling the collection, or check your SMAPI log for configuration errors.
+> If this entry was missing from the GMCM menu, it indicates that your SVE configurations may not have merged properly during installation. Try right-click reinstalling the Stardew Valley VERY Configured mod.
 
-## Can't craft items despite having ingredients
-> Better Crafting has quality filters that may prevent you from crafting items if your ingredients don't meet the quality threshold. This is a common issue that catches many players off guard.
+## Can't craft or cook items despite having ingredients
+> Better Crafting has quality filters that may prevent you from crafting or cooking items if your ingredients don't meet the quality threshold. This is a common issue that catches many players off guard.
 > 
 > To fix this:
-> 1. Open the crafting menu
+> 1. Open the crafting menu or cooking menu
 > 2. Look for the **Stars button** on the right side of the interface
 > 3. Click it to enable **"Show All Qualities"**
 > 
-> This will allow you to craft items regardless of ingredient quality. A common example is the Bait Maker, which can be blocked by quality filters if your ingredients don't match the selected quality level.
+> This will allow you to craft and cook items regardless of ingredient quality. A common example is the Bait Maker, which can be blocked by quality filters if your ingredients don't match the selected quality level.
 
 ## Missing recipes in crafting menu (such as Chest)
 > Better Crafting organizes recipes into categories to make the crafting menu more manageable. If you can't find a recipe you know you should have (like the basic Chest):
