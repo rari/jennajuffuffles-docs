@@ -10,6 +10,7 @@
 * [Mod Managers Overview](Installation/index.md)
 * [Vortex](Installation/Vortex/README.md)
   * [Vortex Installation Guide](Installation/Vortex/installation.md)
+  * [Updating Collections](Installation/Vortex/updating.md)
   * [FAQ & Common Issues](Installation/Vortex/faq.md)
   * [Troubleshooting](Installation/Vortex/troubleshooting.md)
 * [Nexus Mods App](Installation/NMA/README.md)

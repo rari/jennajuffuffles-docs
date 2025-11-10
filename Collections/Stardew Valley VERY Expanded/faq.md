@@ -30,12 +30,19 @@
 </details>
 
 ## Minecart blocks the mine entrance
-> If you find a minecart blocking the entrance to the mines, you can fix this in the Generic Mod Config Menu (GMCM):
+> If you find a minecart blocking the entrance to the mines, first check in the Generic Mod Config Menu (GMCM):
 > 1. Open the game settings menu (⚙️) or press the GMCM hotkey
 > 2. Navigate to **SVE** settings
-> 3. Look for the option **"Original Mine Entrance"** and enable it
+> 3. Look for the option **"Original Mine Entrance"** 
 > 
-> If this entry was missing from the GMCM menu, it indicates that your SVE configurations may not have merged properly during installation. Try right-click reinstalling the Stardew Valley VERY Configured mod.
+> If this entry was missing from the GMCM menu and the mine entrance is not displaying properly, it may indicate that the config file didn't unpack properly during installation. To fix this:
+> 
+> 1. Exit the game.
+> 2. In Vortex, go to the Mods tab
+> 3. Find the mod whose config isn't working (Stardew Valley VERY Configured)
+> 4. Right-click the mod and select **"Reinstall"**
+> 
+> This should properly unpack the configuration file. If the configuration still isn't applied correctly after reinstalling, go to **Collections > Mods (tab)** and remove (including archive) and reinstall the configuration.
 
 ## Can't craft or cook items despite having ingredients
 > Better Crafting has quality filters that may prevent you from crafting or cooking items if your ingredients don't meet the quality threshold. This is a common issue that catches many players off guard.
