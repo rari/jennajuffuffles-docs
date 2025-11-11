@@ -72,8 +72,8 @@ Greenhouses: only one greenhouse can be active. Many farm maps include a greenho
 
 ## Aesthetic Valley + svVe
 
-Disable in Vortex (keep only one active):
-- Immersive Farm 2 Remastered, LnH's MiNi Farm, Grandpa's Farm
+Disable any unused farms in Vortex (no more than one active):
+- Immersive Farm 2 Remastered, LnH's MiNi Farm, Grandpa's Farm, Frontier Farm
 
 Configure in GMCM:
 - If using Frontier Farm, Immersive Farm 2 Remastered, or Grandpa's Farm, disable the Greenhouse option (the Configuration Manager handles this automatically).
