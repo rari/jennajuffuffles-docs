@@ -25,7 +25,27 @@
 <details>
 <summary>How to obtain the Rusty Key in SVE (Spoiler)</summary>
 
-> Instead, you need to reach 5 hearts with Marlon. Once you achieve this friendship level, he will mail you the key in a cutscene. Make sure to talk to Marlon regularly and give him gifts he likes to build friendship. See the SVE wiki for more details about friendship requirements and gift preferences.
+> To obtain the Rusty Key in SVE, you must complete three requirements:
+> 
+> **1. Meet Krobus in Winter**
+> - Walk from your farm to the bus stop between 6 AM and 4 PM during Winter
+> - This triggers an animation where a Shadow Guy (who looks like Krobus) gets startled and runs away
+> - Follow the footprints to the playground to the left of the Community Center
+> - Shake the shrubs there to make the Shadow Guy appear
+> - The Shadow Guy will apologize for stealing, give you a Magnifying Glass, and flee
+> 
+> **2. Reach the Bottom of the Mines**
+> - Descend through all 120 levels of the mines
+> - Use your pickaxe to mine ores and bring Bombs to help clear large areas quickly
+> - Upgrade your weapons and tools as enemies become tougher deeper in the mines
+> - Reaching the final level completes this requirement
+> 
+> **3. Earn Marlon's Trust**
+> - After meeting Krobus and reaching the bottom of the mines, you'll need to earn Marlon's trust
+> - **Year 1 requirements:** Must have 5 hearts with Marlon and it must be raining to trigger his key event
+> - **Year 2 and beyond:** The requirement reverts to 2 hearts, and the weather does not matter
+> - Raise friendship by talking to Marlon and giving him gifts he likes
+> - Once you meet the conditions and complete his heart event in the Adventurer's Guild, he will reward you with the Rusty Key, granting you access to the Sewers
 
 </details>
 
