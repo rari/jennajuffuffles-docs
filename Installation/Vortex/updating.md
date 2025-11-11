@@ -19,25 +19,17 @@ Taking a few minutes to prepare will make the update process smooth and worry-fr
 
 ---
 
-## Recommended Update Method: New Profile
+## Update Method
 
-This is the most reliable way to update your collection and helps prevent any issues. Here's how:
+Follow these steps to update your collection:
 
-### If You Have Additional Mods
-
-If you've added your own mods beyond the collection, follow these steps:
-
-1. **Filter for your collection** - In Vortex, go to the Mods tab and filter for your collection name (e.g., "Stardew Valley VERY Expanded") on your current profile.
-2. **Disable the collection** - Disable the collection and when prompted, click to include recommended mods.
-3. **Create a private collection** - Go to **Collections > Create a Collection > From Profile**. This creates a DRAFT of your private collection containing your additional mods. You don't need to publish it - it's just for your use. For detailed instructions, see our [How to Create A Collection](../../Guides/collection-creation.md) guide and the [Creating a Private Collection](../../Guides/personalization.md#creating-a-private-collection) section in the Personalization guide.
-4. **Re-add to a new profile** - Go to the collection page on Nexus and click "Add Collection". By default, it will create a new profile using the mods you already have installed (you may only need to update a few specific mods).
-5. **Enable your private collection** - After the new profile is created, enable the private collection you made earlier. When enabling, click the **"Apply to Recommended Mods"** checkbox to add your additional mods back in.
-6. **Enable all collection mods** - Go to the Mods tab in Vortex. Find the folder with your collection's name, right-click it, and choose "Disable" then "Enable" again. When you re-enable it, select **"Apply to Recommended Mods"**. This ensures all optional mods are enabled correctly.
-
-### If You Don't Have Additional Mods
-
-1. **Re-add to a new profile** - Go to the collection page on Nexus and click "Add Collection". By default, it will create a new profile using the mods you already have installed (you may only need to update a few specific mods).
-2. **Enable all mods** - After installation, go to the Mods tab in Vortex. Find the folder with your collection's name, right-click it, and choose "Disable" then "Enable" again. When you re-enable it, select **"Apply to Recommended Mods"**. This ensures all optional mods are enabled correctly.
+> 1. Go to the Collections tab and **Remove** the current version of the collection. Do not check any checkboxes so this removes only the collection entry, not the mods themselves.
+> 2. **If you have additional mods:** Create a private collection containing your additional mods. See the [Creating a Private Collection](../../Guides/personalization.md#creating-a-private-collection) guide for detailed instructions.
+> 3. On the appropriate Nexus Mods collection page, click **Add Collection**.
+> 4. When prompted, click **Install Now**.
+> 5. If prompted to install optional mods, click **Ok/Install**. If you click other buttons (such as "View Optional Mods"), you may need to install those mods from the Collections panel later.
+> 6. In the Mods panel, filter for the name of the collection. Disable it, then re-enable and select **"Apply to Recommended Mods"** in the pop-up. This ensures your optional mods are properly enabled, as updates often disable them.
+> 7. **If you have additional mods:** Enable your private collection. When enabling, click the **"Apply to Recommended Mods"** checkbox to add your additional mods back in.
 
 That's it! Your collection is now updated and ready to go.
 
@@ -51,7 +43,7 @@ If you prefer a quicker update, you can use the Update button on the collection 
 2. When prompted, always choose **"Remove All"** - this ensures a clean update
 3. **Enable all mods** - After the update completes, go to the Mods tab, find your collection's folder, disable and re-enable it, then select **"Apply to Recommended Mods"** when re-enabling.
 
-> **Note:** While this method works, creating a new profile (the method above) is far more stable and is recommended.
+> **Note:** While this method works, the update method above (removing and re-adding the collection) is far more stable and is recommended.
 
 ---
 
@@ -60,7 +52,7 @@ If you prefer a quicker update, you can use the Update button on the collection 
 To keep your game running smoothly, please:
 
 - **Update through the collection** - Don't update individual mods yourself. Wait for the collection to update so all mods are tested for compatibility together.
-- **Use "Remove All"** - If you use the Update button, always select "Remove All" for a clean update.
+- **Use "Remove All"** - If you use the Update button (alternative method below), always select "Remove All" for a clean update.
 
 ---
 

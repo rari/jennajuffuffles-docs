@@ -26,7 +26,7 @@ Follow these steps in order to resolve common Vortex installation issues.
 > 2. On the appropriate Nexus Mods collection page, click Add Collection.
 > 3. When prompted, click Install Now, and Yes to switch to profile.
 > 4. If prompted to install optional mods, click Ok/Install. If you click other buttons (such as "View Optional Mods"), you may need to install those mods from the Collections panel later.
-> 5. In the Mods panel, filter for the name of the collection. Disable it, then re-enable and select "Enable Recommended Mods" in the pop-up. This ensures your optional mods are properly enabled, as updates often disable them.
+> 5. In the Mods panel, filter for the name of the collection. Disable it, then re-enable and select "Apply to Recommended Mods" in the pop-up. This ensures your optional mods are properly enabled, as updates often disable them.
 
 ### Part 3 - Game Mods Folder Check (Only mods Vortex knows about)
 
