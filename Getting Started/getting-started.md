@@ -24,7 +24,7 @@ Before you begin, ensure you have:
 
 - **Vortex** (Recommended) - One-click installation with Nexus Premium, guided installation for free users. See: [Mod Managers](../Installation/index.md) and [Vortex Installation Guide](../Installation/Vortex/installation.md)
 - **Nexus Mods App** (Beta) - Multi-platform Collections support. See: [Nexus Mods App Installation Guide](../Installation/NMA/installation.md)
-- **Stardrop** (Not recommended for collection users) - SMAPI-centric management. Great for Stardew but cannot install Collections directly; requires migration from Vortex/App. See: [Stardrop Installation Guide](../Installation/Stardrop/installation.md) and [Transferring to Stardrop](../Installation/Stardrop/transfer-to-stardrop.md).
+- **Stardrop** - SMAPI-centric management designed specifically for Stardew Valley. Great for individual mods, but not recommended for Collections as it doesn't support them directly; requires installing through Vortex/App first, then migrating. See: [Stardrop Installation Guide](../Installation/Stardrop/installation.md) and [Transferring to Stardrop](../Installation/Stardrop/transfer-to-stardrop.md).
 - **Manual Installation** - Step-by-step without a manager (not recommended). See: [Manual Installation Guide](../Installation/Manual/installation.md)
 
 ---
@@ -50,7 +50,19 @@ All mods are pre-configured to work together, and settings are optimized for the
 
 ## Need Help?
 
+Use this table to find the most relevant troubleshooting or FAQ page for your issue:
+
+| Issue Type | Resource | Description |
+|------------|----------|-------------|
+| **General Questions** | [FAQ & Known Issues](faq-known-issues.md) | General questions about collections, installation, updates, and common issues across all collections |
+| **Troubleshooting Guide** | [Troubleshooting Guide](../Guides/troubleshooting.md) | Comprehensive troubleshooting resources and guides |
+| **Vortex Issues** | [Vortex FAQ & Troubleshooting](../Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
+| **svVe Gameplay** | [svVe FAQ & Troubleshooting](../Collections/Stardew%20Valley%20VERY%20Expanded/faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
+| **NMA Issues** | [NMA FAQ](../Installation/NMA/faq.md) | Questions and troubleshooting for Nexus Mods App |
+| **Stardrop Issues** | [Stardrop FAQ](../Installation/Stardrop/faq.md) | Questions and troubleshooting for Stardrop mod manager |
+| **Manual Installation** | [Manual FAQ](../Installation/Manual/faq.md) | Questions and limitations for manual installation |
+
+**Additional Resources:**
 - **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
-- **FAQ:** Check our [FAQ & Known Issues](faq-known-issues.md) for common solutions
-- **Troubleshooting:** See our [Troubleshooting Guide](../Guides/troubleshooting.md) for detailed help
+- **Nexus Status:** [Check Nexus Mods status](https://nexusmods.statuspage.io/) if you're experiencing download or site issues
 

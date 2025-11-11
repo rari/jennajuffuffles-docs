@@ -24,7 +24,7 @@ Update instructions are specific to your mod manager. Choose the guide for your 
 
 - **[Vortex Update Guide](../Installation/Vortex/updating.md)** - For Vortex users (recommended)
 - **Nexus Mods App Update Guide** - Coming soon
-- **Stardrop Update Guide** - Users will need to handle updates and patches, as Stardrop does not support Collections. (not recommended)
+- **Stardrop Update Guide** - Stardrop doesn't support Collections directly, so you'll need to update through Vortex or Nexus Mods App first, then migrate back to Stardrop if desired.
 - **Manual Update Guide** - Users will need to handle updates and patches, please watch changelogs for details and consider joining our Discord for alerts.
 
 ---

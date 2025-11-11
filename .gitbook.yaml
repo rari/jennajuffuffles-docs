@@ -5,8 +5,9 @@ redirects:
   combining.md: Collections/combining-collections.md
   faq-and-known-issues.md: "Getting Started/faq-known-issues.md"
   install.md: Installation/Vortex/installation.md
-  keybinds.md: Collections/Stardew Valley VERY Expanded/keybinds-controllers.md
+  keybinds.md: "Collections/Stardew Valley VERY Expanded/keybinds-controllers.md"
   manual-install.md: Installation/Manual/installation.md
   personalization.md: Guides/personalization.md
   troubleshooting.md: Guides/troubleshooting.md
+  "Installation/Vortex/faq.md": "Installation/Vortex/troubleshooting.md"
 

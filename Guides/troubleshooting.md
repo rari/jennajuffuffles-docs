@@ -13,13 +13,28 @@ Before diving into complex troubleshooting steps, restart your computer and try 
 
 ---
 
+## Find the Right Troubleshooting Guide
+
+Use this table to find the most relevant troubleshooting or FAQ page for your issue:
+
+| Issue Type | Resource | Description |
+|------------|----------|-------------|
+| **General Questions** | [FAQ & Known Issues](../Getting%20Started/faq-known-issues.md) | General questions about collections, installation, updates, and common issues across all collections |
+| **Vortex Issues** | [Vortex FAQ & Troubleshooting](../Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
+| **svVe Gameplay** | [svVe FAQ & Troubleshooting](../Collections/Stardew%20Valley%20VERY%20Expanded/faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
+| **NMA Issues** | [NMA FAQ](../Installation/NMA/faq.md) | Questions and troubleshooting for Nexus Mods App |
+| **Stardrop Issues** | [Stardrop FAQ](../Installation/Stardrop/faq.md) | Questions and troubleshooting for Stardrop mod manager |
+| **Manual Installation** | [Manual FAQ](../Installation/Manual/faq.md) | Questions and limitations for manual installation |
+
+---
+
 ## Common Issues
 
 ### Duplicate Mods
 
 One common issue we see is **duplicate mods**. When two copies of a mod exist, neither will load. This includes if a mod is inside of a subfolder inside of the `Mods/` folder. When this happens, it will produce a red SMAPI error.
 
-**Important:** It is recommended that the mod folder be clear when installing a new collection (unless deliberately stacking collections). 
+**Important:** It is recommended that the mod folder be clear when installing a new collection (unless deliberately stacking collections). For more information on adding mods and managing your setup, see the [FAQ & Known Issues](../Getting%20Started/faq-known-issues.md#can-i-add-more-mods) page.
 
 **To fix duplicate mods:**
 - Check your `Mods/` folder for any duplicate mod directories
@@ -38,7 +53,7 @@ For Vortex-specific troubleshooting steps including game installation checks, pr
 ## Need More Help?
 
 If you run into issues that aren't solved here, you can:
-- Reach out to our community on **[Discord](https://discord.com/invite/de2NrHXuty)** for live assistance
+- Reach out to our community on **[Discord](https://discord.gg/MPcgJUXeeY)** for live assistance
 - Create and share a SMAPI log so others can help diagnose your issue
 
 ## Further Support
@@ -81,7 +96,7 @@ If you're experiencing issues with specific expansion mods, these resources may 
 ## How to Create a SMAPI Log
 
 A SMAPI log is a text file that shows what mods loaded and any errors that occurred.
-Share the link in our [Discord](https://discord.gg/de2NrHXuty) for help!
+Share the link in our [Discord](https://discord.gg/MPcgJUXeeY) for help!
 
 ### Windows Users:
 1. Press the **Windows** and **R** keys at the same time.

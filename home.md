@@ -28,7 +28,7 @@ Aesthetic Valley collections provide visual themes for Stardew Valley. These col
 
 **Learn more:** [Overview](Collections/Aesthetic%20Valley/overview.md)
 
-> You can use both together. When combining any Aesthetic Valley collection with SVVE, you can always install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](Collections/combining-collections.md)
+> You can use both together. When combining any Aesthetic Valley collection with svVe, you can always install svVe optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](Collections/combining-collections.md)
 
 ---
 
@@ -43,89 +43,19 @@ Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular N
 
 ## Need Help?
 
-- **Getting Started**: See [Getting Started](Getting%20Started/getting-started.md) for detailed installation information and supported mod managers
-- **Installation Guides**: See [Mod Managers](Installation/index.md) to choose your installation method
-- **Join our Community**: [Discord Server](https://discord.gg/MPcgJUXeeY)
+Use this table to find the most relevant troubleshooting or FAQ page for your issue:
 
----
+| Issue Type | Resource | Description |
+|------------|----------|-------------|
+| **General Questions** | [FAQ & Known Issues](Getting%20Started/faq-known-issues.md) | General questions about collections, installation, updates, and common issues across all collections |
+| **Troubleshooting Guide** | [Troubleshooting Guide](Guides/troubleshooting.md) | Comprehensive troubleshooting resources and guides |
+| **Vortex Issues** | [Vortex FAQ & Troubleshooting](Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
+| **svVe Gameplay** | [svVe FAQ & Troubleshooting](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
+| **NMA Issues** | [NMA FAQ](Installation/NMA/faq.md) | Questions and troubleshooting for Nexus Mods App |
+| **Stardrop Issues** | [Stardrop FAQ](Installation/Stardrop/faq.md) | Questions and troubleshooting for Stardrop mod manager |
+| **Manual Installation** | [Manual FAQ](Installation/Manual/faq.md) | Questions and limitations for manual installation |
 
-
-## Frequently Asked Questions
-
-### Where can I download these collections?
-> These collections are only available and updated through **Nexus Mods**. This is the official source and ensures you always get the latest tested versions. All collections must be installed through Nexus so each mod download is properly attributed to its creator.
-> 
-> Using **Nexus Premium** helps support Nexus Mods and the mod creators on the platform. Nexus Premium also enables one-click installation through the support mod managers, making collection setup much easier and faster. However, you can still use Vortex or Nexus Mods App for free to download and install - it just requires a bit more clicking.
-
-### Can I get all the mods in a zip file?
-> No. Collections are not modpacks. Providing a downloadable zip file with all mods would be redistributing mods without creators' permission, which is mod piracy. Collections must be installed through Nexus so each mod download is properly attributed to its creator. This respects creators' rights and ensures they receive proper credit and support for their work.
-
-### Why is my game loading slowly?
-> Large collections can take several minutes to load, especially on the first launch or when starting a new save. This is normal due to the amount of content being loaded.
-> 
-> **⚠️ Important:** During loading, please don't alt-tab, click away, or interact with the game window. Doing so can cause crashes or freezes. Just let it load - you'll see progress in the SMAPI console window. The game will be ready when the console stops showing loading messages.
-
-### Do I need the optional mods?
-> Yes! While some mods are marked as "optional" to make it easier when combining collections, you should install them when using a single collection. These optional mods include:
-> - Essential interface improvements 
-> - Map enhancements that improve the visual experience
-> - Additional content that enhances gameplay
-> - Expansions that have been carefully curated for quality
-> - Compatibility files for combining collections (only needed when stacking multiple collections)
-> 
-> The optional designation exists mainly to help with collection stacking (combining multiple collections). When using just one collection, these mods are designed to be part of the intended experience.
-
-### Should I update individual mods myself?
-> No. Always wait for the collection to be updated instead of updating individual mods yourself. The collection curator tests all mod versions together to ensure compatibility. Updating mods individually can cause version conflicts, breaking changes, missing compatibility patches, and unstable gameplay. When a collection update is released, it includes tested versions of all mods that work together.
-
-### Can I combine your collections?
-> Yes! Any Aesthetic Valley collection (Fairycore, Witchcore, or future Aesthetic Valley collections) is designed to work alongside Stardew Valley VERY Expanded (SVVE). You can install them into the same Vortex profile.
-> 
-> For detailed instructions on how to combine collections, including which optional mods to install and how to manage conflicts, see our [Combining Collections](Collections/combining-collections.md) guide.
-
-### Is this okay for first-time players?
-> It's absolutely fine to start with SVVE even if you're new to Stardew Valley! The collection is designed to enhance the game while preserving the vanilla feel. However, keep in mind that SVVE is quite large with many new areas, NPCs, and content.
-> 
-> **Recommendation:** Playing vanilla Stardew Valley first will help you appreciate the additions SVVE brings, but it's not required. If you're eager to dive in with the collection, go for it - just be prepared for a lot more content to explore!
-
-### Co-op: do all players need the collection?
-> Yes. All players in a multiplayer game must have matching mods and configurations for everything to work correctly. This means:
-> - All players need the same collection(s) installed
-> - All players need the same mod versions
-> - All players need matching configurations (especially for mods that affect gameplay)
-> 
-> Consider using a multiplayer manager or keeping careful documentation of your mod setup so everyone can stay in sync. Version mismatches can cause desyncs, crashes, or missing content.
-
-### Can I add more mods?
-> Yes! These collections are designed as solid bases that you can build upon. However, there are some important things to keep in mind:
-> 
-> - **Test additions individually** - Add one mod at a time and test thoroughly before adding another. This helps you identify any conflicts quickly.
-> - **Review compatibility notes** - Check mod pages for compatibility warnings, especially with major expansions like SVE, Ridgeside Village, or East Scarp.
-> - **Create a private collection** - Once you've found mods that work well, create a private collection containing just your additions. This makes it easy to reinstall them after collection updates. See our [Personalization guide](Guides/personalization.md) for details.
-> - **Check load order** - Some mods may need specific load orders. Use Vortex's "Manage Rules" to adjust if needed.
-> 
-> Remember that adding mods can introduce conflicts or bugs, and collection updates may not account for your additions. Keep backups of working configurations!
-
-### "Failed to store cache entry" (SinZational Speedy Solutions)
-> This error message appears in your SMAPI log related to SinZational Speedy Solutions, but **it's completely safe to ignore**. It's an informational message, not an actual error.
-> 
-> - It does **not** indicate a crash or conflict
-> - It does **not** affect gameplay
-> - Your game will run normally despite this message
-> - No action is needed
-> 
-> This is communicating that the mod failed to cache the map, but functionally this means the map still will load normally. You can safely continue playing!
-
-### Is JennaJuffuffles affiliated with Nexus Mods?
-> No. JennaJuffuffles is an independent collection curator and is not affiliated with or employed by Nexus Mods. As such, JennaJuffuffles is not responsible for:
-> - Changes to the Nexus Mods website or platform
-> - How Nexus Premium works, its pricing, or its features
-> - Issues with Nexus Mods services, servers, or account access
-> - Mod manager updates or changes (Vortex, Nexus Mods App, etc.)
-> - Decisions made by Nexus Mods or its staff
-> 
-> For questions or issues related to Nexus Mods services, account access, Premium subscriptions, or platform features, please contact [Nexus Mods Support](https://help.nexusmods.com/).
-
-### More FAQs and known issues
-> See our [FAQ & Known Issues](Getting%20Started/faq-known-issues.md) page for additional troubleshooting help.
+**Additional Resources:**
+- **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
+- **Nexus Status:** [Check Nexus Mods status](https://nexusmods.statuspage.io/) if you're experiencing download or site issues
 

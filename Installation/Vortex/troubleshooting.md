@@ -1,11 +1,24 @@
-# Troubleshooting - Vortex
+# Vortex — FAQ & Troubleshooting
 
-> 📂 Docs / Installation / Vortex / Troubleshooting
+> 📂 Docs / Installation / Vortex / FAQ & Troubleshooting
 
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
-This page focuses on troubleshooting Vortex-related setup issues for the collections.
+This page covers frequently asked questions and troubleshooting for Vortex-related setup issues with the collections.
+
+---
+
+## FAQ
+
+### Can I use Vortex with another mod manager?
+> Do not run two mod managers on the same game simultaneously — you may corrupt installs.
+
+### Where should I install Stardew Valley and Vortex?
+> For best results, it's recommended to install both Stardew Valley and Vortex on `C:\`. This helps avoid potential issues with symbolic links and deployment.
+
+### Best practices for combining collections
+> Install to the same profile. Let the chosen recolor/theme config load last in Rules Manager. See Combining Collections: [Combining Collections](../../Collections/combining-collections.md)
 
 ---
 
@@ -68,7 +81,7 @@ Follow these steps in order to resolve common Vortex installation issues.
 ## Vortex Behaviors & Workarounds
 
 ### Updates can overwrite/delete custom configs
-> When a collection updates, Vortex may overwrite or delete your custom mod configurations. This is frustrating, but there are ways to protect your settings:
+> When a collection updates, Vortex may overwrite or delete your custom mod configurations. This is frustrating, but there are ways to protect your settings. For information on updating collections, see the [Updating Collections](updating.md) guide.
 > 
 > **Option 1: Sync Mod Configurations**
 > - Use the "Sync Mod Configurations" button in Vortex to backup and restore your settings
@@ -114,7 +127,7 @@ Follow these steps in order to resolve common Vortex installation issues.
 ### Redundant Files Error
 > This error indicates that the files in two mods are identical. This may indicate you have created a variation and can disable one. This may also (temporarily) activate Manage Rules until it is resolved.
 
-### SMAPI not launching
+### SMAPI not launching via Vortex
 > If SMAPI isn't launching when you try to start the game:
 > 1. Open Vortex
 > 2. Go to the **Dashboard** tab
@@ -123,6 +136,22 @@ Follow these steps in order to resolve common Vortex installation issues.
 > 5. Try launching the game again from Vortex
 > 
 > If this doesn't work, you may need to reinstall SMAPI through Vortex. SMAPI can be added as a mod from Nexus and Vortex will automatically install it. See our [Installation guides](../index.md) for detailed instructions.
+
+---
+
+## Common Issues
+
+### Unresolved file conflicts (Manage Rules)
+> Ensure compatibility/config/translation mods load after the mods they affect. Open Mods → Manage Rules, set the relationship, then Deploy. Avoid "Use Suggested" if it creates loops. For more information on combining collections and managing conflicts, see the [Combining Collections](../../Collections/combining-collections.md) guide.
+
+### Mod staging may fail silently
+> After Deploy, verify in the SMAPI log that the mod actually loaded (don't rely only on the Mods tab). If missing, Redeploy, or delete the mod and its archive, then reinstall from the Collection tab.
+
+### Mods with incorrect folder structure
+> Some manual additions have improper layouts and won't deploy correctly. Fix structure per the official wiki, then Deploy.
+
+### Red errors from an empty Vortex folder
+> Often due to leftover folders from disabled mods, or installing configuration without associated mods. Non-harmful; enable the recommended files or customize configs.
 
 ---
 
@@ -175,21 +204,12 @@ Follow these steps in order to resolve common Vortex installation issues.
 
 ### Outside of Vortex
 
-**Windows:**
-1. Press Windows+R  
-2. Enter: `%appdata%\StardewValley\ErrorLogs`  
-3. Open SMAPI-latest.txt (or SMAPI-crash.txt if it crashed)
-4. Upload the file to [smapi.io/log](https://smapi.io/log) and share the generated link in Discord
-
-**Linux:**
-1. Navigate to `~/.config/StardewValley/ErrorLogs` in your file manager
-2. Open SMAPI-latest.txt (or SMAPI-crash.txt if it crashed)
-3. Upload the file to [smapi.io/log](https://smapi.io/log) and share the generated link in Discord
+For instructions on creating a SMAPI log without using Vortex (Windows, Linux, and Mac), see the [SMAPI Log creation guide](../../Guides/troubleshooting.md#how-to-create-a-smapi-log) in the general troubleshooting guide.
 
 ---
 
 ## Need More Help?
-- **Community Discord:** [Join Here](https://discord.com/invite/de2NrHXuty)  
+- **Community Discord:** [Join Here](https://discord.gg/MPcgJUXeeY)  
 - **Official Vortex Discord:** [Join Here](https://discord.com/invite/nexusmods) (Support hours: 9 AM – 5 PM GMT, Mon–Thu)
 
 More help:  

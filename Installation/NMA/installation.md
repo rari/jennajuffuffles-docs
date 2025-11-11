@@ -43,7 +43,7 @@ Before installing the app, make sure:
    * Open the **Optional Mods** panel in the Nexus Mods App
    * Download and install optional mods from this panel
    * Open the **Mods** panel to download and install the main mods.
-   * > **Important:** When combining SVVE with any Aesthetic Valley collection, you can always install SVVE optional mods (always safe), but only install optional mods from **one** Aesthetic Valley collection and **one** farm to avoid conflicts. See: [Combining Collections](../../Collections/combining-collections.md)
+   * > **Important:** When combining svVe with any Aesthetic Valley collection, you can always install svVe optional mods (always safe), but only install optional mods from **one** Aesthetic Valley collection and **one** farm to avoid conflicts. See: [Combining Collections](../../Collections/combining-collections.md)
 
 ---
 

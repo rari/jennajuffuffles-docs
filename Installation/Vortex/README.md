@@ -13,8 +13,7 @@ Vortex is the recommended mod manager for most users. It provides robust collect
 
 - [Vortex Installation Guide](installation.md) - Step-by-step installation instructions
 - [Updating Collections](updating.md) - How to update your collection in Vortex
-- [FAQ & Common Issues](faq.md) - Frequently asked questions and solutions
-- [Troubleshooting](troubleshooting.md) - Detailed troubleshooting guide
+- [FAQ & Troubleshooting](troubleshooting.md) - Frequently asked questions and detailed troubleshooting guide
 
 ## Quick Links
 

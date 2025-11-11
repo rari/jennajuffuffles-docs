@@ -10,10 +10,10 @@
 ## FAQ
 
 ### Can I use Stardrop with another mod manager?
-> Do not run two mod managers on the same game simultaneously — you may corrupt installs.
+> Do not run two mod managers on the same game — you may corrupt installs.
 
 ### Why can't I install Collections directly with Stardrop?
-> Stardrop cannot install Nexus Collections directly. Use Vortex/NMA first, then migrate.
+> Stardrop cannot install Nexus Collections directly. 
 
 ### Should I use Stardrop?
-> Stardrop is recommended for modding Stardew by the larger Stardew community, as it is built for Stardew Valley. However, it is not designed to handle Nexus collections, and is not able to update them. **Stardrop is not recommended for users who want to install or update Nexus Collections.** If you need to update your collection in the future, use Vortex or Nexus Mods App instead.
+> Stardrop is an excellent mod manager that's highly recommended by the Stardew Valley modding community for managing individual mods, as it's built specifically for Stardew Valley. However, it doesn't support Nexus Collections directly, so it's not recommended for collection users. If you want to use Stardrop with a collection anyway, you'll need to install the collection through Vortex or Nexus Mods App first, then migrate to Stardrop. For future collection updates, you'll need to update through Vortex or Nexus Mods App, then migrate again.

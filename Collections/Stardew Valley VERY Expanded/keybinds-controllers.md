@@ -1,6 +1,6 @@
 # Keybinds & Controllers — Stardew Valley VERY Expanded
 
-> 📂 Docs / Collections / SVVE / Keybinds & Controllers
+> 📂 Docs / Collections / svVe / Keybinds & Controllers
 
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
@@ -8,7 +8,7 @@
 ---
 
 ## Overview
-Common keybinds used in SVVE. Customize via GMCM from the title screen.
+Common keybinds used in svVe. Customize via GMCM from the title screen.
 
 ---
 

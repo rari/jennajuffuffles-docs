@@ -26,7 +26,7 @@ The best part? When done correctly, your personalizations will persist even when
 
 The easiest way to keep your custom settings safe through updates is using the [Add Custom Mod Button](https://www.nexusmods.com/site/mods/863) Vortex extension. This creates persistent customizations and patches that always load after your main mods, ensuring your personal settings never get overwritten!
 
-### Creating Personal Customizations
+### Creating Personal Customizations in Vortex
 
 **Step 1: Configure Your Settings**
 1. Configure mods as desired in-game (GMCM is recommended - see the [In-Game Configuration](#in-game-configuration) section below)
@@ -51,12 +51,11 @@ The easiest way to keep your custom settings safe through updates is using the [
 
 The same process can be used to create persistent patches and minor local mods:
 
-1. Create a custom mod using the Add Custom Mod Button
-2. Add your custom files, patches, or other mods
-3. Set the load order to ensure your changes take priority
-4. Your customizations will persist through updates
+1. **Create your patch or configuration folder** - The folder structure must exactly match what is in your mods folder. So if you are patching `ModName/[CP] ModName/content.json`, that is the folder structure you would need to create.
+2. **Add your files** - A patch may contain multiple top level folders if you do not include manifests.
+3. **Add to Vortex** - You may add these folders using the Add Custom Mod Button in Vortex or compress the top level folder as a ZIP file and add it as if it was a mod into your mod manager. Make sure that any load order management (like Manage Rules) will load this **AFTER** the actual mod.
 
-This method ensures your personal settings and mods are reapplied automatically, even after collection updates.
+Your customizations will persist this way. If this is done in Vortex, it is recommended you include this custom mod in your private collection.
 
 ---
 
@@ -68,23 +67,37 @@ There are two ways to add mods from Nexus Mods:
 
 ### Method 1: Mod Manager Button (Recommended)
 1. Go to the mod's files page on Nexus Mods
-2. Click the "Mod Manager" button to download directly to Vortex
-3. Follow the installation prompts in Vortex
+2. Click the "Mod Manager" button to download directly to your mod manager
+3. Ensure you also install any requirements not already present
 
 ### Method 2: Manual Download
 1. Click the "Manual" button on the mod's files page
 2. Download the ZIP file to your computer
-3. Go to Vortex Mods page and drag the ZIP file onto the drop zone
+3. Import the mod into your mod manager (in Vortex, go to the Mods page and drag the ZIP file onto the drop zone)
 4. Follow the installation prompts
+
+> **Important:** Do not extract mods directly into your mods folder while using a mod manager. Always use your mod manager to install mods.
 
 ### Creating a Private Collection
 
 If you add mods, it's recommended to create a private collection that contains only the mods you've added. This way you can easily reinstall or redeploy them to a new profile after updating, and you'll never lose track of your additions!
 
+#### Method 1: Create from Profile (Recommended for Updates)
+
+This method is especially useful when updating collections, as it automatically captures all your additional mods:
+
+1. In Vortex, go to the Mods tab and filter for active collection name(s) (e.g., "Stardew Valley VERY Expanded") on your current profile.
+2. Disable the collection and when prompted, click to include recommended mods.
+3. Go to **Collections > Create a Collection > From Profile**. This creates a DRAFT of your private collection containing your additional mods. You don't need to publish it - it's just for your use.
+4. (Optional) Upload to Nexus' server from the Workshop section of the Collection tab and keep it updated for future downloads. Publish only to share the private link with friends.
+
+#### Method 2: Create Empty Collection
+
+For creating a collection from scratch:
+
 1. Create an empty collection in Vortex
 2. Right-click "Add to Collection" on each mod in the Mods page
-3. Upload to Nexus' server from the Workshop section of the Collection tab and keep it updated for future downloads
-4. Share the private link with friends (optional)
+3. (Optional) Upload to Nexus' server from the Workshop section of the Collection tab and keep it updated for future downloads. Publish only to share the private link with friends.
 
 > **Note:** You can share your collection with friends using the private link without making it public. Keeping personal and friends-only collections private is recommended.
 
@@ -103,7 +116,7 @@ Some mods you add may require restructuring to work within Vortex:
 
 ### Collection Settings for Modified Mods
 - Set to "Exact" and "Replicate" in your private collection if you modify a mod's folder structure
-- Use "Binary Patch" for minor content modifications (but you cannot use both methods simultaneously)
+- Use "Binary Patch" for minor content modifications (but you cannot use both this and Replicate methods simultaneously)
 
 ### Best Practices
 - Read mod pages carefully for compatibility notes 

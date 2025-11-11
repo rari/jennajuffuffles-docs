@@ -9,7 +9,7 @@
 
 ## Important Note
 
-> **⚠️ Not Recommended for Collection Users:** Stardrop is not recommended for users who want to install or update Nexus Collections. It cannot install Nexus Collections directly and requires migration from Vortex/NMA. If you proceed, ensure SMAPI is installed and configure mods via GMCM.
+> **Note for Collection Users:** Stardrop is a great mod manager for Stardew Valley, but it doesn't support Nexus Collections directly. For this reason, Stardrop is not recommended for collection users. If you choose to use Stardrop with a collection anyway, you'll need to install it through Vortex or Nexus Mods App first, then migrate to Stardrop. See [Transferring to Stardrop](transfer-to-stardrop.md) for migration instructions. If you proceed, ensure SMAPI is installed and configure mods via GMCM.
 
 ---
 

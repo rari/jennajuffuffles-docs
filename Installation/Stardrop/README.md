@@ -7,7 +7,7 @@
 
 ---
 
-Stardrop is not recommended for users who want to install or update Nexus Collections. It cannot install Nexus Collections directly and requires migration from Vortex/NMA.
+Stardrop is an excellent mod manager designed specifically for Stardew Valley and is great for managing individual mods. However, it doesn't support Nexus Collections directly, so it's not recommended for collection users. If you want to use Stardrop with a collection, you'll need to install the collection through Vortex or Nexus Mods App first, then migrate to Stardrop.
 
 ## Resources
 

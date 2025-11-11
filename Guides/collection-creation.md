@@ -68,7 +68,7 @@ Building a collection from the ground up:
 When finalizing your collection, make sure to:
 
 * Provide a descriptive title and summary.
-* Document its scope and purpose (e.g., "Hardcore Survival Build for Stardew Valley" or "Companion Collection for SVVE - Visual Enhancements").
+* Document its scope and purpose (e.g., "Hardcore Survival Build for Stardew Valley" or "Companion Collection for svVe - Visual Enhancements").
 * Add all relevant mods and dependencies.
 * Define load order rules and conflict resolutions.
 * Include configuration instructions (INI tweaks, external tools, etc.).

@@ -1,6 +1,6 @@
 # Translations — Stardew Valley VERY Expanded
 
-> 📂 Docs / Collections / SVVE / Translations
+> 📂 Docs / Collections / svVe / Translations
 
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
@@ -9,10 +9,10 @@
 
 ## Available Translations
 
-- 🇧🇷 [SVVE Tradução em Português](https://next.nexusmods.com/stardewvalley/collections/z4w11e)
-- 🇨🇳 [SVVE 简体中文翻译](https://next.nexusmods.com/stardewvalley/collections/c8qj0l)
-- 🇩🇪 [SVVE Deutsche Übersetzung](https://next.nexusmods.com/stardewvalley/collections/ibljbd)
-- 🇷🇺 [SVVE Русский Перевод](https://next.nexusmods.com/stardewvalley/collections/igivdc)
-- 🇹🇷 [SVVE Türkçe Çeviri](https://next.nexusmods.com/stardewvalley/collections/xzebcw)
-- 🇫🇷 [SVVE Traduction Française](https://www.nexusmods.com/games/stardewvalley/collections/ihzrxq/) (NEW)
-- 🇪🇸 [SVVE Traducción Española](https://www.nexusmods.com/games/stardewvalley/collections/z7vzyt/) (NEW)
+- 🇧🇷 [svVe Tradução em Português](https://next.nexusmods.com/stardewvalley/collections/z4w11e)
+- 🇨🇳 [svVe 简体中文翻译](https://next.nexusmods.com/stardewvalley/collections/c8qj0l)
+- 🇩🇪 [svVe Deutsche Übersetzung](https://next.nexusmods.com/stardewvalley/collections/ibljbd)
+- 🇷🇺 [svVe Русский Перевод](https://next.nexusmods.com/stardewvalley/collections/igivdc)
+- 🇹🇷 [svVe Türkçe Çeviri](https://next.nexusmods.com/stardewvalley/collections/xzebcw)
+- 🇫🇷 [svVe Traduction Française](https://www.nexusmods.com/games/stardewvalley/collections/ihzrxq/) (NEW)
+- 🇪🇸 [svVe Traducción Española](https://www.nexusmods.com/stardewvalley/collections/z7vzyt/) (NEW)

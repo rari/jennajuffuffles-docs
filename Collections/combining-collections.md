@@ -19,8 +19,8 @@ You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley co
 
 ### Optional Mods Strategy
 
-When combining SVVE with any Aesthetic Valley collection:
-- **SVVE optional mods:** Can always be installed — they are compatible with all combinations.
+When combining svVe with any Aesthetic Valley collection:
+- **svVe optional mods:** Can always be installed — they are compatible with all combinations.
 - **Aesthetic Valley optional mods:** Only install optional mods from **one** Aesthetic Valley collection to avoid conflicts.
 - **Farm optional mods:** Only install optional mods from **one** farm to avoid conflicts.
 
@@ -69,7 +69,7 @@ Greenhouses: only one greenhouse can be active. Many farm maps include a greenho
 
 ---
 
-## Aesthetic Valley + SVVE
+## Aesthetic Valley + svVe
 
 Disable in Vortex (keep only one active):
 - Immersive Farm 2 Remastered, LnH's MiNi Farm, Grandpa's Farm

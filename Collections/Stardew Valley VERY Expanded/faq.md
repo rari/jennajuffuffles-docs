@@ -1,6 +1,6 @@
 # FAQ & Troubleshooting — Stardew Valley VERY Expanded
 
-> 📂 Docs / Collections / SVVE / FAQ
+> 📂 Docs / Collections / svVe / FAQ
 
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
@@ -87,7 +87,7 @@
 > - Once you reach 4 hearts, they should start appearing at festivals
 
 ## Very slow load or crash on first load
-> Large collections like SVVE can take 3–5 minutes (or sometimes longer) to start a new save or load an existing one. This is normal due to the number of mods and content being loaded and dependant on available memory.
+> Large collections like svVe can take 3–5 minutes (or sometimes longer) to start a new save or load an existing one. This is normal due to the number of mods and content being loaded and dependant on available memory.
 > 
 > **Important:** During the loading process, avoid clicking, pressing keys, or alt-tabbing away from the game. Interacting with the game during loading can cause crashes or freezes. Just let it load - you'll see progress in the SMAPI console window. The game will be ready when the console stops showing loading messages.
 > 

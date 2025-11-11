@@ -1,13 +1,13 @@
 # Stardew Valley VERY Expanded
 
-> 📂 Docs / Collections / SVVE
+> 📂 Docs / Collections / svVe
 
 *Last updated:* 2025-10-31  
 *Applies to Stardew Valley:* **1.6.15+**
 
 ---
 
-Stardew Valley VERY Expanded (SVVE) is a curated mod collection that extends Stardew Valley far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
+Stardew Valley VERY Expanded (svVe) is a curated mod collection that extends Stardew Valley far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
 
 **Download on Nexus:** [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
 
@@ -20,6 +20,6 @@ Stardew Valley VERY Expanded (SVVE) is a curated mod collection that extends Sta
 
 ## Quick Links
 
-- [Combining Collections](../combining-collections.md) - How to combine SVVE with other collections
+- [Combining Collections](../combining-collections.md) - How to combine svVe with other collections
 - [General FAQ & Known Issues](../../Getting%20Started/faq-known-issues.md)
 

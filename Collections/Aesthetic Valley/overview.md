@@ -33,7 +33,7 @@ A cozy, witchy cottagecore experience with a medieval tone. Features warm autumn
 
 **Download on Nexus:** [Aesthetic Valley | Witchcore](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi)
 
-> You can use both together. When installing, you can always install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](../combining-collections.md)
+> You can use both together. When installing, you can always install svVe optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](../combining-collections.md)
 
 ---
 
@@ -62,17 +62,31 @@ See Installation guides for your preferred mod manager:
 - [Nexus Mods App](../../Installation/NMA/installation.md)
 - [Manual Installation](../../Installation/Manual/installation.md)
 
-> Note: These collections can be installed stand-alone, together, or alongside Stardew Valley VERY Expanded. When combining with SVVE, you can install SVVE optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm.
+> Note: These collections can be installed stand-alone, together, or alongside Stardew Valley VERY Expanded. When combining with svVe, you can install svVe optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm.
 
 ---
 
 ## Combining with Other Collections
 
-Any Aesthetic Valley collection (Fairycore, Witchcore, or any future Aesthetic Valley collection) is designed to work with Stardew Valley VERY Expanded. See [Combining Collections](../combining-collections.md) for detailed instructions on how to combine any Aesthetic Valley collection with SVVE.
+Any Aesthetic Valley collection (Fairycore, Witchcore, or any future Aesthetic Valley collection) is designed to work with Stardew Valley VERY Expanded. See [Combining Collections](../combining-collections.md) for detailed instructions on how to combine any Aesthetic Valley collection with svVe.
 
 ---
 
-## Getting Help
+## Need Help?
 
-The best place to find help is the [Discord Server](https://discord.gg/MPcgJUXeeY). Select Stardew Valley as your interest. Our community is eager to help!
+Use this table to find the most relevant troubleshooting or FAQ page for your issue:
+
+| Issue Type | Resource | Description |
+|------------|----------|-------------|
+| **General Questions** | [FAQ & Known Issues](../../Getting%20Started/faq-known-issues.md) | General questions about collections, installation, updates, and common issues across all collections |
+| **Troubleshooting Guide** | [Troubleshooting Guide](../../Guides/troubleshooting.md) | Comprehensive troubleshooting resources and guides |
+| **Vortex Issues** | [Vortex FAQ & Troubleshooting](../../Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
+| **svVe Gameplay** | [svVe FAQ & Troubleshooting](../Stardew%20Valley%20VERY%20Expanded/faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
+| **NMA Issues** | [NMA FAQ](../../Installation/NMA/faq.md) | Questions and troubleshooting for Nexus Mods App |
+| **Stardrop Issues** | [Stardrop FAQ](../../Installation/Stardrop/faq.md) | Questions and troubleshooting for Stardrop mod manager |
+| **Manual Installation** | [Manual FAQ](../../Installation/Manual/faq.md) | Questions and limitations for manual installation |
+
+**Additional Resources:**
+- **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
+- **Nexus Status:** [Check Nexus Mods status](https://nexusmods.statuspage.io/) if you're experiencing download or site issues
 

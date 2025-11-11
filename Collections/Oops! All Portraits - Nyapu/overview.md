@@ -120,7 +120,21 @@ This is a list of supported expansions. They are not included as part of the col
 
 ---
 
-## Getting Help
+## Need Help?
 
-The best place to find help is the [Discord Server](https://discord.gg/MPcgJUXeeY). Select Stardew Valley as your interest. Our community is eager to help!
+Use this table to find the most relevant troubleshooting or FAQ page for your issue:
+
+| Issue Type | Resource | Description |
+|------------|----------|-------------|
+| **General Questions** | [FAQ & Known Issues](../../Getting%20Started/faq-known-issues.md) | General questions about collections, installation, updates, and common issues across all collections |
+| **Troubleshooting Guide** | [Troubleshooting Guide](../../Guides/troubleshooting.md) | Comprehensive troubleshooting resources and guides |
+| **Vortex Issues** | [Vortex FAQ & Troubleshooting](../../Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
+| **svVe Gameplay** | [svVe FAQ & Troubleshooting](../Stardew%20Valley%20VERY%20Expanded/faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
+| **NMA Issues** | [NMA FAQ](../../Installation/NMA/faq.md) | Questions and troubleshooting for Nexus Mods App |
+| **Stardrop Issues** | [Stardrop FAQ](../../Installation/Stardrop/faq.md) | Questions and troubleshooting for Stardrop mod manager |
+| **Manual Installation** | [Manual FAQ](../../Installation/Manual/faq.md) | Questions and limitations for manual installation |
+
+**Additional Resources:**
+- **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
+- **Nexus Status:** [Check Nexus Mods status](https://nexusmods.statuspage.io/) if you're experiencing download or site issues
 
