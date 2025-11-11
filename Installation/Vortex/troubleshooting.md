@@ -26,6 +26,8 @@ This page covers frequently asked questions and troubleshooting for Vortex-relat
 
 Follow these steps in order to resolve common Vortex installation issues.
 
+> **IF UPDATING:** Before starting, go to the Collections tab and **Remove** the current version of the collection. Do not check any checkboxes so this removes only the collection entry, not the mods themselves.
+
 ### Part 1 - Game Installation Check (Game itself is healthy)
 
 1. Use your store launcher to verify integrity of game files:
@@ -36,9 +38,9 @@ Follow these steps in order to resolve common Vortex installation issues.
 ### Part 2 - Vortex Profile Check (Only collection mods selected)
 
 1. On the appropriate Nexus Mods collection page, click Add Collection.
-2. When prompted, install into a New Profile.
-3. In Vortex, switch to that profile and confirm only the collection's mods are enabled.
-4. Ensure Optional Mods are ticked for full functionality.
+2. When prompted, click Install Now
+3. If prompted to install optional mods, click Ok/Install. If you click other buttons (such as "View Optional Mods"), you may need to install those mods from the Collections panel later.
+4. In the Mods panel, filter for the name of the collection. Disable it, then re-enable and select "Enable Recommended Mods" in the pop-up. This ensures your optional mods are properly enabled, as updates often disable them.
 
 ### Part 3 - Game Mods Folder Check (Only mods Vortex knows about)
 
