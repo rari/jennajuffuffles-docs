@@ -24,7 +24,7 @@ Follow these steps in order to resolve common Vortex installation issues.
 
 > 1. Go to the Collections tab and **Remove** the current version of the collection. Do not check any checkboxes so this removes only the collection entry, not the mods themselves.
 > 2. On the appropriate Nexus Mods collection page, click Add Collection.
-> 3. When prompted, click Install Now
+> 3. When prompted, click Install Now, and Yes to switch to profile.
 > 4. If prompted to install optional mods, click Ok/Install. If you click other buttons (such as "View Optional Mods"), you may need to install those mods from the Collections panel later.
 > 5. In the Mods panel, filter for the name of the collection. Disable it, then re-enable and select "Enable Recommended Mods" in the pop-up. This ensures your optional mods are properly enabled, as updates often disable them.
 
