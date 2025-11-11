@@ -15,7 +15,8 @@ You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley co
 
 1. In Vortex → Rules Manager, all configuration and content patch mods should load after the mods they modify.
 2. If two configuration files conflict, the one for your chosen recolor/theme should load last.
-3. Installation order: When combining, install the dominant Aesthetic Valley collection last, or reinstall its configuration at the end so it takes priority.
+3. Skip or disable compat that is not relevant to you!
+4. Only have the farm mod you are using enabled.
 
 ### Optional Mods Strategy
 
