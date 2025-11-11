@@ -9,19 +9,6 @@ This page covers frequently asked questions and troubleshooting for Vortex-relat
 
 ---
 
-## FAQ
-
-### Can I use Vortex with another mod manager?
-> Do not run two mod managers on the same game simultaneously — you may corrupt installs.
-
-### Where should I install Stardew Valley and Vortex?
-> For best results, it's recommended to install both Stardew Valley and Vortex on `C:\`. This helps avoid potential issues with symbolic links and deployment.
-
-### Best practices for combining collections
-> Install to the same profile. Let the chosen recolor/theme config load last in Rules Manager. See Combining Collections: [Combining Collections](../../Collections/combining-collections.md)
-
----
-
 ## Quick Fix Process
 
 Follow these steps in order to resolve common Vortex installation issues.
@@ -47,6 +34,19 @@ Follow these steps in order to resolve common Vortex installation issues.
 1. In Vortex → Mods tab, click Purge to remove all active mods from the game folder.
 2. Click Open → Game Mods Folder and manually delete any files/folders left behind.
 3. Back in Vortex, click Deploy to put the clean set of mods back.
+
+---
+
+## FAQ
+
+### Can I use Vortex with another mod manager?
+> Do not run two mod managers on the same game simultaneously — you may corrupt installs.
+
+### Where should I install Stardew Valley and Vortex?
+> For best results, it's recommended to install both Stardew Valley and Vortex on `C:\`. This helps avoid potential issues with symbolic links and deployment.
+
+### Best practices for combining collections
+> Install to the same profile. Let the chosen recolor/theme config load last in Rules Manager. See Combining Collections: [Combining Collections](../../Collections/combining-collections.md)
 
 ---
 
