@@ -22,40 +22,59 @@ The best part? When done correctly, your personalizations will persist even when
 
 ---
 
+## Backing Up Configuration Files
+
+Before updating, it's important to back up your configuration files. This ensures you can restore your settings if something goes wrong during updates or modifications.
+
+### Using Sync Mod Configurations
+
+Vortex provides a built-in feature to backup and restore your mod configurations:
+
+> 1. In Vortex, locate the **"Sync Mod Configurations"** button
+> 2. Click the button to create a backup of your current configuration files
+> 3. This will save your current configurations prevent them from being lost 
+
+**Important Note:** The Sync Mod Configurations feature may occasionally attempt to back up `smapi-internal` in error. This is a known issue that can be easily fixed.
+
+### Fixing smapi-internal Backup Error
+
+If the Sync Mod Configurations feature incorrectly backs up `smapi-internal`:
+
+> 1. Right-click on Stardew Valley Configurations mod entry created by Vortex
+> 2. Select **Open in File Manager** to access the mod folder
+> 3. Locate the `smapi-internal` folder within the configuration mod
+> 4. Cut the `smapi-internal` folder from the configuration mod location
+> 5. Navigate to your main Stardew Valley folder (where the game is installed)
+> 6. Paste the `smapi-internal` folder back into its proper location
+
+> **Please report to Vortex staff if this happens** - this issue needs more visibility to be properly addressed.
+
+---
+
 ## Personal Customizations and Patches
 
-The easiest way to keep your custom settings safe through updates is using the [Add Custom Mod Button](https://www.nexusmods.com/site/mods/863) Vortex extension. This creates persistent customizations and patches that always load after your main mods, ensuring your personal settings never get overwritten!
+Creating custom patches allows you to modify mod files (configurations, content patches, translations, etc.) while keeping your changes safe through collection updates. Patches load after the original mods, ensuring your customizations take priority.
 
-### Creating Personal Customizations in Vortex
+### Creating Custom Patches in Vortex
 
-**Step 1: Configure Your Settings**
-1. Configure mods as desired in-game (GMCM is recommended - see the [In-Game Configuration](#in-game-configuration) section below)
-2. Test your settings to make sure everything works as expected
+> 1. **Create your patch folder structure** - The folder structure must exactly match what is in your mods folder. For example, if you are patching `ModName/[CP] ModName/content.json`, that is the folder structure you would need to create.
+> 2. **Add your files** - Place your modified files in the appropriate folders. A patch may contain multiple top level folders if you do not include manifests.
+> 3. **Add to your mod manager** - Compress the top level folder as a ZIP file and add it as if it was a mod or add the folder via the [Add Custom Mod Button](https://www.nexusmods.com/site/mods/863)  button add-on in Vortex
+> 4. **Set load order** - In Vortex → Mods → Manage Rules, set your patch to load **AFTER** the mod it's patching.
+> 5. Click **Deploy** to apply your changes.
 
-**Step 2: Create Custom Config Mod**
-1. In Vortex, click Create new mod via the Add Custom Mod Button
-2. Name it something like "My Configs" or "Personal Settings"
+If this is done in Vortex, it is recommended you include this custom mod in your private collection.
 
-**Step 3: Copy Configuration Files**
-1. Navigate to your Stardew Valley Mods folder
-2. Find the mods you've customized
-3. Copy the entire mod folders into your "My Configs" mod folder
-4. Delete everything inside except your config files (usually `config.json`)
+### Creating Custom Patches in Other Mod Managers
 
-**Step 4: Set Load Order**
-1. In Vortex → Mods → Manage Rules
-2. Set "My Configs" to load after the mods it's overriding
-3. Click Deploy
+If you're not using Vortex, you can create patches as if they were mods (without a manifest) and add them into your mod manager normally:
 
-### Creating Patches and Local Mods
+> 1. **Create your patch folder structure** - The folder structure must exactly match what is in your mods folder. For example, if you are patching `ModName/[CP] ModName/content.json`, that is the folder structure you would need to create.
+> 2. **Add your files** - Place your modified files in the appropriate folders.
+> 3. **Add to your mod manager** - Add the patch folder to your mod manager as you would any other mod. Since patches don't require manifests, they can be added directly.
+> 4. **Ensure proper load order** - Configure your mod manager's load order settings to ensure the patch loads **AFTER** the mod it's patching.
 
-The same process can be used to create persistent patches and minor local mods:
-
-1. **Create your patch or configuration folder** - The folder structure must exactly match what is in your mods folder. So if you are patching `ModName/[CP] ModName/content.json`, that is the folder structure you would need to create.
-2. **Add your files** - A patch may contain multiple top level folders if you do not include manifests.
-3. **Add to Vortex** - You may add these folders using the Add Custom Mod Button in Vortex or compress the top level folder as a ZIP file and add it as if it was a mod into your mod manager. Make sure that any load order management (like Manage Rules) will load this **AFTER** the actual mod.
-
-Your customizations will persist this way. If this is done in Vortex, it is recommended you include this custom mod in your private collection.
+Your customizations will persist this way and won't be overwritten during collection updates.
 
 ---
 

@@ -95,7 +95,8 @@ For detailed updating instructions, see our [**Updating Collections**](../../Get
 
 **Quick Summary:**
 - Collections will show an **Update** button when an update is available
-- If using the update button, always select **Remove All** when prompted
+- The best method is to create a new profile by visiting the collection on Nexus and clicking **Add Collection**. 
+- If using the update button instead (not recommended method) select **Remove All** when prompted
 - Do **not** update individual mods
 
 ---
