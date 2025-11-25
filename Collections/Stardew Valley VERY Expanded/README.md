@@ -11,49 +11,17 @@ tags: [svVe, collection, Stardew Valley Expanded, mods, NPCs]
 
 ---
 
-Stardew Valley VERY Expanded (svVe) is a curated mod collection that extends Stardew Valley far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
+For complete documentation, installation guides, troubleshooting, and all resources for Stardew Valley VERY Expanded, please visit:
+
+## 📚 [Full Documentation on GitBook](https://jenna-juffuffles.gitbook.io/svve/)
+
+The GitBook site contains:
+- Complete installation guides for all mod managers
+- Troubleshooting & FAQ
+- Overview and feature details
+- Translation information
+- Keybinds & controller mappings
+- And much more!
 
 **Download on Nexus:** [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
-
-**Key Features:**
-- Over 90 carefully curated mods
-- 50+ new NPCs to meet and befriend
-- Major expansions including Stardew Valley Expanded, Ridgeside Village, and East Scarp
-- Quality-of-life improvements and interface enhancements
-- Pre-configured settings optimized for the best experience
-
----
-
-## Getting Started
-
-**New to svVe?** Start with the [Overview](overview.md) to learn about the collection and its features.
-
-**Ready to install?** Choose your mod manager:
-- [Vortex Installation Guide](../../Installation/Vortex/installation.md) - Recommended for Windows users
-- [Nexus Mods App Guide](../../Installation/nma.md) - For Linux users or beta testers
-- [Manual Installation Guide](../../Installation/manual.md) - For advanced users
-
----
-
-## Resources
-
-- [Overview](overview.md) - Learn about the collection and its features
-- [Translations](translations.md) - Available language packs
-- [Keybinds & Controllers](keybinds-controllers.md) - Common keybinds and controller mappings
-- [FAQ & Troubleshooting](faq.md) - Frequently asked questions and troubleshooting
-
-## Quick Links
-
-- [Combining Collections](../combining-collections.md) - How to combine svVe with other collections
-- [Troubleshooting & FAQ](../../Guides/troubleshooting.md)
-
----
-
-## See Also
-
-- [Mod Managers Overview](../../Installation/index.md) - Choose your installation method
-- [General Troubleshooting & FAQ](../../Guides/troubleshooting.md) - For installation and general issues
-- [Updating Collections](../../Guides/updating-collections.md) - How to keep svVe up to date
-- [Combining Collections](../combining-collections.md) - Using svVe with Aesthetic Valley collections
-- [Personalization Guide](../../Guides/personalization.md) - Customizing your svVe experience
 
