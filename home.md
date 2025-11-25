@@ -35,8 +35,9 @@ Choose your installation method based on your needs:
 
 **Quick Steps:**
 1. [Install Vortex](Installation/Vortex/installation.md#setup-vortex-for-pc-users)
-2. [Install the collection](Installation/Vortex/installation.md#install-the-collection) via the "Add Collection" button
-3. Launch and play!
+2. On the Mods panel, click Open > Game Mods Folder and remove any files or folders.
+3. [Install the collection](Installation/Vortex/installation.md#install-the-collection) via the "Add Collection" button
+4. Launch and play!
 
 **Installation Types:**
 - **One-click** (Nexus Premium) - Fully automated installation
