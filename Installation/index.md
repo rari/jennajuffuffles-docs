@@ -16,10 +16,10 @@ Choose the mod manager that works best for your system and preferences.
 ## Platform Support
 
 ### Windows
-✅ **Full support** - All mod managers available. Vortex is recommended for easiest collection installation.
+**Full support** - All mod managers available. Vortex is recommended for easiest collection installation.
 
 ### Linux
-✅ **Supported** - Multiple options available:
+**Supported** - Multiple options available:
 - **Manual Installation** - Always available. See [Manual Installation Guide](manual.md)
 - **Stardrop** - Native Linux support. Excellent for individual mods, but requires installing collections via Manual first, then migrating. See [Stardrop Guide](stardrop.md)
 - **Nexus Mods App** (beta) - Native Linux support planned/available, but currently in beta with known issues. See [NMA Guide](nma.md)

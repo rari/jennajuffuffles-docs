@@ -30,7 +30,7 @@ Before you begin, ensure you have:
 
 Choose your installation method based on your needs:
 
-### 🚀 Recommended: Vortex (Windows)
+### Recommended: Vortex (Windows)
 **Best for:** Most users, especially Windows users with Nexus Premium
 
 **Quick Steps:**
@@ -46,7 +46,7 @@ Choose your installation method based on your needs:
 
 ---
 
-### 🧪 Beta Option: Nexus Mods App
+### Beta Option: Nexus Mods App
 **Note:** Nexus Mods App is currently in beta and may be less stable than Vortex. While it supports collections, Vortex is still recommended for the most reliable experience. 
 In the future, this should be an option for Mac users as well!
 
@@ -59,7 +59,7 @@ In the future, this should be an option for Mac users as well!
 
 ---
 
-### 🎮 Alternative Options
+### Alternative Options
 
 **Stardrop** - Great for individual mods, but requires installing collections through Vortex first, then migrating. [Learn more](Installation/stardrop.md)
 
