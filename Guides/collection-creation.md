@@ -5,7 +5,7 @@
 
 This guide will help you create your own mod collections for Stardew Valley! Whether you want to build a collection from scratch, share your custom setup with friends, or create a companion collection that works alongside existing collections, this guide covers everything you need to know.
 
-> **Important:** This guide is for creating your own original collections, not for copying or repackaging existing collections. Collections include curated configurations and sometimes custom patches that belong to the original curator. Instead, consider creating a companion collection that adds to or works alongside existing collections.
+> **Important:** This guide is for creating your own original collections, not for copying or repackaging existing collections. Collections include curated configurations and sometimes custom patches that belong to the original curator or others.
 
 ---
 
@@ -74,6 +74,18 @@ Building a collection from the ground up:
 2. Click **Create a Collection > Empty**.
 3. Name your new collection.
 4. Add mods manually, set metadata, and configure load order and dependencies.
+
+### Important: Ensuring Mods Have Source Information
+
+When building your collection, you may notice that some mods display an error ⚠️ in Vortex. Mods that have been added to Vortex, particularly those installed manually or from uncompressed folders, may not have sufficient source information in Vortex to upload as part of a collection.
+
+**To ensure mods can be included in your collection:**
+
+- **Download mods through Vortex** using the mod manager button (if available) when browsing Nexus Mods
+- **Add ZIP files directly** from the manual download button on Nexus Mods
+- **Avoid using uncompressed or repackaged folders** - these lack the hash data necessary for Vortex to link that mod back to its original source
+
+If a mod shows an error ⚠️, you'll need to remove it from your profile, download it properly through Vortex or as a ZIP from Nexus Mods, and reinstall it before including it in your collection.
 
 ---
 
