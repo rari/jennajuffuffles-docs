@@ -13,9 +13,9 @@ tags: [keybinds, controllers, reference, controls, GMCM]
 
 ## Overview
 
-This page lists keybinds used in Stardew Valley VERY Expanded. All keybinds can be customized via **Generic Mod Config Menu (GMCM)** from the title screen. Simply press the GMCM key (default: `Numpad -`) or access it from the Settings menu to adjust any mod's keybinds to your preference.
+This page lists keybinds included in Stardew Valley VERY Expanded. All keybinds can be customized via **Generic Mod Config Menu (GMCM)** from the title screen. Simply press the GMCM key (default: `Numpad -`) or access it from the Settings menu to adjust any mod's keybinds to your preference.
 
-**For Controller Users:** Many mods include controller support with default mappings listed below. You can customize controller buttons through each mod's GMCM settings.
+**For Controller Users:** Many mods include controller support with default mappings listed below. You can customize controller buttons through each mod's GMCM settings. There may be additional support coming in the future for controllers as well. 
 
 ---
 

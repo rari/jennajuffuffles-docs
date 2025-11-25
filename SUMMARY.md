@@ -20,7 +20,6 @@
 ## Collections
 * [Combining Collections](Collections/combining-collections.md)
 * [Stardew Valley VERY Expanded](Collections/Stardew%20Valley%20VERY%20Expanded/README.md)
-  * [Overview](Collections/Stardew%20Valley%20VERY%20Expanded/overview.md)
   * [Translations](Collections/Stardew%20Valley%20VERY%20Expanded/translations.md)
   * [Keybinds & Controllers](Collections/Stardew%20Valley%20VERY%20Expanded/keybinds-controllers.md)
   * [FAQ & Troubleshooting](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md)
