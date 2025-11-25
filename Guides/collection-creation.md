@@ -1,13 +1,27 @@
 # How to Create A Collection
 
-> 📂 Docs / Guides / How to Create A Collection
-
 *Last updated:* 2025-10-31  
-*Applies to Stardew Valley:* **1.6.15+**
+*Applies to Stardew Valley:* 1.6.15+
 
 This guide will help you create your own mod collections for Stardew Valley! Whether you want to build a collection from scratch, share your custom setup with friends, or create a companion collection that works alongside existing collections, this guide covers everything you need to know.
 
 > **Important:** This guide is for creating your own original collections, not for copying or repackaging existing collections. Collections include curated configurations and sometimes custom patches that belong to the original curator. Instead, consider creating a companion collection that adds to or works alongside existing collections.
+
+---
+
+## Table of Contents
+
+- [What is a Collection?](#what-is-a-collection)
+- [Companion Collections](#companion-collections)
+- [Best Practices for Curators](#best-practices-for-curators)
+- [Creating a Collection](#creating-a-collection)
+- [Required Metadata and Considerations](#required-metadata-and-considerations)
+- [Collection Visibility](#collection-visibility)
+- [Installation and Version Control in Collections](#installation-and-version-control-in-collections)
+- [Version Policy](#version-policy-which-mod-version-to-use)
+- [Install Option](#install-option-how-the-mod-is-applied)
+- [Using "Open in File Manager" and "Unpack As-Is"](#using-open-in-file-manager-and-unpack-as-is)
+- [Binary Patching](#binary-patching-and-why-not-to-mix-it)
 
 ---
 
@@ -48,7 +62,7 @@ If you already have a modded setup you love and want to share:
 1. Launch **Vortex** and load the game profile you want to package.
 2. Resolve any conflicts and confirm everything is stable.
 3. Open the **Collections** menu.
-4. In the **Workshop** tab, select **Create a Collection → From Profile**.
+4. In the **Workshop** tab, select **Create a Collection > From Profile**.
 5. Vortex will generate a collection based on your profile. Rename and edit as needed.
 6. Open the **Edit** interface to fine-tune mod inclusion, metadata, and structure.
 
@@ -56,8 +70,8 @@ If you already have a modded setup you love and want to share:
 
 Building a collection from the ground up:
 
-1. Navigate to **Collections → Workshop**.
-2. Click **Create a Collection → Empty**.
+1. Navigate to **Collections > Workshop**.
+2. Click **Create a Collection > Empty**.
 3. Name your new collection.
 4. Add mods manually, set metadata, and configure load order and dependencies.
 
@@ -160,7 +174,7 @@ During installation, Vortex matches those hashes in the user's downloaded mod ar
 
 ### Unpack As-Is
 
-If a mod archive contains nested folders or an unusual structure, you can install it with **Unpack As-Is** (right-click the mod → *Install As-Is*).
+If a mod archive contains nested folders or an unusual structure, you can install it with **Unpack As-Is** (right-click the mod > *Install As-Is*).
 This bypasses Vortex's automatic directory detection and extracts the archive exactly as stored.
 Curators often use this to:
 
@@ -203,6 +217,16 @@ Use only one of the following per file:
 ---
 
 ### Further Reading
+
+---
+
+## See Also
+
+- [Vortex Installation Guide](../Installation/Vortex/installation.md) - For installing collections
+- [Vortex Troubleshooting](../Installation/Vortex/troubleshooting.md) - For collection management issues
+- [Combining Collections](../Collections/combining-collections.md) - How collections work together
+- [Personalization Guide](personalization.md) - For custom configurations
+- [Updating Collections](updating-collections.md) - How to maintain your collection
 
 * [Nexus Mods Guidelines for Collections](https://help.nexusmods.com/article/115-guidelines-for-collections)
 * [Modding Wiki: How to Install Collections](https://modding.wiki/en/nexusmods/collections/how-to-install)

@@ -1,13 +1,37 @@
+---
+description: Gameplay FAQ and troubleshooting for Stardew Valley VERY Expanded. Covers Community Center cutscenes, Rusty Key, minecart issues, crafting problems, duplicated NPCs, and performance.
+keywords: svVe FAQ, Stardew Valley VERY Expanded, gameplay issues, Community Center, Rusty Key, Sewer Key, minecart, Better Crafting, crafting menu, duplicate NPCs, expansion NPCs, NPC schedules, East Scarp festivals
+tags: [svVe, FAQ, gameplay, troubleshooting, Stardew Valley Expanded]
+---
+
 # FAQ & Troubleshooting — Stardew Valley VERY Expanded
 
-> 📂 Docs / Collections / svVe / FAQ
-
 *Last updated:* 2025-10-31  
-*Applies to Stardew Valley:* **1.6.15+**
+*Applies to Stardew Valley:* 1.6.15+
+
+---
+
+## Table of Contents
+
+- [Community Center cutscene won't trigger](#community-center-cutscene-wont-trigger)
+- [Rusty/Sewer Key changes in SVE](#rustysewer-key-changes-in-sve)
+- [Minecart blocks the mine entrance](#minecart-blocks-the-mine-entrance)
+- [Can't craft or cook items despite having ingredients](#cant-craft-or-cook-items-despite-having-ingredients)
+- [Missing recipes in crafting menu](#missing-recipes-in-crafting-menu-such-as-chest)
+- [Duplicated NPCs](#duplicated-npcs)
+- [Expansion NPCs not leaving house on first day](#expansion-npcs-not-leaving-house-on-first-day)
+- [East Scarp NPCs not attending festivals](#east-scarp-npcs-not-attending-festivals)
+- [Very slow load or crash on first load](#very-slow-load-or-crash-on-first-load)
 
 ---
 
 ## Community Center cutscene won't trigger
+
+**Symptom:** Community Center cutscene won't trigger
+
+**Cause:** Specific requirements must be met for the cutscene to trigger
+
+**Solution:** The Community Center cutscene has specific requirements that must be met:
 > The Community Center cutscene has specific requirements that must be met:
 > - Enter Pelican Town from the Bus Stop (not from another direction)
 > - Must be Spring 5 or later in Year 1
@@ -97,6 +121,11 @@
 > - This will create a file that lists all NPCs and their internal names
 > - Look for the duplicated NPC in the list
 
+## Expansion NPCs not leaving house on first day
+> When an expansion mod is added to an existing save, NPCs from that expansion may not leave their house on the first day. This is a known issue where the NPC's schedule may not load properly until after the player has slept once.
+> 
+> **Solution:** Simply sleep through the first night after adding the expansion. The NPCs' schedules should load correctly on the second day, and they will begin following their normal routines.
+
 ## East Scarp NPCs not attending festivals
 > This is expected behavior and not a bug. Some East Scarp expansion NPCs in particualr require you to have at least 4 hearts of friendship with them before they will attend festivals. 
 > 
@@ -111,6 +140,15 @@
 > 
 > **Important:** During the loading process, avoid clicking, pressing keys, or alt-tabbing away from the game. Interacting with the game during loading can cause crashes or freezes. Just let it load - you'll see progress in the SMAPI console window. The game will be ready when the console stops showing loading messages.
 > 
-> If the game consistently crashes during loading (not just slow loading), check your SMAPI log for errors and see our troubleshooting guide.
+> If the game consistently crashes during loading (not just slow loading), check your SMAPI log for errors and see the troubleshooting guide.
 >
 > Disabling Dynamic Reflections may be a solution for users with limited memory.
+
+---
+
+## See Also
+
+- [General Troubleshooting & FAQ](../../Guides/troubleshooting.md) - For installation and mod manager issues
+- [svVe Overview](overview.md) - Collection overview and features
+- [Keybinds & Controllers](keybinds-controllers.md) - Control customization
+- [Combining Collections](../combining-collections.md) - If using svVe with other collections

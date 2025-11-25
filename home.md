@@ -1,9 +1,75 @@
+---
+description: Welcome to Stardew Valley VERY Expanded documentation. Quick start guide for installing mod collections, choosing mod managers, and getting help.
+keywords: Stardew Valley mods, mod collection installation, Vortex, Nexus Mods App, Stardrop, Stardew Valley VERY Expanded, Aesthetic Valley, mod manager guide, quick start
+tags: [home, getting started, installation, mod managers, collections]
+---
+
 # Home
 
-> 📂 Docs / Home
-
 *Last updated:* 2025-10-31  
-*Applies to Stardew Valley:* **1.6.15+**
+*Applies to Stardew Valley:* 1.6.15+
+
+---
+
+Welcome to Stardew Valley VERY Expanded! This section contains everything you need to get started with your expanded Stardew Valley experience.
+
+---
+
+## Prerequisites
+
+Before you begin, ensure you have:
+
+1. **Stardew Valley** installed (Steam, GOG, or Game Pass)
+2. **Latest game version** - Check [Version History](https://stardewvalleywiki.com/Version_History)
+3. **Verified game files** - Run integrity check for your platform
+4. **Run the game once** - Complete initial setup
+
+---
+
+## Quick Start Guide
+
+Choose your installation method based on your needs:
+
+### 🚀 Recommended: Vortex (Windows)
+**Best for:** Most users, especially Windows users with Nexus Premium
+
+**Quick Steps:**
+1. [Install Vortex](Installation/Vortex/installation.md#setup-vortex-for-pc-users)
+2. [Install the collection](Installation/Vortex/installation.md#install-the-collection) via the "Add Collection" button
+3. Launch and play!
+
+**Installation Types:**
+- **One-click** (Nexus Premium) - Fully automated installation
+- **Guided** (Free) - Step-by-step prompts with manual downloads
+
+[> Full Vortex Installation Guide](Installation/Vortex/installation.md)
+
+---
+
+### 🧪 Beta Option: Nexus Mods App
+**Note:** Nexus Mods App is currently in beta and may be less stable than Vortex. While it supports collections, Vortex is still recommended for the most reliable experience. 
+In the future, this should be an option for Mac users as well!
+
+**Quick Steps:**
+1. [Install Nexus Mods App](Installation/nma.md#installation-guide)
+2. Add collection from Nexus Mods
+3. Download and install mods through the app
+
+[> Full NMA Installation Guide](Installation/nma.md)
+
+---
+
+### 🎮 Alternative Options
+
+**Stardrop** - Great for individual mods, but requires installing collections through Vortex first, then migrating. [Learn more](Installation/stardrop.md)
+
+**Manual Installation** - For users who can't use mod managers. Requires manually applying configuration files. [Learn more](Installation/manual.md) *(Not recommended)*
+
+---
+
+**Need help choosing?** See the [Mod Managers Overview](Installation/index.md) for detailed comparisons.
+
+All mods are pre-configured to work together, and settings are optimized for the best experience out-of-the-box.
 
 ---
 
@@ -26,18 +92,16 @@ Aesthetic Valley collections provide visual themes for Stardew Valley. These col
 - **Download on Nexus:** [Aesthetic Valley | Fairycore](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j) - A magical, woodsy fairy aesthetic with pastel colors
 - **Download on Nexus:** [Aesthetic Valley | Witchcore](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi) - A cozy, witchy cottagecore experience with warm autumnal colors
 
-**Learn more:** [Overview](Collections/Aesthetic%20Valley/overview.md)
+**Learn more:** [Aesthetic Valley Collections](Collections/aesthetic-valley.md)
 
 > You can use both together. When combining any Aesthetic Valley collection with svVe, you can always install svVe optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Combining Collections](Collections/combining-collections.md)
 
 ---
 
-### Oops! All Portraits: Nyapu
-Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular NPC expansions. This collection does not include expansions; it's intended to be added to an existing loadout that already has them installed. Works right out of the box with no manual replacements required, and you can enable or disable portrait packs depending on which expansions you use.
+## After Installation
 
-> **⚠️ Note:** This collection is currently in testing.
-**Download on Nexus:** [Oops! All Portraits: Nyapu](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)  
-**Learn more:** [Overview](Collections/Oops!%20All%20Portraits%20-%20Nyapu/overview.md)
+- [Updating Collections](Guides/updating-collections.md) - Learn how to keep your collection up to date safely and efficiently
+- [Combining Collections](Collections/combining-collections.md) - Want to use multiple collections together? Learn how to combine them properly
 
 ---
 
@@ -47,15 +111,14 @@ Use this table to find the most relevant troubleshooting or FAQ page for your is
 
 | Issue Type | Resource | Description |
 |------------|----------|-------------|
-| **General Questions** | [FAQ & Known Issues](Getting%20Started/faq-known-issues.md) | General questions about collections, installation, updates, and common issues across all collections |
-| **Troubleshooting Guide** | [Troubleshooting Guide](Guides/troubleshooting.md) | Comprehensive troubleshooting resources and guides |
+| **General Questions** | [Troubleshooting & FAQ](Guides/troubleshooting.md) | General questions about collections, installation, updates, and common issues across all collections |
 | **Vortex Issues** | [Vortex FAQ & Troubleshooting](Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
 | **svVe Gameplay** | [svVe FAQ & Troubleshooting](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
-| **NMA Issues** | [NMA FAQ](Installation/NMA/faq.md) | Questions and troubleshooting for Nexus Mods App |
-| **Stardrop Issues** | [Stardrop FAQ](Installation/Stardrop/faq.md) | Questions and troubleshooting for Stardrop mod manager |
-| **Manual Installation** | [Manual FAQ](Installation/Manual/faq.md) | Questions and limitations for manual installation |
+| **NMA Issues** | [NMA Guide](Installation/nma.md) | Questions and troubleshooting for Nexus Mods App |
+| **Stardrop Issues** | [Stardrop Guide](Installation/stardrop.md) | Questions and troubleshooting for Stardrop mod manager |
+| **Manual Installation** | [Manual Guide](Installation/manual.md) | Questions and limitations for manual installation |
 
 **Additional Resources:**
-- **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
+- **Discord Community:** [Join the Discord server](https://discord.gg/MPcgJUXeeY) for real-time help
 - **Nexus Status:** [Check Nexus Mods status](https://nexusmods.statuspage.io/) if you're experiencing download or site issues
 

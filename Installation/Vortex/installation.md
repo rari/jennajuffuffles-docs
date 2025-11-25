@@ -1,11 +1,21 @@
 # Vortex Installation
 
-> 📂 Docs / Installation / Vortex / Installation
-
 *Last updated:* 2025-10-31  
-*Applies to Stardew Valley:* **1.6.15+**
+*Applies to Stardew Valley:* 1.6.15+
 
 > Update the **collection**, never individual mods
+
+---
+
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Setup Vortex for PC Users](#setup-vortex-for-pc-users)
+- [PC Installation via Vortex](#pc-installation-via-vortex)
+- [Steam Deck Installation](#steam-deck-installation)
+- [Mod Configuration](#mod-configuration)
+- [Updating the Collection](#updating-the-collection)
+- [Combining with Aesthetic Valley Collections](#combining-with-aesthetic-valley-collections)
 
 ---
 
@@ -35,7 +45,7 @@ Vortex is the recommended mod manager for svVe.
 
 ### 1. Clear Existing Mods
 1. In Vortex **Mods** tab, click **Purge Mods**.
-2. Click **Open → Game Mods Folder** and delete any leftover files or subfolders.
+2. Click **Open > Game Mods Folder** and delete any leftover files or subfolders.
 
 ### 2. Install the Collection
 1. On the [collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.
@@ -64,13 +74,6 @@ Vortex is the recommended mod manager for svVe.
 
 ---
 
-## Mac Installation
-
-1. Download mods manually from the Collection's *Mods* tab.  
-2. Configuration files are now distributed as FOMOD installers for each collection. All configuration folders can be found in the "files" folder of each collection's FOMOD. Merge the configuration folders into your mods folder (Option + drag to merge).  
-5. Verify mod placement and launch the game.
-
-
 ## Mod Configuration
 
 - Configuration files are automatically installed via FOMOD during collection installation.
@@ -78,7 +81,7 @@ Vortex is the recommended mod manager for svVe.
 - If installing manually, merge configuration files from the "files" folder of the collection's configuration fomod.
 - Adjust in-game via **GMCM** (gear icon on the title screen).
 - For co-op: all players should match configurations.
-- Want to customize further? See our [Personalization & Custom Configurations](../../Guides/personalization.md) guide.
+- Want to customize further? See the [Personalization & Custom Configurations](../../Guides/personalization.md) guide.
 
 ### Reinstalling Configurations
 
@@ -91,7 +94,7 @@ If you need to reinstall configuration files at any time:
 
 ## Updating the Collection
 
-For detailed updating instructions, see our [**Updating Collections**](../../Getting%20Started/updating-collections.md) guide.
+For detailed updating instructions, see the [**Updating Collections**](../../Guides/updating-collections.md) guide.
 
 **Quick Summary:**
 - Collections will show an **Update** button when an update is available
@@ -105,12 +108,12 @@ For detailed updating instructions, see our [**Updating Collections**](../../Get
 
 When combining, always let the **matching recolor or style config load last** in Vortex Rules Manager.
 
-### Witchcore — Disable:
+### Witchcore: Disable
 - Seasonal Vanilla UI  
 - Lumisteria Short Flowery Grass  
 - Immersive Farm 2 Remastered  
 
-### Fairycore — Disable:
+### Fairycore: Disable
 - Seasonal Vanilla UI  
 - Grandpa's Tools  
 - Immersive Farm 2 Remastered  

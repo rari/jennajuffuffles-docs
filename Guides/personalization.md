@@ -1,11 +1,28 @@
+---
+description: Guide to personalizing and customizing Stardew Valley collections. Learn how to add mods, create custom configurations, and maintain personalizations through collection updates.
+keywords: personalization, custom configurations, adding mods, custom patches, private collections, GMCM, mod customization, collection personalization
+tags: [personalization, customization, mods, configuration, patches]
+---
+
 # Personalization & Custom Configurations
 
-> 📂 Docs / Guides / Personalization & Custom Configurations
-
 *Last updated:* 2025-10-31  
-*Applies to Stardew Valley:* **1.6.15+**
+*Applies to Stardew Valley:* 1.6.15+
 
 Want to make your Stardew Valley experience truly your own? This guide will show you how to customize your game with your own settings, additional mods, and personal tweaks - all while keeping your customizations safe through collection updates!
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Backing Up Configuration Files](#backing-up-configuration-files)
+- [Personal Customizations and Patches](#personal-customizations-and-patches)
+- [Adding Additional Mods](#adding-additional-mods)
+- [In-Game Configuration](#in-game-configuration)
+- [Maintaining Personalizations](#maintaining-personalizations)
+- [Troubleshooting Personalizations](#troubleshooting-personalizations)
+- [Tips & Best Practices](#tips--best-practices)
 
 ---
 
@@ -60,7 +77,7 @@ Creating custom patches allows you to modify mod files (configurations, content 
 > 1. **Create your patch folder structure** - The folder structure must exactly match what is in your mods folder. For example, if you are patching `ModName/[CP] ModName/content.json`, that is the folder structure you would need to create.
 > 2. **Add your files** - Place your modified files in the appropriate folders. A patch may contain multiple top level folders if you do not include manifests.
 > 3. **Add to your mod manager** - Compress the top level folder as a ZIP file and add it as if it was a mod or add the folder via the [Add Custom Mod Button](https://www.nexusmods.com/site/mods/863)  button add-on in Vortex
-> 4. **Set load order** - In Vortex → Mods → Manage Rules, set your patch to load **AFTER** the mod it's patching.
+> 4. **Set load order** - In Vortex > Mods > Manage Rules, set your patch to load **AFTER** the mod it's patching.
 > 5. Click **Deploy** to apply your changes.
 
 If this is done in Vortex, it is recommended you include this custom mod in your private collection.
@@ -120,7 +137,7 @@ For creating a collection from scratch:
 
 > **Note:** You can share your collection with friends using the private link without making it public. Keeping personal and friends-only collections private is recommended.
 
-For detailed instructions on creating collections, see our [How to Create A Collection](collection-creation.md) guide.
+For detailed instructions on creating collections, see the [How to Create A Collection](collection-creation.md) guide.
 
 ### Modifying Mods
 
@@ -184,7 +201,7 @@ Don't worry - if you've followed the steps above, your customizations should sur
 2. Verify your custom settings are still active
 3. Test your game before continuing your save
 
-If you encounter any issues, see our [Troubleshooting Guide](troubleshooting.md) for help.
+If you encounter any issues, see the [Troubleshooting Guide](troubleshooting.md) for help.
 
 ## Troubleshooting Personalizations
 
@@ -219,3 +236,12 @@ If something goes wrong after an update:
 - Regular backups of your Mods folder
 - Version control for your custom configs
 - Documentation of your setup process
+
+---
+
+## See Also
+
+- [Troubleshooting & FAQ](troubleshooting.md) - For issues with personalizations
+- [How to Create A Collection](collection-creation.md) - For creating private collections
+- [Updating Collections](updating-collections.md) - How to maintain customizations during updates
+- [Combining Collections](../Collections/combining-collections.md) - For combining multiple collections

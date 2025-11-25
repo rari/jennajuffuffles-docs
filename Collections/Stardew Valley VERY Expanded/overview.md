@@ -1,9 +1,13 @@
+---
+description: Overview of Stardew Valley VERY Expanded (svVe) - a curated mod collection extending Stardew Valley beyond Pelican Town. Learn about features, expansions, NPCs, and installation.
+keywords: Stardew Valley VERY Expanded, svVe, mod collection, Stardew Valley Expanded, SVE, Ridgeside Village, East Scarp, expanded content, new NPCs, overview
+tags: [svVe, collection, overview, Stardew Valley Expanded, mods]
+---
+
 # Stardew Valley VERY Expanded — Overview
 
-> 📂 Docs / Collections / svVe / Overview
-
 *Last updated:* 2025-10-31  
-*Applies to Stardew Valley:* **1.6.15+**
+*Applies to Stardew Valley:* 1.6.15+
 
 ---
 
@@ -11,14 +15,14 @@
 
 Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends this familiar world far beyond Pelican Town while preserving the cozy, vanilla charm of the original game.
 
-svVe is built for multiplayer co-op groups who need matching setups, as well as solo players looking for a rich, polished experience. Installation is straightforward with Vortex, with settings that work out-of-the-box.
+svVe is built for co-op groups who need matching setups, as well as players who want an installation that just works. Installation is straightforward with Vortex, with settings that work out-of-the-box.
 
 **Key Features:**
 - Major expansions like Stardew Valley Expanded, East Scarp, and Ridgeside Village  
 - New friends, quests, festivals, and immersive storylines  
 - A massive farm map, great for co-op play  
 - Optional aesthetic collections to personalize your game's look  
-- Over 90 total mods including major expansions, utilities, visual enhancements, and quality-of-life improvements
+- Over 90 total mods with a focus on major expansions and quality-of-life improvements
 
 It's the easiest way to experience an expanded Stardew Valley without losing what makes the game special.
 
@@ -69,8 +73,8 @@ See the Translations page for available language packs: [Translations](translati
 
 See Installation guides for your preferred mod manager:
 - [Vortex (Recommended)](../../Installation/Vortex/installation.md)
-- [Nexus Mods App](../../Installation/NMA/installation.md)
-- [Manual Installation](../../Installation/Manual/installation.md)
+- [Nexus Mods App](../../Installation/nma.md)
+- [Manual Installation](../../Installation/manual.md)
 
 > Note: Some mods are marked as "Optional" to allow the user to disable them, but it is recommended you install and enable all. Only enable one farm mod.
 
@@ -78,7 +82,7 @@ See Installation guides for your preferred mod manager:
 
 ## Combining with Other Collections
 
-Any Aesthetic Valley collection (Fairycore, Witchcore, or any future Aesthetic Valley collection) can be installed alongside svVe in the same Vortex profile. See [Combining Collections](../combining-collections.md) for detailed instructions.
+Any Aesthetic Valley collection (Fairycore, Witchcore) can be installed alongside svVe in the same Vortex profile. See [Combining Collections](../combining-collections.md) for detailed instructions.
 
 ---
 
@@ -88,14 +92,13 @@ Use this table to find the most relevant troubleshooting or FAQ page for your is
 
 | Issue Type | Resource | Description |
 |------------|----------|-------------|
-| **General Questions** | [FAQ & Known Issues](../../Getting%20Started/faq-known-issues.md) | General questions about collections, installation, updates, and common issues across all collections |
-| **Troubleshooting Guide** | [Troubleshooting Guide](../../Guides/troubleshooting.md) | Comprehensive troubleshooting resources and guides |
+| **General Questions** | [Troubleshooting & FAQ](../../Guides/troubleshooting.md) | General questions about collections, installation, updates, and common issues across all collections |
 | **Vortex Issues** | [Vortex FAQ & Troubleshooting](../../Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
 | **svVe Gameplay** | [svVe FAQ & Troubleshooting](faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
-| **NMA Issues** | [NMA FAQ](../../Installation/NMA/faq.md) | Questions and troubleshooting for Nexus Mods App |
-| **Stardrop Issues** | [Stardrop FAQ](../../Installation/Stardrop/faq.md) | Questions and troubleshooting for Stardrop mod manager |
-| **Manual Installation** | [Manual FAQ](../../Installation/Manual/faq.md) | Questions and limitations for manual installation |
+| **NMA Issues** | [NMA Guide](../../Installation/nma.md) | Questions and troubleshooting for Nexus Mods App |
+| **Stardrop Issues** | [Stardrop Guide](../../Installation/stardrop.md) | Questions and troubleshooting for Stardrop mod manager |
+| **Manual Installation** | [Manual Guide](../../Installation/manual.md) | Questions and limitations for manual installation |
 
 **Additional Resources:**
-- **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
+- **Discord Community:** [Join the Discord server](https://discord.gg/MPcgJUXeeY) for real-time help
 - **Nexus Status:** [Check Nexus Mods status](https://nexusmods.statuspage.io/) if you're experiencing download or site issues

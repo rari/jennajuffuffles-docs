@@ -1,9 +1,13 @@
-# Oops! All Portraits: Nyapu — Overview
-
-> 📂 Docs / Collections / Oops! All Portraits - Nyapu / Overview
+# Oops! All Portraits: Nyapu
 
 *Last updated:* 2025-10-31  
-*Applies to Stardew Valley:* **1.6.15+**
+*Applies to Stardew Valley:* 1.6.15+
+
+---
+
+Oops! All Portraits: Nyapu adds Nyapu-style portraits for a variety of popular NPC expansions. This collection does not include expansions; it's intended to be added to an existing loadout that already has them installed.
+
+**Download on Nexus:** [Oops! All Portraits: Nyapu](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)
 
 ---
 
@@ -21,11 +25,10 @@ If you don't use expansions, you can safely disable everything **not labeled "SD
 
 All included packs are configured to **work right out of the box**, with no manual replacements or edits required.
 
-**Download on Nexus:** [Oops! All Portraits: Nyapu](https://www.nexusmods.com/games/stardewvalley/collections/buw51z)
-
 ---
 
 ## Enabling Portrait Groupings
+
 Groupings as displayed below should stay **enabled together** in your mod manager. Please note that files are not currently renamed in the Nexus Mods App, so the file names may not exactly match the list shown here.
 
 ### 1. Stardew Valley
@@ -72,15 +75,16 @@ Access Generic Mod Config Menu (GMCM) from the Title Menu ⚙️ or the bottom o
 ## Installation
 
 See Installation guides for your preferred mod manager:
-- [Vortex (Recommended)](../../Installation/Vortex/installation.md)
-- [Nexus Mods App](../../Installation/NMA/installation.md)
-- [Manual Installation](../../Installation/Manual/installation.md)
+- [Vortex (Recommended)](../Installation/Vortex/installation.md)
+- [Nexus Mods App](../Installation/nma.md)
+- [Manual Installation](../Installation/manual.md)
 
 > Note: Links to all supported expansions are provided above. Enable only the ones that match your current setup!
 
 ---
 
 ## Supported Mods
+
 This is a list of supported expansions. They are not included as part of the collection, and may have their own requirements. 
 
 ### Main Expansions
@@ -126,15 +130,14 @@ Use this table to find the most relevant troubleshooting or FAQ page for your is
 
 | Issue Type | Resource | Description |
 |------------|----------|-------------|
-| **General Questions** | [FAQ & Known Issues](../../Getting%20Started/faq-known-issues.md) | General questions about collections, installation, updates, and common issues across all collections |
-| **Troubleshooting Guide** | [Troubleshooting Guide](../../Guides/troubleshooting.md) | Comprehensive troubleshooting resources and guides |
-| **Vortex Issues** | [Vortex FAQ & Troubleshooting](../../Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
-| **svVe Gameplay** | [svVe FAQ & Troubleshooting](../Stardew%20Valley%20VERY%20Expanded/faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
-| **NMA Issues** | [NMA FAQ](../../Installation/NMA/faq.md) | Questions and troubleshooting for Nexus Mods App |
-| **Stardrop Issues** | [Stardrop FAQ](../../Installation/Stardrop/faq.md) | Questions and troubleshooting for Stardrop mod manager |
-| **Manual Installation** | [Manual FAQ](../../Installation/Manual/faq.md) | Questions and limitations for manual installation |
+| **General Questions** | [Troubleshooting & FAQ](../Guides/troubleshooting.md) | General questions about collections, installation, updates, and common issues across all collections |
+| **Vortex Issues** | [Vortex FAQ & Troubleshooting](../Installation/Vortex/troubleshooting.md) | Vortex-specific questions, installation problems, profile issues, and mod deployment errors |
+| **svVe Gameplay** | [svVe FAQ & Troubleshooting](Stardew%20Valley%20VERY%20Expanded/faq.md) | Gameplay questions and issues specific to Stardew Valley VERY Expanded (community center, minecart, crafting, etc.) |
+| **NMA Issues** | [NMA FAQ](../Installation/nma.md) | Questions and troubleshooting for Nexus Mods App |
+| **Stardrop Issues** | [Stardrop FAQ](../Installation/stardrop.md) | Questions and troubleshooting for Stardrop mod manager |
+| **Manual Installation** | [Manual FAQ](../Installation/manual.md) | Questions and limitations for manual installation |
 
 **Additional Resources:**
-- **Discord Community:** [Join our server](https://discord.gg/MPcgJUXeeY) for real-time help
+- **Discord Community:** [Join the Discord server](https://discord.gg/MPcgJUXeeY) for real-time help
 - **Nexus Status:** [Check Nexus Mods status](https://nexusmods.statuspage.io/) if you're experiencing download or site issues
 

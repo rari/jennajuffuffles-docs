@@ -1,9 +1,7 @@
 # Updating Collections in Vortex
 
-> 📂 Docs / Installation / Vortex / Updating
-
 *Last updated:* 2025-10-31  
-*Applies to Stardew Valley:* **1.6.15+**
+*Applies to Stardew Valley:* 1.6.15+
 
 When a new update is available for your collection, updating ensures you get the latest bug fixes, new features, and compatibility improvements.
 
@@ -64,5 +62,5 @@ Once your update is complete, just do a quick check:
 - Verify any custom configurations you had are still active
 - Launch the game and enjoy!
 
-If you run into any issues after updating, check our [Troubleshooting Guide](troubleshooting.md) for help. You can also reach out on our [Discord Server](https://discord.gg/MPcgJUXeeY) - our community is always happy to help!
+If you run into any issues after updating, check the [Troubleshooting Guide](troubleshooting.md) for help. You can also reach out on the [Discord Server](https://discord.gg/MPcgJUXeeY) - the community is always happy to help!
 
