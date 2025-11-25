@@ -10,3 +10,7 @@ REWRITE/
 # Revision checklist and improvements (internal reference only)
 REWRITE/REVISION_CHECKLIST.md
 REWRITE/IMPROVEMENTS_RECOMMENDATIONS.md
+
+# Editor swap files
+*.swp
+*~
