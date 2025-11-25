@@ -6,7 +6,7 @@ tags: [combining collections, conflicts, optional mods, compatibility]
 
 # Combining Collections
 
-*Last updated:* 2025-10-31  
+*Last updated:* 2025-11-25  
 *Applies to Stardew Valley:* 1.6.15+
 
 > Warning: If your mine entrance is missing, enable "Original Mine Entrance" in GMCM under Stardew Valley Expanded.

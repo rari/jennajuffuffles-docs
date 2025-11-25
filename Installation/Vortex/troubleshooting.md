@@ -6,7 +6,7 @@ tags: [Vortex, troubleshooting, errors, installation, mod manager]
 
 # Vortex — FAQ & Troubleshooting
 
-*Last updated:* 2025-10-31  
+*Last updated:* 2025-11-25  
 *Applies to Stardew Valley:* 1.6.15+
 
 This page covers frequently asked questions and troubleshooting for Vortex-related setup issues with the collections.
@@ -62,7 +62,7 @@ Do not run two mod managers on the same game simultaneously. You may corrupt ins
 For best results, it's recommended to install both Stardew Valley and Vortex on `C:\`. This helps avoid potential issues with symbolic links and deployment.
 
 ### Best practices for combining collections
-Install to the same profile. Let the chosen recolor/theme config load last in Rules Manager. See Combining Collections: [Combining Collections](../../Collections/combining-collections.md)
+Install to the same profile. Let the chosen recolor/theme config load last in Rules Manager. See [Combining Collections](../../Collections/combining-collections.md)
 
 ---
 

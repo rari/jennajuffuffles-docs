@@ -6,7 +6,7 @@ tags: [svVe, FAQ, gameplay, troubleshooting, Stardew Valley Expanded]
 
 # FAQ & Troubleshooting — Stardew Valley VERY Expanded
 
-*Last updated:* 2025-10-31  
+*Last updated:* 2025-11-25  
 *Applies to Stardew Valley:* 1.6.15+
 
 ---

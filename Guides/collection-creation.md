@@ -1,6 +1,6 @@
 # How to Create A Collection
 
-*Last updated:* 2025-10-31  
+*Last updated:* 2025-11-25  
 *Applies to Stardew Valley:* 1.6.15+
 
 This guide will help you create your own mod collections for Stardew Valley! Whether you want to build a collection from scratch, share your custom setup with friends, or create a companion collection that works alongside existing collections, this guide covers everything you need to know.

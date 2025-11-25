@@ -6,7 +6,7 @@ tags: [mod managers, installation, Vortex, NMA, Stardrop, platform support]
 
 # Mod Managers
 
-*Last updated:* 2025-10-31  
+*Last updated:* 2025-11-25  
 *Applies to Stardew Valley:* 1.6.15+
 
 Choose the mod manager that works best for your system and preferences.

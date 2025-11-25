@@ -6,7 +6,7 @@ tags: [personalization, customization, mods, configuration, patches]
 
 # Personalization & Custom Configurations
 
-*Last updated:* 2025-10-31  
+*Last updated:* 2025-11-25  
 *Applies to Stardew Valley:* 1.6.15+
 
 Want to make your Stardew Valley experience truly your own? This guide will show you how to customize your game with your own settings, additional mods, and personal tweaks - all while keeping your customizations safe through collection updates!
