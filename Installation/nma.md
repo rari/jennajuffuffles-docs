@@ -22,7 +22,11 @@ Nexus Mods App is a beta, multi-platform mod manager with Collections support.
 
 ## ⚠️ Important Warnings
 
-> **⚠️ BETA SOFTWARE:** Nexus Mods App is currently in beta and may not be stable. Use at your own discretion. Vortex is recommended for the most reliable experience.
+### Beta Software
+> Nexus Mods App is currently in beta and may not be stable. Use at your own discretion. Vortex is recommended for the most reliable experience.
+
+### Mod Folder Clearing
+> When installing or uninstalling NMA, the Mods folder may be cleared. Be sure to back up any existing folders outside of your Mods folder before making changes to your NMA installation.
 
 ---
 
@@ -30,9 +34,6 @@ Nexus Mods App is a beta, multi-platform mod manager with Collections support.
 
 ### Mod Installation Bug
 > There is a current bug where some mods are not installed into the Mod folder. NMA does not handle conflict files properly and may install mods into the Stardew Valley game folder rather than the Mods folder. This has been reported to the NMA team. 
-
-### Mod Folder Clearing
-> When installing or uninstalling NMA, the Mods folder may be cleared. Be sure to back up any existing folders outside of your Mods folder before making changes to your NMA installation.
 
 ### Game Executable Replacement
 > If uninstalling NMA, be sure you verify your game files to restore Stardew Valley.exe. NMA replaces the game executable with SMAPI, so verification is necessary to restore the original game files.
