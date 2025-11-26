@@ -51,8 +51,7 @@ Vortex is the recommended mod manager for svVe.
 1. On the [collection page](https://next.nexusmods.com/stardewvalley/collections/tckf0m), click **Add Collection**.
 2. Install into a **New Profile**.  
    > Nexus Premium users get auto-downloads. Free users follow manual prompts.
-3. Configuration files will be automatically installed via FOMOD during collection installation.
-4. Select **Install Optional Mods** when asked.
+3. Select **Install Optional Mods** when asked.
 
 > **Important:** Always use Optional Mods unless you're combining collections. When combining svVe with any Aesthetic Valley collection, install optional mods from svVe (always safe), but only install optional mods from **one** Aesthetic Valley collection and **one** farm to avoid conflicts. See: [Combining Collections](../../Collections/combining-collections.md)
 
@@ -78,19 +77,12 @@ Vortex is the recommended mod manager for svVe.
 
 ## Mod Configuration
 
-- Configuration files are automatically installed via FOMOD during collection installation.
+- Configuration files are provided with the collection.
 - Vortex auto-deploys the recommended settings.
-- If installing manually, merge configuration files from the "files" folder of the collection's configuration fomod.
+- If installing manually, copy configuration files from the collection's provided files.
 - Adjust in-game via **GMCM** (gear icon on the title screen).
 - For co-op: all players should match configurations.
 - Want to customize further? See the [Personalization & Custom Configurations](../../Guides/personalization.md) guide.
-
-### Reinstalling Configurations
-
-If you need to reinstall configuration files at any time:
-1. In Vortex, right-click on the collection's FOMOD file
-2. Select **"Reinstall"** from the context menu
-3. This will provide a fresh installation of all configuration files
 
 ---
 
