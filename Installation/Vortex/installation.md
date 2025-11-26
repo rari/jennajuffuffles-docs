@@ -66,7 +66,7 @@ Vortex is the recommended mod manager for svVe.
 
 ## Steam Deck Installation
 
-1. Install Stardew Valley via Steam in **Desktop Mode**. Verify integrity.
+1. Install Stardew Valley via Steam in **Desktop Mode**. Run once to verify integrity.
 2. Transfer your modded game files from PC to Deck via USB or network.
 3. Install SMAPI for your game version: [Guide](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Steam_Deck).
 4. Add SMAPI as a Non-Steam Game in Steam and configure it for the correct compatibility mode.
