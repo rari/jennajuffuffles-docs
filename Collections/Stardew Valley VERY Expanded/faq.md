@@ -99,7 +99,8 @@ tags: [svVe, FAQ, gameplay, troubleshooting, Stardew Valley Expanded]
 > 1. Download the tool: [Reset Terrain Features (NET 6)](https://github.com/Lake1059/ResetTerrainFeatures_NET6/releases)
 > 2. In Vortex, temporarily disable **To-Dew**
 > 3. Drag the reset tool `.zip` into the Vortex mods drop zone and enable it
-> 4. In-game, go to your farm and press **L** to activate the reset
+> 4. In-game, open the **mod settings** (GMCM or in-game mod options) and **enable farm editing** for the reset tool
+> 5. Go to your farm and press **L** to activate the reset
 > 
 > Notes:
 > - The Greenhouse can be moved at Robin's but may remain unmovable until it is fully restored.
