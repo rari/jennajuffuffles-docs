@@ -49,6 +49,19 @@ Before creating your collection, keep these principles in mind:
 * When using mods from external sources, prioritize mods with stable, long-term availability - avoid linking to mods that may be removed or become unavailable.
 * Curators are responsible for supporting users of their collection, not individual mod authors.
 
+### Ensure Mods Have Source Information
+
+When building your collection, you may notice that some mods display an error ⚠️ in Vortex. Mods that have been added to Vortex, particularly those installed manually or from uncompressed folders, may not have sufficient source information in Vortex to upload as part of a collection.
+
+**To ensure mods can be included in your collection:**
+
+- **Download mods** using the mod manager button (if available) when browsing Nexus Mods
+- **Add ZIP files directly** after downloading with the manual download button on Nexus Mods
+- **Supply accurate source information** for user-generated resources or mods downloaded from sources outside Nexus
+- **Avoid adding uncompressed or repackaged folders** - while this practice is totally fine for solo play, these lack the hash data necessary for Vortex to link that mod back to its original source for download by others!
+
+If a mod shows an error ⚠️, you'll need to remove it from your profile, download it properly through Vortex or as a ZIP from Nexus Mods, and reinstall it before including it in your collection.
+
 ---
 
 ## Creating a Collection
@@ -74,18 +87,6 @@ Building a collection from the ground up:
 2. Click **Create a Collection > Empty**.
 3. Name your new collection.
 4. Add mods manually, set metadata, and configure load order and dependencies.
-
-### Important: Ensuring Mods Have Source Information
-
-When building your collection, you may notice that some mods display an error ⚠️ in Vortex. Mods that have been added to Vortex, particularly those installed manually or from uncompressed folders, may not have sufficient source information in Vortex to upload as part of a collection.
-
-**To ensure mods can be included in your collection:**
-
-- **Download mods through Vortex** using the mod manager button (if available) when browsing Nexus Mods
-- **Add ZIP files directly** from the manual download button on Nexus Mods
-- **Avoid using uncompressed or repackaged folders** - these lack the hash data necessary for Vortex to link that mod back to its original source
-
-If a mod shows an error ⚠️, you'll need to remove it from your profile, download it properly through Vortex or as a ZIP from Nexus Mods, and reinstall it before including it in your collection.
 
 ---
 

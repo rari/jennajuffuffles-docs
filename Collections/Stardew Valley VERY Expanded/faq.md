@@ -6,7 +6,7 @@ tags: [svVe, FAQ, gameplay, troubleshooting, Stardew Valley Expanded]
 
 # FAQ & Troubleshooting — Stardew Valley VERY Expanded
 
-*Last updated:* 2025-11-25  
+*Last updated:* 2025-12-03  
 *Applies to Stardew Valley:* 1.6.15+
 
 ---
@@ -16,9 +16,11 @@ tags: [svVe, FAQ, gameplay, troubleshooting, Stardew Valley Expanded]
 - [Community Center cutscene won't trigger](#community-center-cutscene-wont-trigger)
 - [Rusty/Sewer Key changes in SVE](#rustysewer-key-changes-in-sve)
 - [Minecart blocks the mine entrance](#minecart-blocks-the-mine-entrance)
+- [Immersive Farm 2 Remastered — bugged farm map on new save](#immersive-farm-2-remastered--bugged-farm-map-on-new-save)
 - [Can't craft or cook items despite having ingredients](#cant-craft-or-cook-items-despite-having-ingredients)
 - [Missing recipes in crafting menu](#missing-recipes-in-crafting-menu-such-as-chest)
 - [Duplicated NPCs](#duplicated-npcs)
+- [Farmhands see visual bug after completing the Community Center](#farmhands-see-visual-bug-after-completing-the-community-center)
 - [Expansion NPCs not leaving house on first day](#expansion-npcs-not-leaving-house-on-first-day)
 - [East Scarp NPCs not attending festivals](#east-scarp-npcs-not-attending-festivals)
 - [Very slow load or crash on first load](#very-slow-load-or-crash-on-first-load)
@@ -88,6 +90,21 @@ tags: [svVe, FAQ, gameplay, troubleshooting, Stardew Valley Expanded]
 > 
 > This should properly unpack the configuration file. If the configuration still isn't applied correctly after reinstalling, go to **Collections > Mods (tab)** and remove (including archive) and reinstall the configuration.
 
+## Immersive Farm 2 Remastered — bugged farm map on new save
+> On rare occasions, a new save on **Immersive Farm 2k Remastered** can generate with serious terrain issues:
+> - Trees, rocks, and other debris spawning inside the river
+> - The **Greenhouse** appearing in the middle of the river or in other unintended positions
+> 
+> **Workaround:** Use the **Reset Terrain Features** tool to clean the farm map:
+> 1. Download the tool: [Reset Terrain Features (NET 6)](https://github.com/Lake1059/ResetTerrainFeatures_NET6/releases)
+> 2. In Vortex, temporarily disable **To-Dew**
+> 3. Drag the reset tool `.zip` into the Vortex mods drop zone and enable it
+> 4. In-game, go to your farm and press **L** to activate the reset
+> 
+> Notes:
+> - The Greenhouse can be moved at Robin's but may remain unmovable until it is fully restored.
+> - You can disable or uninstall the reset tool in Vortex after using it.
+
 ## Can't craft or cook items despite having ingredients
 > Better Crafting has quality filters that may prevent you from crafting or cooking items if your ingredients don't meet the quality threshold. This is a common issue that catches many players off guard.
 > 
@@ -120,6 +137,16 @@ tags: [svVe, FAQ, gameplay, troubleshooting, Stardew Valley Expanded]
 > - In the SMAPI console, run: `patch export "Data/NPCDispositions"`
 > - This will create a file that lists all NPCs and their internal names
 > - Look for the duplicated NPC in the list
+
+## Farmhands see visual bug after completing the Community Center
+> Some farmhands may experience **visual map glitches** after the Community Center is restored.
+> 
+> **Fix:** Disable **SinZational Speedy Solutions** or adjust its settings:
+> - Open the Generic Mod Config Menu (GMCM)
+> - Go to **SinZational Speedy Solutions → Configuration**
+> - Turn **off** **"Slow Map Loader"** (found near the bottom of the config list)
+> 
+> This should resolve the visual discrepancies for farmhands.
 
 ## Expansion NPCs not leaving house on first day
 > When an expansion mod is added to an existing save, NPCs from that expansion may not leave their house on the first day. This is a known issue where the NPC's schedule may not load properly until after the player has slept once.

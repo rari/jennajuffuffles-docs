@@ -16,7 +16,7 @@
 * [Nexus Mods App](Installation/nma.md)
 * [Stardrop](Installation/stardrop.md)
 * [Manual Installation](Installation/manual.md)
-
+sti
 ## Collections
 * [Combining Collections](Collections/combining-collections.md)
 * [Stardew Valley VERY Expanded](Collections/Stardew%20Valley%20VERY%20Expanded/README.md)
