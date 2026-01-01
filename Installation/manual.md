@@ -33,13 +33,10 @@ Before downloading any mods, check the **last update date** for the collection. 
 Download the official configuration package:  
 [svVe Configuration Files on Nexus](https://www.nexusmods.com/stardewvalley/mods/20870)  
 
-This page includes configurations for:
+Download the collection packages:
 - Stardew Valley VERY Expanded  
 - Aesthetic Valley | Fairycore  
 - Aesthetic Valley | Witchcore  
-- Shared configurations used across collections
-
-> **Tip:** Use CTRL+F and search "AVF" or "AVW" if installing an Aesthetic Valley!
 
 **Extract the files:**
 
@@ -54,6 +51,8 @@ This page includes configurations for:
 - Use **Option + drag** to merge folders when copying configuration files into your mod folders.
 
 You can modify settings later in-game via **Generic Mod Configuration Menu (GMCM)**.
+
+> **Note:** If installing AVF or AVW, disable in configuration any "Larger Greenhouse" option your chosen farm may have if using the greenhouse included with that collection.
 
 ---
 
@@ -84,12 +83,10 @@ If installing **Fairycore** or **Witchcore**, make sure to also download and ins
   - Generic Mod Config Menu
   - Event Lookup
 
-> **Note:** If installing AVF or AVW, disable in configuration any "Larger Greenhouse" option your chosen farm may have if using the greenhouse included with that collection.
-
 **Manual hair.json fix for Fairycore and Witchcore:**
-- Copy the contents of the `hair.json` file in folder `111` into `[FS] Yomi's Golden Princess Hairstyle\Hairs\112`
-- Open that file in Notepad++ and change the name at the top from `111` to `112`
-- There's a hidden character in the file preventing it from working, so this manual edit is necessary.
+- Copy the `hair.json` file in folder `111` into `[FS] Yomi's Golden Princess Hairstyle\Hairs\112` to replace the `hair.json` in `112`
+- Open that file in your text editor of choice and change the name at the top from `111` to `112`
+- Why? There's a hidden character in the 112 file preventing it from loading, so this manual edit fixes it.
 
 ---
 
