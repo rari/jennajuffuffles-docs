@@ -221,7 +221,7 @@ Access mod settings and configurations.
 Performance optimization mod.
 
 **Common Solutions:**
-- **Visual bugs after Community Center completion?** "Slow Map Loader" is disabled in our configuration files to prevent this visual bugs.
+- **Visual bugs after Community Center completion?** "Slow Map Loader" is disabled in the collection's configuration files to prevent this visual bugs.
 
 ---
 
