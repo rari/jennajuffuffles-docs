@@ -10,11 +10,11 @@ tags: [updating, collections, vortex, maintenance]
 *Last updated:* 2026-01-15  
 *Applies to Stardew Valley:* 1.6.15+
 
-When a new update is available for your collection, updating ensures you get the latest bug fixes, new features, and compatibility improvements.
-
 {% hint style="danger" %}
 Always update collections, not individual mods. Collections are tested together for compatibility. Updating individual mods outside of collection updates can break compatibility with other mods in the collection.
 {% endhint %}
+
+When a new update is available for your collection, updating ensures you get the latest bug fixes, new features, and compatibility improvements.
 
 ---
 

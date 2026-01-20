@@ -16,7 +16,11 @@ This is a hub page with quick answers and links to detailed troubleshooting guid
 
 ## Quick Fix Process
 
-Before diving into complex troubleshooting, try this short checklist. These simple steps resolve many common issues:
+{% hint style="success" %}
+Start with these quick fixes before spending time on complex troubleshooting or completely reinstalling. 
+{% endhint %}
+
+Most issues are resolved by following these simple steps:
 
 1. **Restart your computer** - Many issues resolve with a simple restart. This clears temporary files and resets system states that can interfere with mod loading.
 2. **Verify game files** - Use your store launcher to verify integrity. This ensures your game files are complete and up-to-date.
@@ -29,10 +33,6 @@ Before diving into complex troubleshooting, try this short checklist. These simp
    b. On the Nexus Mods collection page, click **Add Collection** then Ok in Vortex
    c. On the **Mods** tab, disable the collection
    d. Re-enable with recommended mods to enable installed optional mods
-
-{% hint style="success" %}
-Start with these quick fixes before spending time on complex troubleshooting. Most issues are resolved by one of these steps.
-{% endhint %}
 
 ---
 

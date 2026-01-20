@@ -16,6 +16,10 @@ Stardrop is an excellent mod manager designed specifically for Stardew Valley an
 
 ## Installation Instructions
 
+{% hint style="info" %}
+[SMAPI (Stardew Modding API)](https://smapi.io/) must be installed separately. Stardrop does not install SMAPI for you.
+{% endhint %}
+
 For detailed installation instructions for your platform, please refer to the official Stardrop documentation:
 
 - **Linux:** [Linux Installation Instructions](https://floogen.gitbook.io/stardrop/getting-started/installing-stardrop/linux)
@@ -23,8 +27,6 @@ For detailed installation instructions for your platform, please refer to the of
 - **Windows:** [Windows Installation Instructions](https://floogen.gitbook.io/stardrop/getting-started/installing-stardrop/windows)
 
 Official Stardrop Documentation: [Installing Stardrop](https://floogen.gitbook.io/stardrop/getting-started/installing-stardrop)
-
-> **Note:** [SMAPI (Stardew Modding API)](https://smapi.io/) must be installed separately. Stardrop does not install SMAPI for you.
 
 ---
 

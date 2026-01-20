@@ -10,9 +10,11 @@ tags: [installation, manual, advanced]
 *Last updated:* 2026-01-15  
 *Applies to Stardew Valley:* 1.6.15+
 
-Manual installation is available for users who cannot use Vortex or prefer direct control over their mod files. This method requires manually applying configuration files and patches. This guide walks you through the complete manual installation process step by step.
+{% hint style="info" %}
+**Vortex Mod Manager** is strongly recommended for most players because it automatically applies the correct configuration files, manages mod order, provides bundled patches, and handles updates automatically. However, if you are experienced with modding and still prefer to handle installation manually, or are playing on systems without Vortex support, follow this guide.
+{% endhint %}
 
-> **Note:** **Vortex Mod Manager** is strongly recommended for most players because it automatically applies the correct configuration files, manages mod order, provides bundled patches, and handles updates automatically. However, if you are experienced with modding and still prefer to handle installation manually, or are playing on systems without Vortex support, follow this guide.
+Manual installation is available for users who cannot use Vortex or prefer direct control over their mod files. This method requires manually applying configuration files and patches. This guide walks you through the complete manual installation process step by step.
 
 ---
 

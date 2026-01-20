@@ -87,10 +87,12 @@ These mods change the game's color scheme and visual style. Only one can be acti
 
 **Farm Map Conflicts:**
 
+{% hint style="warning" %}
+Never enable multiple farm maps simultaneously. Disable all farm maps except the one you want to use.
+{% endhint %}
+
 Only one farm map can be active at a time:
 - Lnh's MiNi Farm [CP] ❌ Grandpa's Farm ❌ Immersive Farm 2k Remastered ❌ Frontier Farm
-
-> **Important:** Never enable multiple farm maps simultaneously. Disable all farm maps except the one you want to use.
 
 **Building Conflicts:**
 

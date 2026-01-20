@@ -47,6 +47,10 @@ Before installing mods, make sure your game files are healthy and up to date.
 - Fixes any corrupted game files
 - Prevents installation issues
 
+{% hint style="danger" %}
+Always verify and run the game before installing mods. This ensures your game is ready for modding.
+{% endhint %}
+
 ### How to Verify
 
 **Steam:**
@@ -70,10 +74,6 @@ Before installing mods, make sure your game files are healthy and up to date.
 1. **Run the game once** through your normal launcher (Steam, GOG, etc.)
 2. Let it complete the initial setup
 3. Close the game
-
-{% hint style="danger" %}
-Always verify and run the game before installing mods. This ensures your game is ready for modding.
-{% endhint %}
 
 ---
 
@@ -100,7 +100,7 @@ If Stardew Valley is **not** installed on drive `C:\`, you need to enable symbol
 3. Enable **Use Symbolic Links**
 4. Click **Apply**
 
-> **Why this matters:** Symbolic links allow Vortex to manage mods even when the game is on a different drive. Without this, mods may not deploy correctly.
+Symbolic links allow Vortex to manage mods even when the game is on a different drive. Without this, mods may not deploy correctly.
 
 ---
 
@@ -113,7 +113,7 @@ Before installing a collection, you need a clean slate. Any existing mods or lef
 3. **Remove everything** from this folder (files and subfolders)
 4. Close the folder window
 
-> **Why this matters:** Old mod files can conflict with collection mods, causing crashes, missing content, or other issues. Starting fresh ensures everything works correctly.
+Old mod files can conflict with collection mods, causing crashes, missing content, or other issues. Starting fresh ensures everything works correctly.
 
 ---
 

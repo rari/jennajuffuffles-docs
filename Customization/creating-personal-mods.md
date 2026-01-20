@@ -10,13 +10,13 @@ tags: [customization, personal-mods, patches, modding]
 *Last updated:* 2026-01-15  
 *Applies to Stardew Valley:* 1.6.15+
 
-Want to create your own custom mods or patches? Personal mods and patches allow you to customize your game and modify existing mods while keeping your changes safe through collection updates. This guide will walk you through creating standalone personal mods and personal patches that work alongside your collection, ensuring your personalizations persist even when the collection updates.
-
-> **Why create personal mods or patches?** Personal mods and patches keep your customizations safe through collection updates. **Personal mods** are standalone changes to the game, and you can add them through your mod manager like other mods to keep them managed alongside your collection! When you create a **personal patch** that applies on top of an existing mod, you get the best of both worlds: the original mod can be updated normally (through collection updates or manual updates), and your custom changes stay safe in your **personal patch**.
-
 {% hint style="danger" %}
 If you're using a mod manager like Vortex, avoid making direct changes to mods in your Mods folder. Mod managers manage these files, and your changes can be lost when the manager updates or redeploys mods. Creating a separate personal mod or patch keeps your changes protected and makes it easy to manage them.
 {% endhint %}
+
+Want to create your own custom mods or patches? Personal mods and patches allow you to customize your game and modify existing mods while keeping your changes safe through collection updates. This guide will walk you through creating standalone personal mods and personal patches that work alongside your collection, ensuring your personalizations persist even when the collection updates.
+
+Personal mods and patches keep your customizations safe through collection updates. **Personal mods** are standalone changes to the game, and you can add them through your mod manager like other mods to keep them managed alongside your collection! When you create a **personal patch** that applies on top of an existing mod, you get the best of both worlds: the original mod can be updated normally (through collection updates or manual updates), and your custom changes stay safe in your **personal patch**.
 
 ---
 
@@ -38,7 +38,7 @@ Understanding the difference helps you choose the right approach:
 - Overrides specific files from the original mod when loaded after it
 - Examples: Tweaking textures, modifying content files, fixing issues in existing mods
 
-> **Which should you use?** If you're modifying files from an existing mod, use a **personal patch**. If you're creating something new or standalone, use a **personal mod**. Both approaches keep your changes safe through collection updates!
+If you're modifying files from an existing mod, use a **personal patch**. If you're creating something new or standalone, use a **personal mod**. Both approaches keep your changes safe through collection updates!
 
 ---
 
@@ -144,7 +144,7 @@ Creating personal mods and patches for your own use is perfectly fine! However, 
 - **You may need explicit permission** from the original mod author before sharing patches or modified versions of their mods
 - Check the original mod's permissions tab on Nexus Mods to see if the author allows modifications
 
-> **Why this matters:** Mod creators own the rights to their work. Sharing patches or modified versions without permission violates their rights and Nexus Mods' terms of service. Always respect the original creator's permissions and ask for permission if you want to share your personal modifications.
+Mod creators own the rights to their work. Sharing patches or modified versions without permission violates their rights and Nexus Mods' terms of service. Always respect the original creator's permissions and ask for permission if you want to share your personal modifications.
 
 ---
 

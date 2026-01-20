@@ -44,7 +44,9 @@ This guide assumes:
 
 Installing a collection to an existing save means you want to continue playing your save file with the collection. Some changes cannot be safely made to existing saves, and you may need cleanup tools to fix issues that arise.
 
-> **Important:** This works best when your save was un-modded or created with mods included in the collection. If your save was created with different mods, switching major expansion mods, or changing farm maps, you may encounter issues that require cleanup tools or starting a new save.
+{% hint style="info" %}
+This works best when your save was un-modded or created with mods included in the collection. If your save was created with different mods, switching major expansion mods, or changing farm maps, you may encounter issues that require cleanup tools or starting a new save.
+{% endhint %}
 
 ---
 

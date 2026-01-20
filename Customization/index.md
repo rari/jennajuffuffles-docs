@@ -10,7 +10,7 @@ tags: [personalization, customization, mods, configuration, patches]
 *Last updated:* 2026-01-15  
 *Applies to Stardew Valley:* 1.6.15+
 
-Want to make your Stardew Valley experience truly your own? This guide will show you how to customize your collections by adding or removing mods, adjusting configurations, and making personal tweaks - all while keeping your customizations safe through collection updates!
+Want to make your Stardew Valley experience truly your own? This guide will show you how to customize your collections by adding or disabling mods, adjusting configurations, and making personal tweaks - all while keeping your customizations safe through collection updates!
 
 **Need more advanced customization?**
 - **[Creating Personal Mods](creating-personal-mods.md)** - Create custom mods and patches
@@ -21,7 +21,7 @@ Want to make your Stardew Valley experience truly your own? This guide will show
 ## Table of Contents
 
 - [Overview](#overview)
-- [Adding and Removing Mods](#adding-and-removing-mods)
+- [Adding and Disabling Mods](#adding-and-disabling-mods)
 - [Adjusting Configurations](#adjusting-configurations)
 - [Using the Collection Configuration Manager FOMOD](#using-the-collection-configuration-manager-fomod)
 - [What Configs Actually Change](#what-configs-actually-change)
@@ -33,7 +33,7 @@ Want to make your Stardew Valley experience truly your own? This guide will show
 
 Customization allows you to personalize your collection while maintaining compatibility with collection updates. You can:
 
-* Add or remove mods from your collection
+* Add or disable mods from your collection
 * Customize mod configurations (settings, keybinds, etc.)
 * Adjust UI and visual preferences
 * Make gameplay tweaks and adjustments
@@ -42,11 +42,13 @@ The best part? When done correctly, your customizations will persist even when t
 
 ---
 
-## Adding and Removing Mods
+## Adding and Disabling Mods
 
-You can absolutely add or remove mods from your collection! However, it's important to be informed about the mods you're working with.
+{% hint style="info" %}
+Always read the mod page before adding or disabling any mod. Mod pages contain crucial information about compatibility, conflicts, and requirements.
+{% endhint %}
 
-> **Important:** Always read the mod page before adding or removing any mod. Mod pages contain crucial information about compatibility, conflicts, and requirements.
+You can absolutely add or disable mods from your collection! However, it's important to be informed about the mods you're working.
 
 ### Learning About Mods in Your Collection
 
@@ -93,7 +95,7 @@ Vortex provides a built-in feature to backup and restore your mod configurations
 2. Click the button to create a backup of your current configuration files
 3. This will save your current configurations and prevent them from being lost
 
-> **How it works:** The Sync Mod Configurations feature creates a virtual "configuration mod" in Vortex that contains a snapshot of your current config files. When you update your collection or mods, you can use this backup to restore your personal settings so your customizations stay intact.
+The Sync Mod Configurations feature creates a virtual "configuration mod" in Vortex that contains a snapshot of your current config files. When you update your collection or mods, you can use this backup to restore your personal settings so your customizations stay intact.
 
 {% hint style="danger" %}
 The Sync Mod Configurations feature may occasionally attempt to back up `smapi-internal` in error. See [Sync Mod Configurations Backs Up smapi-internal](../Troubleshooting/known-issues.md#sync-mod-configurations-backs-up-smapi-internal) for the fix.
@@ -117,7 +119,9 @@ The Collection Configuration Manager FOMOD allows you to customize which configu
 
 The FOMOD includes automatic handling for greenhouse configuration. When you select your farm map and greenhouse preferences, it will automatically disable conflicting greenhouse options to prevent conflicts. This is particularly helpful when combining collections with different farm maps and greenhouse mods.
 
-> **Tip:** If you're combining multiple collections, using the FOMOD can help you avoid configuration conflicts and ensure your preferred settings are applied correctly.
+{% hint style="info" %}
+If you're combining multiple collections, using the FOMOD can help you avoid configuration conflicts and ensure your preferred settings are applied correctly.
+{% endhint %}
 
 ---
 
@@ -135,7 +139,7 @@ Most configs can be changed safely without breaking saves. However, some changes
 
 ## When Mods Cause Trouble
 
-Some changes can cause major issues with existing saves. Adding or removing major expansion mods, NPC mods, farm map mods, or core gameplay mods may require special cleanup tools or starting a new save.
+Some changes can cause major issues with existing saves. Adding or disabling major expansion mods, NPC mods, farm map mods, or core gameplay mods may require special cleanup tools or starting a new save.
 
 {% hint style="info" %}
 Test changes on a test save before applying to your main save. For detailed information about installing collections to existing saves and the cleanup tools needed, see [Installing Collections to Existing Saves](../Installation/installing-to-existing-saves.md).

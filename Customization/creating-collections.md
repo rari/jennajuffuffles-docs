@@ -73,7 +73,7 @@ When creating a collection, you can choose how it's shared:
 
 When building your collection, you may notice that some mods display an error ⚠️ in Vortex. Mods that have been added to Vortex, particularly those installed manually or from uncompressed folders, may not have sufficient source information in Vortex to upload as part of a collection.
 
-> **Why this matters:** Collections need to know where to download each mod from. Without proper source information, Vortex can't include the mod in your collection, and others won't be able to install it. This is a critical requirement for sharing collections.
+Collections need to know where to download each mod from. Without proper source information, Vortex can't include the mod in your collection, and others won't be able to install it. This is a critical requirement for sharing collections.
 
 **To ensure mods can be included in your collection:**
 
@@ -118,14 +118,14 @@ These installation methods control how mods are installed and whether users can 
 - Presents FOMOD installer UI if available
 - User chooses installer options
 
-> **When to use:** Use this when you want users to customize their installation or when mods have important installation choices.
+Use this when you want users to customize their installation or when mods have important installation choices.
 
 **Replicate:**
 - Reproduces exact folder structure by hash
 - Requires Exact Only version policy
 - Use for reorganized mod layouts
 
-> **Why this matters:** Replicate ensures users get the exact folder structure you created, which is essential if you've reorganized mod files or merged assets. This is critical for collections that use custom folder structures.
+Replicate ensures users get the exact folder structure you created, which is essential if you've reorganized mod files or merged assets. This is critical for collections that use custom folder structures.
 
 **Same Install Options:**
 - Reuses curator's saved installer choices
@@ -144,7 +144,7 @@ If a mod archive contains nested folders or an unusual structure, you can instal
 
 This bypasses Vortex's automatic directory detection and extracts the archive exactly as stored. 
 
-> **Why this matters:** Some mods are packaged inconsistently or have custom folder structures. Unpack As-Is preserves the exact structure, which is essential when using Replicate or when the folder structure matters for the mod to work correctly.
+Some mods are packaged inconsistently or have custom folder structures. Unpack As-Is preserves the exact structure, which is essential when using Replicate or when the folder structure matters for the mod to work correctly.
 
 Curators often use this to:
 
@@ -158,7 +158,7 @@ Curators often use this to:
 
 **Binary Patch** allows the curator to distribute lightweight, byte-level modifications (for example, fixing a texture or INI). However, binary patches alter file content and thus change checksums. Since *Replicate* and *Exact Only* depend on stable hashes, they become invalid once a patch is applied.
 
-> **Why this matters:** Binary patches let you fix small issues in mod files without redistributing entire mods. However, they change file checksums, which breaks hash-based installation methods. You must choose between patching files or preserving exact folder structures—you can't do both.
+Binary patches let you fix small issues in mod files without redistributing entire mods. However, they change file checksums, which breaks hash-based installation methods. You must choose between patching files or preserving exact folder structures—you can't do both.
 
 Use only one of the following per file:
 - **Adjust file contents (minor fix)** - Use **Binary Patch + Exact Only**
@@ -171,7 +171,7 @@ Use only one of the following per file:
 
 **Bundling** allows curators to include optional auxiliary support files directly in a collection. However, bundling has strict limitations and should not be used as a substitute for properly uploading mods to Nexus Mods.
 
-> **Why this matters:** Collections are designed to reference mods via Nexus entries, not bundle them. This ensures mod authors get proper credit, downloads, and donation points. Bundling is only for auxiliary files that wouldn't have their own mod page.
+Collections are designed to reference mods via Nexus entries, not bundle them. This ensures mod authors get proper credit, downloads, and donation points. Bundling is only for auxiliary files that wouldn't have their own mod page.
 
 ### When to Use Bundling
 
@@ -182,12 +182,14 @@ Use only one of the following per file:
 
 ### When NOT to Use Bundling
 
+{% hint style="warning" %}
+Collection cannot include full mod files as bundled content. Collections must reference mods via their Nexus entries so mod authors receive proper credit, downloads, and donation points. See [Nexus Mods Collection Guidelines](https://help.nexusmods.com/article/115-guidelines-for-collections) for complete policy details.
+{% endhint %}
+
 **Do NOT use bundling for:**
 - Full mods or mod files created by others (requires explicit permission and should be referenced via Nexus)
 - Distributing mods without proper Nexus entries
-- Avoiding the need to upload mods to Nexus Mods
-
-> **Important:** Bundling mods is not permitted under Nexus Mods' guidelines. Collections should reference mods via their Nexus entries so mod authors receive proper credit, downloads, and donation points. 
+- Avoiding the need to upload mods to Nexus Mods 
 
 ---
 
@@ -195,7 +197,7 @@ Use only one of the following per file:
 
 **Manage Rules** controls the **load order** of your mods—which mods load before others. This is crucial for mods that modify the same files.
 
-> **Why this matters:** Load order determines which mod's version of a file is used when multiple mods modify the same file. Incorrect load order can cause mods to not work, display incorrectly, or conflict with each other. Configuration mods must load after the mods they configure, or their changes won't apply.
+Load order determines which mod's version of a file is used when multiple mods modify the same file. Incorrect load order can cause mods to not work, display incorrectly, or conflict with each other. Configuration mods must load after the mods they configure, or their changes won't apply.
 
 Rules tell Vortex:
 - "Load Mod A before Mod B"
@@ -215,7 +217,7 @@ Understanding the difference between required and optional mods helps you design
 - Cannot be skipped during installation
 - Core framework and dependencies
 
-> **Why this matters:** Required mods are the foundation of your collection. Without them, the collection won't function. These are typically framework mods (like SMAPI, Content Patcher) and mods that other mods depend on.
+Required mods are the foundation of your collection. Without them, the collection won't function. These are typically framework mods (like SMAPI, Content Patcher) and mods that other mods depend on.
 
 **Optional Mods:**
 - Enhance the experience but not strictly necessary
@@ -223,7 +225,7 @@ Understanding the difference between required and optional mods helps you design
 - Visual enhancements, alternative configurations
 - **May represent conflicts** where players need to choose between mutually exclusive options (e.g., different farm maps, alternative visual styles, or conflicting gameplay mods)
 
-> **Why this matters:** Optional mods give players choices. They can customize their experience by selecting which optional mods to install. When optional mods represent conflicts, players must choose one option, which prevents incompatible combinations.
+Optional mods give players choices. They can customize their experience by selecting which optional mods to install. When optional mods represent conflicts, players must choose one option, which prevents incompatible combinations.
 
 ---
 

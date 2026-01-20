@@ -153,9 +153,11 @@ Most errors have straightforward solutions. Check the notification details for s
 
 ##### "Version mismatch. Your version shows as 4.X.X"
 
-**Quick Fix:** Verify game files through your store launcher, then ensure SMAPI is set as Primary Tool in Vortex Dashboard.
+{% hint style="warning" %}
+Fix this issue before publishing any collection changes. Editing a collection in this state may prevent you from editing it.
+{% endhint %}
 
-> **Warning:** Fix this issue before publishing any collection changes. Editing a collection in this state may prevent you from editing it.
+**Quick Fix:** Verify game files through your store launcher, then ensure SMAPI is set as Primary Tool in Vortex Dashboard.
 
 **Symptom:** Error message: "Version mismatch. Your version shows as 4.X.X"
 
