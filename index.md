@@ -46,26 +46,6 @@ Choose the section that matches what you need to do:
 
 ---
 
-## About the Collections
-
-### Stardew Valley VERY Expanded
-
-Stardew Valley VERY Expanded (svVe) is a curated mod collection that extends this familiar world far beyond Pelican Town while preserving the cozy, vanilla charm of the original game. Includes over 90 mods with major expansions, quality-of-life improvements, and over 50 new NPCs.
-
-**Download on Nexus:** [Stardew Valley VERY Expanded](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
-
-### Aesthetic Valley Collections
-
-Aesthetic Valley collections provide visual themes for Stardew Valley. These collections can be installed stand-alone, together, or alongside Stardew Valley VERY Expanded. Includes powerful customization tools like Fashion Sense, Happy Home Designer, and Precise Furniture.
-
-**Collections:**
-- **Download on Nexus:** [Aesthetic Valley | Fairycore](https://www.nexusmods.com/games/stardewvalley/collections/tjvl0j) - A magical, woodsy fairy aesthetic with pastel colors
-- **Download on Nexus:** [Aesthetic Valley | Witchcore](https://www.nexusmods.com/games/stardewvalley/collections/g14kxi) - A cozy, witchy cottagecore experience with warm autumnal colors
-
-> You can use both together. When combining any Aesthetic Valley collection with svVe, you can always install svVe optional mods, but only install optional mods from **one** Aesthetic Valley collection and **one** farm. See: [Installing Multiple Collections](Installation/multiple-collections.md)
-
----
-
 ## Need Help?
 
 **Community Resources:**
