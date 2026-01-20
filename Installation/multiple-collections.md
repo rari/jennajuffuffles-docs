@@ -62,7 +62,7 @@ If you choose to mix and match optional mods from multiple collections, or if yo
 - Many farm maps include a greenhouse you can disable in configuration. If you're using a farm map with a built-in greenhouse, disable standalone greenhouse mods.
 
 For more advanced customization, including load order management, see:
-- [Manage Rules (Load Order)](../Troubleshooting/manage-rules.md) - Detailed load order guidance
+- [Manage Rules (Load Order)](../Troubleshooting/vortex-troubleshooting.md#3-manage-rules) - Detailed load order guidance
 
 ---
 

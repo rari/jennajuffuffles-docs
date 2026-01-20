@@ -130,24 +130,6 @@ Click **Deploy** in Vortex to apply your changes.
 
 ---
 
-## Sharing Your Personal Mods and Patches
-
-{% hint style="danger" %}
-Creating personal mods and patches for your own use is perfectly fine! However, if you want to share your personal mods or patches with others, you need to be aware of Nexus Mods' rules and the original mod creator's rights.
-{% endhint %}
-
-**For personal use:**
-- You can create and use personal mods and patches however you like
-- No restrictions on modifying mods for your own game
-
-**For sharing:**
-- **You may need explicit permission** from the original mod author before sharing patches or modified versions of their mods
-- Check the original mod's permissions tab on Nexus Mods to see if the author allows modifications
-
-Mod creators own the rights to their work. Sharing patches or modified versions without permission violates their rights and Nexus Mods' terms of service. Always respect the original creator's permissions and ask for permission if you want to share your personal modifications.
-
----
-
 ## See Also
 
 - [How to Customize Collections](index.md) - Main customization guide

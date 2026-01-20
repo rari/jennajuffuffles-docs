@@ -51,7 +51,7 @@ This guide answers known issues and common questions specific to individual mods
 The modding framework that makes all mods work. Required for everything.
 
 **Common Solutions:**
-- **SMAPI not launching?** See [New Player Install Instructions](../Installation/index.md#connecting-smapi-to-your-game)
+- **SMAPI not launching?** See [New Player Install Instructions](../Installation/index.md#connecting-smapi-to-your-store)
 - **SMAPI errors?** See [Your SMAPI Log](your-smapi-log.md)
 
 ---
