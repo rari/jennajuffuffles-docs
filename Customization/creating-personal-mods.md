@@ -65,7 +65,7 @@ Personal mods are standalone mods you create from scratch. They have their own `
 }
 ```
 
-For Content Patcher mods, you may not need an EntryDll field. See the [Stardew Valley Modding Index](https://stardewvalleywiki.com/Modding:Index) for complete manifest.json documentation.
+See the [Stardew Valley Modding Index](https://stardewvalleywiki.com/Modding:Index) for complete manifest.json documentation.
 
 ### Step 2: Add to Your Mod Manager
 
