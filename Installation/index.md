@@ -134,16 +134,10 @@ Follow these steps to install a collection. Browse available [Jenna Juffuffles' 
 
 ### Installing Multiple Collections
 
-Players who wish to install multiple collections may do so. You have two options:
+You can combine multiple collections (for example, Stardew Valley VERY Expanded with an Aesthetic Valley collection) by installing them to the same Vortex profile.
 
-**Option 1: Change profile during installation**
-- In the first pop-up inside Vortex, change the profile option to install to an existing profile
-
-**Option 2: Enable collections after installation**
-- After installation, enable additional collections from inside the Mods panel
-
-{% hint style="success" %}
-See [Installing Multiple Collections](multiple-collections.md) for detailed guidance on combining collections.
+{% hint style="info" %}
+See [Installing Multiple Collections](multiple-collections.md) for detailed guidance on combining collections, resolving conflicts, and managing optional mods.
 {% endhint %}
 
 ### Nexus Premium vs Free
@@ -201,42 +195,6 @@ Optional mods are included for different reasons:
 
 **For first-time installs:** Click **OK/Install** when prompted about optional mods. This gives you the complete, intended experience. Just **never** enable more than one farm mod.
 
----
-
-## Conflict Flags (What They Look Like, What to Click)
-
-After installation, you may see conflict notifications in Vortex. There are two types of conflicts you might encounter:
-
-### Incompatible Mods
-
-**What it is:** Mods flagged by the collection creator to not be deployed together.
-
-**What you'll see:**
-- An **"Incompatible mods deployed"** notification in Vortex
-- Clicking **"Show"** will display a binary choice between two mods
-- Vortex will highlight which mods conflict
-
-**What to do:**
-- You must disable one of the incompatible mods in the **Mods** panel before deploying
-- Choose which mod you want to keep based on your preferences
-- After disabling one, you can deploy normally
-
-{% hint style="danger" %}
-The curator included both mods intentionally so you can choose between them. They cannot be installed together - you must pick one or the other.
-{% endhint %}
-
-### Rules Conflicts
-
-**What it is:** When Vortex detects two mods trying to modify the same file, it needs to know which should be deployed first.
-
-**What you'll see:**
-- A Vortex notification with a message like "File conflict detected"
-- The **"Manage Rules"** button will be highlighted
-
-**What to do:**
-- Go to **Manage Rules** to set which mod loads first
-- See [Vortex Troubleshooting](../Troubleshooting/vortex-troubleshooting.md#managing-load-order-rules) for detailed instructions
-- The collection is pre-configured, but occasionally a rule will need to set at first launch.
 
 ---
 
@@ -366,6 +324,17 @@ In Vortex, filter your mods to identify:
 - SVE-related compatibility patches
 - SVE-specific configuration
 - Any mods that depend on SVE
+
+For Stardew Valley VERY Expanded this will include:
+- Stardew Valley Expanded
+- Stardew Valley Expanded Grampleton Fields
+- Immersive Farm 2k Remastered
+- Frontier Farm
+- Seasonal Cute Characters SVE
+- Schedule Viewer - SVE Add-on
+- Animated Fish for SVE
+
+For Aesthetic Valley, the fastest way to tell is to disable Stardew Valley Expanded and watch in SMAPI for what can no longer load.
 
 {% hint style="info" %}
 Stardew Valley Expanded farm maps will not be usable without Stardew Valley Expanded: Frontier Farm, Grandpa's Farm, Immersive Farm Remastered 2K
