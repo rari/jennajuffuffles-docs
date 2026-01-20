@@ -1,18 +1,31 @@
 root: ./
+structure:
+  readme: index.md
 
 redirects:
-  start.md: home.md
-  combining.md: Collections/combining-collections.md
-  faq-and-known-issues.md: Guides/troubleshooting.md
-  install.md: Installation/Vortex/installation.md
+  start.md: index.md
+  home.md: index.md
+  combining.md: Installation/multiple-collections.md
+  faq-and-known-issues.md: Troubleshooting/index.md
+  install.md: Installation/index.md
   keybinds.md: "Collections/Stardew Valley VERY Expanded/keybinds-controllers.md"
   manual-install.md: Installation/manual.md
-  personalization.md: Guides/personalization.md
-  troubleshooting.md: Guides/troubleshooting.md
-  "Installation/Vortex/faq.md": Installation/Vortex/troubleshooting.md
-  "Installation/NMA/installation.md": Installation/nma.md
-  "Installation/NMA/faq.md": Installation/nma.md
-  "Installation/NMA/README.md": Installation/nma.md
+  personalization.md: Customization/index.md
+  troubleshooting.md: Troubleshooting/index.md
+  "Guides/troubleshooting.md": Troubleshooting/index.md
+  "Guides/updating-collections.md": Updating/index.md
+  "Guides/personalization.md": Customization/index.md
+  "Guides/how-to-create-a-collection.md": Customization/creating-collections.md
+  "Collections/combining-collections.md": Installation/multiple-collections.md
+  "Installation/Vortex/installation.md": Installation/index.md
+  "Installation/Vortex/troubleshooting.md": Troubleshooting/vortex-troubleshooting.md
+  "Installation/Vortex/faq.md": Troubleshooting/vortex-troubleshooting.md
+  "mod-managers/vortex/troubleshooting.md": Troubleshooting/vortex-troubleshooting.md
+  "mod-managers/vortex/installation.md": Installation/index.md
+  "mod-managers/vortex/updating-collections.md": Updating/index.md
+  "mod-managers/vortex/faq.md": Troubleshooting/vortex-troubleshooting.md
+  "mod-managers/overview.md": index.md
+  "mod-managers/nexus-mods-app.md": index.md
   "Installation/Stardrop/installation.md": Installation/stardrop.md
   "Installation/Stardrop/faq.md": Installation/stardrop.md
   "Installation/Stardrop/README.md": Installation/stardrop.md
@@ -20,11 +33,12 @@ redirects:
   "Installation/Manual/installation.md": Installation/manual.md
   "Installation/Manual/faq.md": Installation/manual.md
   "Installation/Manual/README.md": Installation/manual.md
-  "Getting Started/getting-started.md": home.md
-  "Getting Started/faq-known-issues.md": Guides/troubleshooting.md
-  "Getting Started/updating-collections.md": Guides/updating-collections.md
+  "Getting Started/getting-started.md": index.md
+  "Getting Started/faq-known-issues.md": Troubleshooting/index.md
+  "Getting Started/updating-collections.md": Updating/index.md
   "Collections/Aesthetic Valley/overview.md": Collections/aesthetic-valley.md
   "Collections/Aesthetic Valley/keybinds-controllers.md": Collections/aesthetic-valley.md
   "Collections/Aesthetic Valley/README.md": Collections/aesthetic-valley.md
-  "Collections/Stardew Valley VERY Expanded/overview.md": "Collections/Stardew Valley VERY Expanded/README.md"
-
+  "Collections/Stardew Valley VERY Expanded/overview.md": About/index.md
+  "Collections/Stardew Valley VERY Expanded/README.md": About/index.md
+  "Collections/aesthetic-valley-collections.md": About/index.md

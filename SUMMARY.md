@@ -1,26 +1,29 @@
 # Summary
-* [Home](home.md)
+* [Home](index.md)
 
-## Guides & Customization
-* [Updating Collections](Guides/updating-collections.md)
-* [Troubleshooting & FAQ](Guides/troubleshooting.md)
-* [Personalization & Custom Configurations](Guides/personalization.md)
-* [How to Create A Collection](Guides/collection-creation.md)
+## Installation
+* [New Player Install Instructions](Installation/index.md)
+  * [Using a Controller](Installation/controller.md)
+  * [Manual Installation](Installation/manual.md)
+  * [Installing Multiple Collections](Installation/multiple-collections.md)
+  * [Sideload to Stardrop](Installation/stardrop.md)
+  * [Sideload to Steam Deck](Installation/steam-deck.md)
+  * [Installing Collections to Existing Saves](Installation/installing-to-existing-saves.md)
 
-## Mod Managers
-* [Mod Managers Overview](Installation/index.md)
-* [Vortex](Installation/Vortex/README.md)
-  * [Vortex Installation Guide](Installation/Vortex/installation.md)
-  * [Updating Collections](Installation/Vortex/updating.md)
-  * [FAQ & Troubleshooting](Installation/Vortex/troubleshooting.md)
-* [Nexus Mods App](Installation/nma.md)
-* [Stardrop](Installation/stardrop.md)
-* [Manual Installation](Installation/manual.md)
-sti
-## Collections
-* [Combining Collections](Collections/combining-collections.md)
-* [Stardew Valley VERY Expanded](Collections/Stardew%20Valley%20VERY%20Expanded/README.md)
-  * [Translations](Collections/Stardew%20Valley%20VERY%20Expanded/translations.md)
-  * [Keybinds & Controllers](Collections/Stardew%20Valley%20VERY%20Expanded/keybinds-controllers.md)
-  * [FAQ & Troubleshooting](Collections/Stardew%20Valley%20VERY%20Expanded/faq.md)
-* [Aesthetic Valley Collections](Collections/aesthetic-valley.md)
+## Updating
+* [Updating Collections](Updating/index.md)
+
+## Troubleshooting
+* [Troubleshooting & FAQ](Troubleshooting/index.md)
+  * [Your SMAPI Log](Troubleshooting/your-smapi-log.md)
+  * [Vortex Troubleshooting](Troubleshooting/vortex-troubleshooting.md)
+  * [Known Issues](Troubleshooting/known-issues.md)
+  * [Mod-Specific Known Issues](Troubleshooting/mod-issues.md)
+
+## Customization
+* [How to Customize Collections](Customization/index.md)
+  * [Creating Personal Mods](Customization/creating-personal-mods.md)
+  * [Creating Collections](Customization/creating-collections.md)
+
+## About
+* [About the Collections](About/index.md)
