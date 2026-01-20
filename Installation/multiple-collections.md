@@ -10,11 +10,7 @@ tags: [combining-collections, conflicts, optional-mods, compatibility]
 *Last updated:* 2026-01-15  
 *Applies to Stardew Valley:* 1.6.15+
 
-{% hint style="warning" %}
-If your mine entrance is missing, enable "Original Mine Entrance" in GMCM under Stardew Valley Expanded.
-{% endhint %}
-
-You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley collection (Fairycore, Witchcore) for a custom look and feel. Always install them into the same Vortex profile.
+You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley collection (Fairycore, Witchcore) on a single Vortex profile for a custom look and feel. 
 
 ---
 
@@ -52,6 +48,10 @@ If you choose to mix and match optional mods from multiple collections, or if yo
 ---
 
 ## Configuration Tips
+{% hint style="warning" %}
+If your mine entrance is missing, enable "Original Mine Entrance" in GMCM under Stardew Valley Expanded.
+{% endhint %}
+
 **In Manage Rules:**
 - Configuration and content patch mods should load **after** the mods they modify in Vortex's Manage Rules. This ensures your configuration changes actually apply.
 
