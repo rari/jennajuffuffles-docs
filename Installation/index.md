@@ -28,10 +28,9 @@ This guide walks you through installing a mod collection using Vortex, step by s
 - [Manage Stardew Through Vortex](#manage-stardew-through-vortex)
 - [Clearing Your Mod Folder](#clearing-your-mod-folder)
 - [Installation Process](#installation-process)
-- [Optional Mods (What Happens If You Skip Them)](#optional-mods-what-happens-if-you-skip-them)
+- [Optional Mods](#optional-mods)
 - [Installing SMAPI](#installing-smapi)
 - [Connecting SMAPI to Your Store](#connecting-smapi-to-your-store)
-- [Next Steps](#next-steps)
 - [De-SVE-ing a Collection](#de-sve-ing-a-collection)
 
 ---
@@ -158,7 +157,7 @@ Both methods result in the same installed collection. Premium saves time, but co
 
 ---
 
-## Optional Mods (What Happens If You Skip Them)
+## Optional Mods
 
 Collections include **required mods** and **optional mods**. Here's what you need to know:
 
@@ -295,20 +294,6 @@ When the game updates, you'll need to redo these steps (rename the original back
 **Reference:** [SMAPI Wiki - Xbox App Configuration](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows#Configure_your_game_client)
 
 ---
-
-## Next Steps
-
-After installation is complete:
-
-1. **Launch the game** from Vortex to test everything works
-2. **Check the SMAPI log** for any errors (click the SMAPI Log button in Vortex)
-3. **Read the collection's documentation** for gameplay tips and features
-4. **Join the Discord** if you need help: [Discord Community](https://discord.gg/MPcgJUXeeY)
-
-### Need Help?
-
-- **Installation issues?** See [Troubleshooting & FAQ](../Troubleshooting/index.md)
-- **Want to install multiple collections?** See [Installing Multiple Collections](multiple-collections.md)
 
 ---
 
