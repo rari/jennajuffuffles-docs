@@ -56,6 +56,7 @@ If your mine entrance is missing, enable "Original Mine Entrance" in GMCM under 
 - Configuration and content patch mods should load **after** the mods they modify in Vortex's Manage Rules. This ensures your configuration changes actually apply.
 
 **If you're using the Collection Configuration Manager FOMOD:**
+- Disable all Stardew Valley VERY Configured mods for your collections.
 - The FOMOD automatically handles greenhouse configuration and helps avoid conflicts. See [Using the Collection Configuration Manager FOMOD](../Customization/index.md#using-the-collection-configuration-manager-fomod) for details.
 
 **If you're not using the FOMOD:**
