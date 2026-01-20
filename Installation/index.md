@@ -29,11 +29,10 @@ This guide walks you through installing a mod collection using Vortex, step by s
 - [Clearing Your Mod Folder](#clearing-your-mod-folder)
 - [Installation Process](#installation-process)
 - [Optional Mods (What Happens If You Skip Them)](#optional-mods-what-happens-if-you-skip-them)
-- [Conflict Flags (What They Look Like, What to Click)](#conflict-flags-what-they-look-like-what-to-click)
 - [Installing SMAPI](#installing-smapi)
 - [Connecting SMAPI to Your Store](#connecting-smapi-to-your-store)
 - [Next Steps](#next-steps)
-- [De-SVE-ing a Collection (Step-by-Step)](#de-sve-ing-a-collection-step-by-step)
+- [De-SVE-ing a Collection](#de-sve-ing-a-collection)
 
 ---
 
@@ -313,7 +312,7 @@ After installation is complete:
 
 ---
 
-## De-SVE-ing a Collection (Step-by-Step)
+## De-SVE-ing a Collection
 
 If you want to remove Stardew Valley Expanded (SVE) from a collection while keeping other active mods for a new save:
 
