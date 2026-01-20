@@ -7,7 +7,7 @@ tags: [troubleshooting, faq, installation, errors, fixes]
 
 # Troubleshooting & FAQ
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 This is a hub page with quick answers and links to detailed troubleshooting guides. Start here for quick fixes, then follow links to deeper pages for specific issues.

@@ -7,7 +7,7 @@ tags: [vortex, troubleshooting, notifications, load-order, rules, conflicts, dep
 
 # Vortex Troubleshooting
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 This guide covers all aspects of troubleshooting Vortex mod manager issues, including understanding notifications, resolving file conflicts, managing load order rules, and fixing common problems. Understanding these concepts helps you make informed decisions about your mod installation and avoid common pitfalls.

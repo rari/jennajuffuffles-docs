@@ -7,7 +7,7 @@ tags: [installation, stardrop, mod-manager, migration]
 
 # Sideload to Stardrop
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-20  
 *Applies to Stardew Valley:* 1.6.15+
 
 Stardrop is an excellent mod manager designed specifically for Stardew Valley and is great for managing individual mods. However, because it doesn't support Nexus Collections directly, it's not recommended for collection users. If you want to use Stardrop with a collection, you'll need to install the collection through Vortex first, then fully migrate to Stardrop. This guide covers the migration process and Stardrop-specific setup requirements.
@@ -16,9 +16,7 @@ Stardrop is an excellent mod manager designed specifically for Stardew Valley an
 
 ## Installation Instructions
 
-{% hint style="info" %}
-[SMAPI (Stardew Modding API)](https://smapi.io/) must be installed separately. Stardrop does not install SMAPI for you.
-{% endhint %}
+[SMAPI (Stardew Modding API)](https://smapi.io/) must be installed separately Stardrop does not install SMAPI for you.
 
 For detailed installation instructions for your platform, please refer to the official Stardrop documentation:
 

@@ -7,7 +7,7 @@ tags: [collection-creation, vortex, collections, modding]
 
 # How to Make a Collection
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 This guide will help you create your own mod collections for Stardew Valley! Whether you want to build a collection from scratch, share your custom setup with friends, or create a companion collection to use alongside Stardew Valley Expanded or the Aesthetic Valley collections, this guide covers everything you need to know.

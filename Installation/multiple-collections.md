@@ -7,7 +7,7 @@ tags: [combining-collections, conflicts, optional-mods, compatibility]
 
 # Installing Multiple Collections
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley collection (Fairycore, Witchcore) on a single Vortex profile for a custom look and feel. 

@@ -7,7 +7,7 @@ tags: [controller, gamepad, keybinds]
 
 # Using a Controller
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 Many mods in the collections include controller support with default button mappings. This guide covers controller setup and customization, including how to access controller settings and customize button mappings to your preferences.

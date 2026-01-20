@@ -7,7 +7,7 @@ tags: [installation, steam-deck, linux, proton]
 
 # Sideload to Steam Deck
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 This guide covers installing collections on Steam Deck. Since Vortex is Windows-only, you'll need to install the collection on a PC first, then transfer it to your Steam Deck. This process involves installing the collection on Windows, transferring files, and configuring SMAPI on the Steam Deck.

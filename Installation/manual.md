@@ -7,7 +7,7 @@ tags: [installation, manual, advanced]
 
 # Manual Installation
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 {% hint style="info" %}

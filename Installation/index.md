@@ -7,7 +7,7 @@ tags: [installation, vortex, new-player, getting-started, smapi]
 
 # New Player Install Instructions
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 This guide walks you through installing a mod collection using Vortex, step by step. Follow these instructions in order for the best experience.

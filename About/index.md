@@ -7,7 +7,7 @@ tags: [collections, reference, svve, aesthetic-valley, features, keybinds]
 
 # About the Collections
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 This page provides reference information about the available collections, their features, keybinds, and special considerations.

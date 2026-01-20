@@ -7,7 +7,7 @@ tags: [troubleshooting, mods, known-issues, faq, mod-specific]
 
 # Mod-Specific Known Issues
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 This guide answers known issues and common questions specific to individual mods in the collections. If you're experiencing problems with a particular mod, having trouble using a mod's features, or need to know how a mod works, check here. This is not a complete list of every mod—it focuses on mods with commonly reported issues or questions.

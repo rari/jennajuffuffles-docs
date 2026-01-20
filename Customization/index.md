@@ -7,7 +7,7 @@ tags: [personalization, customization, mods, configuration, patches]
 
 # How to Customize Collections
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 Want to make your Stardew Valley experience truly your own? This guide will show you how to customize your collections by adding or disabling mods, adjusting configurations, and making personal tweaks - all while keeping your customizations safe through collection updates!

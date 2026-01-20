@@ -7,7 +7,7 @@ tags: [customization, personal-mods, patches, modding]
 
 # Creating Personal Mods
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 {% hint style="danger" %}

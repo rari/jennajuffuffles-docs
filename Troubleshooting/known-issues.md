@@ -7,7 +7,7 @@ tags: [troubleshooting, known-issues, bugs, fixes, platform-specific]
 
 # Known Issues
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 This page documents known issues with collections and their solutions. These are problems that have been identified and resolved by the community or collection maintainers. If you're experiencing an issue, check this list first—you may find a documented solution.

@@ -7,7 +7,7 @@ tags: [troubleshooting, smapi, logs, errors, debugging]
 
 # Your SMAPI Log
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 The SMAPI log shows what mods loaded and any errors that occurred. Understanding how to read it is essential for troubleshooting. This guide will help you interpret log levels, identify errors, and share your log when seeking help.

@@ -7,7 +7,7 @@ tags: [home, getting-started, installation, collections, vortex]
 
 # Home
 
-*Last updated:* 2026-01-15  
+*Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
 Welcome! This documentation provides step-by-step guides for installing, updating, and troubleshooting Stardew Valley mod collections curated by JennaJuffuffles using Vortex. Whether you're new to mod collections or looking to customize your experience, these guides will help you get started and make the most of your collections.
