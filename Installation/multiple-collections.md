@@ -10,7 +10,7 @@ tags: [combining-collections, conflicts, optional-mods, compatibility]
 *Last updated:* 2026-01-19  
 *Applies to Stardew Valley:* 1.6.15+
 
-You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley collection (Fairycore, Witchcore) on a single Vortex profile for a custom look and feel. 
+You can combine Stardew Valley VERY Expanded (svVe) and any Aesthetic Valley collection (Fairycore, Witchcore) on a single Vortex profile for a custom look and feel. 
 
 ---
 
@@ -18,8 +18,8 @@ You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley co
 
 - [The Key Principle](#the-key-principle)
 - [When Conflicts Happen](#when-conflicts-happen)
-- [Configuration Tips](#configuration-tips)
-- [Specific Conflicts Reference](#specific-conflicts-reference)
+- [Important Configuration Tips](#important-configuration-tips)
+- [Specific Conflicts Reference (Included for Manual Installers)](#specific-conflicts-reference-included-for-manual-installers)
 
 ---
 
@@ -28,8 +28,9 @@ You can combine Stardew Valley VERY Expanded (svVe) with any Aesthetic Valley co
 When combining collections, here's what you need to know:
 
 **Aesthetic Valley optional mods:**
+- **Single profile:** Install one collection as normal, then select "Current profile" at the bottom of the first pop-up when installing the next.
 - **For easiest installation:** Pick one theme (Fairycore or Witchcore) for your optional mods.
-- **You can absolutely mix and match:** If you install optional mods from both themes, Vortex will show conflicts so you know what to choose between. You'll just need to resolve more conflicts.
+- **You can absolutely mix and match:** If you install optional mods from both themes, Vortex will show conflicts so you know what to choose between. You'll just need to resolve these conflicts before playing.
 - **svVe optional mods:** These can always be installed alongside Aesthetic Valley collections—they don't conflict.
 
 **Farm maps:**
@@ -45,15 +46,16 @@ If you follow the recommendation to install optional mods from one Aesthetic Val
 
 If you choose to mix and match optional mods from multiple collections, or if you see conflict notifications, see [Troubleshooting & FAQ](../Troubleshooting/index.md) for detailed guidance on:
 - [Vortex Troubleshooting](../Troubleshooting/vortex-troubleshooting.md) - Understanding notifications and managing load order rules
+
 ---
 
-## Configuration Tips
+## Important Configuration Tips
 {% hint style="warning" %}
-If your mine entrance is missing, enable "Original Mine Entrance" in GMCM under Stardew Valley Expanded.
+If your mine entrance is missing, right-click Stardew Valley VERY Configured - Stardew Valley VERY Expanded in the Mods panel and select Reinstall. This is a tell-tale sign configuration did not apply as expected!
 {% endhint %}
 
 **In Manage Rules:**
-- Configuration and content patch mods should load **after** the mods they modify in Vortex's Manage Rules. This ensures your configuration changes actually apply.
+- Configuration and content patch mods should load **after** the mods they modify in Vortex's Manage Rules. This ensures your configuration changes actually apply. **Never use Suggested rules**!
 
 **If you're using the Collection Configuration Manager FOMOD:**
 - Disable all Stardew Valley VERY Configured mods for your collections.

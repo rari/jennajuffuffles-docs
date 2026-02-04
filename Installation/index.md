@@ -39,16 +39,6 @@ This guide walks you through installing a mod collection using Vortex, step by s
 
 Before installing mods, make sure your game files are healthy and up to date.
 
-### Why Verify?
-
-- Ensures you have the latest game version (required for mod compatibility)
-- Fixes any corrupted game files
-- Prevents installation issues
-
-{% hint style="danger" %}
-Always verify and run the game before installing mods. This ensures your game is ready for modding.
-{% endhint %}
-
 ### How to Verify
 
 **Steam:**
@@ -89,16 +79,9 @@ Vortex needs to know you want to manage Stardew Valley mods.
 
 Vortex will now detect and manage Stardew Valley mods.
 
-### Symbolic Links (Important for Non-C: Drives)
-
-If Stardew Valley is **not** installed on drive `C:\`, you need to enable symbolic links:
-
-1. Go to **Settings** (gear icon in Vortex)
-2. Navigate to **Mods** section
-3. Enable **Use Symbolic Links**
-4. Click **Apply**
-
-Symbolic links allow Vortex to manage mods even when the game is on a different drive. Without this, mods may not deploy correctly.
+{% hint style="info" %}
+If Stardew Valley and Vortex are not both installed on drive `C:\` as recommended, enable **Use Symbolic Links** now: **Settings** (gear icon) → **Mods** → **Use Symbolic Links** → **Apply**. 
+{% endhint %}
 
 ---
 
@@ -111,13 +94,15 @@ Before installing a collection, you need a clean slate. Any existing mods or lef
 3. **Remove everything** from this folder (files and subfolders)
 4. Close the folder window
 
-Old mod files can conflict with collection mods, causing crashes, missing content, or other issues. Starting fresh ensures everything works correctly.
+{% hint style="warning" %}
+Old, unmanaged mod files can conflict with collection mods! This can cause crashes, conflicts, and other issues. Starting fresh ensures everything works correctly.
+{% endhint %}
 
 ---
 
 ## Installation Process
 
-Follow these steps to install a collection. Browse available [Jenna Juffuffles' collections](https://www.nexusmods.com/profile/JennaJuffuffles/collections)
+Follow these steps to install a collection. Browse available [Jenna Juffuffles' collections](https://www.nexusmods.com/profile/JennaJuffuffles/collections).
 
 ### Step-by-Step Installation
 
@@ -132,7 +117,7 @@ Follow these steps to install a collection. Browse available [Jenna Juffuffles' 
 
 ### Installing Multiple Collections
 
-You can combine multiple collections (for example, Stardew Valley VERY Expanded with an Aesthetic Valley collection) by installing them to the same Vortex profile.
+You can combine multiple collections by JennaJuffuffles (for example, Stardew Valley VERY Expanded with an Aesthetic Valley collection) by installing them to the same Vortex profile.
 
 {% hint style="info" %}
 See [Installing Multiple Collections](multiple-collections.md) for detailed guidance on combining collections, resolving conflicts, and managing optional mods.
@@ -168,11 +153,15 @@ These are **essential** and must be installed:
 - Mods that other mods depend on
 - Critical gameplay mods
 
-**You cannot skip these** - the collection is intended to be installed with these mods.
+**You cannot skip required mods** - the collection is intended to be installed with these mods. If you wish to disable them later, please do so with caution.
+
+{% hint style="info" %}
+For Aesthetic Valley collections, texture packs (for Fashion Sense and Alternative Textures) are marked as required for easier multi-collection installation. You may disable and enable these mods at whim.
+{% endhint %}
 
 ### Optional Mods
 
-Optional mods are included for different reasons:
+Optional mods serve a variety of purposes:
 
 **Performance considerations:**
 - **Expansion content** - Large content mods that may impact performance on lower-end systems
@@ -192,7 +181,6 @@ Optional mods are included for different reasons:
 ### Recommendation
 
 **For first-time installs:** Click **OK/Install** when prompted about optional mods. This gives you the complete, intended experience. Just **never** enable more than one farm mod.
-
 
 ---
 
@@ -225,7 +213,7 @@ SMAPI (Stardew Modding API) is the framework that makes mods work. You need to c
 
 ## Connecting SMAPI to Your Store
 
-You need to connect SMAPI to your store launcher if you wish to launch from your store, get achievements, and play co-op. Highly recommended for all users, but technically optional.
+You need to connect SMAPI to your store launcher if you wish to launch from your store, get achievements, and play co-op. Highly recommended for all users, though technically optional.
 
 {% hint style="info" %}
 SMAPI is installed through the collection, so you don't need to install it separately. You just need to configure your store launcher to use it.
@@ -292,8 +280,6 @@ When the game updates, you'll need to redo these steps (rename the original back
 {% endhint %}
 
 **Reference:** [SMAPI Wiki - Xbox App Configuration](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows#Configure_your_game_client)
-
----
 
 ---
 
