@@ -52,7 +52,7 @@ Taking a few minutes to prepare will make the update process smooth and worry-fr
 
 ***
 
-## Updating Collection (Profile With No Mods Installed)
+## Updating Collection (Profile With No Extra Mods Installed)
 
 1. On the Collections tab in Vortex, remove the collection (but do not check any checkboxes, mods and archives should remain.)
 2. Visit the collection's Nexus page and click Add To Vortex
@@ -65,7 +65,12 @@ Taking a few minutes to prepare will make the update process smooth and worry-fr
 2. On the Collections tab in Vortex, remove the collection (but do not check any checkboxes, mods and archives should remain.)
 3. Visit the collection's Nexus page and click Add To Vortex
 4. At the bottom of the pop-up, select current profile, then click ok on pop-up.
-5. After collection is installed, disable the collection and then re-enable the collection, selecting the 'recommended mods' to ensure they are re-enabled properly (since updating often disables them)
+5. When prompted, select to replace, not create variations.
+6. After collection is installed, disable the collection and then re-enable the collection, selecting the 'recommended mods' to ensure they are re-enabled properly (since updating often disables them)
+
+{% hint style="info" %}
+If this process is not successful, please follow the instructions for "Profile with No Extra Mods Installed" and then re-enable your additional mods.
+{% endhint %}
 
 ## Alternative Update Method (Not Recommended)
 
