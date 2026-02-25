@@ -26,14 +26,10 @@ Most issues are resolved by following these simple steps:
 2. **Verify game files** - Use your store launcher to verify integrity. This ensures your game files are complete and up-to-date.
 3. **Purge and redeploy** - This refreshes the mod installation and can fix corrupted file links:
    a. In Vortex, click **Purge Mods**
-   
-   b. Click **Open > Game Mods Folder** (THIRD option) and delete any leftover files/folders
-   
-   c. Back in Vortex, click **Deploy** to restore managed mods
-   
-   d. (1.16) Right-click on SMAPI in Mods panel and select "Reinstall"
-   
-5. **Fresh profile** - If issues persist, install the collection to a fresh profile:
+   b. Click **Open > Game Mods Folder** (THIRD option) and delete any leftover files/folders   
+   c. Back in Vortex, click **Deploy** to restore managed mods   
+   d. (1.16) Right-click on SMAPI in Mods panel and select "Reinstall"   
+4. **Fresh profile** - If issues persist, install the collection to a fresh profile:
    a. On the **Collections** tab, remove the collection but not the mods
    b. On the Nexus Mods collection page, click **Add Collection** then Ok in Vortex
    c. On the **Mods** tab, disable the collection
