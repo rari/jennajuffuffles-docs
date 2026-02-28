@@ -92,7 +92,7 @@ Each mod in your collection has a version policy that governs how Vortex resolve
 
 **Exact Only (default)**
 - **Behavior:** Enforces the curator's specific file version by its Nexus Mods ID. Locks to specific version. Required if file layout or checksums are referenced (e.g., with *Replicate*).
-- **Typical Use Case:** Ensures all users get byte-identical files. Most stable but may become outdated. Required for Replicate installs. This is the policy used for all of Jenna Juffuffles' collections.
+- **Typical Use Case:** Ensures all users get byte-identical files. Most stable but may become outdated. Required for Replicate installs. This is the policy used for all of JennaJuffuffles' collections.
 
 **Prefer Exact**
 - **Behavior:** Uses the same version as the curator if it's still available; otherwise, the newest version.
