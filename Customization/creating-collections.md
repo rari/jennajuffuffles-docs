@@ -90,13 +90,13 @@ If a mod shows an error ⚠️, you'll need to remove it from your profile, down
 
 Each mod in your collection has a version policy that governs how Vortex resolves the download:
 
-**Prefer Exact (default)**
-- **Behavior:** Uses the same version as the curator if it's still available; otherwise, the newest version.
-- **Typical Use Case:** Safe default; maintains compatibility while allowing updates. Balanced approach; recommended default.
-
-**Exact Only**
+**Exact Only (default)**
 - **Behavior:** Enforces the curator's specific file version by its Nexus Mods ID. Locks to specific version. Required if file layout or checksums are referenced (e.g., with *Replicate*).
 - **Typical Use Case:** Ensures all users get byte-identical files. Most stable but may become outdated. Required for Replicate installs. This is the policy used for all of Jenna Juffuffles' collections.
+
+**Prefer Exact**
+- **Behavior:** Uses the same version as the curator if it's still available; otherwise, the newest version.
+- **Typical Use Case:** Safe default; maintains compatibility while allowing updates. Balanced approach; recommended default.
 
 **Latest**
 - **Behavior:** Always uses the newest available version on Nexus Mods, ignoring curator's version metadata.
