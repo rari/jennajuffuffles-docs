@@ -19,7 +19,7 @@ description: >-
 
 # Updating Collections
 
-_Last updated:_ 2026-01-19\
+_Last updated:_ 2026-01-19
 > Applies to Stardew Valley:_ 1.6.15+
 
 {% hint style="danger" %}
