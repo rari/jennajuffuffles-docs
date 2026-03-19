@@ -31,6 +31,24 @@ This page documents known issues with collections and their solutions. These are
 - Verify ingredient quality matches requirements
 - Check if items are favorited (may prevent crafting)
 
+### NPCs May Split
+This is caused by a vanilla game bug that causes some modded NPCs to split. This is a known issue in the game (not specifically related to the collection) that seems to most freqnetly happen when talking to NPCs while they are in movement.
+
+**Solution:**  
+1. Load your save.  
+2. Run in SMAPI console:
+```bash
+debug removenpc [InternalNPCName]
+```
+3. Sleep.
+
+The `removenpc` command will remove all instances of that NPC from the game immediately. One instance of them will spawn normally the next day.
+
+**Example:** For Sen specifically, use:
+```bash
+debug removenpc SenS
+```
+
 ---
 
 ## Performance Issues
@@ -69,6 +87,14 @@ This page documents known issues with collections and their solutions. These are
 - All players must have matching mods and versions
 - Restart the game and session
 - Verify configurations match across all players
+
+### Quests May Require Host to Advance
+**Symptom:** Some quests (notably in [Ridgeside Village](mod-issues.md#ridgeside-village)) may not progress unless the Host advances them.
+
+**Solution:**
+- Have the Host trigger/advance the quest steps
+- If progress still stalls, check the SMAPI log for related errors and restart the session
+- Make a record of the event/quest that was stuck and report it via Discord
 
 ---
 

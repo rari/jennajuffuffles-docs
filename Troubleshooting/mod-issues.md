@@ -134,6 +134,8 @@ To obtain the Rusty Key in SVE, you must complete three requirements:
 * Raise friendship by talking to Marlon and giving him gifts he likes
 * Once you meet the conditions and complete his heart event in the Adventurer's Guild, he will reward you with the Rusty Key, granting you access to the Sewers
 
+* **Apples 2 Heart event does not trigger immediately?** Please try sleeping and returning the next day, even if the Vineyard interior already has changed. This is due to how older mods use next day flags.
+
 ### Ridgeside Village
 
 Adds an entirely new village with 45+ NPCs, locations, and a cable car system. Access Ridgeside Village via the staircase at the Bus Stop after the cutscene with Lewis and Lenny, then ride the cable car.
@@ -162,7 +164,11 @@ Adds an entirely new village with 45+ NPCs, locations, and a cable car system. A
 
 **Items turning into other items (JSON shuffle)?** This is a known issue with Json Assets. Trash the bugged items and respawn them with CJB Item Spawner. Ensure all players in multiplayer use identical mod sets and configs.
 
-**Linux Quest Parsing Errors?** Linux users may see errors about quest parsing in the SMAPI log. This issue will be fixed in the next update. In the meantime, you can install [Ridgeside Village Quest Fix For Linux and Mac](https://www.nexusmods.com/stardewvalley/mods/36004) to patch this issue.
+**Linux Quest Parsing Errors?** Linux and Mac users may see errors about quest parsing in the SMAPI log. This issue will be fixed in the next update. In the meantime, you can install [Ridgeside Village Quest Fix For Linux and Mac](https://www.nexusmods.com/stardewvalley/mods/36004) to patch this issue.
+
+**Farmhand stuck on Unsealing?** Farmhand may become stuck during the epic quest. For Ridgeside Village - Farmhand stuck on Unsealing should put in their SMAPI:
+* `debug completequest 72860007` -- This should complete the quest in their journal
+* `debug ebi 75160259` -- this should ensure their has the follow-up flags.
 
 ### East Scarp
 
@@ -262,6 +268,7 @@ Performance optimization mod.
 **Common Solutions:**
 
 * **Visual bugs after Community Center completion?** "Slow Map Loader" is disabled in the collection's configuration files to prevent this visual bugs.
+* **ERROR spam about "Failed to store cache entry for ...\Stardew Valley\Mods\Ridgeside Village\[CP] Ridgeside Village\Assets\Maps\EventMaps\RSVOpenPlot.tmx"?** Outside of the minor annoyance of error messages in console, this has no negative effects (just the lack of the positive effect from the cache). In most cases, you can safely ignore it.
 
 ***
 
