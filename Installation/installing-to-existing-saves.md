@@ -7,7 +7,7 @@ tags: [installation, saves, existing-saves, compatibility]
 
 # Installing Collections to Existing Saves
 
-*Last updated:* 2026-01-19  
+*Last updated:* 2026-05-02  
 *Applies to Stardew Valley:* 1.6.15+
 
 If you want to install a collection to a save file that already has mods, there are important considerations and tools you'll need. This guide covers what to expect, compatibility issues, and the cleanup tools necessary to successfully install collections to existing saves.
@@ -24,7 +24,7 @@ If you want to install a collection to a save file that already has mods, there 
   - [Step 3: Install the Collection](#step-3-install-the-collection)
   - [Step 4: Testing and Clean-Up](#step-4-testing-and-clean-up)
 - [What to Expect After Installation](#what-to-expect-after-installation)
-- [Cleanup Tools](#cleanup-tools)
+- [Clean-up Tools](#clean-up-tools)
 - [See Also](#see-also)
 
 ---
@@ -102,7 +102,7 @@ When installing or removing mods on existing saves, you may encounter issues tha
 - **Farm map mismatches** - Buildings and terrain features not matching the new farm map
 - **Broken NPCs** - Missing characters, broken relationships, or dialogue errors after removing NPC mods
 
-If you encounter issues after installation, see the [Troubleshooting guide](../Troubleshooting/index.md) for help. The [Cleanup Tools](#cleanup-tools) section below lists specific tools to address these problems.
+If you encounter issues after installation, see the [Troubleshooting guide](../Troubleshooting/index.md) for help. The [Clean-up Tools](#clean-up-tools) section below lists specific tools to address these problems.
 
 ---
 
@@ -113,12 +113,12 @@ If you encounter issues after installation, see the [Troubleshooting guide](../T
 3. Launch your existing save and check your inventory and chests for 🚫 symbol items (null items from removed mods)
 4. Check interior spaces like sheds, basements, and greenhouses for misplaced items or crops
 5. If you see errors or issues, review the [Common Issues You May Encounter](#common-issues-you-may-encounter) section above
-6. Use appropriate cleanup tools if needed (see [Cleanup Tools](#cleanup-tools) section below)
+6. Use appropriate cleanup tools if needed (see [Clean-up Tools](#clean-up-tools) section below)
 7. Add any additional desired mods back in methodically, reviewing each mod's About page and loading to the main menu to check for compatibility
 8. Some saves may need to be started fresh if they had incompatible mods
 
 
-## Cleanup Tools
+## Clean-up Tools
 
 When installing collections or removing mods from existing saves, you may need these tools:
 

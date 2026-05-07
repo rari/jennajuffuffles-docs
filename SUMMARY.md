@@ -27,3 +27,5 @@
 
 ## About
 * [About the Collections](About/index.md)
+* [Hotkeys](About/hotkeys.md)
+* [FAQ](About/faq.md)

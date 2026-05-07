@@ -106,7 +106,7 @@ Place your modified files in the appropriate folders. A patch may contain multip
 You can add your patch to Vortex in two ways:
 
 **Option A: Compress as ZIP**
-1. Compress the top level folder as a ZIP file
+1. Compress the top level folder as a ZIP file (Use Right-Click on the file)
 2. Add it to Vortex like any other mod (drag and drop the ZIP file, or use **Add Mod from File**)
 
 **Option B: Use Add Custom Mod Button**

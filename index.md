@@ -21,12 +21,26 @@ description: >-
 
 # Home
 
-_Last updated:_ 2026-01-19\
-&#xNAN;_&#x41;pplies to Stardew Valley:_ 1.6.15+
+_Last updated:_ 2026-04-19\
+_Applies to Stardew Valley:_ 1.6.15+
 
 Welcome! This documentation provides step-by-step guides for installing, updating, and troubleshooting Stardew Valley mod collections curated by JennaJuffuffles using Vortex. Whether you're new to mod collections or looking to customize your experience, these guides will help you get started and make the most of your collections.
 
 This documentation covers multiple collections including Stardew Valley VERY Expanded and the Aesthetic Valley collections. Use the navigation below to find what you need, or explore the [About the Collections](About/index.md) page to learn more about each collection.
+
+***
+
+## Supported collections
+
+* [Stardew Valley VERY Expanded (SVVE)](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m/)
+* [Oops! All Portraits: Nyapu](https://www.nexusmods.com/games/stardewvalley/collections/falitk/)
+* [Aesthetic Valley Fairycore](https://next.nexusmods.com/stardewvalley/collections/tjvl0j/)
+* [Aesthetic Valley Witchcore](https://next.nexusmods.com/stardewvalley/collections/g14kxi/)
+* [Aesthetic Valley Witchcore Extra Textures](https://www.nexusmods.com/games/stardewvalley/collections/ufo0fl/)
+* [Aesthetic Valley Fairycore Extra Textures](https://www.nexusmods.com/games/stardewvalley/collections/i8ulwo/)
+* [Controller Support](https://www.nexusmods.com/games/stardewvalley/collections/crx9cn/)
+
+For quick questions, see the [**FAQ**](About/faq.md). For default keys, see [**Hotkeys**](About/hotkeys.md).
 
 ***
 
@@ -54,7 +68,7 @@ Choose the section that matches what you need to do:
 
 ### About the Collections
 
-**Want to learn more?** Discover collection features, keybinds, special considerations, and what makes each collection unique.
+**Want to learn more?** Discover collection features, special considerations, and what makes each collection unique. Keybinds live on the [**Hotkeys**](About/hotkeys.md) page.
 
 [**About the Collections**](About/index.md)
 
@@ -66,3 +80,4 @@ Choose the section that matches what you need to do:
 
 * **Discord Community:** [Join the Discord server](https://discord.gg/MPcgJUXeeY) for support, updates, and community
 * **Nexus Status:** [Check Nexus Mods status](https://nexusmods.statuspage.io/) if you're experiencing download or site issues
+

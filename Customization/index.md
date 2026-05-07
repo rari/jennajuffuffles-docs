@@ -7,7 +7,7 @@ tags: [personalization, customization, mods, configuration, patches]
 
 # How to Customize Collections
 
-*Last updated:* 2026-01-19  
+*Last updated:* 2026-05-02  
 *Applies to Stardew Valley:* 1.6.15+
 
 Want to make your Stardew Valley experience truly your own? This guide will show you how to customize your collections by adding or disabling mods, adjusting configurations, and making personal tweaks - all while keeping your customizations safe through collection updates!
@@ -50,9 +50,9 @@ Always read the mod page before adding or disabling any mod. Mod pages contain c
 
 You can absolutely add or disable mods from your collection! However, it's important to be informed about the mods you're working.
 
-### Learning About Mods in Your Collection
+### Learning About Mods
 
-To learn more about a mod before removing it:
+To learn more about a mod:
 
 1. In Vortex, go to the **Mods** tab
 2. Right-click on any mod in the collection

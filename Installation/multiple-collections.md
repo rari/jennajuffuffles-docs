@@ -7,10 +7,10 @@ tags: [combining-collections, conflicts, optional-mods, compatibility]
 
 # Installing Multiple Collections
 
-*Last updated:* 2026-01-19  
+*Last updated:* 2026-05-02  
 *Applies to Stardew Valley:* 1.6.15+
 
-You can combine Stardew Valley VERY Expanded (svVe) and any Aesthetic Valley collection (Fairycore, Witchcore) on a single Vortex profile for a custom look and feel. 
+When installing multiple collections by JennaJuffuffles, add them to the same Vortex profile.
 
 ---
 
@@ -27,24 +27,37 @@ You can combine Stardew Valley VERY Expanded (svVe) and any Aesthetic Valley col
 
 When combining collections, here's what you need to know:
 
-**Aesthetic Valley optional mods:**
 - **Single profile:** Install one collection as normal, then select "Current profile" at the bottom of the first pop-up when installing the next.
-- **For easiest installation:** Pick one theme (Fairycore or Witchcore) for your optional mods.
-- **You can absolutely mix and match:** If you install optional mods from both themes, Vortex will show conflicts so you know what to choose between. You'll just need to resolve these conflicts before playing.
-- **svVe optional mods:** These can always be installed alongside Aesthetic Valley collections—they don't conflict.
+- **JennaJuffuffles collections are designed to work together** within that same profile.
+- **Collections from other creators are not designed to stack** with these packs.
+- **Adding extra mods is generally fine**, but some combinations may produce unexpected results.
+
+{% hint style="danger" %}
+**Aesthetic Valley Fairycore and Aesthetic Valley Witchcore are now mutually exclusive.**
+
+Do **not** install both in the same profile.
+{% endhint %}
+
+### Extras Collections
+
+**Fairycore Extras**
+- Recommended if using Fairycore
+- Does not require Fairycore
+
+**Witchcore Extras**
+- Recommended if using Witchcore
+- Does not require Witchcore
 
 **Farm maps:**
 - Only enable **one** farm map at a time. Multiple farm maps will cause crashes and save corruption.
-
-**Don't worry about getting everything perfect the first time!** You can add optional mods later from any collection's Mods tab (set the filter to "Recommended") to experiment with different combinations after your initial installation.
 
 ---
 
 ## When Conflicts Happen
 
-If you follow the recommendation to install optional mods from one Aesthetic Valley collection, you'll encounter very few conflicts. Collections are pre-configured to handle most conflicts automatically.
+If you follow the guidance above, you'll encounter very few conflicts. Collections are pre-configured to handle most conflicts automatically.
 
-If you choose to mix and match optional mods from multiple collections, or if you see conflict notifications, see [Troubleshooting & FAQ](../Troubleshooting/index.md) for detailed guidance on:
+If you add additional mods or see conflict notifications, see [Troubleshooting & FAQ](../Troubleshooting/index.md) for detailed guidance on:
 - [Vortex Troubleshooting](../Troubleshooting/vortex-troubleshooting.md) - Understanding notifications and managing load order rules
 
 ---
@@ -73,21 +86,6 @@ For more advanced customization, including load order management, see:
 
 These mods are known to conflict when combined. You must disable one mod from each conflicting pair.
 
-**Interface Conflicts:**
-
-These mods modify the game's interface and cannot work together:
-- (Compat) EventLookup for Overgrown Flowerly UI ❌ (Compat) DaisyNiko's Earthy Interface
-- (Compat) Overgrown Flowery ❌ (Compat) DaisyNiko's Earthy Interface
-- (Compat) Overgrown Flowery ❌ The Witchs Handmirror - Green
-- (Compat) Overgrown Flowery ❌ (Compat) Fashion Sense UI for DaisyNiko's Earthy Interface - FashionSense UI
-- (Compat) Overgrown Flowery ❌ (Compat) Font Settings for DaisyNiko's Earthy Interface
-
-**Visual/Recolor Conflicts:**
-
-These mods change the game's color scheme and visual style. Only one can be active:
-- Overgrown Flowery Interface [CP] ❌ DaisyNiko's Earthy Recolour [CP]
-- Starblue Valley Unofficial ❌ DaisyNiko's Earthy Recolour [CP]
-
 **Farm Map Conflicts:**
 
 {% hint style="warning" %}
@@ -104,7 +102,7 @@ These mods replace the same buildings. Only one set can be active:
 - Sunroom Greenhouse [CP] ❌ Aimon's Fancy Greenhouse [CP]
 
 {% hint style="danger" %}
-Greenhouses are a special case. Only one greenhouse can be active. Many farm maps include a greenhouse you can disable in configuration. If you're using a farm map with a built-in greenhouse, disable standalone greenhouse mods.
+Greenhouses are a special case. Only one greenhouse can be active and having both active will result in neither one being loaded. Many farm maps include a greenhouse you can disable in configuration. If you're using a farm map with a built-in greenhouse, either disable standalone greenhouse mods or disable the farm's greenhouse! Doing this mid-playthrough may require some clean-up.
 {% endhint %}
 
 **Tool/Equipment Conflicts:**
@@ -112,6 +110,17 @@ Greenhouses are a special case. Only one greenhouse can be active. Many farm map
 These mods replace the same tools or equipment. Only one can be active:
 - Skell's Flowery Tools [CP] ❌ Grandpa's Tools
 - Squishi's Rideable Deer [CP] ❌ Elle's Cuter Horses
+
+**Interface Conflicts:**
+
+These mods modify the game's interface and cannot work together:
+- Overgrown Flowery Interface [CP] ❌ DaisyNiko's Earthy Recolour [CP]
+- Starblue Valley Unofficial ❌ DaisyNiko's Earthy Recolour [CP]
+- (Compat) EventLookup for Overgrown Flowerly UI ❌ (Compat) DaisyNiko's Earthy Interface
+- (Compat) Overgrown Flowery ❌ (Compat) DaisyNiko's Earthy Interface
+- (Compat) Overgrown Flowery ❌ The Witchs Handmirror - Green
+- (Compat) Overgrown Flowery ❌ (Compat) Fashion Sense UI for DaisyNiko's Earthy Interface - FashionSense UI
+- (Compat) Overgrown Flowery ❌ (Compat) Font Settings for DaisyNiko's Earthy Interface
 
 ---
 

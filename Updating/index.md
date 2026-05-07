@@ -33,7 +33,7 @@ When a new update is available for your collection, updating ensures you get the
 ## Table of Contents
 
 * [Before You Update](index.md#before-you-update)
-* [Updating Collection (Profile With No Mods Installed)](index.md#updating-collection-profile-with-no-mods-installed)
+* [Updating Collection (Profile With No Extra Mods Installed)](index.md#updating-collection-profile-with-no-extra-mods-installed)
 * [Updating Collection (Profile With Extra Mods Installed)](index.md#updating-collection-profile-with-extra-mods-installed)
 * [Alternative Update Method (Not Recommended)](index.md#alternative-update-method-not-recommended)
 * [Common Update Issues](index.md#common-update-issues)

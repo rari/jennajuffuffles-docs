@@ -43,13 +43,15 @@ If the quick fixes above didn't resolve your issue:
 
 1. **Check your [SMAPI log](your-smapi-log.md)** - The log will show what mods loaded and any errors that occurred. Look for red errors first.
 2. **Check [Known Issues](known-issues.md)** - Your problem may already be documented with a solution.
-3. **Check [Mod-Specific Known Issues](mod-issues.md)** - If you're having issues with a specific mod, check this guide for known problems and solutions.
+3. **Check [Mod-Specific Known Issues](mod-issues.md)** - If you're having issues with a specific mod, check this guide for known problems and solutions. For shorter collection-wide answers, see the [FAQ](../About/faq.md).
 4. **Review [Vortex Troubleshooting](vortex-troubleshooting.md)** - If you see notifications in Vortex or need to manage load order, understand what they mean and how to resolve them. 
 
 ---
 
 ## See Also
 
+- [FAQ](../About/faq.md) - Short answers, supported collections, and links
+- [Hotkeys](../About/hotkeys.md) - Default keys and GMCM
 - [New Player Install Instructions](../Installation/index.md) - If you're just getting started
 - [Installing to Existing Saves](../Installation/installing-to-existing-saves.md) - If installing collections to existing saves or removing mods
 - [Installing Multiple Collections](../Installation/multiple-collections.md) - If combining collections

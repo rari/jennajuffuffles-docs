@@ -1,77 +1,18 @@
----
+***
 title: Using SMAPI Log Files for Troubleshooting
 description: Learn how to read and share SMAPI log files to diagnose Stardew Valley mod problems. Understand log levels, error messages, and how to use smapi.io for log analysis.
 keywords: [SMAPI log, error log, log levels, troubleshooting, sharing logs, smapi.io, log colors, trace, debug, error messages]
 tags: [troubleshooting, smapi, logs, errors, debugging]
----
+***
 
 # Your SMAPI Log
 
-*Last updated:* 2026-01-19  
+*Last updated:* 2026-05-02  
 *Applies to Stardew Valley:* 1.6.15+
 
 The SMAPI log shows what mods loaded and any errors that occurred. Understanding how to read it is essential for troubleshooting. This guide will help you interpret log levels, identify errors, and share your log when seeking help.
 
----
-
-## What the Log Shows
-
-SMAPI uses different colors to indicate log levels. The colors help you quickly identify the severity of messages:
-
-### White/Gray Text
-- **Info, Debug, or Trace** - Normal operation messages
-- General information about mod loading and operation
-- Usually safe to ignore unless troubleshooting
-
-### Yellow Text
-- **Warnings** - Potential problems that you should be aware of
-- Usually non-critical but worth reading
-- May indicate minor incompatibilities or deprecated features
-- Check if issues persist
-
-### Red Text
-- **Errors** - Something went wrong
-- These need to be addressed
-- May prevent mods or the game from working properly
-- Always investigate red errors
-
-### Purple Text
-- Indicates mods which have an update available
-
----
-
-## Key Sections
-
-### Mods Loaded
-Lists all mods that successfully loaded. If a mod isn't listed, it didn't load.
-
-### Errors
-Red text showing what went wrong. These are the most important to address.
-
-### Warnings
-Yellow text showing potential issues. Review these if you're experiencing problems.
-
----
-
-## Common Log Messages
-
-### "Empty Vortex folder"
-- Usually means a mod was disabled in Vortex
-- A configuration file being applied to a disabled mod
-- Or leftover files from a disabled mod
-- See [Troubleshooting & FAQ](index.md) for solutions
-
-### "Failed to load"
-- Mod couldn't be loaded
-- Check for missing dependencies
-- Verify mod version compatibility
-
-### "Duplicate mod"
-- Two copies of the same mod exist
-- Remove one copy
-- See [Troubleshooting & FAQ](index.md) for details
-
----
+***
 
 ## How to Share Your Log
 
@@ -109,7 +50,64 @@ If you're not using Vortex or need to access the log file directly:
 
 </details>
 
----
+***
+
+## What the Log Shows
+
+SMAPI uses different colors to indicate log levels. The colors help you quickly identify the severity of messages:
+
+### White/Gray Text
+- **Info, Debug, or Trace** - Normal operation messages
+- General information about mod loading and operation
+- Usually safe to ignore unless troubleshooting
+
+### Yellow Text
+- **Warnings** - Potential problems that you should be aware of
+- Usually non-critical but worth reading
+- May indicate minor incompatibilities or deprecated features
+- Check if issues persist
+
+### Red Text
+- **Errors** - Something went wrong
+- These need to be addressed
+- May prevent mods or the game from working properly
+- Always investigate red errors
+
+### Purple Text
+- Indicates mods which have an update available
+
+***
+
+## Key Sections
+
+### Mods Loaded
+Lists all mods that successfully loaded. If a mod isn't listed, it didn't load.
+
+### Errors
+Red text showing what went wrong. These are the most important to address.
+
+### Warnings
+Yellow text showing potential issues. Review these if you're experiencing problems.
+
+***
+
+## Common Error Messages
+
+### "Empty Vortex folder"
+- Usually means a mod was disabled in Vortex
+- A configuration file being applied to a disabled mod
+- Or leftover files from a disabled mod
+- See [Troubleshooting & FAQ](index.md) for solutions
+
+### "Failed to load"
+- Mod couldn't be loaded
+- Check for missing dependencies
+- Verify mod version compatibility
+
+### "Duplicate mod"
+- Two copies of the same mod exist
+- Remove one copy
+- See [Troubleshooting & FAQ](index.md) for details
 
 ## See Also
 

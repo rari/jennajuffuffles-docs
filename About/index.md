@@ -25,8 +25,8 @@ description: >-
 
 # About the Collections
 
-_Last updated:_ 2026-01-19\
-&#xNAN;_&#x41;pplies to Stardew Valley:_ 1.6.15+
+_Last updated:_ 2026-04-19\
+_Applies to Stardew Valley:_ 1.6.15+
 
 This page provides reference information about the available collections, their features, keybinds, and special considerations.
 
@@ -37,6 +37,8 @@ This page provides reference information about the available collections, their 
 * [Stardew Valley VERY Expanded](index.md#stardew-valley-very-expanded)
 * [Aesthetic Valley | Fairycore](index.md#aesthetic-valley--fairycore)
 * [Aesthetic Valley | Witchcore](index.md#aesthetic-valley--witchcore)
+* [Hotkeys](hotkeys.md)
+* [FAQ](faq.md)
 * [Multiplayer Support](index.md#multiplayer-support)
 * [Splitscreen Notes](index.md#splitscreen-notes)
 * [Mobile Support](index.md#mobile-support)
@@ -58,22 +60,10 @@ Stardew Valley VERY Expanded (svVe) is a **curated mod collection** that extends
   * Sword & Sorcery - Fantasy expansion with custom skill trees
 * **Over 90 total mods** with major expansions and quality-of-life improvements
 * **Massive included farm map** perfect for co-op play
-* **Focus on the game not the wiki** with Event Lookup, Lookup Anything, and UI Info Suite 2
+* **Focus on the game not the wiki** with World Navigator, Lookup Anything, and UI Info Suite 2
 * **Quality-of-life mods** like Automate, Chests Anywhere, and NPC Map Locations
 
-### Hotkeys
-
-Common keybinds (customize via GMCM from title screen):
-
-* **Automate:** Show automation overlay — `U`
-* **Convenient Inventory:** Quickstack — `K`, Favorite — `Left Alt` + `Left Click`
-* **Event Lookup:** View today's events — `N`
-* **Lookup Anything:** Toggle — `F1`, Toggle Search — `Left Shift` + `F1`
-* **NPC Map Locations:** In-game options — `Tab`, Toggle mini-map — `|`
-* **Scheduler:** Display schedules — `V`
-* **To-Dew:** Open list — `L`
-* **UI Info Suite 2:** Open calendar — `B`, Open quest board — `H`
-* **Generic Mod Config Menu:** Open manager — `Numpad -`
+Default keys and GMCM tips: [**Hotkeys**](hotkeys.md).
 
 ### Translation Collections
 
@@ -98,11 +88,7 @@ A magical, woodsy fairy aesthetic. Features pastel colors, nature-inspired UI el
   * Happy Home Designer - Walk around and place furniture
   * Precise Furniture - Move furniture outside the grid
 
-### Hotkeys
-
-* **Fashion Sense:** Open dresser — `G` (unbound by default)
-* **Happy Home Designer:** Give Modifier — `Left Shift`, Favorite Modifier — `Left Control`, Delete — `Delete`
-* **Precise Furniture:** Move furniture — `Arrow Keys`, Move faster — `Left Alt` + `Arrow Keys`, Lock — `Left Alt` + `Right Click`
+Fairycore keys: [**Hotkeys**](hotkeys.md).
 
 ***
 
@@ -121,11 +107,7 @@ A cozy, witchy cottagecore experience with a medieval tone. Features warm autumn
   * Happy Home Designer - Walk around and place furniture
   * Precise Furniture - Move furniture outside the grid
 
-### Hotkeys
-
-* **Fashion Sense:** Open dresser — `G` (unbound by default)
-* **Happy Home Designer:** Give Modifier — `Left Shift`, Favorite Modifier — `Left Control`, Delete — `Delete`
-* **Precise Furniture:** Move furniture — `Arrow Keys`, Move faster — `Left Alt` + `Arrow Keys`, Lock — `Left Alt` + `Right Click`
+Witchcore keys: [**Hotkeys**](hotkeys.md).
 
 ***
 
@@ -175,6 +157,9 @@ Mobile support is not considered at this time, but could be considered in the fu
 
 ## See Also
 
+* [Hotkeys](hotkeys.md) - Default keys and GMCM
+* [FAQ](faq.md) - Short answers and collection links
 * [New Player Install Instructions](../Installation/index.md) - Installation guide
 * [Installing Multiple Collections](../Installation/multiple-collections.md) - Combining collections
 * [Troubleshooting & FAQ](../Troubleshooting/index.md) - For issues and questions
+* [Mod-Specific Known Issues](../Troubleshooting/mod-issues.md) - Per-mod troubleshooting

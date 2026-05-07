@@ -1,18 +1,18 @@
----
+***
 title: Known Issues and Solutions
 description: Find fixes for known problems with Stardew Valley mod collections. Includes platform-specific issues, Linux problems, Quest Framework issues, and their solutions.
 keywords: [known issues, bugs, fixes, solutions, platform issues, Linux problems, Quest Framework, common problems, bug fixes]
 tags: [troubleshooting, known-issues, bugs, fixes, platform-specific]
----
+***
 
 # Known Issues
 
-*Last updated:* 2026-01-19  
+*Last updated:* 2026-05-02  
 *Applies to Stardew Valley:* 1.6.15+
 
 This page documents known issues with collections and their solutions. These are problems that have been identified and resolved by the community or collection maintainers. If you're experiencing an issue, check this list first—you may find a documented solution.
 
----
+***
 
 ## Gameplay Issues
 ### Farm Map Not Loading
@@ -49,7 +49,20 @@ The `removenpc` command will remove all instances of that NPC from the game imme
 debug removenpc SenS
 ```
 
----
+**Community Center cutscene won't trigger?** The Community Center cutscene has specific requirements that must be met:
+
+* Enter Pelican Town from the Bus Stop (not from another direction)
+* Must be Spring 5 or later in Year 1
+* Time must be between 8:00 AM and 1:00 PM
+* Day must be sunny (no rain or storms)
+* Cannot be a festival day
+* In multiplayer, only the host can trigger this cutscene
+
+The mods in the collection do not change this event. These are vanilla requirements. If all conditions are met and it still won't trigger, check your SMAPI log for any errors that might be blocking the event.
+
+**NPCs won't leave their houses** is a normal issue on the first day modded NPCs are added to the game. Their schedules will load the next day!
+
+***
 
 ## Performance Issues
 
@@ -61,7 +74,7 @@ debug removenpc SenS
 - Don't alt-tab during loading
 - First launch may take several minutes
 
----
+***
 
 ## Multiplayer Issues
 
@@ -88,6 +101,14 @@ debug removenpc SenS
 - Restart the game and session
 - Verify configurations match across all players
 
+### Controller Input Captured by SMAPI Console on Start-up
+**Symptom:** If the game starts with a controller already connected, input can be captured by both Stardew Valley and the SMAPI console window at the same time. This can lead to accidental SMAPI console closure and a crash shortly after start-up.
+
+**Solution:**
+- Click once into the game window with your mouse after launch to ensure focus is on Stardew Valley
+- Or connect/power on the controller after the game has already started
+- If a crash already happened, relaunch and apply one of the focus steps above before continuing
+
 ### Quests May Require Host to Advance
 **Symptom:** Some quests (notably in [Ridgeside Village](mod-issues.md#ridgeside-village)) may not progress unless the Host advances them.
 
@@ -96,11 +117,11 @@ debug removenpc SenS
 - If progress still stalls, check the SMAPI log for related errors and restart the session
 - Make a record of the event/quest that was stuck and report it via Discord
 
----
+***
 
 ## Vortex Issues
 
-### Sync Mod Configurations Backs Up smapi-internal
+### Sync Mod Configurations Backs Up "smapi-internal"
 **Symptom:** The Sync Mod Configurations feature incorrectly backs up the `smapi-internal` folder
 
 **Solution:**
@@ -115,7 +136,7 @@ debug removenpc SenS
 Please report to Vortex staff if this happens - this issue needs more visibility to be properly addressed.
 {% endhint %}
 
----
+***
 
 ## See Also
 

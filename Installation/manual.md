@@ -84,7 +84,7 @@ If installing **Fairycore** or **Witchcore**, make sure to also download and ins
 
 **For Fairycore installations:**
 - **Overgrown Flowery Interface**: Download compatibility files from [Overgrown Flowery Interface optional files](https://www.nexusmods.com/stardewvalley/mods/6166?tab=files) for:
-  - Event Lookup
+  - World Navigator
   - Fashion Sense
   - Generic Mod Config Menu
   - Never Ending Adventures & Circle of Thorns (rename folder to match Sword & Sorcery)
@@ -92,7 +92,7 @@ If installing **Fairycore** or **Witchcore**, make sure to also download and ins
 **For Witchcore installations:**
 - **Earthy Interface**: Download compatibility files from [DaisyNiko's Earthy Interface optional files](https://www.nexusmods.com/stardewvalley/mods/13658?tab=files) for:
   - Generic Mod Config Menu
-  - Event Lookup
+  - World Navigator
 
 ### Fix for [FS] Yomi's Golden Princess Hairstyle 112 hairstyle not loading
 

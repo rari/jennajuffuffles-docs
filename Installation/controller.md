@@ -7,7 +7,7 @@ tags: [controller, gamepad, keybinds]
 
 # Using a Controller
 
-*Last updated:* 2026-01-19  
+*Last updated:* 2026-05-02  
 *Applies to Stardew Valley:* 1.6.15+
 
 Many mods in the collections include controller support with default button mappings. This guide covers controller setup and customization, including how to access controller settings and customize button mappings to your preferences.
@@ -52,7 +52,7 @@ Controller support varies by mod. Check each mod's GMCM settings for available c
 ## Troubleshooting
 
 ### Controller not working
-- **Controller connection timing:** Some players have reported crashes if their controller is plugged in at launch, while others have no issues. If you experience crashes, try connecting your controller after the game has launched.
+- **Controller connection timing:** There is a known issue where starting with a controller connected can make input control both the game and SMAPI console. This can cause accidental console closure and crash the session. See [Known Issues: Controller Input Captured by SMAPI Console on Start-up](../Troubleshooting/known-issues.md#controller-input-captured-by-smapi-console-on-start-up).
 - Check that controller support is enabled in the mod's GMCM settings
 - Some mods may require enabling controller support in their configuration
 
