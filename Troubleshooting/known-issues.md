@@ -1,9 +1,9 @@
-***
+---
 title: Known Issues and Solutions
 description: Find fixes for known problems with Stardew Valley mod collections. Includes platform-specific issues, Linux problems, Quest Framework issues, and their solutions.
 keywords: [known issues, bugs, fixes, solutions, platform issues, Linux problems, Quest Framework, common problems, bug fixes]
 tags: [troubleshooting, known-issues, bugs, fixes, platform-specific]
-***
+---
 
 # Known Issues
 

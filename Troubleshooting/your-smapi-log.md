@@ -1,9 +1,9 @@
-***
+---
 title: Using SMAPI Log Files for Troubleshooting
 description: Learn how to read and share SMAPI log files to diagnose Stardew Valley mod problems. Understand log levels, error messages, and how to use smapi.io for log analysis.
 keywords: [SMAPI log, error log, log levels, troubleshooting, sharing logs, smapi.io, log colors, trace, debug, error messages]
 tags: [troubleshooting, smapi, logs, errors, debugging]
-***
+---
 
 # Your SMAPI Log
 
