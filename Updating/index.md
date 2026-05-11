@@ -19,8 +19,8 @@ description: >-
 
 # Updating Collections
 
-_Last updated:_ 2026-01-19
-> Applies to Stardew Valley:_ 1.6.15+
+_Last updated:_ 2026-01-19\
+_Applies to Stardew Valley:_ 1.6.15+
 
 {% hint style="danger" %}
 Always update collections, not individual mods. Collections are tested together for compatibility. Updating individual mods outside of collection updates can break compatibility with other mods in the collection.
