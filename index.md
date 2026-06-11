@@ -28,10 +28,6 @@ Welcome! This documentation provides step-by-step guides for installing, updatin
 
 This documentation covers multiple collections including Stardew Valley VERY Expanded and the Aesthetic Valley collections. Use the navigation below to find what you need, or explore the [About the Collections](About/index.md) page to learn more about each collection.
 
-{% hint style="warning" %}
-**Playing with mods in multiplayer?** It is strongly recommended that all players have matching mod loadouts: the same collections, mods, versions, and configurations. Mismatched setups can cause crashes, desyncs, or connection failures. See [Multiplayer Support](About/index.md#multiplayer-support) for best practices.
-{% endhint %}
-
 ***
 
 ## Supported collections
@@ -98,6 +94,10 @@ All mods are pre-configured to work together. For the complete walkthrough (game
 ### Troubleshooting
 
 **Experiencing problems?** Start here for quick fixes and links to detailed troubleshooting guides. Most issues can be resolved quickly.
+
+{% hint style="warning" %}
+**Playing with mods in multiplayer?** It is strongly recommended that all players have matching mod loadouts: the same collections, mods, versions, and configurations. Mismatched setups can cause crashes, desyncs, or connection failures. See [Multiplayer Support](About/index.md#multiplayer-support) for best practices.
+{% endhint %}
 
 [**> Troubleshooting & FAQ**](Troubleshooting/index.md)
 

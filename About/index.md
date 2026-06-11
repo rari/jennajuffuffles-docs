@@ -133,7 +133,7 @@ Witchcore keys: [**Hotkeys**](hotkeys.md).
 1. **All players install the same collection** using the same method
 2. **Install all optional mods** (unless combining collections)
 3. **Keep configurations synchronized** - use the same settings
-4. **Update together** - all players should update at the same time
+4. **Update together** - all players should update at the same time or if you have a stable build consider not updating once you start a save
 5. **Test before playing** - verify all players can connect and play together
 
 ***
