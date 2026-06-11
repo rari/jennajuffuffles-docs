@@ -1,11 +1,11 @@
 ---
-title: Installing Collections on Steam Deck
+title: Install to Steam Deck
 description: Install Stardew Valley mod collections on Steam Deck. Transfer from a Windows PC, choose Linux or Proton, install matching SMAPI, and launch from Steam.
 keywords: [Steam Deck, Steam Deck installation, Linux modding, Steam Deck mods, transferring to Steam Deck, Proton, Steam Deck SMAPI, Linux mods]
 tags: [installation, steam-deck, linux, proton]
 ---
 
-# Sideload to Steam Deck
+# Install to Steam Deck
 
 *Last updated:* 2026-06-10  
 *Applies to Stardew Valley:* 1.6.15+

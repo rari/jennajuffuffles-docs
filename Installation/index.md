@@ -15,8 +15,8 @@ This guide walks you through installing a mod collection using Vortex, step by s
 **Not a new player, or need a different installation method?**
 - **[Installing to Existing Saves](installing-to-existing-saves.md)** - For installing collections to saves that already have mods
 - **[Manual Installation](manual.md)** - For users who can't use mod managers
-- **[Sideload to Stardrop](stardrop.md)** - For Stardrop users
-- **[Sideload to Steam Deck](steam-deck.md)** - For Steam Deck users
+- **[Moving to Stardrop](stardrop.md)** - For Stardrop users
+- **[Install to Steam Deck](steam-deck.md)** - For Steam Deck users
 - **[Using a Controller](controller.md)** - For controller-specific setup
 
 ---

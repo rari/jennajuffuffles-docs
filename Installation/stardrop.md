@@ -1,13 +1,13 @@
 ---
-title: Using Stardrop Mod Manager
+title: Moving to Stardrop
 description: Transfer Stardew Valley collections from Vortex to Stardrop mod manager. Learn how to migrate collections and use Stardrop as an alternative mod manager.
 keywords: [Stardrop, Stardrop mod manager, transferring to Stardrop, Stardrop migration, mod manager, Stardew Valley mod manager, collection migration]
 tags: [installation, stardrop, mod-manager, migration]
 ---
 
-# Sideload to Stardrop
+# Moving to Stardrop
 
-*Last updated:* 2026-01-20  
+*Last updated:* 2026-06-10  
 *Applies to Stardew Valley:* 1.6.15+
 
 Stardrop is an excellent mod manager designed specifically for Stardew Valley and is great for managing individual mods. However, because it doesn't support Nexus Collections directly, it's not recommended for collection users. If you want to use Stardrop with a collection, you'll need to install the collection through Vortex first, then fully migrate to Stardrop. This guide covers the migration process and Stardrop-specific setup requirements.

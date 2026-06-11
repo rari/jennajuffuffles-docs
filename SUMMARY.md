@@ -5,8 +5,8 @@
 * [New Player Install Instructions](Installation/index.md)
 * [Using a Controller](Installation/controller.md)
 * [Manual Installation](Installation/manual.md)
-* [Sideload to Stardrop](Installation/stardrop.md)
-* [Sideload to Steam Deck](Installation/steam-deck.md)
+* [Moving to Stardrop](Installation/stardrop.md)
+* [Install to Steam Deck](Installation/steam-deck.md)
 * [Installing Collections to Existing Saves](Installation/installing-to-existing-saves.md)
 
 ## Updating
