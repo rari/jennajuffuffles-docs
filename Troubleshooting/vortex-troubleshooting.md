@@ -296,7 +296,7 @@ These tips help prevent issues before they happen. Following these best practice
 - **Manage Rules** - Ensure configuration/compat/translation mods load after the mods they affect; avoid "Use Suggested" if it creates loops
 - **Verify mod deployment** - After Deploy, confirm mods actually loaded in SMAPI log (not just Mods tab). Mod staging may fail silently; always verify in SMAPI log
 - **Missing mods** - If a mod is missing from in-game despite being enabled in Vortex: Redeploy, or delete the mod and its archive, then reinstall from the Collection tab
-- **Combining collections** - Install to same profile; let chosen recolor/theme config load last in Rules Manager (see [Installing Multiple Collections](../Installation/multiple-collections.md))
+- **Combining collections** - Install to the same profile; pick **Fairycore or Witchcore**, not both (see [Home - Installing Collections](../index.md#installing-collections)). If Manage Rules requires attention, set **VERY Configured** to **After All** (**svVe** last among them)
 
 ---
 

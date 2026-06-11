@@ -7,7 +7,7 @@ tags: [installation, saves, existing-saves, compatibility]
 
 # Installing Collections to Existing Saves
 
-*Last updated:* 2026-05-02  
+*Last updated:* 2026-06-10  
 *Applies to Stardew Valley:* 1.6.15+
 
 If you want to install a collection to a save file that already has mods, there are important considerations and tools you'll need. This guide covers what to expect, compatibility issues, and the cleanup tools necessary to successfully install collections to existing saves.
@@ -141,4 +141,3 @@ After you are finished using these cleanup tools and your game has saved, you ca
 - [Troubleshooting & FAQ](../Troubleshooting/index.md) - For issues after installation
 - [Your SMAPI Log](../Troubleshooting/your-smapi-log.md) - To verify everything loaded correctly
 - [Vortex Troubleshooting](../Troubleshooting/vortex-troubleshooting.md) - For load order issues and conflict notifications
-- [Installing Multiple Collections](multiple-collections.md) - If combining collections

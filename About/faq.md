@@ -68,5 +68,5 @@ See the dedicated page: [**Hotkeys**](hotkeys.md).
 
 * [About the Collections](index.md)
 * [Updating Collections](../Updating/index.md)
-* [Installing Multiple Collections](../Installation/multiple-collections.md)
+* [Home](../index.md)
 

@@ -25,7 +25,7 @@ description: >-
 
 # About the Collections
 
-_Last updated:_ 2026-04-19\
+_Last updated:_ 2026-06-10
 _Applies to Stardew Valley:_ 1.6.15+
 
 This page provides reference information about the available collections, their features, keybinds, and special considerations.
@@ -160,6 +160,5 @@ Mobile support is not considered at this time, but could be considered in the fu
 * [Hotkeys](hotkeys.md) - Default keys and GMCM
 * [FAQ](faq.md) - Short answers and collection links
 * [New Player Install Instructions](../Installation/index.md) - Installation guide
-* [Installing Multiple Collections](../Installation/multiple-collections.md) - Combining collections
 * [Troubleshooting & FAQ](../Troubleshooting/index.md) - For issues and questions
 * [Mod-Specific Known Issues](../Troubleshooting/mod-issues.md) - Per-mod troubleshooting

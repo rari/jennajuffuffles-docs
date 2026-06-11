@@ -13,7 +13,6 @@ tags: [installation, vortex, new-player, getting-started, smapi]
 This guide walks you through installing a mod collection using Vortex, step by step. Follow these instructions in order for the best experience.
 
 **Not a new player, or need a different installation method?**
-- **[Installing Multiple Collections](multiple-collections.md)** - For combining collections together
 - **[Installing to Existing Saves](installing-to-existing-saves.md)** - For installing collections to saves that already have mods
 - **[Manual Installation](manual.md)** - For users who can't use mod managers
 - **[Sideload to Stardrop](stardrop.md)** - For Stardrop users
@@ -117,11 +116,13 @@ Follow these steps to install a collection. Browse available [Jenna Juffuffles' 
 
 ### Installing Multiple Collections
 
-You can combine multiple collections by JennaJuffuffles (for example, Stardew Valley VERY Expanded with an Aesthetic Valley collection) by installing them to the same Vortex profile.
+Install the first collection as normal, then add the next from its Nexus page and choose **Current profile** on the first pop-up. See [which profile to use on the Home page](../index.md#installing-collections) for SVVE, Nyapu, Aesthetic Valley, and add-ons.
 
-{% hint style="info" %}
-See [Installing Multiple Collections](multiple-collections.md) for detailed guidance on combining collections, resolving conflicts, and managing optional mods.
+{% hint style="danger" %}
+**Aesthetic Valley Fairycore** and **Aesthetic Valley Witchcore** are mutually exclusive. Install **one** per profile, not both.
 {% endhint %}
+
+Only enable **one** farm map at a time. If Vortex prompts you during install or update, see [If Manage Rules Requires Attention](../Troubleshooting/vortex-troubleshooting.md#when-vortex-asks-you-to-set-rules) in Vortex Troubleshooting.
 
 ### Nexus Premium vs Free
 

@@ -53,5 +53,4 @@ If the quick fixes above didn't resolve your issue:
 - [Hotkeys](../About/hotkeys.md) - Default keys and GMCM
 - [New Player Install Instructions](../Installation/index.md) - If you're just getting started
 - [Installing to Existing Saves](../Installation/installing-to-existing-saves.md) - If installing collections to existing saves or removing mods
-- [Installing Multiple Collections](../Installation/multiple-collections.md) - If combining collections
 - [How to Customize Collections](../Customization/index.md) - If you've customized your setup

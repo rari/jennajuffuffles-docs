@@ -5,7 +5,7 @@ structure:
 redirects:
   start.md: index.md
   home.md: index.md
-  combining.md: Installation/multiple-collections.md
+  combining.md: index.md
   faq-and-known-issues.md: Troubleshooting/index.md
   install.md: Installation/index.md
   keybinds.md: About/hotkeys.md
@@ -16,7 +16,7 @@ redirects:
   "Guides/updating-collections.md": Updating/index.md
   "Guides/personalization.md": Customization/index.md
   "Guides/how-to-create-a-collection.md": Customization/creating-collections.md
-  "Collections/combining-collections.md": Installation/multiple-collections.md
+  "Collections/combining-collections.md": index.md
   "Installation/Vortex/installation.md": Installation/index.md
   "Installation/Vortex/troubleshooting.md": Troubleshooting/vortex-troubleshooting.md
   "Installation/Vortex/faq.md": Troubleshooting/vortex-troubleshooting.md

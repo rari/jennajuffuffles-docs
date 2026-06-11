@@ -184,4 +184,3 @@ If you need a specific load order:
 
 - [New Player Install Instructions](index.md) - Recommended installation method
 - [Troubleshooting & FAQ](../Troubleshooting/index.md) - For installation and gameplay issues
-- [Installing Multiple Collections](multiple-collections.md) - If using multiple collections
