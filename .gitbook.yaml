@@ -1,0 +1,83 @@
+root: ./
+structure:
+  readme: index.md
+
+# Paths below are the published site, without New/ or Old/.
+# These current pages keep their path: index.md, Troubleshooting/known-issues.md, Troubleshooting/your-smapi-log.md.
+
+redirects:
+  start: index.md
+  home: index.md
+  combining: index.md
+  faq-and-known-issues: Troubleshooting/vortex-notifications.md
+  install: Install/vortex.md
+  keybinds: Reference/hotkeys.md
+  manual-install: Install/manual-installation.md
+  personalization: Customize/adding-and-disabling-mods.md
+  troubleshooting: Troubleshooting/vortex-notifications.md
+
+  guides/troubleshooting: Troubleshooting/vortex-notifications.md
+  guides/updating-collections: Update/vortex.md
+  guides/personalization: Customize/adding-and-disabling-mods.md
+  guides/how-to-create-a-collection: Collection-Creation/creating-a-collection.md
+
+  collections/combining-collections: index.md
+
+  installation/index: Install/vortex.md
+  installation/stardrop: Install/stardrop.md
+  installation/steam-deck: Install/steam-deck.md
+  installation/manual: Install/manual-installation.md
+  installation/controller: Reference/using-a-controller.md
+  installation/installing-to-existing-saves: Install/installing-to-an-existing-save.md
+  installation/multiple-collections: index.md
+
+  installation/vortex/installation: Install/vortex.md
+  installation/vortex/troubleshooting: Troubleshooting/vortex-notifications.md
+  installation/vortex/faq: Troubleshooting/vortex-notifications.md
+
+  mod-managers/vortex/troubleshooting: Troubleshooting/vortex-notifications.md
+  mod-managers/vortex/installation: Install/vortex.md
+  mod-managers/vortex/updating-collections: Update/vortex.md
+  mod-managers/vortex/faq: Troubleshooting/vortex-notifications.md
+  mod-managers/overview: index.md
+  mod-managers/nexus-mods-app: index.md
+
+  installation/stardrop/installation: Install/stardrop.md
+  installation/stardrop/faq: Install/stardrop.md
+  installation/stardrop/readme: Install/stardrop.md
+  installation/stardrop/transfer-to-stardrop: Install/stardrop.md
+
+  installation/manual/installation: Install/manual-installation.md
+  installation/manual/faq: Install/manual-installation.md
+  installation/manual/readme: Install/manual-installation.md
+
+  getting-started/getting-started: index.md
+  getting-started/faq-known-issues: Troubleshooting/vortex-notifications.md
+  getting-started/updating-collections: Update/vortex.md
+
+  updating/index: Update/vortex.md
+
+  troubleshooting/index: Troubleshooting/vortex-notifications.md
+  troubleshooting/vortex-troubleshooting: Troubleshooting/vortex-notifications.md
+  troubleshooting/mod-issues: Troubleshooting/mod-specific-known-issues.md
+
+  customization/index: Customize/adding-and-disabling-mods.md
+  customize/customizing-your-setup: Customize/adding-and-disabling-mods.md
+
+  customization/creating-personal-mods: Customize/creating-mods-and-loose-files.md
+  customize/creating-personal-mods: Customize/creating-mods-and-loose-files.md
+  customize/creating-mods-and-patches: Customize/creating-mods-and-loose-files.md
+  customization/creating-collections: Collection-Creation/creating-a-collection.md
+
+  about/index: Reference/about-the-collections.md
+  about/hotkeys: Reference/hotkeys.md
+  about/faq: Reference/faq.md
+
+  collections/aesthetic-valley/overview: Reference/about-the-collections.md
+  collections/aesthetic-valley/keybinds-controllers: Reference/hotkeys.md
+  collections/aesthetic-valley/readme: Reference/about-the-collections.md
+
+  collections/stardew-valley-very-expanded/overview: Reference/about-the-collections.md
+  collections/stardew-valley-very-expanded/readme: Reference/about-the-collections.md
+
+  collections/aesthetic-valley-collections: Reference/about-the-collections.md

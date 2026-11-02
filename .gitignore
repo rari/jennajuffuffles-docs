@@ -1,0 +1,13 @@
+# Backup zip files
+*.zip
+
+# REWRITE folder
+REWRITE/
+
+# Revision checklist and improvements (internal reference only)
+REWRITE/REVISION_CHECKLIST.md
+REWRITE/IMPROVEMENTS_RECOMMENDATIONS.md
+
+# Stupid git being stupid
+force-push-main.bat
+
